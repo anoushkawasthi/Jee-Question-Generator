@@ -1,0 +1,24 @@
+
+fastapi
+uvicorn[standard]  # An ASGI server to run FastAPI
+python-dotenv
+pdfplumber
+pdfminer.six
+pdf2image
+pillow
+pandas
+numpy
+sentence-transformers
+transformers
+openai
+faiss-cpu
+scikit-learn
+sympy
+reportlab
+fpdf
+python-multipart
+pymongo
+psycopg2-binary
+tqdm
+groq
+pydantic  # FastAPI uses Pydantic for data validation
