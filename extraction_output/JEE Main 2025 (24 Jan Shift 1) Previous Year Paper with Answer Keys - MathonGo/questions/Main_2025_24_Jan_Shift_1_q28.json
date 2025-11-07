@@ -1,0 +1,60 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_1_q28",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 28,
+  "question_type": "MCQ",
+  "question_text": ". The r.m.s current will be 2025 (24 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo 0 1 √15 1 2 √ 5 − 1 2 √ 5 R = {(x, y) : x ≤y ≤9 − 11 3 x 2 , x ≥0} 730 119 625 111 821 123 567 121 →a = ^ i + 2 ^ j + 3 ^ k, → ^ i + ^ j − ^ k →c →c →a →b →C →b →a ⋅→c = 5 |→c| √ 11 6 1 3 √ 2 16 18 S = {p 1 , p 2 … . , p 10 } P S x, y x ∈S y ∈A x y α, β; α ≤β, α + β −8 sec 2 (tan −1 α) + cosec 2 (cot −1 β) −36 α 2 + β A 3 × 3 X T 3 × 1 X = ⎡ ⎢ ⎣ x y z ⎤ ⎥ ⎦ A = , A = ⎡ ⎢ ⎣ 1 1 1 ⎤ ⎥ ⎦ ⎡ ⎢ ⎣ 1 4 −5 ⎤ ⎥ ⎦ ⎡ ⎢ ⎣ 1 2 1 ⎤ ⎥ ⎦ ⎡ ⎢ ⎣ 0 4 −8 ⎤ ⎥ ⎦ α 3 β 5 γ , α, β, γ ∈N α 2 + β 2 + γ 2 f 2(x + 2) 2 f(x) −3(x + 2) 2 = 10 ∫ x 0 (t + 2)f(t)dt, x ≥0 f(2) 2000 Å 6000 Å 4000 Å 2000 Å 3000 Å 6000 Å I = I A sin ωt + I B",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "AX = O",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "b = 3",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "cos ωt",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "det(adj(2(A + 1))) −2",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

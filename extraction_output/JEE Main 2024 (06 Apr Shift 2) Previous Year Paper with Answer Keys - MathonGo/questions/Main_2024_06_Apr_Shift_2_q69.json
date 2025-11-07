@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_2_q69",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 2",
+  "subject": "Chemistry",
+  "question_number": 69,
+  "question_type": "MCQ",
+  "question_text": "Let . Let  be a relation on  defined by if and only if . Let of elements in  and  be the minimum number of elements from that are required to be added to  to make it a symmetric relation. Then is equal to :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 25",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 24",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 26",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 23",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be the number",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

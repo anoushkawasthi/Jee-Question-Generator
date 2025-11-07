@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_2_q24",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 2",
+  "subject": "Physics",
+  "question_number": 24,
+  "question_type": "MCQ",
+  "question_text": "executes simple harmonic motion along  axis with frequency of . At the position the object has kinetic energy . The amplitude of oscillation is _____ .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and potential energy",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

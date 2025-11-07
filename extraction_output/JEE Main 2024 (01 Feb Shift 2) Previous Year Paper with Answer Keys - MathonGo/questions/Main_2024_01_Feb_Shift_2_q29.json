@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_2_q29",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 2",
+  "subject": "Physics",
+  "question_number": 29,
+  "question_type": "MCQ",
+  "question_text": "In Young's double slit experiment, monochromatic light of wavelength 5000 ∘ A is used. The slits are 1 . 0   mm 1 . 0   m where intensity becomes half of the maximum intensity for the first time is ______ × 10 -6 m .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "away from slits. The distance from the centre of the screen",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

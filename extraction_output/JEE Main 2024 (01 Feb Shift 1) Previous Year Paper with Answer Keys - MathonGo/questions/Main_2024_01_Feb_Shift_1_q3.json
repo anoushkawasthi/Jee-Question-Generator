@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_1_q3",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 1",
+  "subject": "Mathematics",
+  "question_number": 3,
+  "question_type": "MCQ",
+  "question_text": "𝑅 with uniform speed takes time 𝑇 to complete one revolution. If this particle is projected with the same speed at an angle 𝜃 to the horizontal, the maximum height attained by it is equal to 4𝑅 . The angle of projection 𝜃 is then given by : sin −12𝑔𝑇 2 𝜋 2 𝑅 1 2 sin −1 𝜋 2 𝑅 2𝑔𝑇 2 1 2 −12𝑔𝑇 2 𝜋 2 𝑅 1 2 −1 𝜋𝑅 2𝑔𝑇 2 1 2",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A particle moving in a circle of radius",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "cos",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

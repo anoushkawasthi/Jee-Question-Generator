@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_1_q68",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 68,
+  "question_type": "MCQ",
+  "question_text": "Heat treatment of muscular pain involves radiation of wavelength of about 900 nm . Which spectral line of H )",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Balmer series,",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Lyman series,",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Paschen series,",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Paschen series,",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "atom is suitable for this? Given : Rydberg constant",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

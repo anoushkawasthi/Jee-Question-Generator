@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_1_q74",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 74,
+  "question_type": "Numerical",
+  "question_text": "Let for all . Consider a function such that for all . Then the value of is :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 2",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 8",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 4",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 16",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

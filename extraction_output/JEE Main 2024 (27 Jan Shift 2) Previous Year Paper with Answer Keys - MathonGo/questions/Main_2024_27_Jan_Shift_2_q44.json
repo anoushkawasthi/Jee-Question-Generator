@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_27_Jan_Shift_2_q44",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "27 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 44,
+  "question_type": "MCQ",
+  "question_text": "Identify from the following species in which d 2 sp 3 hybridization is shown by central atom: 36 3 + 5 Pt ( Cl ) 4 2 - SF 6",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "BrF",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "CoNH",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

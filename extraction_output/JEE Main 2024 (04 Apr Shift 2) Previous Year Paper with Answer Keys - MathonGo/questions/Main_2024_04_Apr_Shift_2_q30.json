@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_2_q30",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 2",
+  "subject": "Physics",
+  "question_number": 30,
+  "question_type": "Numerical",
+  "question_text": "The disintegration energy for the nuclear fission of is ______ . Given , Value of",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "atomic masses of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

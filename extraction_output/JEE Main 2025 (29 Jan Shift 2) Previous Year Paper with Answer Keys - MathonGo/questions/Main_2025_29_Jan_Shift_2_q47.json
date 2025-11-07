@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_2_q47",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 47,
+  "question_type": "Numerical",
+  "question_text": "then the integer value of the distance between the parallel plates is  Take, ________ . 2025 (29 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo C = 10 4 Pa, V C = 8 × 10 −6 m 3 ) B C 500R(ln 3 + ln 4) 450R(ln 4 −ln 3) 500R ln 2 400R ln 4 2 −2 × 10 4 Nm 2 C −1 ϵ 0 = 8.85 × 10 −12 C 2 N −1 m −2 15.7 × 10 −8 C 17.7 × 10 −8 C −15.7 × 10 −8 C −17.7 × 10 −8 C σ o 2.9 × 10 −4 Tesla πcm 7 × 10 8 V/s ( ϵ 0 = 9 × 10 −12 F m , π = 22 7 ) μm",
+  "question_latex": "then the integer value of the distance between the parallel plates is  Take, ________ . 2025 (29 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo C = 10 4 Pa, V C = 8 × 10 −6 m 3 ) B C 500R(ln 3 + ln 4) 450R(ln 4 −ln 3) 500R ln 2 400R ln 4 2 −2 × 10 4 Nm 2 C −1 ϵ 0 = 8.85 × 10 −12 C 2 N −1 m −2 15.7 × 10 −8 C 17.7 × 10 −8 C −15.7 × 10 −8 C −17.7 × 10 −8 C σ o 2.9 × 10 −4 Tesla πcm 7 × 10 8 $\\frac{V}{s}$ ( ϵ 0 = 9 × 10 −12 F m , π = 22 7 ) μm",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A parallel plate capacitor consisting of two circular plates of radius 10 cm is being charged by a constant",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "C (P",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

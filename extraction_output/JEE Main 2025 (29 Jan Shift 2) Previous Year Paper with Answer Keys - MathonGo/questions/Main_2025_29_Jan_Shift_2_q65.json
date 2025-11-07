@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_2_q65",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 65,
+  "question_type": "MCQ",
+  "question_text": "Given below are two statements : Statement (I) : On nitration of m-xylene with followed by oxidation, 4-nitrobenzene-1,3-dicarboxylic acid is obtained as the major product. Statement (II) : group is o/p-directing while group is m-directing group. In the light of the above statements, choose the 2025 (29 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo K 3 [Fe(OH) 6 ] K 4 [Fe(OH) 6 ] Li, Na, Be, Mg, B A 2 O A 2 O 3 2 σ pi(π) 1402 kJ mol −1 834 kJ mol −1 1012 kJ mol −1 947 kJ mol −1 HNO 3 , H 2 SO 4 −CH 3 −NO 2",
+  "question_latex": "Given below are two statements : Statement (I) : On nitration of m-xylene with followed by oxidation, 4-nitrobenzene-1,3-dicarboxylic acid is obtained as the major product. Statement (II) : group is $\\frac{o}{p}$-directing while group is m-directing group. In the light of the above statements, choose the 2025 (29 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo K 3 [Fe(OH) 6 ] K 4 [Fe(OH) 6 ] Li, Na, Be, Mg, B A 2 O A 2 O 3 2 σ pi(π) 1402 kJ mol −1 834 kJ mol −1 1012 kJ mol −1 947 kJ mol −1 HNO 3 , H 2 SO 4 −CH 3 −NO 2",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Both Statement I and Statement II are false",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Statement I is false but Statement II is true",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Statement I is true but Statement II is false",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Both Statement I and Statement II are true",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "AO",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "correct answer from the options given below :",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

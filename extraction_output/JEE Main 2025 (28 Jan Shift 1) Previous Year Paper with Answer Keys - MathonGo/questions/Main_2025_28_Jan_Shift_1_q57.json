@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_1_q57",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 1",
+  "subject": "Chemistry",
+  "question_number": 57,
+  "question_type": "MCQ",
+  "question_text": "In a multielectron atom, which of the following orbitals described by three quantum numbers will have same energy in absence of electric and magnetic fields? A. E. options given below:",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) B and C Only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) A and B Only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) C and D Only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) D and E Only",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B.",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Choose the correct answer from the",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "D.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

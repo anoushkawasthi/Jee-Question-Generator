@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_1_q33",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 1",
+  "subject": "Chemistry",
+  "question_number": 33,
+  "question_type": "MCQ",
+  "question_text": "Given below are two statements : Statement I : In group 13, the stability of +1 oxidation state increases down the group. Statement II : The atomic size of gallium is greater than that of aluminium. In the light of the above",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Both Statement I and Statement II are correct",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Statement I is incorrect but Statement II is correct",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Both Statement I and Statement II are incorrect",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Statement I is correct but Statement II is incorrect",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

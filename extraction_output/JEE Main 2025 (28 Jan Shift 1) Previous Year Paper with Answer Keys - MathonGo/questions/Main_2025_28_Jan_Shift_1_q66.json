@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_1_q66",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 66,
+  "question_type": "MCQ",
+  "question_text": "What is the freezing point depression constant of a solvent, 50 g of which contain 1 g non volatile solute (molar mass ) and the decrease in freezing point is 0.40 K ? 2025 (28 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo Mn 2+ 3+ Ni 2+ Ti 3+ 2 NaHCO 3 256 g mol −1 3.72 K kg mol −1 1.86 K kg mol −1 4.43 K kg mol −1 5.12 K kg mol −1",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "CO",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_2_q9",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 9,
+  "question_type": "MCQ",
+  "question_text": "Let foot of perpendiculars drawn from  and respectively on the directrix of the parabola, then the area of the quadrilateral PQMN is equal to : 2025 (22 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo 3 × 3 M (M) M A 3 × 3 |A| = 1 2 (A) = 3 |B|+ B 1 B 2 B 1 B 2 α, β, γ δ x 7 , x 5 , x 3 x (x + √ x 3 −1) 5 + (x − √ x 3 −1) 5 , x > 1 αu + βv = 18 γu + δv = 20 u + v P(−2, −1, 3) Q 3 ^ i + 2 ^ j + 2 ^ k R(1, 3, 3) △PQR A B P(A ∩B) = 0.1 P(A ∣B) P(B ∣A) 12x 2 −7x + 1 = 0 P(A∪B) P(A∩B) – 4 3 7 4 5 3 9 4 ∫e x ( x sin −1 x √1−x 2 + sin −1 x (1−x 2 ) 3/2 + x 1−x 2 )dx = g(x) + C g ( 1 2 ) π 4 √ e 3 π 6 √ e 3 π 4 √ e 2 π 6 √ e 2 y = x 2 −4x + 4 y 2 = 16 −8x 8 3 4 3 f(x) = ∫ x 2 0 t 2 −8t+15 e t f P(4, 4√3) y 2 = 4ax N P Q",
+  "question_latex": "Let foot of perpendiculars drawn from  and respectively on the directrix of the parabola, then the area of the quadrilateral PQMN is equal to : 2025 (22 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo 3 × 3 M (M) M A 3 × 3 |A| = 1 2 (A) = 3 |B|+ B 1 B 2 B 1 B 2 α, β, γ δ x 7 , x 5 , x 3 x (x + √ x 3 −1) 5 + (x − √ x 3 −1) 5 , x > 1 αu + βv = 18 γu + δv = 20 u + v P(−2, −1, 3) Q 3 ^ i + 2 ^ j + 2 ^ k R(1, 3, 3) △PQR A B P(A ∩B) = 0.1 P(A ∣B) P(B ∣A) 12x 2 −7x + 1 = 0 P(A∪B) P(A∩B) – 4 3 7 4 5 3 9 4 ∫e x ( x sin −1 x √1−x 2 + sin −1 x (1−x 2 ) $\\frac{3}{2}$ + x 1−x 2 )dx = g(x) + C g ( 1 2 ) π 4 √ e 3 π 6 √ e 3 π 4 √ e 2 π 6 √ e 2 y = x 2 −4x + 4 y 2 = 16 −8x 8 3 4 3 f(x) = ∫ x 2 0 t 2 −8t+15 e t f P(4, 4√3) y 2 = 4ax N P Q",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "are the",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B = adj(adj(2A))",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "dt, x ∈R",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

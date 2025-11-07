@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_2_q36",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 36,
+  "question_type": "MCQ",
+  "question_text": "ethene than that in ethene",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) The",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Both carbons are sp hybridised",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Ethyne is linear",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) The corbon - carbon bonds in ethyne is weaker",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "bonds in ethyne is shorter than that in",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

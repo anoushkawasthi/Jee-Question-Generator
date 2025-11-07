@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_1_q19",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 19,
+  "question_type": "MCQ",
+  "question_text": "If the wavelength of the first member of Lyman series of hydrogen is 𝜆 . The wavelength of the second member will be 27 32 𝜆 32 27 𝜆 27 5 𝜆 5 27 𝜆",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

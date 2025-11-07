@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_2_q4",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 2",
+  "subject": "Physics",
+  "question_number": 4,
+  "question_type": "MCQ",
+  "question_text": "is placed gently on the first disc co-axially, then the new angular velocity of the system is :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and radius  is rotating in a horizontal plane about an axis passing through its",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "centre and perpendicular to its plane with angular velocity . If another disc of same dimensions but of mass",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

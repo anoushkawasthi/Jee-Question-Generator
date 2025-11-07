@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_1_q82",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 82,
+  "question_type": "MCQ",
+  "question_text": "Let the length of the focal chord PQ of the parabola from the origin is , then is equal to _______ JEE Main 2024 (04 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo f(x) = x 5 + 2e x/4 x ∈R g(x) (g ∘f)(x) = x x ∈R 8g ′ f(x) = { −2, −2 ≤x ≤0 x −2, 0 < x ≤2 h(x) = f(|x|) + |f(x)| ∫ 2 −2 h(x)dx y = 1 + 3x −2x 2 y = 1 x ( 1 2 , 2) 1 24 (l√5 + m) −n log e (1 + √5) l, m, n ∈N l + m + n y = y(x) (x 4 + 2x 3 + 3x 2 + 2x + 2)dy −(2x 2 + 2x + 3)dx = 0 y(−1) = − π 4 y(0) π 2 − π 2 π 4 60 ∘ 2 ^ i + 2 ^ j − ^ k 45 ∘ ^i −^k → C → 1 2 ^i + 1 3√2 ^j − √2 3 ^k) √2 3 ^i − 1 2 ^k ( 1 √3 + 1 2 )^i + ( 1 √3 − 1 3√2 )^j + ( 1 √3 + √2 3 )^k √2 3 ^i + 1 3√2 ^j − 1 2 ^k − √2 3 ^i + √2 3 ^j + ( 1 2 + 2√2 3 )^k P(1, −2, 3) Q(5, −4, 7) P (α, β, γ) α 2 + β 2 + γ 2 A 5 18 5 16 4 17 7 18 2 C 2 3! + 3 C 2 4! + 4 C 2 5! + … b = 1 + 1 C 0 + 1 C 1 1! + 2 C 0 + 2 C 1 + 2 C 2 2! + 3 C 0 + 3 C 1 + 3 C 2 + 3 C 3 3! + … 2b a 2 y 2 = 12x PQ p 10p 2 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "Let the length of the focal chord PQ of the parabola from the origin is , then is equal to _______ JEE Main 2024 (04 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo f(x) = x 5 + 2e $\\frac{x}{4}$ x ∈R g(x) (g ∘f)(x) = x x ∈R 8g ′ f(x) = { −2, −2 ≤x ≤0 x −2, 0 < x ≤2 h(x) = f(|x|) + |f(x)| ∫ 2 −2 h(x)dx y = 1 + 3x −2x 2 y = 1 x ( 1 2 , 2) 1 24 (l√5 + m) −n log e (1 + √5) l, m, n ∈N l + m + n y = y(x) (x 4 + 2x 3 + 3x 2 + 2x + 2)dy −(2x 2 + 2x + 3)dx = 0 y(−1) = − π 4 y(0) π 2 − π 2 π 4 60 ∘ 2 ^ i + 2 ^ j − ^ k 45 ∘ ^i −^k → C → 1 2 ^i + 1 3√2 ^j − √2 3 ^k) √2 3 ^i − 1 2 ^k ( 1 √3 + 1 2 )^i + ( 1 √3 − 1 3√2 )^j + ( 1 √3 + √2 3 )^k √2 3 ^i + 1 3√2 ^j − 1 2 ^k − √2 3 ^i + √2 3 ^j + ( 1 2 + 2√2 3 )^k P(1, −2, 3) Q(5, −4, 7) P (α, β, γ) α 2 + β 2 + γ 2 A 5 18 5 16 4 17 7 18 2 C 2 3! + 3 C 2 4! + 4 C 2 5! + … b = 1 + 1 C 0 + 1 C 1 1! + 2 C 0 + 2 C 1 + 2 C 2 2! + 3 C 0 + 3 C 1 + 3 C 2 + 3 C 3 3! + … 2b a 2 y 2 = 12x PQ p 10p 2 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "a = 1 +",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be 15 units. If the distance of",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "C + (−",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

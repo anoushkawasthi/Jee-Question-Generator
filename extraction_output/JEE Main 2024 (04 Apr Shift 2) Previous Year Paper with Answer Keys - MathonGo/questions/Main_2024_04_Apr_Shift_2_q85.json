@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_2_q85",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 85,
+  "question_type": "Numerical",
+  "question_text": ". If the composition of , then the value of is equal to ______",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "C",
+      "text": "Consider the function",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "defined by",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

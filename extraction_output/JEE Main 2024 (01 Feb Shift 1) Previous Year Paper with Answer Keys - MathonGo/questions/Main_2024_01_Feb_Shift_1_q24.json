@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_1_q24",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 1",
+  "subject": "Mathematics",
+  "question_number": 24,
+  "question_type": "MCQ",
+  "question_text": "1   m stretched with a tension of 6   N . When the tension in the wire is changed to 54   N, the same tuning fork produces 12 frequency of the tuning fork is _______ Hz .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A tuning fork resonates with a sonometer wire of length",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "beats per second with it. The",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

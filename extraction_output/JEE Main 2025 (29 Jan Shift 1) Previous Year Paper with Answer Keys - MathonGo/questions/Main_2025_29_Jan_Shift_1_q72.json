@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_1_q72",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Chemistry",
+  "question_number": 72,
+  "question_type": "MCQ",
+  "question_text": "Given below are some nitrogen containing compounds 2025 (29 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo Mg Mg 2+ (aq) + (aq) Ag ∣∣∣ E = E o − RT 2 F ln [Ag + ] [Mg 2+ ] E = E o + RT 2 F ln [Ag + ] 2 [Mg 2+ ] E = E o − RT 2 F ln [Ag + ] 2 [Mg 2+ ] E = E o − RT 2 F ln [Mg 2+ ] [Ag + ] ′ P ′ Δ o [Mn(CN) 6 ] 3− [Co(CN) 6 ] 4− [Fe(CN) 6 ] 4− [Fe(CN) 6 ] 3− IV < III < II < I I < II < IV < < < < < < < (FeCr 2 O 4 ) Na 2 3 O 2 gmol −1 Each of them is treated with HCl separately. 1.0 g of the most basic compound will consume _______ mg of HCl. (Given molar mass in )",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "Ag",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "CO",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

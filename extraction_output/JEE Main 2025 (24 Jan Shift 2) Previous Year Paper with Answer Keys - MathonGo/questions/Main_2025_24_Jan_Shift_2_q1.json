@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_2_q1",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 1,
+  "question_type": "MCQ",
+  "question_text": "Group A consists of 7 boys and 3 girls, while group B consists of 6 boys and 5 girls. The number of ways, 4 , is equal to :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 8750",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 9100",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 8925",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 8575",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "boys and 4 girls can be invited for a picnic if 5 of them must be from group  and the remaining 3 from group",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

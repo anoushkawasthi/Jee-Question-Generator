@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_1_q37",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 37,
+  "question_type": "Numerical",
+  "question_text": "The number of neutrons present in the more abundant isotope of boron is '  '. Amorphous boron upon heating with air forms a product, in which the oxidation state of boron is '  '. The value of is _______",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 3",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 9",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 4",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 6",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_27_Jan_Shift_2_q23",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "27 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 23,
+  "question_type": "Numerical",
+  "question_text": "The reading of pressure metre attached with a closed pipe is 4 . 5 × 10 4 N   m -2 . On opening the valve, water starts flowing and the reading of pressure metre falls to 2 . 0 × 10 4 N   m -2 . The velocity of water is found to √𝑉  m   s -1 . The value of 𝑉 is _________.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "B",
+      "text": "be",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

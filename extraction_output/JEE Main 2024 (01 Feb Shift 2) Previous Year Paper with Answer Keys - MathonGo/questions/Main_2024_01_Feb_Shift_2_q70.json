@@ -1,0 +1,60 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_2_q70",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 2",
+  "subject": "Mathematics",
+  "question_number": 70,
+  "question_type": "MCQ",
+  "question_text": "the relations 𝑅 1 𝑅 2 𝑎𝑅 1 𝑏⇔𝑎 2 + 𝑏 2 = 1 for 𝑎, 𝑏, ∈𝑅 𝑎, 𝑏𝑅 2 𝑐, 𝑑⇔𝑎+ 𝑑= 𝑏+ 𝑐 for all 𝑎, 𝑏, 𝑐, 𝑑∈𝑁× 𝑁 . Then 𝑅 1 is an equivalence relation 𝑅 2 is an equivalence relation 𝑅 1 𝑅 2 𝑅 1 nor 𝑅 2 is an equivalence relation",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Neither",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "both are equivalence relation",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Consider",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "defined",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_1_q70",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 1",
+  "subject": "Mathematics",
+  "question_number": 70,
+  "question_type": "MCQ",
+  "question_text": "If 𝐴= √2 1 −1 √ 2 , 𝐵 1 0 1 1 , 𝐶= 𝐴𝐵𝐴 𝑇 𝑋= 𝐴 𝑇 𝐶 2 𝐴 , then det 𝑋 is equal to: 243 729 27 891",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

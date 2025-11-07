@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_1_q44",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 44,
+  "question_type": "Assertion-Reason",
+  "question_text": "Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R). mountain. Reason (R): Time period of a simple pendulum decreases with increasing value of acceleration due options given below : explanation of is not the",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Both",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) (A) is true but (R) is false",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) (A) is false but (R) is true",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Both",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "are true but",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "correct explanation of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

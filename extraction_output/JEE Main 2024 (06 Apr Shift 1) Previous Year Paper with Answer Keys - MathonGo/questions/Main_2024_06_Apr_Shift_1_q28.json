@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_1_q28",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 28,
+  "question_type": "Numerical",
+  "question_text": "When a voltage of is applied to an inductor, a flows through it. When an ac voltage of peak value is connected to inductor, its inductive reactance is found to be . The power",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "C",
+      "text": "current of",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "dissipated in the circuit is _______ W.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

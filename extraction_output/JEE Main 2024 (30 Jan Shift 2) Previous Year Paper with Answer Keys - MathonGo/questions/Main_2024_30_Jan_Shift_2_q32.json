@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_2_q32",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 32,
+  "question_type": "MCQ",
+  "question_text": "Given below are two statements: Statement-I: Since fluorine is more electronegative than nitrogen, the net dipole moment of NF 3 is greater than NH 3 . Statement-II: In NH 3 , the orbital dipole due to lone pair and the dipole moment of NH NF 3 the orbital dipole due to lone pair and dipole moments of N-F bonds are in same In the light of the above statements. Choose the most appropriate from the options given below.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Statement I is true but Statement II is false.",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Both Statement I and Statement II are false.",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Both statement I and Statement II is are true.",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Statement I is false but Statement II is are true.",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "bonds are in opposite",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "direction.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

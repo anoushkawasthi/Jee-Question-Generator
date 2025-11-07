@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_1_q33",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 33,
+  "question_type": "MCQ",
+  "question_text": "Which of the following circuits represents a forward biased diode?",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) (A) and (D) only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) (B), (D) and (E) only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) (C) and (E) only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) (B), (C) and (E) only",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Choose the correct answer from the options given below :",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

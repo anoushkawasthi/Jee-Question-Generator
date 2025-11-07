@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_1_q59",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 1",
+  "subject": "Chemistry",
+  "question_number": 59,
+  "question_type": "MCQ",
+  "question_text": "The rate of first order reaction is minutes and minutes after initiation. Half life of the reaction is ______ minutes. (Given",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "at",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

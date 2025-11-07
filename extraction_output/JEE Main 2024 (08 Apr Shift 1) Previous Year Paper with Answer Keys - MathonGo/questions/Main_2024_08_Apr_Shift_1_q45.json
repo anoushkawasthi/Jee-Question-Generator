@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_1_q45",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 1",
+  "subject": "Chemistry",
+  "question_number": 45,
+  "question_type": "Numerical",
+  "question_text": "upon reaction with excess of solution gives 2 moles of . Consider the oxidation state of in the complex is '  '. The value of \" \" is ______",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 6",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 8",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 3",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 5",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "An octahedral complex with the formula",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

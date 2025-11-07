@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_2_q86",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 2",
+  "subject": "Mathematics",
+  "question_number": 86,
+  "question_type": "MCQ",
+  "question_text": "Let 𝑓: 0, ∞→𝑅 𝐹𝑥= 𝑥 ∫ 0 𝑡𝑓𝑡𝑑𝑡 . If 𝐹𝑥 2 = 𝑥 4 + 𝑥 5 , then ∑ 𝑟= 1 12 𝑓𝑟 2 is equal to:",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

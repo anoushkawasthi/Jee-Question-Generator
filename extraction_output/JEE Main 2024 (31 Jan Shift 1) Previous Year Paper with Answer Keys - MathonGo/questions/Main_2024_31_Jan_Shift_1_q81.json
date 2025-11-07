@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_1_q81",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 81,
+  "question_type": "MCQ",
+  "question_text": "If 𝛼 1 −𝑖 𝑥 = 2 𝑥 𝛽= 𝑧 , where 𝑧= 𝜋 4 1 + 𝑖 41 −√𝜋· 𝑖 √ 𝜋+ 𝑖 + √ 𝜋−𝑖 1 + √𝜋· 𝑖 , 𝑖= √−1 , then the distance of the point 𝛼,   𝛽 from the line 4𝑥−3𝑦= 7 is ______ JEE Main 2024 (31 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "If 𝛼 1 −𝑖 𝑥 = 2 𝑥 𝛽= 𝑧 , where 𝑧= 𝜋 4 1 + 𝑖 41 −√𝜋· 𝑖 √ 𝜋+ 𝑖 + √ 𝜋−𝑖 1 + √𝜋· 𝑖 , 𝑖= √−1 , then the distance of the point 𝛼,   𝛽 from the line 4𝑥−3𝑦= 7 is ______ JEE Main 2024 (31 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "arg𝑧",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "denotes the number of solutions of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

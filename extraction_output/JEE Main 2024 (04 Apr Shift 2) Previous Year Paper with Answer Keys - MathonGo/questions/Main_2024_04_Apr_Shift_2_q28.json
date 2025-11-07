@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_2_q28",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 2",
+  "subject": "Physics",
+  "question_number": 28,
+  "question_type": "MCQ",
+  "question_text": "rotates with a uniform angular velocity uniform magnetic filed . The direction of magnetic field is parallel to the axis of rotation. The potential",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "about its perpendicular bisector, in a",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "difference between the two ends of the rod is _____V.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_2_q42",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 42,
+  "question_type": "MCQ",
+  "question_text": ", where  is gas constant) goes from phase space point to point to point 2025 (29 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo (q 1 q 2 ) C 1 C 2 q 1 = 10μC, q 2 = 20μC q 1 = 30μC, q 2 = 15μC q 1 = 20μC, q 2 = 10μC q 1 = 15μC, q 2 = 30μC +x →E →B E x , B y E y , B z E z , B y E y , B x 90 ∘ C 80 ∘ C 20 ∘ C 80 ∘ C 60 ∘ C 13 10 t 10 13 t 5 13 t 13 5 t O C V = 3R, C P = 4R R A = 10 5 Pa, V A = 4 × 10 −6 m 3 ) B = 5 × 10 4 Pa, V B = 6 × 10 −6 m 3 ) . A to B is an adiabatic path and  to  is an isothermal path. The net heat absorbed per unit mole by the system is :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A (P",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B (P",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_1_q3",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 3,
+  "question_type": "MCQ",
+  "question_text": "The relation between time ‘ 𝑡 ’ and distance ‘ 𝑥 ’ is 𝑡= 𝛼𝑥 2 + 𝛽𝑥 , where 𝛼 𝛽 𝑎 𝑣 is: 𝑎= - 2𝛼𝑣 3 𝑎= - 5𝛼𝑣 5 𝑎= - 3𝛼𝑣 2 𝑎= - 4𝛼𝑣 4",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and velocity",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "between acceleration",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

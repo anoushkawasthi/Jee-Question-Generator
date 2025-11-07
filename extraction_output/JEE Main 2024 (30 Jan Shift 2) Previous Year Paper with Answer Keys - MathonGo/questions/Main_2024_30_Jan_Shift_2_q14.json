@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_2_q14",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 14,
+  "question_type": "MCQ",
+  "question_text": "𝐼 0 is passed through a polaroid 𝐴 𝐵 which is oriented so that its principal plane makes an angle of 45° relative to that of 𝐴 . The intensity of emergent light is : 𝐼 0 4 𝐼 0 𝐼 0 2 𝐼 0 8",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and then through another polaroid",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_2_q8",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 8,
+  "question_type": "MCQ",
+  "question_text": "𝐴 & 𝐵 shown in figure. 𝑃𝑉 𝛾 = 𝑘 for process 𝐵 𝑃𝑉= 𝑘 for process 𝐴 . (2) 𝑃𝑉= 𝑘 for process 𝐵 𝐴 . 𝑃 𝛾- 1 𝑇 𝛾 = 𝑘 for process 𝐵 𝑇= 𝑘 for process 𝐴 . 𝑇 𝛾 𝑃 𝛾- 1 = 𝑘 for process 𝐴 𝑃𝑉= 𝑘 for process 𝐵 .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Choose the correct statement for processes",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

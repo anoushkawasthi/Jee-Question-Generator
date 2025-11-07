@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_2_q61",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 61,
+  "question_type": "MCQ",
+  "question_text": "Given below are two statements about X-ray spectra of elements : Statement (I) : A plot of ( frequency of -rays emitted) vs atomic mass is a straight line. Statement (II) : A plot of frequency of -rays from the options given below :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Both Statement I and Statement II are true",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Statement I is false but Statement II is true",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Both Statement I and Statement II are false",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Statement I is true but Statement II is false",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

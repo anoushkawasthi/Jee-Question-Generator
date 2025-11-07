@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_1_q55",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 55,
+  "question_type": "MCQ",
+  "question_text": "of an electrolyte in of water boils at . The degree of ionization of the electrolyte is _______ . (nearest integer) [Given : Molar mass of (molal boiling point elevation const. of water) , boiling point of water ionises as",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A solution containing",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

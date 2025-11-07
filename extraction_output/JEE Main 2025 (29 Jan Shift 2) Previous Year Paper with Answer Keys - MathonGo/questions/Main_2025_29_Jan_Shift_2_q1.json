@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_2_q1",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 1,
+  "question_type": "MCQ",
+  "question_text": "Let . If the range of  is , then equals :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 253",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 154",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 125",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 157",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

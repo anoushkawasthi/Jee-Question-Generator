@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_2_q50",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 50,
+  "question_type": "Numerical",
+  "question_text": "Two long parallel wires in opposite directions as shown in the figure. Magnitude of the resultant magnetic field at point P at a distance 2025 (22 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo γ 2 = γ 1 2γ 2 = γ 1 γ 2 < γ 1 γ 2 > γ 1 → F = 2 ^ i + b ^ j + ^ k ^i −2^j −^k b 1 2 1 3 2 × 10 5 ms −1 x × 10 4 N/C x = 1.6 × 10 −27 kg 2 A 0 = 3.2 2 A 0 √ F αM α X Y of 4 cm from wire Y is . The value of  is__________ . Take permeability of free space as units.",
+  "question_latex": "Two long parallel wires in opposite directions as shown in the figure. Magnitude of the resultant magnetic field at point P at a distance 2025 (22 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo γ 2 = γ 1 2γ 2 = γ 1 γ 2 < γ 1 γ 2 > γ 1 → F = 2 ^ i + b ^ j + ^ k ^i −2^j −^k b 1 2 1 3 2 × 10 5 ms −1 x × 10 4 $\\frac{N}{C}$ x = 1.6 × 10 −27 kg 2 A 0 = 3.2 2 A 0 √ F αM α X Y of 4 cm from wire Y is . The value of  is__________ . Take permeability of free space as units.",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A = 16",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "cm",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

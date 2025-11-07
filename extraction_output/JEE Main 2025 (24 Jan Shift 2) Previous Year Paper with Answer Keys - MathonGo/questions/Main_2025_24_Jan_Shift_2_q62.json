@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_2_q62",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 62,
+  "question_type": "MCQ",
+  "question_text": "In the given structure, number of sp and hybridized carbon atoms present respectively are : 2025 (24 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo A B yellow ppt − → KNO 2 ∣NH 4 OH − → 54.2%C, 9.2%H 36.6%O 132 g mol −1 C 4 H 9 O 3 C 6 H 12 O 6 C 4 H 8 O 2 C 6 H 12 O 3 t 2gg e g 1 sp 2",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 3 and 6",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 4 and 6",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "AcOH",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "C : H : O = 12 : 1 : 16",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

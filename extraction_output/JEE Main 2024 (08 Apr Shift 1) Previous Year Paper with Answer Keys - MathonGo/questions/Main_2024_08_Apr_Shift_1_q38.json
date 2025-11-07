@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_1_q38",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 1",
+  "subject": "Chemistry",
+  "question_number": 38,
+  "question_type": "MCQ",
+  "question_text": "Thiosulphate reacts differently with iodine and bromine in the reactions given below: Which of the following statement justifies the above dual undergoes reduction in these reactions",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Bromine is a stronger oxidant than iodine",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Thiosulphate undergoes oxidation by bromine",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Bromine is a weaker oxidant than iodine",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Bromine undergoes oxidation and iodine",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and reduction by iodine in these reaction",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "behaviour of thiosulphate?",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

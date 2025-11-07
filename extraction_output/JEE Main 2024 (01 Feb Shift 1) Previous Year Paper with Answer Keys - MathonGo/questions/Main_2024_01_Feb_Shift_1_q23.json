@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_1_q23",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 1",
+  "subject": "Mathematics",
+  "question_number": 23,
+  "question_type": "MCQ",
+  "question_text": "40   m 2 . If the speed of the 180   km   h -1 over the lower wing surface and 252   km   h -1 over the upper wing surface, the mass of the plane is ________ kg . (Take air density to be 1   kg   m – 3 𝑔= 10   m   s – 2 )",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

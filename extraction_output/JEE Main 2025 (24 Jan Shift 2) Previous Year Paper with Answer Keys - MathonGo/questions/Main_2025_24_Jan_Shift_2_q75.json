@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_2_q75",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 75,
+  "question_type": "MCQ",
+  "question_text": "The hydrocarbon with molar mass 2025 (24 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo S( g) + 3 2 O 2 ( g) →SO 3 ( g) + 2xkcal SO 2 ( g) + 1 2 O 2 ( g) →SO 3 ( g) + ykcal SO 2 ( g) x + ykcal y −2xkcal 2x y kcal 2x + ykcal (AgBr) … … ×10 −1% 80 g mol −1 MX 2 MX 2 … … k 1 , k 2 k 3 k k = √ k 1 k 3 k 2 10 kJ mol −1 kJmol −1 … … … … (X) 80 g mol −1 90% … … 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. (957) 22. (16) 23. 24. (392) 25. (55) 26. 27. 28. 29. 30. 31. 32. 33. 34. 35. 36. 37. 38. 39. 40. 41. 42. 43. 44. 45. 46. (5) 47. (36) 48. (43) 49. (250) 50. (9) 51. 52. 53. 54. 55. 56. 57. 58. 59. 60. 61. 62. 63. 64. 65. 66. 67. 68. 69. 70. 71. (255) 72. (75) 73. (20) 74. 75. 2025 (24 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "ANSWER KEYS",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "carbon has",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "degree of unsaturation.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

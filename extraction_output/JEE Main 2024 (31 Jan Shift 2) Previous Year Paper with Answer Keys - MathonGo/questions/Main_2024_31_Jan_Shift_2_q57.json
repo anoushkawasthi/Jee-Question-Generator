@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_2_q57",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 57,
+  "question_type": "MCQ",
+  "question_text": "Number of moles of H + ions required by 1 mole of MnO 4 − to oxidise oxalate ion to 2 is ______.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "C",
+      "text": "CO",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

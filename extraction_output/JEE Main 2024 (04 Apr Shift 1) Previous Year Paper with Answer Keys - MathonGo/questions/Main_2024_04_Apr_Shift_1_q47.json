@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_1_q47",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 1",
+  "subject": "Chemistry",
+  "question_number": 47,
+  "question_type": "MCQ",
+  "question_text": "Given below are two statements : Statements I : Acidity of -hydrogens of aldehydes and ketones is responsible for Aldol reaction. Statement II : Reaction between benzaldehyde and ethanal will NOT give Cross given below : JEE Main 2024 (04 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo − OH, RO, CH 3 – I – – RO > − OH > CH 3 – I – – C – l > RO > − OH > CH 3 – – − OH > RO > CH 3 – 1 – – C – I > − OH > RO > CH 3 – – d [V(H 2 O) 6 ] 3+ , [Cr(H 2 O) 6 ] 2+ , [Fe(H 2 O) 6 ] 3+ , [Ni(H 2 O) 6 ] 3+ , [Cu(H 2 O) 6 ] 2+ V = 23, Cr = 24, Fe = 26, Ni = 28Cu = 29 NCS − > EDTA 4− > CN − > CO 2 O > F − > S 2− S 2− > −OH > EDTA 4− > CO − OH > F − > NH 3 > CN − X Y X = NaOH, 20 ∘ Y = Br 2 /CHCl 3 X = NaOH, 80 ∘ 2 /CHCl 3 X = NaOH, 20 ∘ Y = HBr X = NaOH, 80 ∘ α Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "Given below are two statements : Statements I : Acidity of -hydrogens of aldehydes and ketones is responsible for Aldol reaction. Statement II : Reaction between benzaldehyde and ethanal will NOT give Cross given below : JEE Main 2024 (04 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo − OH, RO, CH 3 – I – – RO > − OH > CH 3 – I – – C – l > RO > − OH > CH 3 – – − OH > RO > CH 3 – 1 – – C – I > − OH > RO > CH 3 – – d [V(H 2 O) 6 ] 3+ , [Cr(H 2 O) 6 ] 2+ , [Fe(H 2 O) 6 ] 3+ , [Ni(H 2 O) 6 ] 3+ , [Cu(H 2 O) 6 ] 2+ V = 23, Cr = 24, Fe = 26, Ni = 28Cu = 29 NCS − > EDTA 4− > CN − > CO 2 O > F − > S 2− S 2− > −OH > EDTA 4− > CO − OH > F − > NH 3 > CN − X Y X = NaOH, 20 ∘ Y = Br 2 /CHCl 3 X = NaOH, 80 ∘ 2 /CHCl 3 X = NaOH, 20 ∘ Y = HBr X = NaOH, 80 ∘ α Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Statement I is correct but Statement II is",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Both Statement I and Statement II are correct",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Both Statement I and Statement II are incorrect",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Statement I is incorrect but Statement II is",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "C, Y = HBr/",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_2_q16",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 16,
+  "question_type": "MCQ",
+  "question_text": ". How many spectral lines will be emitted due to transition of electrons?",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 6",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 3",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 10",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 1",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A hydrogen atom in ground state is given an energy of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

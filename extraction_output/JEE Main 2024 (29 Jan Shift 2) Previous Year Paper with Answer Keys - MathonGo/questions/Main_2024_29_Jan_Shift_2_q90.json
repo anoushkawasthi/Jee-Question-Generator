@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_29_Jan_Shift_2_q90",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 90,
+  "question_type": "MCQ",
+  "question_text": "Let  be the origin, and respectively such that is the shortest distance between the given lines. Then is equal to _________. JEE Main 2024 (29 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo f(x) = √lim r→x { 2r 2 [(f(r)) 2 −f(x)f(r)] r 2 −x 2 −r 3 e f(r) r } (−∞, 0) ∪(0, ∞) f(1) = 1 f(a) = 0 ∫ π 3 π 6 √1 −sin 2xdx = α + β√2 + γ√3 α, β γ 3α + 4β −γ {(x, y) : 0 ≤x ≤3, 0 ≤y ≤min{x 2 + 2, 2x + 2}} A 12A O M N x−5 4 = y−4 1 = z−5 3 x+8 12 = y+2 5 = z+11 9 MN OM ⋅ON − → − → Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. (8) 22. (60) 23. (16) 24. 25. (30) 26. (32) 27. 28. (36) 29. 30. (121) 31. 32. 33. 34. 35. 36. 37. 38. 39. 40. 41. 42. 43. 44. 45. 46. 47. 48. 49. 50. 51. 52. (22) 53. 54. (56) 55. (417) 56. 57. (815) 58. 59. (63) 60. 61. 62. 63. 64. 65. 66. 67. 68. 69. 70. 71. 72. 73. 74. 75. 76. 77. 78. 79. 80. 81. (46) 82. (49) 83. 84. (192) 85. (12) 86. (113) 87. 88. (6) 89. (164) 90. (9) JEE Main 2024 (29 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo",
+  "question_latex": "Let  be the origin, and respectively such that is the shortest distance between the given lines. Then is equal to _________. JEE Main 2024 (29 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo f(x) = √lim r→x { 2r 2 [(f(r)) 2 −f(x)f(r)] r 2 −x 2 −r 3 e f(r) r } (−∞, 0) ∪(0, ∞) f(1) = 1 f(a) = 0 ∫ π 3 π 6 √1 −sin 2xdx = α + β√2 + γ√3 α, β γ 3α + 4β −γ {(x, y) : 0 ≤x ≤3, 0 ≤y ≤min{x 2 + 2, 2x + 2}} A 12A O M N x−5 4 = y−4 1 = z−5 3 x+8 12 = y+2 5 = z+11 9 MN OM ⋅ON − → − → Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$ 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. (8) 22. (60) 23. (16) 24. 25. (30) 26. (32) 27. 28. (36) 29. 30. (121) 31. 32. 33. 34. 35. 36. 37. 38. 39. 40. 41. 42. 43. 44. 45. 46. 47. 48. 49. 50. 51. 52. (22) 53. 54. (56) 55. (417) 56. 57. (815) 58. 59. (63) 60. 61. 62. 63. 64. 65. 66. 67. 68. 69. 70. 71. 72. 73. 74. 75. 76. 77. 78. 79. 80. 81. (46) 82. (49) 83. 84. (192) 85. (12) 86. (113) 87. 88. (6) 89. (164) 90. (9) JEE Main 2024 (29 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "ANSWER KEYS",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be the points on the lines",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

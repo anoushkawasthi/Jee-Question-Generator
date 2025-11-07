@@ -1,0 +1,60 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_1_q27",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 27,
+  "question_type": "Assertion-Reason",
+  "question_text": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason 2025 (28 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo 3a 99 −100 3a 100 −100 3a 99 + 100 3a 100 + 100 1, 2, 3, 4, 5, 6, 7 R = {(x, y) : x, y ∈Z x + y } f(x) = ⎧ ⎪ ⎨ ⎪ ⎩ 3x, x < 0 min{1 + x + [x], x + 2[x]}, 0 ≤x ≤2 5, x > 2, α β α + β 3 × 3 S = {−3, −2, −1, 1, 2} S 1 = {A = [a ij ] ∈M : A = A T a ij ∈ S, ∀i, j}, S 2 = {A = [a ij ] ∈M : A = −A T a ij ∈ S, ∀i, j}, S 3 = {A = [a ij ] ∈M : a 11 + a 22 + a 33 = 0 a ij ∈ S, ∀i, j}. n ( S 1 ∪ 2 US 3 ) = 125α α α = 1 + ∑ 6 r=1 (−3) r−1 12 C 2r−1 (12, √3) αx −√3y + 1 = 0 E 1 : x 2 9 + y 2 4 = 1 E 1 E 1 E i E i+1 (i ≥1) A i E i 5 π (∑ ∞ i=1 A i ) →a = ^ i + ^ j + ^ k, → ^ i + 2 ^ j + ^ k → → b →c →a ⋅ → → → 2 = 8 → d →c π 4 |10 −3 → → → → 2 λ x −axis, y z− xyz = xy + yz + zx = (x 2 + y 2 ) (y 2 + z 2 ) (z 2 + x 2 ) = (x + y)(y + z)(z + x) = R explanation of is true but is false is false but is true explanation of",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Both",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Both",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "are true and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "b ⋅",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "c|",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "d ×",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

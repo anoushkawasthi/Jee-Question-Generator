@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_2_q36",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 36,
+  "question_type": "MCQ",
+  "question_text": "33 C + > CH 3 - + 2 > CH 32 + + 3 + 3 > CH 32 + 3 - + 2 > CH 33 + C 33 + 32 + 3 - + 2 > + 3 {\\mathrm{C}\\mathrm{H}_3}>\\mathrm{CH}_3- \\stackrel{+ \\quad}{\\mathrm{C} \\mathrm{H}_2}>\\mathrm{CH}_3-\\underset{| \\atop \\stackrel{ \\atop }{\\huge \\mathrm{CH}_3}} {\\stackrel{+ \\quad}{\\mathrm{C} \\mathrm{H}}}>\\left(\\mathrm{CH}_3\\right) \\mathrm{C}^{+}$",
+  "question_latex": "33 C + > CH 3 - + 2 > CH 32 + + 3 + 3 > CH 32 + 3 - + 2 > CH 33 + C 33 + 32 + 3 - + 2 > + 3 {\\mathrm{C}\\mathrm{H}_3}>\\mathrm{CH}_3- \\stackrel{+ \\quad}{\\mathrm{C} \\mathrm{H}_2}>\\mathrm{CH}_3-\\underset{| \\atop \\stackrel{ \\atop }{\\huge \\mathrm{CH}_3}} {\\stackrel{+ \\quad}{\\mathrm{C} \\mathrm{H}}}>\\left(\\mathrm{CH}_3\\right) \\mathrm{C}^{+}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) $\\stackrel{+\\quad}",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "CH",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

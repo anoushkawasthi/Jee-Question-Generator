@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_1_q65",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 1",
+  "subject": "Mathematics",
+  "question_number": 65,
+  "question_type": "MCQ",
+  "question_text": "If tan𝐴= 1 √𝑥𝑥 2 + 𝑥+ 1 , tan𝐵= √ 𝑥 √𝑥 2 + 𝑥+ 1 tan𝐶= 𝑥 −3 + 𝑥 −2 + 𝑥 −1 1 2 , 0 < 𝐴, 𝐵, 𝐶< 𝜋 2 , then 𝐴+ 𝐵 is equal to: 𝐶 𝜋−𝐶 2𝜋−𝐶 𝜋 2 −𝐶 JEE Main 2024 (01 Feb Shift 1) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "If tan𝐴= 1 √𝑥𝑥 2 + 𝑥+ 1 , tan𝐵= √ 𝑥 √𝑥 2 + 𝑥+ 1 tan𝐶= 𝑥 −3 + 𝑥 −2 + 𝑥 −1 1 2 , 0 < 𝐴, 𝐵, 𝐶< 𝜋 2 , then 𝐴+ 𝐵 is equal to: 𝐶 𝜋−𝐶 2𝜋−𝐶 𝜋 2 −𝐶 JEE Main 2024 (01 Feb Shift 1) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

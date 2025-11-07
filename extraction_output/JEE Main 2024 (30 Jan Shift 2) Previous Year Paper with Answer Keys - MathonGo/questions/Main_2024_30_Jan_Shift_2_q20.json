@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_2_q20",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 20,
+  "question_type": "MCQ",
+  "question_text": "If 50 Vernier divisions are equal to 49 main scale divisions of a travelling microscope and one smallest reading of main scale is 0 . 5   mm the Vernier constant of travelling microscope is: 0 . 1   mm 0 . 1   cm 0 . 01   cm 0 . 01   mm",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

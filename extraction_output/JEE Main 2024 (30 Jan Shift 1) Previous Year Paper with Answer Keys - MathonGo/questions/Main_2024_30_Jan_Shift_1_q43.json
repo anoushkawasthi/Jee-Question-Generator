@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_1_q43",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 43,
+  "question_type": "MCQ",
+  "question_text": "(A) is a chelating ligand. (B) Metallic aluminium is produced by electrolysis of aluminium oxide in presence of cryolite. (C) Cyanide ion is used as ligand for leaching of silver. (D) Phosphine act as a ligand in Wilkinson catalyst. (E) The stability constants of",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) (B), (C), (E) only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) (C), (D), (E) only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) (A), (B), (C) only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) (A), (D), (E) only",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "are similar with EDTA complexes.",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Choose the correct answer from the options given below:",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

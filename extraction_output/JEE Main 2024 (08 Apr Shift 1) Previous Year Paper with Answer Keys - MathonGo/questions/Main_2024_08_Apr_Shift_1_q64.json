@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_1_q64",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 64,
+  "question_type": "MCQ",
+  "question_text": "If , where , then is equal to JEE Main 2024 (08 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo MO 4 2− Sc, Ti, V, Cr, Mn Zn Sc = 21, Ti = 22, V = 23, Cr = 24, Mn = 25 Zn = 30 B π 279 g NaOH (8) 2x −16 ⋅(8) x + 48 = 0 1 + log 8 (6) 1 + log 6 (8) log 8 (6) log 8 z |z + 2| = 1 Im ( z+1 z+2 ) = 1 5 |Re(z + 2)| – 2√6 5 24 5 1+√6 5 √6 5 R = {(a, b) : a + 5b = 42, a, b ∈N} m ∑ m n=1 (1 −i n! ) = x + iy i = √−1 m + x + y sin x = − 3 5 π < x < 3π 2 80 (tan 2 x −cos x) Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "If , where , then is equal to JEE Main 2024 (08 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo MO 4 2− Sc, Ti, V, Cr, Mn Zn Sc = 21, Ti = 22, V = 23, Cr = 24, Mn = 25 Zn = 30 B π 279 g NaOH (8) 2x −16 ⋅(8) x + 48 = 0 1 + log 8 (6) 1 + log 6 (8) log 8 (6) log 8 z |z + 2| = 1 Im ( z+1 z+2 ) = 1 5 |Re(z + 2)| – 2√6 5 24 5 1+√6 5 √6 5 R = {(a, b) : a + 5b = 42, a, b ∈N} m ∑ m n=1 (1 −i n! ) = x + iy i = √−1 m + x + y sin x = − 3 5 π < x < 3π 2 80 (tan 2 x −cos x) Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 108",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 109",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 18",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

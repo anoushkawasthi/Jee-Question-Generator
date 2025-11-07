@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_2_q22",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 2",
+  "subject": "Physics",
+  "question_number": 22,
+  "question_type": "MCQ",
+  "question_text": "𝐴𝐵 of mass 2   kg 30   cm force 0 . 2   N   s is applied to end B. The time taken by the rod to turn through at right angles will be 𝜋 x s, where 𝑥= ____.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "at rest on a smooth horizontal surface. An impulse of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

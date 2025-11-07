@@ -2,190 +2,165 @@ import os
 import sys
 import json
 import logging
+import pdfplumber
 from tqdm import tqdm
 from concurrent.futures import ThreadPoolExecutor, as_completed
-# We use a relative import (..) to go "up one folder" from components to src
-from ..utils import extract_text_from_pdf, parse_answer_key, parse_question_blocks
+
 sys.path.append(os.path.join(os.path.dirname(__file__), '..', '..'))
 
-
-# Configure basic logging - Only show errors, not warnings
+# Configure basic logging
 logging.basicConfig(level=logging.ERROR, format='%(asctime)s - %(levelname)s - %(message)s')
 
 class DataIngestion:
     def __init__(self):
-        # Define the root path for raw PDFs, relative to this file
         self.raw_data_path = os.path.join(os.path.dirname(__file__), '..', '..', 'data', 'raw_pdfs')
-        self.output_path = os.path.join(os.path.dirname(__file__), '..', '..', 'data', 'processed', 'raw_questions.json')
+        self.output_path = os.path.join(os.path.dirname(__file__), '..', '..', 'data', 'processed', 'jee_ingestion_data.json')
+        self.image_output_dir = os.path.join(os.path.dirname(__file__), '..', '..', 'data', 'processed', 'images')
+        
+        # Ensure image directory exists
+        os.makedirs(self.image_output_dir, exist_ok=True)
     
     def save_parsed_data(self, data):
-        """
-        Save parsed data to JSON file.
-        
-        Args:
-            data: Parsed questions data
-        """
         try:
-            # Create directory if it doesn't exist
             os.makedirs(os.path.dirname(self.output_path), exist_ok=True)
-            
             with open(self.output_path, 'w', encoding='utf-8') as f:
                 json.dump(data, f, indent=2, ensure_ascii=False)
-            
-            print(f"\n💾 Parsed data saved to: {self.output_path}")
+            print(f"\n💾 Parsed element data saved to: {self.output_path}")
             return True
         except Exception as e:
             logging.error(f"Error saving parsed data: {e}")
             return False
     
     def load_parsed_data(self):
-        """
-        Load previously parsed data from JSON file.
-        
-        Returns:
-            Parsed data or None if file doesn't exist
-        """
         if os.path.exists(self.output_path):
             try:
                 with open(self.output_path, 'r', encoding='utf-8') as f:
                     data = json.load(f)
-                print(f"📂 Loaded {len(data)} papers from cached file: {self.output_path}")
+                print(f"📂 Loaded {len(data)} papers from cached element file: {self.output_path}")
                 return data
             except Exception as e:
                 logging.error(f"Error loading parsed data: {e}")
                 return None
         return None
-    
+
     def process_single_pdf(self, pdf_path, file):
         """
-        Process a single PDF file (helper function for parallel processing).
+        Processes a single PDF, extracting all text words and images
+        with their coordinates. Saves images to disk.
         
         Args:
             pdf_path (str): Path to the PDF file
             file (str): Filename
             
         Returns:
-            dict: Paper data with questions, or None if processing fails
+            dict: Paper data with elements, or None if processing fails
         """
         try:
-            # 1. Extract text using our util function
-            question_text, answer_text = extract_text_from_pdf(pdf_path)
-            
-            if not question_text or not answer_text:
-                return None
-                
-            # 2. Parse text using our util functions
-            answer_key_dict = parse_answer_key(answer_text)
-            questions_dict = parse_question_blocks(question_text)
-            
-            if not answer_key_dict or not questions_dict:
-                return None
-
-            # 3. Combine the data
             paper_data = {
                 "source_file": file,
-                "questions": []
+                "pages": []
             }
             
-            for q_num, q_text in questions_dict.items():
-                if q_num in answer_key_dict:
-                    paper_data["questions"].append({
-                        "question_number": q_num,
-                        "question_text": q_text,
-                        "correct_answer": answer_key_dict[q_num]
-                    })
+            with pdfplumber.open(pdf_path) as pdf:
+                for i, page in enumerate(pdf.pages):
+                    page_data = {
+                        "page_number": i + 1,
+                        "elements": []
+                    }
+
+                    # 1. Extract text words with coordinates
+                    for word in page.extract_words(use_text_flow=True):
+                        page_data["elements"].append({
+                            "type": "text",
+                            "text": word["text"],
+                            "x0": word["x0"],
+                            "top": word["top"],
+                            "x1": word["x1"],
+                            "bottom": word["bottom"]
+                        })
+
+                    # 2. Extract images, save them, and store their paths
+                    for img_index, img in enumerate(page.images):
+                        # Create a unique, clean filename
+                        img_basename = os.path.splitext(file)[0]
+                        img_filename = f"{img_basename}_page_{i+1}_img_{img_index}.png"
+                        img_path_rel = os.path.join('images', img_filename) # Relative path
+                        img_path_abs = os.path.join(self.image_output_dir, img_filename)
+                        
+                        try:
+                            # Crop the image from the page and save it
+                            img_obj = page.crop(
+                                (img["x0"], img["top"], img["x1"], img["bottom"])
+                            )
+                            img_obj.to_image().save(img_path_abs, format="PNG")
+                            
+                            # Add image element to our data
+                            page_data["elements"].append({
+                                "type": "image",
+                                "path": img_path_rel, # Store the relative path
+                                "x0": img["x0"],
+                                "top": img["top"],
+                                "x1": img["x1"],
+                                "bottom": img["bottom"]
+                            })
+                        except Exception as e:
+                            logging.warning(f"Could not save image {img_index} from {file} page {i+1}: {e}")
+
+                    # Sort all elements on the page by their vertical position (top)
+                    # then by horizontal (x0). This reconstructs the reading order.
+                    page_data["elements"].sort(key=lambda e: (e["top"], e["x0"]))
+                    
+                    paper_data["pages"].append(page_data)
             
             return paper_data
             
         except Exception as e:
             logging.error(f"Error processing {file}: {e}")
+            import traceback
+            traceback.print_exc()
             return None
 
-    def initiate_data_ingestion(self, max_files=None, max_workers=4, use_cache=True):
-        """
-        Finds all PDFs, extracts data, and returns a structured list.
-        Uses parallel processing for speed.
-        
-        Args:
-            max_files (int, optional): Maximum number of files to process. 
-                                    Use for testing with a subset of files.
-            max_workers (int): Number of parallel workers (default: 4)
-            use_cache (bool): If True, load from cached file if available
-        """
-        # Try to load from cache first
+    def initiate_data_ingestion(self, max_files=None, max_workers=1, use_cache=True):
         if use_cache:
             cached_data = self.load_parsed_data()
             if cached_data:
                 return cached_data
         
-        all_papers_data = [] # This will hold data from all processed PDFs
+        all_papers_data = [] 
+        pdf_files = []
+        for root, dirs, files in os.walk(self.raw_data_path):
+            for file in files:
+                if file.endswith(".pdf"):
+                    pdf_path = os.path.join(root, file)
+                    pdf_files.append((pdf_path, file))
+        
+        if max_files:
+            pdf_files = pdf_files[:max_files]
+        
+        print(f"📁 Found {len(pdf_files)} PDF file(s) to process")
+        print(f"🚀 Processing sequentially for stability\n")
+        
+        # Process sequentially instead of parallel to avoid crashes
+        for pdf_path, file in tqdm(pdf_files, desc="Processing PDFs", unit="file"):
+            paper_data = self.process_single_pdf(pdf_path, file)
+            if paper_data and paper_data["pages"]:
+                all_papers_data.append(paper_data)
+        
+        self.save_parsed_data(all_papers_data)
+        return all_papers_data
 
-        try:
-            # First, collect all PDF files
-            pdf_files = []
-            for root, dirs, files in os.walk(self.raw_data_path):
-                for file in files:
-                    if file.endswith(".pdf"):
-                        pdf_path = os.path.join(root, file)
-                        pdf_files.append((pdf_path, file))
-            
-            # Limit files if max_files is specified
-            if max_files:
-                pdf_files = pdf_files[:max_files]
-            
-            print(f"📁 Found {len(pdf_files)} PDF file(s) to process")
-            print(f"🚀 Using {max_workers} parallel workers for speed\n")
-            
-            # Process PDFs in parallel with progress bar
-            with ThreadPoolExecutor(max_workers=max_workers) as executor:
-                # Submit all tasks
-                future_to_file = {
-                    executor.submit(self.process_single_pdf, pdf_path, file): file 
-                    for pdf_path, file in pdf_files
-                }
-                
-                # Process completed tasks with progress bar
-                for future in tqdm(as_completed(future_to_file), total=len(pdf_files), 
-                                desc="Processing PDFs", unit="file"):
-                    paper_data = future.result()
-                    if paper_data and paper_data["questions"]:
-                        all_papers_data.append(paper_data)
-            
-            # Save the parsed data for future use
-            self.save_parsed_data(all_papers_data)
-            
-            return all_papers_data
-
-        except Exception as e:
-            logging.error(f"Data ingestion failed: {e}")
-            return None
-
-# This block allows you to run this file directly for testing
 if __name__ == "__main__":
     print("🔧 Starting Data Ingestion...\n")
     ingestion = DataIngestion()
+    # Process all PDFs
+    parsed_data = ingestion.initiate_data_ingestion(max_files=None, use_cache=False)
     
-    # Process ALL files with parallel processing (max_workers=4 for speed)
-    all_data = ingestion.initiate_data_ingestion(max_files=None, max_workers=4)
-    
-    if all_data:
-        print(f"\n✅ Data ingestion successful! Processed {len(all_data)} paper(s).")
-        
-        # --- Print a sample for verification ---
-        print("\n" + "="*60)
-        print("📋 VERIFICATION: FIRST 5 QUESTIONS FROM FIRST PAPER")
-        print("="*60)
-        try:
-            first_paper_questions = all_data[0]["questions"]
-            print(f"Source: {all_data[0]['source_file']}")
-            print(f"Total questions in this paper: {len(first_paper_questions)}\n")
-            
-            for i in range(min(5, len(first_paper_questions))):
-                print(f"Q{first_paper_questions[i]['question_number']}:")
-                print(f"Text: {first_paper_questions[i]['question_text'][:150]}...") 
-                print(f"Answer: {first_paper_questions[i]['correct_answer']}\n")
-        except Exception as e:
-            print(f"❌ Could not print verification: {e}")
-            
+    if parsed_data:
+        total_pages = sum(len(paper['pages']) for paper in parsed_data)
+        total_elements = sum(len(elem) for paper in parsed_data for page in paper['pages'] for elem in page['elements'])
+        print(f"\n✅ Data Ingestion complete!")
+        print(f"📊 Total papers processed: {len(parsed_data)}")
+        print(f"📄 Total pages extracted: {total_pages}")
+        print(f"🔤 Total elements extracted: {total_elements}")
     else:
-        print("❌ Data ingestion failed.")
+        print("\n❌ Data Ingestion failed!")

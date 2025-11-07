@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_2_q42",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 42,
+  "question_type": "MCQ",
+  "question_text": "The orange colour of K 2 2 O 7 KMnO 4 is due to transition in KMnO 4 transitions in K 2 2 O 7 . transition in K 2 2 O 7 transitions in KMnO 4 . transition in both.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Charge transfer transition in both.",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and charge transfer",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Cr",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "d →d",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

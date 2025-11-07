@@ -1,0 +1,35 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_1_q53",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 53,
+  "question_type": "MCQ",
+  "question_text": "of an ideal gas is kept in a cylinder, fitted with a piston, at the position A, . If the piston is moved to position , keeping the temperature unchanged, then '  '  atm work is ______  atm. (nearest integer) [Given : Absolute temperature ]",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "at",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Consider the figure provided.",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "done in this reversible process.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_1_q27",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 27,
+  "question_type": "MCQ",
+  "question_text": "). The centre of real image is formed at '  ' inside glass. The line OI intersects the spherical surface at P and . The",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 5 R",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 3 R",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 1.5 R",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 2 R",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A spherical surface of radius of curvature , separates air from glass (refractive index",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "curvature is in the glass medium. A point object '  ' placed in air on the optic axis of the surface, so that its",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "distance PO equals to",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

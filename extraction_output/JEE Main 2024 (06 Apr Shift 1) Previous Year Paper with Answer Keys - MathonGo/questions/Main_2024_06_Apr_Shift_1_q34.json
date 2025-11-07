@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_1_q34",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 34,
+  "question_type": "MCQ",
+  "question_text": "Match List I with List II",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) A-IV, B-III, C-I, D-II",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) A-III, B-IV, C-I, D-II",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) A-III, B-I, C-IV, D-II",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) A-II, B-I, C-IV, D-III",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "answer from the options given below:",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Choose the correct",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

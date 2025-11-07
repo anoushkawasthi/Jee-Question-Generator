@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_1_q8",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 1",
+  "subject": "Physics",
+  "question_number": 8,
+  "question_type": "MCQ",
+  "question_text": "In hydrogen like system the ratio of coul0mbian force and gravitational force between an electron and a proton is in the order of :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

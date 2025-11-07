@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_2_q27",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 2",
+  "subject": "Physics",
+  "question_number": 27,
+  "question_type": "Numerical",
+  "question_text": "has a radius of ' number of turns. It carries a current of . If the magnitude of the magnetic field inside the solenoid is then the value of is _____.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and is made up of '",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_1_q29",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 29,
+  "question_type": "MCQ",
+  "question_text": "with angle made of glass having refractive index 1.54 , is combined with another thin prism made of glass having refractive index 1.72 to get dispersion without deviation. The angle of the prism in",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 3",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 16/3",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 4",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 1.5",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A thin prism",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "degrees is",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

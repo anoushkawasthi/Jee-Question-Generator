@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_1_q58",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 1",
+  "subject": "Chemistry",
+  "question_number": 58,
+  "question_type": "MCQ",
+  "question_text": "For a reaction, in a constant volume container, no products were present initially. The final pressure of the system when of reaction gets completed is times of initial pressure times of initial pressure times of initial pressure",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 5 times of initial pressure",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

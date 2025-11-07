@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_2_q31",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 31,
+  "question_type": "MCQ",
+  "question_text": "uniformly distributed across this cross-section. The plot of magnitude of magnetic field B with distance  from the centre of the wire is given by 2025 (24 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo →r = (5t 2 ^ i −5t ^ j)m t = 2 s 5 √ 15 m/s tan −1 4 Y 5 √ 15 m/s tan −1 4 5 √ 17 m/s tan −1 4 X 5 √ 17 m/s tan −1 4 Y X = 0, Y = 0 X = 0, Y = 1 X = 1, Y = 0 X = 1, Y = 1 5π 40π 10π a I r",
+  "question_latex": "uniformly distributed across this cross-section. The plot of magnitude of magnetic field B with distance  from the centre of the wire is given by 2025 (24 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo →r = (5t 2 ^ i −5t ^ j)m t = 2 s 5 √ 15 $\\frac{m}{s}$ tan −1 4 Y 5 √ 15 $\\frac{m}{s}$ tan −1 4 5 √ 17 $\\frac{m}{s}$ tan −1 4 X 5 √ 17 $\\frac{m}{s}$ tan −1 4 Y X = 0, Y = 0 X = 0, Y = 1 X = 1, Y = 0 X = 1, Y = 1 5π 40π 10π a I r",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A long straight wire of a circular cross-section with radius '  ' carries a steady current . The current I is",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

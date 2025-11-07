@@ -1,0 +1,60 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_1_q70",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 1",
+  "subject": "Chemistry",
+  "question_number": 70,
+  "question_type": "MCQ",
+  "question_text": "Which of the following linear combination of atomic orbitals will lead to formation of molecular orbitals in homonuclear diatomic molecules [internuclear axis in -direction] ? A. 2025 (24 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo H −Br (aq) Fe 2+ (aq) + Ag + (aq) →Fe 3+ (aq) + Ag (s) + + e − →Ag E θ = xV Fe 2+ + 2e − →Fe E θ = yV Fe 3+ + 3e − →Fe E θ = zV x + y −z x + 2y x + 2y −3z y −2x ΔT f z 2p z 2p x 2p x 3 d xy E.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) A and B Only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) D Only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) E Only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) C and D Only",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B. 2 s and",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Choose the correct answer from the options given below:",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "D. 2 s and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

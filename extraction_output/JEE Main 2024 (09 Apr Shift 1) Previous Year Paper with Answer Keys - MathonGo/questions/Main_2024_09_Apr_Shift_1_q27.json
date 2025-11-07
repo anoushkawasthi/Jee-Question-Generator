@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_1_q27",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 1",
+  "subject": "Physics",
+  "question_number": 27,
+  "question_type": "MCQ",
+  "question_text": "is placed with its edges parallel to the   axis. A magnetic field is passing through the plane and expressed as , where . The net magnetic force experienced by the loop is _______ .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A square loop of edge length",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "carrying current of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_1_q66",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 66,
+  "question_type": "MCQ",
+  "question_text": "Let the circles touch each other externally at the point . If the point internally in the ratio , then equals",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 125",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 130",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 110",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 145",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "divides the line segment joining the centres of the circles",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

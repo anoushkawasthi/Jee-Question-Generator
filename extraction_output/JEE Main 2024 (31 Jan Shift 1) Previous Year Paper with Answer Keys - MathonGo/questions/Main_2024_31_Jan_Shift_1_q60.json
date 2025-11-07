@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_1_q60",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 60,
+  "question_type": "MCQ",
+  "question_text": "Molar mass of the salt from NaBr,   NaNO 3 ,   KI 2 which does not evolve coloured vapours on heating with concentrated H 2 SO 4 is ____ g   mol – 1 , (Molar mass in g   mol – 1 :   Na   :   23,   N   :   14,   K   :   39,   O   :   16,   Br   :   80,   I   :   127,   F   :   19,   Ca   :   40 )",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "CaF",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

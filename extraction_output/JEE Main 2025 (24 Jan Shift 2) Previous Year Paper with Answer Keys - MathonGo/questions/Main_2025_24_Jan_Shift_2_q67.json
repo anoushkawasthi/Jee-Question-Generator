@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_2_q67",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 67,
+  "question_type": "Numerical",
+  "question_text": "The successive 5 ionisation energies of an element are , respectively. By using the above values predict the group in which the above element is present : 2025 (24 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo 2 ∣FeBr 3 , H 2 O(Δ), NaOH H 2 SO 4 , Ac 2 O, Br 2 , H 2 O(Δ), NaOH 2 O, Br 2 , H 2 O(Δ), NaOH 2 O, H 2 SO 4 , Br 2 , NaOH 800, 2427, 3658, 25024 32824 kJ/mol",
+  "question_latex": "The successive 5 ionisation energies of an element are , respectively. By using the above values predict the group in which the above element is present : 2025 (24 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo 2 ∣FeBr 3 , H 2 O(Δ), NaOH H 2 SO 4 , Ac 2 O, Br 2 , H 2 O(Δ), NaOH 2 O, Br 2 , H 2 O(Δ), NaOH 2 O, H 2 SO 4 , Br 2 , NaOH 800, 2427, 3658, 25024 32824 $\\frac{kJ}{mol}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Group 13",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Group 14",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Group 2",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Group 4",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "Ac",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "Br",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_1_q3",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 3,
+  "question_type": "MCQ",
+  "question_text": "for time , then it moves with a . The average speed of the train for this duration of journey will be (in ) :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 40",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 80",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 30",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 70",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A train starting from rest first accelerates uniformly up to a speed of",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "constant speed for time",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_1_q56",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 56,
+  "question_type": "MCQ",
+  "question_text": "What amount of bromine will be required to convert 2 g of phenol into 2,4,6-tribromophenol? (Given molar mass in of respectively )",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 20 .44 g",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 4.0 g",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 6.0 g",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 10.22",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "are",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

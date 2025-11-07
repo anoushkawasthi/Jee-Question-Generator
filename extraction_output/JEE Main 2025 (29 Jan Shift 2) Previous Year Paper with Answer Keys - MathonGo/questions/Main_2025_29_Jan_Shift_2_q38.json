@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_2_q38",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 38,
+  "question_type": "MCQ",
+  "question_text": "is charged to a potential difference of using a 5 V battery. The battery is removed and another capacitor, is inserted in place of the battery. When the switch 'S' is closed, the charge flows between the capacitors for some time until equilibrium condition is reached. What are the 2025 (29 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo P ∝√v P ∝v P 2 ∝v 5 P 2 ∝v 3 m t = 0 →V A = V 0 B = V 0 − → − → →V C = V 0 − → − → − → − → 3amV 0 3 2 mV 0 √3 2 mV 0 1 2 mV 0 4 th = 1.5 = 1.33 ( 1 e ) C 1 = 6μ F V 0 = 5 V C 2 = 12μ F on the capacitors when equilibrium condition is reached.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "BA",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "charges",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

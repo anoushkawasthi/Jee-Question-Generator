@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_2_q44",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 44,
+  "question_type": "MCQ",
+  "question_text": "Match List - I with List - II.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) (A)-(IV), (B)-(III), (C)-(I), (D)-(II)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) (A)-(III), (B)-(II), (C)-(IV), (D)-(I)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) (A)-(I), (B)-(IV), (C)-(II), (D)-(III)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) (A)-(II), (B)-(I), (C)-(III), (D)-(IV)",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Choose the correct answer from the options given below :",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

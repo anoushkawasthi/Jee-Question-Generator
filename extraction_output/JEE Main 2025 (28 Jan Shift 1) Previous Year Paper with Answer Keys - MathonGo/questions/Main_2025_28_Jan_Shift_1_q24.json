@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_1_q24",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 24,
+  "question_type": "MCQ",
+  "question_text": "Let 's are constructed such that their centres and eccentricities are same as that of , and the length of minor axis of is the length of major axis of . If is the , then , is equal to",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "area of the ellipse",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be an ellipse. Ellipses",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

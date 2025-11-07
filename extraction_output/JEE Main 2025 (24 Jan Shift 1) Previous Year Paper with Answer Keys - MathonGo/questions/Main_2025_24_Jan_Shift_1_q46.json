@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_1_q46",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 46,
+  "question_type": "Numerical",
+  "question_text": ". Then the magnitude of the magnetic field  at the centre of the square loop will be . where, value of p is _____ .  Take .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A current of 5A exists in a square loop of side",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

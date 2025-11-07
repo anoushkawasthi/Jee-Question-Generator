@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_2_q25",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 25,
+  "question_type": "Numerical",
+  "question_text": "The distance between charges +𝑞 -𝑞 is 2𝑙 +2𝑞 -2𝑞 is 4𝑙 . The electrostatic potential at point 𝑃 𝑟 from centre 𝑂 is -𝛼 𝑞𝑙 𝑟 2 × 10 9 V , where the value of 𝛼 is ______. (Use 1 4𝜋𝜀 0 = 9 × 10 9 N   m 2 C -2 )",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "at a distance",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

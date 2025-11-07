@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_1_q43",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 43,
+  "question_type": "Numerical",
+  "question_text": "self inductance of coil mutual inductance of coil 1 with respect to coil 2, then the value of induced emf in",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "are the currents flowing simultaneously in two nearby coils 1 & 2, respectively. If",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "coil 1 will be Options",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

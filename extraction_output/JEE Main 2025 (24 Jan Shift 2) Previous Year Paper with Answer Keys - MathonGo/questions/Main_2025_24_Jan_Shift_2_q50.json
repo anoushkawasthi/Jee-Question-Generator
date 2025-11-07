@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_2_q50",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 50,
+  "question_type": "Numerical",
+  "question_text": "original value and mass remains unchanged, then the acceleration due to gravity on the surface of the earth is g.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "Acceleration due to gravity on the surface of earth is '  '. If the diameter of earth is reduced to one third of its",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

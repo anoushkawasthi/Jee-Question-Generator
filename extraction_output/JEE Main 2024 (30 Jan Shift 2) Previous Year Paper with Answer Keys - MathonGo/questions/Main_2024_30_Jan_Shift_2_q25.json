@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_2_q25",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 25,
+  "question_type": "MCQ",
+  "question_text": "16 × 10 -8 W   m -2 intensity (magnitude only) at two points located at a distances of 2   m 4   m from the origin respectively will be ________ × 10 -8 W   m -2 .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

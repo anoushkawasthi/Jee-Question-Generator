@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_2_q73",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 73,
+  "question_type": "Numerical",
+  "question_text": ", The sum of the spin-only magnetic moment values of",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "C",
+      "text": "complexes having yellow colour is. _____ B.M. (answer in nearest integer)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

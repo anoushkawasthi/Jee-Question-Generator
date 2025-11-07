@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_1_q35",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 35,
+  "question_type": "Numerical",
+  "question_text": "\" is released at a distance \"  \" from the wire with a speed particle gets attracted to the wire due to magnetic force. The particle turns round when it is at distance  from the wire. The value of  is [ is vacuum permeability]",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "along the direction of current in the wire. The",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Consider a long thin conducting wire carrying a uniform current I. A particle having mass \" M \" and charge \"",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

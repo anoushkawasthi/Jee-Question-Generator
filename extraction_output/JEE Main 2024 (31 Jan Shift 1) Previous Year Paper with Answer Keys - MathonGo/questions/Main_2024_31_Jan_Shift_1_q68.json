@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_1_q68",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 68,
+  "question_type": "MCQ",
+  "question_text": "Let 𝑎 ( 1 – 2𝑥+ 2𝑥 2 ) 2023 ( 3 - 4𝑥 2 + 2𝑥 3 ) 2024 𝑏= lim 𝑥→0 ∫ 0 𝑥 log1 + 𝑡 𝑡 2024 + 1 𝑑𝑡 𝑥 2 . If the equations 𝑐𝑥 2 + 𝑑𝑥+ 𝑒= 0 2𝑏𝑥 2 + 𝑎𝑥+ 4 = 0 have a common root, where 𝑐,   𝑑,   𝑒∈𝑅 , then 𝑑  :   𝑐  :   𝑒 equals 2   :   1   :   4 4   :   1   :   4 1   :   2   :   4 1   :   1   :   4",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be the sum of all coefficients in the expansion of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_1_q48",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 1",
+  "subject": "Chemistry",
+  "question_number": 48,
+  "question_type": "MCQ",
+  "question_text": "Which among the following aldehydes is most reactive towards nucleophilic addition reactions? JEE Main 2024 (06 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo Eu, Cm, Er, Tb, Yb Lu List - I List - II (Compound) (Uses) Iodoform I. Fire extinguisher II. Insecticide III. IV. Refrigerants [CoCl(NH 3 ) 5 ] 2+ (A) , [Co(CN) 6 ] 3− (B) , [Co(NH 3 ) 5 (H 2 O)] 3+ (C) , [Cu(H 2 O) 4 ] 2+ (D) < < < < < < < < < HNO 3 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "Which among the following aldehydes is most reactive towards nucleophilic addition reactions? JEE Main 2024 (06 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo Eu, Cm, Er, Tb, Yb Lu List - I List - II (Compound) (Uses) Iodoform I. Fire extinguisher II. Insecticide III. IV. Refrigerants [CoCl(NH 3 ) 5 ] 2+ (A) , [Co(CN) 6 ] 3− (B) , [Co(NH 3 ) 5 (H 2 O)] 3+ (C) , [Cu(H 2 O) 4 ] 2+ (D) < < < < < < < < < HNO 3 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "Antiseptic",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B < C < A < D",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "CFC",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "DDT",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

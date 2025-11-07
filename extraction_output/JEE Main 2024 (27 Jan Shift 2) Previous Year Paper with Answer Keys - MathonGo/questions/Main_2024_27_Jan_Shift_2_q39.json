@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_27_Jan_Shift_2_q39",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "27 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 39,
+  "question_type": "MCQ",
+  "question_text": "JEE Main 2024 (27 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN even if the tin coating is peeling off. pH lies above 9 or 10 , rusting of iron does not take place. SO 2 , NO 2 in water act as electrochemical cell on the surface of iron object.",
+  "question_latex": "JEE Main 2024 (27 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$ even if the tin coating is peeling off. pH lies above 9 or 10 , rusting of iron does not take place. SO 2 , NO 2 in water act as electrochemical cell on the surface of iron object.",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Coating of iron surface by tin prevents rusting,",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) When",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Dissolved acidic oxides",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Rusting of iron is envisaged as setting up of",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "catalyst in the process of rusting.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_29_Jan_Shift_2_q82",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 82,
+  "question_type": "MCQ",
+  "question_text": "Let such that . Let . Then is equal to ___________.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "B",
+      "text": "be integers not",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "divisible by and  be a natural number such that",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

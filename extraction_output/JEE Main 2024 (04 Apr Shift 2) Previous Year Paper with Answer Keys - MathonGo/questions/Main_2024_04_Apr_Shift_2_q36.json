@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_2_q36",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 2",
+  "subject": "Chemistry",
+  "question_number": 36,
+  "question_type": "Numerical",
+  "question_text": "The equilibrium constant for the reaction is . The value of for the reaction given below is is :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 4.9",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 49",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 41.6",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 416",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

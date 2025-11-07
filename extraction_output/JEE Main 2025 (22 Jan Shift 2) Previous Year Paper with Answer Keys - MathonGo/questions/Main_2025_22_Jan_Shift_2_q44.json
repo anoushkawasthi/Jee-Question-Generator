@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_2_q44",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 44,
+  "question_type": "MCQ",
+  "question_text": "For a diatomic gas, if for rigid molecules and for another diatomic molecules, but heats of the gas at constant pressure and volume) 2025 (22 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo (A) (A) (R) (R) (A) I 0 2I 0 I 0 I 0 2 I 0 √2 M, L, T [F] = [C 2 M −1 L −2 T 2 ] [F] = [C 2 M −2 L 2 T 2 ] [F] = [CM −2 L −2 T −2 ] [F] = [CM −1 L −2 T 2 ] L 2 m/s 4 m/s 2 m/s 6 m/s 8 m/s λ λ 2 = (0.60 ± 0.003)g = (0.50 ± 0.01)cm = (10.00 ± 0.05)cm] γ 1 = ( ) γ 2 = ( )",
+  "question_latex": "For a diatomic gas, if for rigid molecules and for another diatomic molecules, but heats of the gas at constant pressure and volume) 2025 (22 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo (A) (A) (R) (R) (A) I 0 2I 0 I 0 I 0 2 I 0 √2 M, L, T [F] = [C 2 M −1 L −2 T 2 ] [F] = [C 2 M −2 L 2 T 2 ] [F] = [CM −2 L −2 T −2 ] [F] = [CM −1 L −2 T 2 ] L 2 $\\frac{m}{s}$ 4 $\\frac{m}{s}$ 2 $\\frac{m}{s}$ 6 $\\frac{m}{s}$ 8 $\\frac{m}{s}$ λ λ 2 = (0.60 ± 0.003)g = (0.50 ± 0.01)cm = (10.00 ± 0.05)cm] γ 1 = ( ) γ 2 = ( )",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "also having vibrational modes. Then, which one of the following options is correct ? (Cp and Cv are specific",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Cv",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

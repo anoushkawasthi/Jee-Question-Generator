@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_2_q70",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 70,
+  "question_type": "MCQ",
+  "question_text": "Let a relation  on if and only if or . Consider the two statements: (I)  is reflexive but not symmetric. (II)  is transitive Then which one of the following is true? JEE Main 2024 (04 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo c c x 4 , x 5 x 6 (1 + x) n n C √10 x + y = 2 C P Q MN C MN 3 − √ 2 √2 + 1 √2 −1 2 − √ 3 y 2 = 12x (4, 1) P (3, −3) (2, −9) ( 3 2 , −16) ( 1 2 , −20) H x C 1 H C 2 H C 1 C 2 36π 4π H 14 3 28 3 11 3 10 3 f(x) = ∫ x 0 (t + sin (1 −e ′ ))dt, x ∈R lim x→0 f(x) x 3 − 1 6 2 3 − 2 3 1 6 X X 0 2 4 6 8 P(X) a 2a 2b 3b 46 9 173 27 566 81 151 27 581 81 R N × N (x 1 , y 1 )R (x 2 , y 2 ) x 1 ≤x 2 y 1 ≤y 2 R R Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "Let a relation  on if and only if or . Consider the two statements: (I)  is reflexive but not symmetric. (II)  is transitive Then which one of the following is true? JEE Main 2024 (04 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo c c x 4 , x 5 x 6 (1 + x) n n C √10 x + y = 2 C P Q MN C MN 3 − √ 2 √2 + 1 √2 −1 2 − √ 3 y 2 = 12x (4, 1) P (3, −3) (2, −9) ( 3 2 , −16) ( 1 2 , −20) H x C 1 H C 2 H C 1 C 2 36π 4π H 14 3 28 3 11 3 10 3 f(x) = ∫ x 0 (t + sin (1 −e ′ ))dt, x ∈R lim x→0 f(x) x 3 − 1 6 2 3 − 2 3 1 6 X X 0 2 4 6 8 P(X) a 2a 2b 3b 46 9 173 27 566 81 151 27 581 81 R N × N (x 1 , y 1 )R (x 2 , y 2 ) x 1 ≤x 2 y 1 ≤y 2 R R Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Both (I) and (II) are correct.",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Only (II) is correct.",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Neither (I) nor (II) is correct.",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Only (I) is correct.",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "a + b",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be defined as:",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

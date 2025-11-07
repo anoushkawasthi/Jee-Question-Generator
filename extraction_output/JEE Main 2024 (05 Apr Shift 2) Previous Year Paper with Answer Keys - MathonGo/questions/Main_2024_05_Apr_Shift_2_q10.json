@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_2_q10",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 10,
+  "question_type": "MCQ",
+  "question_text": "The vehicles carrying inflammable fluids usually have metallic chains touching the ground : ground and prevent sparking",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) To protect tyres from catching dirt from ground",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) To alert other vehicles",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) It is a custom",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) To conduct excess charge due to air friction to",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

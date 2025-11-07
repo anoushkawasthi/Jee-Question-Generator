@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_1_q14",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 1",
+  "subject": "Mathematics",
+  "question_number": 14,
+  "question_type": "Numerical",
+  "question_text": "𝐶= 200   pF . It is connected to 230   V frequency 300   rad   s -1 . The rms value of conduction current in the circuit and displacement current in the JEE Main 2024 (01 Feb Shift 1) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN 1 .38 μA 1 .38 μA 14 .3 μA 143   μA 13 .8 μA 138   μA 13 .8   μA 13 .8   μA",
+  "question_latex": "𝐶= 200   pF . It is connected to 230   V frequency 300   rad   s -1 . The rms value of conduction current in the circuit and displacement current in the JEE Main 2024 (01 Feb Shift 1) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$ 1 .38 μA 1 .38 μA 14 .3 μA 143   μA 13 .8 μA 138   μA 13 .8   μA 13 .8   μA",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "capacitor respectively are :",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

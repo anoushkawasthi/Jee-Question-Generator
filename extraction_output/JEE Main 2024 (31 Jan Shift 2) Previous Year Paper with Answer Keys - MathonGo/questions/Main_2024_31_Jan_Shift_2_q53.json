@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_2_q53",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 53,
+  "question_type": "Numerical",
+  "question_text": "If 5 moles of an ideal gas expands from 10L to a volume of 100L 300K under isothermal and reversible w , is −x   J . The value of x is - _______. (Given R = 8 .314   J   K -1 mol -1 )",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "at",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "condition then work,",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

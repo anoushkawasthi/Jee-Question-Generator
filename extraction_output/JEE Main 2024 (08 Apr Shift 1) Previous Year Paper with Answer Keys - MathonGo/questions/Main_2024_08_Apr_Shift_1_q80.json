@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_1_q80",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 80,
+  "question_type": "MCQ",
+  "question_text": "Let the sum of two positive integers be 24 . If the probability, that their product is not less than times their greatest possible product, is , where , then equals",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 10",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 9",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 11",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 8",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

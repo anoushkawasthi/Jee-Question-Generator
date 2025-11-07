@@ -1,0 +1,35 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_2_q56",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 2",
+  "subject": "Chemistry",
+  "question_number": 56,
+  "question_type": "MCQ",
+  "question_text": "The initial rate of the reaction is recorded as when the reaction starts with pressure of  and pressure of . After some time, the rate is recorded when the pressure of  becomes . The ratio is ______ . (Nearest integer) JEE Main 2024 (05 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo n = 4, | m l | = 1 m s = − 1 2 HF, H 2 , H 2 S, CO 2 , NH 3 , BF 3 , CH 4 , CHCl 3 , SiF 4 , H 2 O, BeF 2 C 6 H 6 (l) + 15 2 O 2 ( g) →6CO 2 ( g) + 3H 2 O(l). 2 mol − ′ x ′ kJ x = 1 mol C 6 H 6 (l) 6C +3H 2 ( g) →C 6 H 6 (l) 48.5 kJ mol −1 1 mol 2 ( g) C +O 2 ( g) →CO 2 ( g) −393.5 kJ mol −1 1 mol H 2 O(l) H 2 ( g) + 1 2 O 2 ( g) →H 2 O(l) −286 kJ mol −1 R f A C x × 10 −2 x 6.25 × 10 −5 5 mL −x × 10 −2∘ C 0 ∘ (K f ) water = 1.86 K kg mol −1 . 1.2 g mol −1 . molar mass of water = 18 g mol −1 . molar mass of acetic acid=60 gmol −1 . = 1 g −3 3 3 ⊖ + H ⊕ 2 A (g) + B (g) →C (g) r 1 1.5 A 0.7 B r 2 C 0.5 r 1 : r 2 ×10 −1 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "The initial rate of the reaction is recorded as when the reaction starts with pressure of  and pressure of . After some time, the rate is recorded when the pressure of  becomes . The ratio is ______ . (Nearest integer) JEE Main 2024 (05 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo n = 4, | m l | = 1 m s = − 1 2 HF, H 2 , H 2 S, CO 2 , NH 3 , BF 3 , CH 4 , CHCl 3 , SiF 4 , H 2 O, BeF 2 C 6 H 6 (l) + 15 2 O 2 ( g) →6CO 2 ( g) + 3H 2 O(l). 2 mol − ′ x ′ kJ x = 1 mol C 6 H 6 (l) 6C +3H 2 ( g) →C 6 H 6 (l) 48.5 kJ mol −1 1 mol 2 ( g) C +O 2 ( g) →CO 2 ( g) −393.5 kJ mol −1 1 mol H 2 O(l) H 2 ( g) + 1 2 O 2 ( g) →H 2 O(l) −286 kJ mol −1 R f A C x × 10 −2 x 6.25 × 10 −5 5 mL −x × 10 −2∘ C 0 ∘ (K f ) water = 1.86 K kg mol −1 . 1.2 g mol −1 . molar mass of water = 18 g mol −1 . molar mass of acetic acid=60 gmol −1 . = 1 g −3 3 3 ⊖ + H ⊕ 2 A (g) + B (g) →C (g) r 1 1.5 A 0.7 B r 2 C 0.5 r 1 : r 2 ×10 −1 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "atm",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "COO",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "density of water",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

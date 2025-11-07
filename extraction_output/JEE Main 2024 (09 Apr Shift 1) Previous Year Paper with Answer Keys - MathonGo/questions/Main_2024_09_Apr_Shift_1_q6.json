@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_1_q6",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 1",
+  "subject": "Physics",
+  "question_number": 6,
+  "question_type": "Numerical",
+  "question_text": "from earth to space. He throws the ball into a circular orbit about earth at an . From earth's surface to the orbit, the change in total mechanical energy of the ball is . The value of  is (take :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 10",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 12",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 9",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 11",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "altitude of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_2_q55",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 55,
+  "question_type": "MCQ",
+  "question_text": ". If of acetic acid is , provided pure water freezes at . ______ . (Nearest integer) Given :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "Acetic acid dissociates as",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Considering acetic acid dissociates in water, its dissociation constant is",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "dissolved in 1 litre water, the solution will freeze at",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

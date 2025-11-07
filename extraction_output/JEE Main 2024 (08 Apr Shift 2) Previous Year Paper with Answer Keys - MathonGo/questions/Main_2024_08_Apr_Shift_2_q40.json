@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_2_q40",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 40,
+  "question_type": "MCQ",
+  "question_text": "The emf of cell Tl is . It could be increased by : ions ions ions ions",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) decreasing concentration of both",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) increasing concentration of",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) increasing concentration of",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) increasing concentration of both",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

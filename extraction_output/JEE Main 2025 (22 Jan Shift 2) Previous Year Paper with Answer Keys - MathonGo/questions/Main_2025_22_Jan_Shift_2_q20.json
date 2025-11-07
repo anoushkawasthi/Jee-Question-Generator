@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_2_q20",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 20,
+  "question_type": "MCQ",
+  "question_text": "Let . Let the distance between the foci of E and the foci of . If , and the ratio of the eccentricities of  and is , then the sum of the lengths of their latus rectums is equal to:",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 10",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 9",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 8",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 7",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

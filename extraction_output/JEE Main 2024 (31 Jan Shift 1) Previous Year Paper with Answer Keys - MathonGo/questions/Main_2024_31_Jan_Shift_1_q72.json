@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_1_q72",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 72,
+  "question_type": "MCQ",
+  "question_text": "If 𝑓𝑥= 4𝑥+ 3 6𝑥- 4 ,   𝑥≠ 2 3 ( 𝑓𝑜𝑓)   ( 𝑥) = 𝑔( 𝑥) , where 𝑔: 𝑅- 2 3 →𝑅- 2 3 , then ( 𝑔𝑜𝑔𝑜𝑔)   ( 4 ) is equal to - 19 20 19 20 -4 4",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

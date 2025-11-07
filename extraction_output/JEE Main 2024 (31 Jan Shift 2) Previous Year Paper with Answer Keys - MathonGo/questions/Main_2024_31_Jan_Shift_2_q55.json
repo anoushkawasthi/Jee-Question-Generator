@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_2_q55",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 55,
+  "question_type": "Numerical",
+  "question_text": "The values of conductivity of some materials at 298 .15 K in Sm −1 2 .1 × 10 3 ,   1 .0 × 10 −16 ,   1 .2 × 10, 3 .91 ,   1 .5 × 10 −2 ,   1 × 10 −7 ,   1 .0 × 10 3 . The number of",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "are",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "conductors among the materials is _____.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

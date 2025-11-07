@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_2_q66",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 66,
+  "question_type": "MCQ",
+  "question_text": "Let . Then the radius  of the circle passing through the point  and touching the line segments satisfies: JEE Main 2024 (05 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo A B 2 A B 351 g 87 g π Xg NaNO 2 /HCl N 2 HCl HCl NaOH. X S 1 = {z ∈C : |z| ≤5}, S 2 = {z ∈C : Im ( z+1−√3i 1− √ 3i ) ≥0} S 3 = {z ∈C : Re(z) ≥0} S 1 ∩S 2 ∩S 3 125π 12 125π 4 125π 24 125π 6 50 th x ⩾0 K 4 1+x + 4 1−x , K 2 , 16 x + 16 −x ( 5 √3 x + 2x 3 √5 ) 12 , x ≠0 α × 2 8 × 5 √3 25α P △PAB P 5a + 2 b − 6 5 − 12 5 E F r F r = 0 2r 2 −4r + 1 = 0 2r 2 −8r + 7 = 0 r 2 −8r + 8 = 0 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "Let . Then the radius  of the circle passing through the point  and touching the line segments satisfies: JEE Main 2024 (05 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo A B 2 A B 351 g 87 g π Xg NaNO 2 /HCl N 2 HCl HCl NaOH. X S 1 = {z ∈C : |z| ≤5}, S 2 = {z ∈C : Im ( z+1−√3i 1− √ 3i ) ≥0} S 3 = {z ∈C : Re(z) ≥0} S 1 ∩S 2 ∩S 3 125π 12 125π 4 125π 24 125π 6 50 th x ⩾0 K 4 1+x + 4 1−x , K 2 , 16 x + 16 −x ( 5 √3 x + 2x 3 √5 ) 12 , x ≠0 α × 2 8 × 5 √3 25α P △PAB P 5a + 2 b − 6 5 − 12 5 E F r F r = 0 2r 2 −4r + 1 = 0 2r 2 −8r + 7 = 0 r 2 −8r + 8 = 0 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "AC",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "BC",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "CD",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

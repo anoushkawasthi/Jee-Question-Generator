@@ -1,0 +1,60 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_1_q45",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 45,
+  "question_type": "MCQ",
+  "question_text": "JEE Main 2024 (31 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN K 2 MnO 4 E. With increasing oxidation number of transition metal, ionic character of the oxides decreases.",
+  "question_latex": "JEE Main 2024 (31 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$ K 2 MnO 4 E. With increasing oxidation number of transition metal, ionic character of the oxides decreases.",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) B, C, D only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) A, D, E only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) A, B, C only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) B, D, E only",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A. The chromate ion is square planar.",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B. Dichromates are generally prepared from chromates.",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Choose the correct answer from the options given below:",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "disproportionates in a neutral or acidic medium to give permanganate.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

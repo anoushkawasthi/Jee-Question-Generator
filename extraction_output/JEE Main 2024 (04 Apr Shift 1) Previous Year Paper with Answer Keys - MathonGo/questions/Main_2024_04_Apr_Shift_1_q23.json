@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_1_q23",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 23,
+  "question_type": "Numerical",
+  "question_text": "has a length . Its length is  under tension . For its length , the value of tension will be______ .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "An elastic spring under tension of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

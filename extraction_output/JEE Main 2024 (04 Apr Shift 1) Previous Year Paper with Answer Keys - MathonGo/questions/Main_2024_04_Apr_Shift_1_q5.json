@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_1_q5",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 1",
+  "subject": "Physics",
+  "question_number": 5,
+  "question_type": "MCQ",
+  "question_text": "of the following curve best describes acceleration of the block with time:",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A wooden block, initially at rest on the ground, is pushed by a force which increases linearly with time . Which",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_1_q38",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 38,
+  "question_type": "MCQ",
+  "question_text": "For the circuit shown above, equivalent GATE is : 2025 (29 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo List - I List - II (A) (I) (B) (II) σ/2ϵ 0 (C) (III) 0 (D) (IV) σR 2 ϵ 0 r 2 Electric field inside (distance r > 0 from center) of a uniformly charged spherical shell with surface charge density σ, and radius R. σ/ϵ 0 Electric field at distance r>0 from a uniformly σ. Electric field outside (distance r>0 from center) of a uniformly charged spherical shell with surface charge density σ, and radius R. Electric field between 2 oppositely charged infinite plane parallel sheets with uniform surface charge density σ.",
+  "question_latex": "For the circuit shown above, equivalent GATE is : 2025 (29 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo List - I List - II (A) (I) (B) (II) $\\frac{σ}{2ϵ}$ 0 (C) (III) 0 (D) (IV) σR 2 ϵ 0 r 2 Electric field inside (distance r > 0 from center) of a uniformly charged spherical shell with surface charge density σ, and radius R. $\\frac{σ}{ϵ}$ 0 Electric field at distance r>0 from a uniformly σ. Electric field outside (distance r>0 from center) of a uniformly charged spherical shell with surface charge density σ, and radius R. Electric field between 2 oppositely charged infinite plane parallel sheets with uniform surface charge density σ.",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) OR gate",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) NAND gate",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) NOT gate",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) AND gate",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "charge density",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_1_q85",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 1",
+  "subject": "Mathematics",
+  "question_number": 85,
+  "question_type": "MCQ",
+  "question_text": "Let 𝑥 𝑥 𝑓𝑥= −1 1 −𝑥 2 sin −1 1 −𝑥 𝑥−𝑥 3 , 𝑥≠0 . If 𝐿  and   𝑅 respectively denotes the left hand limit and the right hand limit of 𝑓𝑥 𝑥= 0 , then 32 𝜋 2 𝐿 2 + 𝑅 2 is equal to __________.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "at",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "cos",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "denote the fractional part of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

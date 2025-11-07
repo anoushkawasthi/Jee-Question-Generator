@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_2_q10",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 10,
+  "question_type": "MCQ",
+  "question_text": "white and 5 blue balls. One of the bags is selected at random and a ball is drawn from it. If the ball is white, then the probability, that the ball is drawn from Bag , is :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "Bag",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "contains 5",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

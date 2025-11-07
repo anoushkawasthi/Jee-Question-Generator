@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_2_q65",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 65,
+  "question_type": "MCQ",
+  "question_text": "The ascending order of relative rate of solvolysis of following compounds is : 2025 (23 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo √v v = X v(v = X A Pb(NO 3 ) 2 HNO 3 − → H 2 SO 4 − → − → K 2 4 PbCl 2 , PbSO 4 , PbCrO 4 PbS, PbSO 4 , Pb(CH 3 2 PbCl 2 , Pb(SO 4 ) 2 , PbCrO 4 PbS, PbSO 4 , PbCrO 4 2. x 1 y 1 1 x 1 1 y 1 P 0 2 P 0 1 , P 0 2 −P 0 1 P 0 2 P 0 1 P 0 2 , P 0 2 −P 0 1 P 0 2 P 0 1 P 0 2 , P 0 1 −P 0 2 P 0 2 P 0 2 P 0 1 , P 0 1 −P 0 2 P 0 2 (C) < (B) < (A) < (D) (D) < (A) < (B) < (C) (D) < (B) < (A) < (C) (C) < (D) < (B) < (A)",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Ammonium",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Acetic acid",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "acetate",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "COO)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

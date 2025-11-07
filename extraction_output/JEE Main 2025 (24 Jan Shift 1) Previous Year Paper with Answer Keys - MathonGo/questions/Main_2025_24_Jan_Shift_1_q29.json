@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_1_q29",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 29,
+  "question_type": "MCQ",
+  "question_text": "' moves on a banked road having radius '  ' and banking angle . To avoid slipping from . The coefficient of friction  between the wheels of the car and the banked road is",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A car of mass '",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "banked road, the maximum permissible speed of the car is",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

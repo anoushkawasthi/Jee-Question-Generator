@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_2_q24",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 24,
+  "question_type": "MCQ",
+  "question_text": "Let . Let C be the circle described taking PQ as a diameter. If the equation of a circle  is , then is equal to ________.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "B",
+      "text": "be the parabola and  be its focus. Let PQ be a focal chord of the parabola such that",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

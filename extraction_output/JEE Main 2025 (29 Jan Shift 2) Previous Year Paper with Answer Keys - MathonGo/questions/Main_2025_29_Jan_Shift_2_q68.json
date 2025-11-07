@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_2_q68",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 68,
+  "question_type": "MCQ",
+  "question_text": "0.1 M solution of KI reacts with excess of solutions. According to equation 0.004 mol of (B) 200 mL of KI solution reacts with 0.006 mol of (C) 0.5 L of KI solution produced 0.005 mol of (D) Equivalent weight of is equal to (",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) (A) and (D) only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) (C) and (D) only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) (B) and (C) only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) (A) and (B) only",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "answer from the options given below :",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

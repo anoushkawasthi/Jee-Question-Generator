@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_1_q45",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 1",
+  "subject": "Mathematics",
+  "question_number": 45,
+  "question_type": "MCQ",
+  "question_text": "Given below are two statements: Statement (I): A solution of NiH 2 O 6 2 + is green in colour. Statement (II): A solution of Ni ( CN ) 4 2 - is colourless.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Both Statement I and Statement II are incorrect",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Both Statement I and Statement II are correct",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Statement I is incorrect but Statement II is",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Statement I is correct but Statement II is",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "correct",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

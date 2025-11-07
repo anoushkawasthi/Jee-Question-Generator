@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_2_q31",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 31,
+  "question_type": "MCQ",
+  "question_text": "minimum thickness of transparent film to be coated for the maximum transmission of Green light of wavelength 550 nm . [Assume that the light is incident nearly perpendicular to the glass surface.]",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 137.5 nm",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 275 nm",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 94.8 nm",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 68.7 nm",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A transparent film of refractive index, 2.0 is coated on a glass slab of refractive index, 1.45. What is the",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_2_q33",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 33,
+  "question_type": "MCQ",
+  "question_text": "Which of the following is/are true about A ' ,   B ' ,   C ' D ' ? B ' < A ' < D ' < C ' B ' < A ' < D ' < C ' D ' < C ' < B ' < A ' B '+ < A '+ < D '+ < C '+",
+  "question_latex": "Which of the following $\\frac{is}{are}$ true about A ' ,   B ' ,   C ' D ' ? B ' < A ' < D ' < C ' B ' < A ' < D ' < C ' D ' < C ' < B ' < A ' B '+ < A '+ < D '+ < C '+",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) A only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) A, B and D only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) A and B only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) B, C and D only",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A. Order of atomic radii:",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B. Order of metallic character :",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Choose the correct answer from the options given below:",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "D. Order of ionic radii :",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

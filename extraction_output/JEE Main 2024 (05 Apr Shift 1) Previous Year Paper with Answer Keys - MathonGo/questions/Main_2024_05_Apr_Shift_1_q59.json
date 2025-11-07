@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_1_q59",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 1",
+  "subject": "Chemistry",
+  "question_number": 59,
+  "question_type": "MCQ",
+  "question_text": "Total sum of oxygen atoms in Product A and Product B are _______",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "C",
+      "text": "Consider the given chemical reaction sequence :",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

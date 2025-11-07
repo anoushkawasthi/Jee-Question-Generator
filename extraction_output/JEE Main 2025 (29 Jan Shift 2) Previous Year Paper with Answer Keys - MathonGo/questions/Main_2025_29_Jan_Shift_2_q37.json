@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_2_q37",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 37,
+  "question_type": "MCQ",
+  "question_text": "In an experiment with photoelectric effect, the stopping potential, incident light incident light incident light times the maximum kinetic energy of the emitted photoelectrons",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) increases with increase in the intensity of the",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) decreases with increase in the intensity of the",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) increases with increase in the wavelength of the",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) is",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

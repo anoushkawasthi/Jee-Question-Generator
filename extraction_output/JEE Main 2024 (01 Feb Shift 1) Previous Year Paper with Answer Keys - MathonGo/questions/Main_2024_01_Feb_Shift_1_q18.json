@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_1_q18",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 1",
+  "subject": "Chemistry",
+  "question_number": 18,
+  "question_type": "MCQ",
+  "question_text": "The minimum energy required by a hydrogen atom in ground state to emit radiation in Balmer series is nearly : 1 . 5   eV 13 . 6   eV 1 . 9   eV 12 . 1   eV",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

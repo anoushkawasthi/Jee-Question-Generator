@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_27_Jan_Shift_1_q30",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "27 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 30,
+  "question_type": "MCQ",
+  "question_text": "In a nuclear fission process, a high mass nuclide with binding energy Nucleon , having binding energy of Nucleon. The energy released in the process would be _______ .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "D",
+      "text": "dissociated into two middle mass nuclides",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

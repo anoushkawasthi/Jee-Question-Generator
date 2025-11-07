@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_2_q68",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 68,
+  "question_type": "MCQ",
+  "question_text": "Identify the inorganic sulphides that are yellow in colour : (A) (B) (C) (D) (E)",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) (A), (D) and (E) only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) (D) and (E) only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) (A) and (B) only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) (A) and (C) only",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Choose the correct answer from the options given below :",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

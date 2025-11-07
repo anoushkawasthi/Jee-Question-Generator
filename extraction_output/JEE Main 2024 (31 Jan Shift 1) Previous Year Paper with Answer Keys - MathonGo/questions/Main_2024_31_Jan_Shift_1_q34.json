@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_1_q34",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 1",
+  "subject": "Chemistry",
+  "question_number": 34,
+  "question_type": "MCQ",
+  "question_text": "14 elements 𝑆𝑖𝑂 2 ,   𝐺𝑒𝑂 2 ,   𝑆𝑛𝑂 2 ,   𝑃𝑏𝑂 2 ,   𝐶𝑂 𝐺𝑒𝑂 . The amphoteric oxides are GeO,   GeO 2 SiO 2 ,   GeO 2 SnO 2 ,   PbO 2 SnO 2 ,   CO",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Consider the oxides of group",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

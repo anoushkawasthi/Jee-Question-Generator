@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_1_q67",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 1",
+  "subject": "Mathematics",
+  "question_number": 67,
+  "question_type": "MCQ",
+  "question_text": "Let 𝑥 2 𝑎 2 + 𝑦 2 𝑏 2 = 1, 𝑎> 𝑏 1 √ 2 √14 . Then the square of the eccentricity of 𝑥 2 𝑎 2 − 𝑦 2 𝑏 2 = 1 is: 3 7 2 3 2 5 2",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and the length of the latus rectum is",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be an ellipse, whose eccentricity is",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2024_29_Jan_Shift_2_q47",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 47,
+  "question_type": "MCQ",
+  "question_text": "The product  formed in the following reaction is: JEE Main 2024 (29 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo 4 , (aq) , C = NH 2 −NH 2 / KOH ethylene glycol 4 , (alc) , C = Zn / HCl (aq) 2 −NH 2 / KOH ethylene glycol (alc) , C = Zn / HCl C 2 H 5 2 + Br 2 + NaOH →C 2 H 5 2 NH 2 + Na 2 3 + NaBr + H 2 O A Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "The product  formed in the following reaction is: JEE Main 2024 (29 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo 4 , (aq) , C = NH 2 −NH 2 / KOH ethylene glycol 4 , (alc) , C = Zn / HCl (aq) 2 −NH 2 / KOH ethylene glycol (alc) , C = Zn / HCl C 2 H 5 2 + Br 2 + NaOH →C 2 H 5 2 NH 2 + Na 2 3 + NaBr + H 2 O A Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A = DIBAL −H, B = NaOH",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B = NaOH",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "CO",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

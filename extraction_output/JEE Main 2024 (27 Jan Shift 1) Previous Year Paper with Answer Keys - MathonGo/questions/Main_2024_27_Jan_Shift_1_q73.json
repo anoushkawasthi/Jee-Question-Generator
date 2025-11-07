@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2024_27_Jan_Shift_1_q73",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "27 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 73,
+  "question_type": "MCQ",
+  "question_text": "The function ; defined by the highest prime factor of , is : JEE Main 2024 (27 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 4x + 5y = 20 L 1 L 2 L 1 L 2 8 5 25 41 2 5 30 41 (2k, 3k), (1, 0), (0, 1) (0, 0) k 2 13 3 13 5 13 1 13 y 2 = 4x x 2 + y 2 −4x −16y + 64 = 0 d d 2 16 24 20 36 x 2 25 + y 2 16 = 1 (1, 2 5 ) √1691 5 √2009 5 √1741 5 √1541 5 x→0 √1+√1+x 4 −√2 x 4 x→0 sin 2 x √2−√1+cos x 3 36 32 25 30 a 1 , a 2 , . . . , a 10 10 ∑ 10 k=1 a k = 50 ∑ ∀k<j a k ⋅a j = 1100 a 1 , a 2 , … , a 10 5 √5 10 √115 S = {1, 2, 3, … , 10} M S R = {(A, B) : A ∩B ≠ϕ; A, B ∈M} f(x) = ⎡ ⎢ ⎣ sin x 0 0 0 1 ⎤ ⎥ ⎦ f(−x) f(x) f(x) f(y) = f(x + y) f : N −{1} →N f(n) = n Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "The function ; defined by the highest prime factor of , is : JEE Main 2024 (27 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 4x + 5y = 20 L 1 L 2 L 1 L 2 8 5 25 41 2 5 30 41 (2k, 3k), (1, 0), (0, 1) (0, 0) k 2 13 3 13 5 13 1 13 y 2 = 4x x 2 + y 2 −4x −16y + 64 = 0 d d 2 16 24 20 36 x 2 25 + y 2 16 = 1 (1, 2 5 ) √1691 5 √2009 5 √1741 5 √1541 5 x→0 √1+√1+x 4 −√2 x 4 x→0 sin 2 x √2−√1+cos x 3 36 32 25 30 a 1 , a 2 , . . . , a 10 10 ∑ 10 k=1 a k = 50 ∑ ∀k<j a k ⋅a j = 1100 a 1 , a 2 , … , a 10 5 √5 10 √115 S = {1, 2, 3, … , 10} M S R = {(A, B) : A ∩B ≠ϕ; A, B ∈M} f(x) = ⎡ ⎢ ⎣ sin x 0 0 0 1 ⎤ ⎥ ⎦ f(−x) f(x) f(x) f(y) = f(x + y) f : N −{1} →N f(n) = n Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) both one-one and onto",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) one-one only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) onto only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) neither one-one nor onto",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "ab",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "b = lim",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "cos x",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

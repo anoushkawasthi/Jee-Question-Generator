@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_2_q75",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 75,
+  "question_type": "MCQ",
+  "question_text": "Total number of hybridised carbon atoms in the major product C formed is________ 2025 (23 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo sp 3 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. (8788) 22. (474) 23. (17280) 24. (15) 25. (31) 26. 27. 28. 29. 30. 31. 32. 33. 34. 35. 36. 37. 38. 39. 40. 41. 42. 43. 44. 45. 46. (100) 47. 48. (2190) 49. 50. (16) 51. 52. 53. 54. 55. 56. 57. 58. 59. 60. 61. 62. 63. 64. 65. 66. 67. 68. 69. 70. 71. (100) 72. (27) 73. (153) 74. (200) 75. 2025 (23 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "ANSWER KEYS",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Consider the following sequence of reactions.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

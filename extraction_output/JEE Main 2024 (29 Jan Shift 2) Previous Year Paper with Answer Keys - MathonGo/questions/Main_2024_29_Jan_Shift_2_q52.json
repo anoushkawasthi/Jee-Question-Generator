@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_29_Jan_Shift_2_q52",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 52,
+  "question_type": "MCQ",
+  "question_text": "The total number of 'Sigma' and",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "B",
+      "text": "bonds in 2-formylhex-4-enoic acid is",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

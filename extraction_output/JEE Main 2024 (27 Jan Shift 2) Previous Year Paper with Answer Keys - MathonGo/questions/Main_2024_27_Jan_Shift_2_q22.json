@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_27_Jan_Shift_2_q22",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "27 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 22,
+  "question_type": "MCQ",
+  "question_text": "7 x , where x is ______.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A ring and a solid sphere roll down the same inclined plane without slipping. They start from rest. The radii of",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "both bodies are identical and the ratio of their kinetic energies is",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

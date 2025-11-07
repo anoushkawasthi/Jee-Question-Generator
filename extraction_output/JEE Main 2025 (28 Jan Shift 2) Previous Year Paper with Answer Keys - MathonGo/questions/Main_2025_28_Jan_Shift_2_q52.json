@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_2_q52",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 52,
+  "question_type": "MCQ",
+  "question_text": "Given below are two statements : Statement (I) : Statement (II) : Statement (I) Statement (II) Statement (I) Statement (II) Statement (I) is false but Statement (II) is true. (4) Statement (I) is true but Statement (II) is false. 2025 (28 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo 6 × 10 −6 10 6 V/m t = 0 E ∝t n 7 × 10 6 Pa mm 3 = 1.4 × 10 11 N m −2 75% 1.25 g/mL 40 32 45 55",
+  "question_latex": "Given below are two statements : Statement (I) : Statement (II) : Statement (I) Statement (II) Statement (I) Statement (II) Statement (I) is false but Statement (II) is true. (4) Statement (I) is true but Statement (II) is false. 2025 (28 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo 6 × 10 −6 10 6 $\\frac{V}{m}$ t = 0 E ∝t n 7 × 10 6 Pa mm 3 = 1.4 × 10 11 N m −2 75% 1.25 $\\frac{g}{mL}$ 40 32 45 55",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Both",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "are true.",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Cm",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

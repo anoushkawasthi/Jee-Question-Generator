@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_2_q8",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 8,
+  "question_type": "MCQ",
+  "question_text": "8 moles of argon and 6 moles of oxygen at temperature 𝑇 . Neglecting all vibrational modes, the total internal energy of the system is 29   𝑅𝑇 20   𝑅𝑇 27   𝑅𝑇 21   𝑅𝑇",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A gas mixture consists of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

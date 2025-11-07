@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_1_q36",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 36,
+  "question_type": "MCQ",
+  "question_text": "Match List I with List II from the options given below:",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) A-II, B-III, C-I, D-IV",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) A-III, B-I, C-II, D-IV",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) A-IV, B-I, C-III, D-II",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) A-III, B-IV, C-II, D-I",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Choose the correct answer",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

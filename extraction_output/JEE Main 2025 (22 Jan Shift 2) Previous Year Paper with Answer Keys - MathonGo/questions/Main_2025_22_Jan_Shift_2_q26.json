@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_2_q26",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 26,
+  "question_type": "MCQ",
+  "question_text": "To obtain the given truth table, following logic gate should be placed at G: 2025 (22 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo 4π 5π 6 π π 2 z(1 + i) + ¯z(1 −i) = 4, z ∈C |z −3| ≤1 α β |α −β| 1 + π 2 1 + π 3 1 + π 6 1 + π 4 E : x 2 a 2 + y 2 b 2 = 1, a > b H : x 2 A 2 − y 2 B 2 = 1 H 2√3 E H 1 3 ∑ 30 r=1 r 2 ( 30 C r ) 2 30 C r−1 = α × 2 29 α A (1, 2) (2, 3) L(a, 9) G(h, k) (5a −3h + 6k + 100 sin 2α) y = f(x) + xy x 2 −1 = x 6 +4x √1−x 2 , −1 < x < 1 f(0) = 0 6 ∫ 1/2 −1/2 f(x)dx = 2π −α α 2 P PQR Q R (QR) 2 A B Y 0 0 1 0 1 1 1 0 0 1 1 1",
+  "question_latex": "To obtain the given truth table, following logic gate should be placed at G: 2025 (22 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo 4π 5π 6 π π 2 z(1 + i) + ¯z(1 −i) = 4, z ∈C |z −3| ≤1 α β |α −β| 1 + π 2 1 + π 3 1 + π 6 1 + π 4 E : x 2 a 2 + y 2 b 2 = 1, a > b H : x 2 A 2 − y 2 B 2 = 1 H 2√3 E H 1 3 ∑ 30 r=1 r 2 ( 30 C r ) 2 30 C r−1 = α × 2 29 α A (1, 2) (2, 3) L(a, 9) G(h, k) (5a −3h + 6k + 100 sin 2α) y = f(x) + xy x 2 −1 = x 6 +4x √1−x 2 , −1 < x < 1 f(0) = 0 6 ∫ $\\frac{1}{2}$ −$\\frac{1}{2}$ f(x)dx = 2π −α α 2 P PQR Q R (QR) 2 A B Y 0 0 1 0 1 1 1 0 0 1 1 1",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) OR Gate",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) AND Gate",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) NOR Gate",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) NAND Gate",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A(6, 8), B(10 cos α, −10 sin α)",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "C(−10 sin α, 10 cos α)",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "dx",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

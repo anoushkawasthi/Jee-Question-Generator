@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_2_q27",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 2",
+  "subject": "Physics",
+  "question_number": 27,
+  "question_type": "Numerical",
+  "question_text": "100 turns and each turn has an area of 2 . 0   cm 2 . The magnetic field produced by the magnet is 0 . 01   T 0 . 05 radian when a current of 10   mA is JEE Main 2024 (01 Feb Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN passed through it. The torsional constant of the suspension wire is 𝑥× 10 -5 N - m / rad . The value of 𝑥 is ______ .",
+  "question_latex": "100 turns and each turn has an area of 2 . 0   cm 2 . The magnetic field produced by the magnet is 0 . 01   T 0 . 05 radian when a current of 10   mA is JEE Main 2024 (01 Feb Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$ passed through it. The torsional constant of the suspension wire is 𝑥× 10 -5 N - m / rad . The value of 𝑥 is ______ .",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and the deflection in the coil is",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

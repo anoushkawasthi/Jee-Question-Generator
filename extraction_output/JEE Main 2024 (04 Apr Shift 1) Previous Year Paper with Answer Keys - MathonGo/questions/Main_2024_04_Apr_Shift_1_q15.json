@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_1_q15",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 15,
+  "question_type": "MCQ",
+  "question_text": "In an ac circuit, the instantaneous current is zero, when the instantaneous voltage is maximum. In this case, the source may be connected to : A. pure inductor. B. pure capacitor. C. pure resistor. D. combination of an",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) A, B and C only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) A and B only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) B, C and D only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) A, B and D only",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

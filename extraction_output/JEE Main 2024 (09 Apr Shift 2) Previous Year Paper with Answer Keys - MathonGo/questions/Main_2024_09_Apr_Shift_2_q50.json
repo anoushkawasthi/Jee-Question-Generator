@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_2_q50",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 50,
+  "question_type": "MCQ",
+  "question_text": "",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Glucose is soluble in water because of having",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Glucose remains in multiple isomeric form in its",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Glucose is one of the monomer unit in sucrose",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Glucose is an aldohexose",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "aqueous solution",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_1_q72",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 1",
+  "subject": "Chemistry",
+  "question_number": 72,
+  "question_type": "MCQ",
+  "question_text": "For the thermal decomposition of reaction mentioned below. Given : Rate constant for the reaction is .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "at constant volume, the following table can be formed, for the",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_1_q27",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 27,
+  "question_type": "Numerical",
+  "question_text": "each is rotating with an angular velocity of . The magnetic field of earth in that region is . The emf induced across the blades is . The value of  is _______.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and angle of dip is",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

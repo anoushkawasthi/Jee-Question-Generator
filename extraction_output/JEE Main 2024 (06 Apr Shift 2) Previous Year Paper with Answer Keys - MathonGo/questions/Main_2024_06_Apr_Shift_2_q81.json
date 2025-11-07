@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_2_q81",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 81,
+  "question_type": "MCQ",
+  "question_text": "Let . If , then is equal to______",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "B",
+      "text": "be roots of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

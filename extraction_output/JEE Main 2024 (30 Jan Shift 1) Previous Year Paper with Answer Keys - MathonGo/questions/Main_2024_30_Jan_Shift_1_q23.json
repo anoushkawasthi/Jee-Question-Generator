@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_1_q23",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 23,
+  "question_type": "MCQ",
+  "question_text": "Each of three blocks shown in figure has a mass of . Each of the wire has cross- sectional area . Neglecting friction, the longitudinal strain on wire  is _____ . (Take ) JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 400 nm 0. 2 mm 100 1 st 2 mm 2 0. 02 mm 0. 2 mm 3. 0 eV 215 nm 414 nm 400 nm 200 nm 5 th 4 1 4 1 2 1 10 V 50 mA 0 30 mA 20 mA t (t + 1) s 125 m 50 m s −1 (t + 2) th s m 5 kg 2 m 10 rad s −1 J P, Q R 3 kg A B 0. 005 2 2 × 10 11 N m −2 B ×10 −4 g = 10 m s −2 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "Each of three blocks shown in figure has a mass of . Each of the wire has cross- sectional area . Neglecting friction, the longitudinal strain on wire  is _____ . (Take ) JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 400 nm 0. 2 mm 100 1 st 2 mm 2 0. 02 mm 0. 2 mm 3. 0 eV 215 nm 414 nm 400 nm 200 nm 5 th 4 1 4 1 2 1 10 V 50 mA 0 30 mA 20 mA t (t + 1) s 125 m 50 m s −1 (t + 2) th s m 5 kg 2 m 10 rad s −1 J P, Q R 3 kg A B 0. 005 2 2 × 10 11 N m −2 B ×10 −4 g = 10 m s −2 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and Young's modulus",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "cm",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

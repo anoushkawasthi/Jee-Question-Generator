@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_2_q30",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 2",
+  "subject": "Mathematics",
+  "question_number": 30,
+  "question_type": "MCQ",
+  "question_text": "3 × 10 15 Hz when it makes transition from 𝑛= 2 to 𝑛= 1 . The frequency of radiation emitted in transition from 𝑛=3 to 𝑛= 1 is 𝑥 9 × 10 15 Hz, when 𝑥= _____.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A particular hydrogen - like ion emits the radiation of frequency",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

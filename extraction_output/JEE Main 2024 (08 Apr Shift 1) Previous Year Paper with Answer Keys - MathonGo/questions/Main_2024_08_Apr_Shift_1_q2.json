@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_1_q2",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 2,
+  "question_type": "Numerical",
+  "question_text": "Young's modulus is determined by the equation given by where is the mass and  is the extension of wire used in the experiment. Now error in Young modules is estimated by taking data from plot in graph paper. The smallest scale divisions are respectively. If the value of respectively then percentage error of  is :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

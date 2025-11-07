@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_1_q41",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 41,
+  "question_type": "MCQ",
+  "question_text": "Two spherical bodies of same materials having radii 0.2 m and 0.8 m are placed in same atmosphere. The temperature of the smaller body is 800 K and temperature of the bigger body is 400 K . If the energy radiated from the smaller body is E, the energy radiated from the bigger body is (assume, effect of the surrounding temperature to be negligible),",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 16 E",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) E",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 64 E",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 256 E",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

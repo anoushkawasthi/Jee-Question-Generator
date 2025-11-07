@@ -1,0 +1,35 @@
+{
+  "question_id": "Main_2024_29_Jan_Shift_1_q60",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Chemistry",
+  "question_number": 60,
+  "question_type": "MCQ",
+  "question_text": "From the compounds given below, number of compounds which give positive Fehling's test is 4-nitrobenzaldehyde,",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "Acetophenone,Methanal,",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "Benzaldehyde,",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "carbaldehyde.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

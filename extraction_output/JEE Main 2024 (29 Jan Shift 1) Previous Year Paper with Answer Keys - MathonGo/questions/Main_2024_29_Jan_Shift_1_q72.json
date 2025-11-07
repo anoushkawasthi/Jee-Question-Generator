@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_29_Jan_Shift_1_q72",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 72,
+  "question_type": "MCQ",
+  "question_text": ". Consider the statements (I) The curve intersects the -axis exactly at one point (II) The curve intersects the -axis at Then",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Only (II) is correct",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Both (I) and (II) are incorrect",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Only (I) is correct",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Both (I) and (II) are correct",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Consider the function",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "defined by",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

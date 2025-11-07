@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_27_Jan_Shift_1_q45",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "27 Jan Shift 1",
+  "subject": "Chemistry",
+  "question_number": 45,
+  "question_type": "MCQ",
+  "question_text": "Given below are two statements : Statement (I) : The 4f and 5f - series of elements are placed separately in the Periodic table to preserve the principle of classification. Statement (II) : s-block elements can be found in pure form in nature.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Statement I is false but Statement II is true",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Both Statement I and Statement II are true",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Statement I is true but Statement II is false",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Both Statement I and Statement II are false",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

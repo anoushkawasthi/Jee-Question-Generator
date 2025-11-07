@@ -1,0 +1,60 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_1_q66",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 66,
+  "question_type": "MCQ",
+  "question_text": "Let a circle passing through have its centre at the point . Let the lines . If , then the equation of the JEE Main 2024 (09 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo y x + y Eu 3+ , Lu 3+ , Nd 3+ , La 3+ , Sm 3+ NO − 2 , SCN − , C 2 O 2− 4 , NH 3 , CN − , SO 2− 4 , H 2 O α, β x 2 + 2 √ 2x −1 = 0 α 4 + β 4 1 10 (α 6 + β 6 ) x 2 −190x + 9466 = 0 x 2 −180x + 9506 = 0 x 2 −195x + 9506 = 0 x 2 −195x + 9466 = 0 1 1⋅(1+d) + 1 (1+d)(1+2 + … + 1 (1+9 50 d x 70 x 2 (1 + x) 98 + x 3 (1 + x) 97 + x 4 (1 + x) 96 + … + x 54 (1 + x) 46 99 C p − 46 C q p + q |cos θ cos(60 −θ) cos(60 + θ)| ≤ 1 8 , θϵ[0, 2π] θϵ[0, 2π] 15π 18π 6π 9π P(1, 2) Q x R(4, 3) S(h, k) hk 2 (2, 0) (h, k) (x c , y c ) 3x + 5y = 1 (2 + c)x + 5c 2 y = 1 h = lim x c k = lim y c 25x 2 + 25y 2 −2x + 2y −60 = 0 5x 2 + 5y 2 −4x + 2y −12 = 0 5x 2 + 5y 2 −4x −2y −12 = 0 25x 2 + 25y 2 −20x + 2y −60 = 0 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "Let a circle passing through have its centre at the point . Let the lines . If , then the equation of the JEE Main 2024 (09 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo y x + y Eu 3+ , Lu 3+ , Nd 3+ , La 3+ , Sm 3+ NO − 2 , SCN − , C 2 O 2− 4 , NH 3 , CN − , SO 2− 4 , H 2 O α, β x 2 + 2 √ 2x −1 = 0 α 4 + β 4 1 10 (α 6 + β 6 ) x 2 −190x + 9466 = 0 x 2 −180x + 9506 = 0 x 2 −195x + 9506 = 0 x 2 −195x + 9466 = 0 1 1⋅(1+d) + 1 (1+d)(1+2 + … + 1 (1+9 50 d x 70 x 2 (1 + x) 98 + x 3 (1 + x) 97 + x 4 (1 + x) 96 + … + x 54 (1 + x) 46 99 C p − 46 C q p + q |cos θ cos(60 −θ) cos(60 + θ)| ≤ 1 8 , θϵ[0, 2π] θϵ[0, 2π] 15π 18π 6π 9π P(1, 2) Q x R(4, 3) S(h, k) hk 2 (2, 0) (h, k) (x c , y c ) 3x + 5y = 1 (2 + c)x + 5c 2 y = 1 h = lim x c k = lim y c 25x 2 + 25y 2 −2x + 2y −60 = 0 5x 2 + 5y 2 −4x + 2y −12 = 0 5x 2 + 5y 2 −4x −2y −12 = 0 25x 2 + 25y 2 −20x + 2y −60 = 0 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be the point of intersection of",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "c→1",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "d)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

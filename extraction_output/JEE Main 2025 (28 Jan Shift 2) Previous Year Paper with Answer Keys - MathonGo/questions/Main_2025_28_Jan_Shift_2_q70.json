@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_2_q70",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 70,
+  "question_type": "MCQ",
+  "question_text": "sugar gives equal amount of glucose and fructose. (C) milk sugar gives glucose and galactose. (D) amylopectin 2025 (28 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo A ΔU ΔU( ) = ΔU( ) = ΔU( ) ΔU( ) > ΔU( ) > ΔU( ) ΔU( ) > ΔU( ) > ΔU( ) ΔU( ) > ΔU( ) > ΔU( ) (NH 4 ) 2 S Pbs 2 S 3 2 S 5",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) (A), (B) and (C) only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) (B), (C) and (E) only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) (C), (D) and (E) only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) (B), (C) and (D) only",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "As",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "below :",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Cus",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

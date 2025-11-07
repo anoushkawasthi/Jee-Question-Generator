@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_1_q51",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 51,
+  "question_type": "MCQ",
+  "question_text": "Given below are two statements: Statement I: Fructose does not contain an aldehydic group but still reduces Tollen's reagent Statement II: In the presence of base, fructose undergoes rearrangement to give glucose. In the",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Both Statement I and Statement II are true",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Both Statement I and Statement II are false",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Statement I is true but Statement II is false",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Statement I is true but Statement II is false",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

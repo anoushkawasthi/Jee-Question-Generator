@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_2_q66",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 66,
+  "question_type": "MCQ",
+  "question_text": "Let 𝐴( 𝛼, 0 ) 𝐵( 0, 𝛽) 5𝑥+ 7𝑦= 50 . Let the point 𝑃 𝐴𝐵 internally in the ratio 7:   3 . Let 3𝑥- 25 = 0 𝐸: 𝑥 2 𝑎 2 + 𝑦 2 𝑏 2 = 1 focus be 𝑆 . If from 𝑆 , the perpendicular on the 𝑥- 𝑃 , then the length of the latus rectum of 𝐸 is equal to 25 3 32 9 25 9 32 5",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "axis passes through",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be a directrix of the ellipse",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "divide the line segment",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

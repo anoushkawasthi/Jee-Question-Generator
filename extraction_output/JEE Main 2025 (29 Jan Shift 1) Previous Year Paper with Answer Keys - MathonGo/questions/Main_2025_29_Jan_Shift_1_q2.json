@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_1_q2",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 2,
+  "question_type": "MCQ",
+  "question_text": "terms lies between 1600 and 1800. Then its term is :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 90",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 84",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 122",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 108",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Consider an A. P. of positive integers, whose sum of the first three terms is 54 and the sum of the first twenty",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

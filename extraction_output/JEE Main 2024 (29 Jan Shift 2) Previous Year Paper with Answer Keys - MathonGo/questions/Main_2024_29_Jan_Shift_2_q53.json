@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_29_Jan_Shift_2_q53",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 53,
+  "question_type": "MCQ",
+  "question_text": "The total number of anti bonding molecular orbitals, formed from molecule is _____________.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "atomic orbitals in a diatomic",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_1_q54",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 1",
+  "subject": "Chemistry",
+  "question_number": 54,
+  "question_type": "MCQ",
+  "question_text": "The major product of the following reaction is . Number of oxygen",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "atoms present in product '  ' is _______ (nearest integer)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

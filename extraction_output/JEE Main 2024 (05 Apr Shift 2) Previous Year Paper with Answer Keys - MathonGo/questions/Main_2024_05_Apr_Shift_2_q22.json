@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_2_q22",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 2",
+  "subject": "Physics",
+  "question_number": 22,
+  "question_type": "Numerical",
+  "question_text": "to its total kinetic energy is . The value of  is _____ .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A hollow sphere is rolling on a plane surface about its axis of symmetry. The ratio of rotational kinetic energy",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

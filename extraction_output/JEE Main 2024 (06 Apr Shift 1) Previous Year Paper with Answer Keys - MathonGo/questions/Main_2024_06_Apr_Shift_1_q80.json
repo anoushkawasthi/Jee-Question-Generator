@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_1_q80",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 80,
+  "question_type": "MCQ",
+  "question_text": "motorcycles are manufactured at plant of the motorcycles manufactured at plant  are rated of the standard quality, while of the motorcycles manufactured at plant  are rated of the standard quality. A motorcycle picked up randomly from the total production is found to be of the standard quality. If  is the probability that it was manufactured at plant , then is",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 54",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 66",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 64",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 56",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and the remaining are manufactured at plant",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

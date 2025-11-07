@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_1_q65",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 65,
+  "question_type": "MCQ",
+  "question_text": "Which one of the carbocations from the following is most stable? 2025 (24 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo Eu 2+ Tb 4+ Lu 3+ 3+ K sp 3 1.6 × 10 −30 1.8×10 −30 27 5 √1.8 × 10 −30 4 √ 1.6×10 −30 27 2 √1.6 × 10 −30 H 2 SO 4 H 2 O, NH 3 4 sp 3 H −O −H, H −N −H H −C −H 104.5 ∘ , 107.5 ∘ 109.5 ∘ 4 < NH 3 < H 2 O H 2 O NH 3 4 NH 3 H 2 O NH 3 H 2 O",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A, C",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B, C",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "CH",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

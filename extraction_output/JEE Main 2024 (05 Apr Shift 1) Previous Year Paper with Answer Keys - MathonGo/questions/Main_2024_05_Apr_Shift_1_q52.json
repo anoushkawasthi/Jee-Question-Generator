@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_1_q52",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 1",
+  "subject": "Physics",
+  "question_number": 52,
+  "question_type": "Numerical",
+  "question_text": "The value of Rydberg constant is . The velocity of electron having mass in (nearest integer).",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "B",
+      "text": "Bohr's first orbit of hydrogen atom  _______",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

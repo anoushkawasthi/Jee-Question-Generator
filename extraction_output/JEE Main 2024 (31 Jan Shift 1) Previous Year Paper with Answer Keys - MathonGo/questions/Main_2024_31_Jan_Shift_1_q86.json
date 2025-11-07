@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_1_q86",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 86,
+  "question_type": "Numerical",
+  "question_text": "Let 𝑓: ℝ→ℝ 𝑓𝑥= 4 𝑥 4 𝑥 + 2 𝑀= 𝑓1 −𝑎 ∫ 𝑓𝑎 𝑥sin 4 𝑥1 −𝑥𝑑𝑥 , 𝑁= 𝑓1 −𝑎 ∫ 𝑓𝑎 sin 4 𝑥1 −𝑥𝑑𝑥;   𝑎≠ 1 2 . If 𝛼𝑀= 𝛽𝑁, 𝛼,   𝛽∈ℕ , then the least value of 𝛼 2 + 𝛽 2 is equal to ______",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be a function defined by",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

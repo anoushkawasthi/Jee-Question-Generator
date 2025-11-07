@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_1_q59",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 59,
+  "question_type": "MCQ",
+  "question_text": "If of aniline is reacted with one equivalent of benzenediazonium chloride, the maximum amount of",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "aniline yellow formed will be _______ g. (nearest integer) (consider complete conversion).",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

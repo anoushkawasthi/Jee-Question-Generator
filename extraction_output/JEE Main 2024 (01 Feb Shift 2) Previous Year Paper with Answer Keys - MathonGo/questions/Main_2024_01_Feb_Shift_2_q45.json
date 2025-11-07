@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_2_q45",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 2",
+  "subject": "Chemistry",
+  "question_number": 45,
+  "question_type": "MCQ",
+  "question_text": "Which of the following compounds show colour due to transition? 4 · 5H 2 O K 2 2 O 7 K 2 4 KMnO 4",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "CrO",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "d - d",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

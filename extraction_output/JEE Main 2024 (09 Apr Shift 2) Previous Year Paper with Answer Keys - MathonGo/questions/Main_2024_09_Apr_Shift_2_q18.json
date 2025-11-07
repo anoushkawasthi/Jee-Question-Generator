@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_2_q18",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 2",
+  "subject": "Chemistry",
+  "question_number": 18,
+  "question_type": "MCQ",
+  "question_text": "The energy released in the fusion of of hydrogen deep in the sun is fission of of is . The ratio is approximately: (Consider the fusion reaction as , energy released in the fission reaction of is per fission nucleus and JEE Main 2024 (09 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo 0.3mV 4.5mV 3mV B y = (3.5 × 10 −7 ) sin (1.5 × 10 3 x + 0.5 × 10 11 t)T E y = 10.5 sin (1.5 × 10 3 x + 0.5 × 10 11 t)Vm −1 E z = 1.17 sin (1.5 × 10 3 x + 0.5 × 10 11 t)Vm −1 E y = 1.17 sin (1.5 × 10 3 x + 0.5 × 10 11 t)Vm −1 E z = 105 sin (1.5 × 10 3 x + 0.5 × 10 11 t)Vm −1 L 1 L 2 10 15 L 1 &L 2 10 35 25 15 4.13eV 3.13eV 4.13eV 3.13eV 1eV 7.26eV 10.2eV 2 : 1 2 : 1 1 : 2 2 kg E H 2 kg 235 U E U E H E U 4 ∣H + 2e − → 4 2 He + 2v + 6γ + 26.7MeV 235 U 200MeV N A = 6.023 × 10 23 ) Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "The energy released in the fusion of of hydrogen deep in the sun is fission of of is . The ratio is approximately: (Consider the fusion reaction as , energy released in the fission reaction of is per fission nucleus and JEE Main 2024 (09 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo 0.3mV 4.5mV 3mV B y = (3.5 × 10 −7 ) sin (1.5 × 10 3 x + 0.5 × 10 11 t)T E y = 10.5 sin (1.5 × 10 3 x + 0.5 × 10 11 t)Vm −1 E z = 1.17 sin (1.5 × 10 3 x + 0.5 × 10 11 t)Vm −1 E y = 1.17 sin (1.5 × 10 3 x + 0.5 × 10 11 t)Vm −1 E z = 105 sin (1.5 × 10 3 x + 0.5 × 10 11 t)Vm −1 L 1 L 2 10 15 L 1 &L 2 10 35 25 15 4.13eV 3.13eV 4.13eV 3.13eV 1eV 7.26eV 10.2eV 2 : 1 2 : 1 1 : 2 2 kg E H 2 kg 235 U E U E H E U 4 ∣H + 2e − → 4 2 He + 2v + 6γ + 26.7MeV 235 U 200MeV N A = 6.023 × 10 23 ) Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 7.62",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 25.6",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 15.04",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 9.13",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and the energy released in the",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "cm",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

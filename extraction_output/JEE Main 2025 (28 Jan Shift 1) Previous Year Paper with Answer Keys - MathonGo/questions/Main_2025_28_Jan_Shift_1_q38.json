@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_1_q38",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 38,
+  "question_type": "MCQ",
+  "question_text": ", a cylinder of length 200 cm holds certain amount of em-energy inside it. If another cylinder of same length but half",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "corresponding em-wave should be modified as",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "diameter than previous one holds same amount of em-energy, the magnitude of the electric field of the",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

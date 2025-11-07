@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_2_q56",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 56,
+  "question_type": "Numerical",
+  "question_text": "NO 2 required for a reaction is produced by decomposition of N 2 O 5 in 4 2N 2 O 5 (   g ) →4NO 2 (   g ) + O 2 (   g ) The initial concentration of N 2 O 5 is 3   mol   L -1 2 . 75   mol   L -1 30 minutes. The rate of formation of NO 2 is x × 10 -3 mol   L -1 min-1 , value of x is ________.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "after",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "CCl",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

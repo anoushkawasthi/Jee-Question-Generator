@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_2_q83",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 83,
+  "question_type": "Numerical",
+  "question_text": "Let 𝐴−2, −1,   𝐵1, 0,   𝐶𝛼, 𝛽 𝐷𝛾, 𝛿 𝐴𝐵𝐶𝐷 . If the point 𝐶 lies on 2𝑥−𝑦= 5 𝐷 lies on 3𝑥−2𝑦= 6 , then the value of 𝛼+ 𝛽+ 𝛾+ 𝛿 is equal to ______.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and the point",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be the vertices of a parallelogram",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

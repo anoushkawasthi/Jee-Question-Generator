@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_2_q79",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 79,
+  "question_type": "MCQ",
+  "question_text": "Let 𝐿 1 : → 𝑟= ^ 𝑖- ^ 𝑗+ 2 ^ 𝑘+ 𝜆 ^ 𝑖- ^ 𝑗+ 2 ^ 𝑘,   𝜆∈𝑅 , 𝐿 2 : → 𝑟= ^ 𝑗- ^ 𝑘+ 𝜇3 ^ 𝑖+ ^ 𝑗+ 𝑝 ^ 𝑘,   𝜇∈𝑅 𝐿 3 : → 𝑟= 𝛿(𝑙 ^ 𝑖+ 𝑚 ^ 𝑗+ 𝑛 ^ 𝑘),   𝛿∈𝑅 𝐿 1 is perpendicular to 𝐿 2 𝐿 3 is perpendicular to 𝐿 1 𝐿 2 . Then the point which lies on 𝐿 3 is ( - 1, 7, 4 ) ( - 1, - 7, 4 ) ( 1, 7, - 4 ) ( 1, - 7, 4 )",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "both",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

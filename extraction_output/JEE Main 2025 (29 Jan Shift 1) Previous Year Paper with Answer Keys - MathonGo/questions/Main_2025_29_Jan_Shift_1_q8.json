@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_1_q8",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 8,
+  "question_type": "Numerical",
+  "question_text": "Let . Then the maximum value of is :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 462",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 77",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 154",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 308",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

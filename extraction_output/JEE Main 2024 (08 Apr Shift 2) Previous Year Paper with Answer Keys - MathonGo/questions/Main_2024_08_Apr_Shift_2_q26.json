@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_2_q26",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 26,
+  "question_type": "Numerical",
+  "question_text": "in a line. It is connected in combination with a resistance of mains as shown in figure. For the heater to operate at , the value of  should be _____ .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and a resistance , to a",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

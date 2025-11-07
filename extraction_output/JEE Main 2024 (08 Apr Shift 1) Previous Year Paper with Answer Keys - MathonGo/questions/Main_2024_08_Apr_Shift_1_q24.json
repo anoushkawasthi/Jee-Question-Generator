@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_1_q24",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 24,
+  "question_type": "Numerical",
+  "question_text": "then the value of  is ________",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A closed and an open organ pipe have same lengths. If the ratio of frequencies of their seventh overtones is",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_1_q42",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 1",
+  "subject": "Chemistry",
+  "question_number": 42,
+  "question_type": "MCQ",
+  "question_text": "On reaction of Lead Sulphide with dilute nitric acid which of the following is not formed? JEE Main 2024 (09 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo > > > > (II) > (I) > (III) (III) > (II) > (I) 3 2 3 3 2 3 3 2 2 −OH 3 2 2 −OH A B C 1/2 A B S 8 O 2 pπ −pπ Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "On reaction of Lead Sulphide with dilute nitric acid which of the following is not formed? JEE Main 2024 (09 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo > > > > (II) > (I) > (III) (III) > (II) > (I) 3 2 3 3 2 3 3 2 2 −OH 3 2 2 −OH A B C $\\frac{1}{2}$ A B S 8 O 2 pπ −pπ Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Nitric oxide",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Nitrous oxide",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Lead nitrate",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Sulphur",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A −CH",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B −CH",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "C, N",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

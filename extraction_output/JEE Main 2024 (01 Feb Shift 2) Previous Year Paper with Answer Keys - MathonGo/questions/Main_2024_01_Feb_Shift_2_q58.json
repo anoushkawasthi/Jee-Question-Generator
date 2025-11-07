@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_2_q58",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 2",
+  "subject": "Chemistry",
+  "question_number": 58,
+  "question_type": "MCQ",
+  "question_text": "The following data were obtained during the first order thermal decomposition of a gas A S. No                 Time/s                 Total pressure/(atm) 1 . 0 0 . 1 2 . 115 0 . 28 The rate constant of the reaction is _______ × 10 -2 s -1 (nearest integer)",
+  "question_latex": "The following data were obtained during the first order thermal decomposition of a gas A S. No                 $\\frac{Time}{s}$                 Total pressure/(atm) 1 . 0 0 . 1 2 . 115 0 . 28 The rate constant of the reaction is _______ × 10 -2 s -1 (nearest integer)",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "Ag →2   Bg + Cg",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

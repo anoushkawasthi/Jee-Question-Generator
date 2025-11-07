@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2024_29_Jan_Shift_1_q38",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 38,
+  "question_type": "MCQ",
+  "question_text": "The difference in energy between the actual structure and the lowest energy resonance structure for the given JEE Main 2024 (29 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo n = 2 n = 1 x 5 m s −1 x = = 1. 6 × 10 −27 kg e = 1. 6 × 10 −19 (Z = 37) 5, 0, 0, + 1 2 5, 0, 1, + 1 2 5, 1, 0, + 1 2 5, 1, 1, + 1 2 ΔG ΔG ΔG ΔG 2 ( g) + bOH − (aq) →cClO − (aq) + dCl − (aq) + eH 2 O(l) c d 1, 2, 1 1 2, 2, 1 3 3, 4, 4 2 2, 4, 1 3 KMnO 4 513 K O 2 MnO 2 & K 2 O 2 K 2 MnO 4 & Mn Mn & KO 2 K 2 MnO 4 & MnO 2 14 Si Pb 14 π Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "The difference in energy between the actual structure and the lowest energy resonance structure for the given JEE Main 2024 (29 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo n = 2 n = 1 x 5 m s −1 x = = 1. 6 × 10 −27 kg e = 1. 6 × 10 −19 (Z = 37) 5, 0, 0, + 1 2 5, 0, 1, + 1 2 5, 1, 0, + 1 2 5, 1, 1, + 1 2 ΔG ΔG ΔG ΔG 2 ( g) + bOH − (aq) →cClO − (aq) + dCl − (aq) + eH 2 O(l) c d 1, 2, 1 1 2, 2, 1 3 3, 4, 4 2 2, 4, 1 3 KMnO 4 513 K O 2 MnO 2 & K 2 O 2 K 2 MnO 4 & Mn Mn & KO 2 K 2 MnO 4 & MnO 2 14 Si Pb 14 π Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) electromeric energy",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) resonance energy",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) ionization energy",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) hyperconjugation energy",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "b,",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "C)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_1_q20",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 20,
+  "question_type": "Numerical",
+  "question_text": "While measuring diameter of wire using screw gauge the following readings were noted. Main scale reading is . The value of  is :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 21",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 142",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 71",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 42",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and it has 100",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "divisions on circular scale. The diameter of the wire is",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

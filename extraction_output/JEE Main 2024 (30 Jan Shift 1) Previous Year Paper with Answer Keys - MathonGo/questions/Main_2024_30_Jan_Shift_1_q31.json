@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_1_q31",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 1",
+  "subject": "Chemistry",
+  "question_number": 31,
+  "question_type": "MCQ",
+  "question_text": "Given below are two statements: Statement-I: The orbitals having same energy are called as degenerate orbitals. Statement-II: In hydrogen atom, orbitals are not degenerate orbitals.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Statement-I is true but Statement-II is false",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Both Statement-I and Statement-II are true.",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Both Statement-I and Statement-II are false",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Statement-I is false but Statement-II is true",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

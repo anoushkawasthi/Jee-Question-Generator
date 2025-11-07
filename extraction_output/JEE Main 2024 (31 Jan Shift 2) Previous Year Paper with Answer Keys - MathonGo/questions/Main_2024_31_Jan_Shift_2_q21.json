@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_2_q21",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 21,
+  "question_type": "Numerical",
+  "question_text": "Two identical spheres each of mass 2   kg 50   cm separation between the centers is 150   cm . Then, moment of inertia of the system about an axis perpendicular to the rod and passing through its middle point is 𝑥 20 kg   m 2 , where the value of 𝑥 is",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "are fixed at the ends of a light rod so that the",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

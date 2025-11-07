@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_27_Jan_Shift_2_q11",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "27 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 11,
+  "question_type": "Numerical",
+  "question_text": "Wheatstone bridge principle is used to measure the specific resistance 𝑆 1 of given wire, having length 𝐿 , radius 𝑟 . If X is the resistance of wire, then specific resistance is : 𝑆 1 = 𝑋 𝜋𝑟 2 𝐿 . If the length of the wire gets doubled then the value of specific resistance will be : 𝑆 1 4 2   S 1 𝑆 1 2 𝑆 1",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

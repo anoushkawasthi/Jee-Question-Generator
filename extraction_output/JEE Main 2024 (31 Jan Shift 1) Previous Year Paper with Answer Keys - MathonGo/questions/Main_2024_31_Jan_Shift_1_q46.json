@@ -1,0 +1,60 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_1_q46",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 46,
+  "question_type": "MCQ",
+  "question_text": "[Ni ( CN ) 4 ] 2 – 2 . [PtCl 2 ( en ) 2 ] 2 + is one",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) A, D only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) A, C only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) B, D only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) B, C only",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A. The strength of anionic ligands can be explained by crystal field theory.",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B. Valence bond theory does not give a quantitative interpretation of kinetic stability of coordination",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Choose the correct answer from the options given below:",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "D. The number of possible isomer(s) of cis-",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

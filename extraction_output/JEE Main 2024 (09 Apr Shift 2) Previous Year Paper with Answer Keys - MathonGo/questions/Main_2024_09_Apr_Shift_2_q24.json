@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_2_q24",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 2",
+  "subject": "Chemistry",
+  "question_number": 24,
+  "question_type": "MCQ",
+  "question_text": ", the resistance of a heating element is . The temperature coefficient of the material is . The temperature of the element, when its resistance is , is _____ .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "At room temperature",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

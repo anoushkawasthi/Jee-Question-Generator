@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_2_q19",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 19,
+  "question_type": "MCQ",
+  "question_text": "The regulator",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) a diode which can be used as a rectifier",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) a zener diode which can be used as a voltage",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) a transistor which can be used as an amplifier",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) a solar cell",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "characteristics of an electronic device shown in the figure. The device is:",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

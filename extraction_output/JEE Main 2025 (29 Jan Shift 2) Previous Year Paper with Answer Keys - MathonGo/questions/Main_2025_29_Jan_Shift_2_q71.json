@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_2_q71",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 71,
+  "question_type": "MCQ",
+  "question_text": "In the sulphur estimation, 0.20 g of a pure organic compound gave 0.40 g of barium sulphate. The percentage of sulphur in the compound is ______ . (Molar mass : in ) 2025 (29 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo ⩾ √ h π × 1 2 m H 2 SO 4 KIO 3 5I − + IO − 3 + 6H + →3I 2 + 3H 2 O KIO 3 H 2 SO 4 I 2 KIO 3 Molecular weight 5 C ) →C ) + XkJmol −1 ) + O 2 ( g) →CO 2 ( g) + YkJmol −1 +O 2 ( g) →CO 2 ( g) + ZkJmol −1 ×10 −1 % O = 16, S = 32, Ba = 137 gmol −1",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "C",
+      "text": "C(",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_1_q62",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 62,
+  "question_type": "MCQ",
+  "question_text": "The number of triangles whose vertices are at the vertices of a regular octagon but none of whose sides is a side of the octagon is",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 48",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 56",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 24",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 16",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

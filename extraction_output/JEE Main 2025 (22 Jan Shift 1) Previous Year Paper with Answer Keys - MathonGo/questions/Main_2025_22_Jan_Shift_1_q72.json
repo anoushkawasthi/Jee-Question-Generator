@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_1_q72",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 1",
+  "subject": "Chemistry",
+  "question_number": 72,
+  "question_type": "MCQ",
+  "question_text": "The molecule A changes into its isomeric form B by following a first order kinetics at a temperature of 1000 K . If the energy barrier with respect to reactant energy for such isomeric transformation is , the time required for molecules of A to become  is _________ picoseconds (nearest integer).",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and the frequency factor is",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

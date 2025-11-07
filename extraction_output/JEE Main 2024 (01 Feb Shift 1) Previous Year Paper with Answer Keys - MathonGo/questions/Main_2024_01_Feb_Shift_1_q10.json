@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_1_q10",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 1",
+  "subject": "Chemistry",
+  "question_number": 10,
+  "question_type": "MCQ",
+  "question_text": "Two moles of a monoatomic gas is mixed with six moles of a diatomic gas. The molar specific heat of the mixture at constant volume is : 9 4 𝑅 7 4 𝑅 3 2 𝑅 5 2 𝑅",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

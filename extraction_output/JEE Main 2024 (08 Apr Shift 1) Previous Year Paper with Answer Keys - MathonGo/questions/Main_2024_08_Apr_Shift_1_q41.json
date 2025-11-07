@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_1_q41",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 1",
+  "subject": "Chemistry",
+  "question_number": 41,
+  "question_type": "MCQ",
+  "question_text": "Given below are two statements: Statements I: IUPAC name of Compound  is 4-chloro-1,3-dinitrobenzene. Statements II: IUPAC name of Compound  is 4-ethyl-2-methylaniline. In the light of the above statements, choose the most",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Both Statement I and Statement II are incorrect. (2) Both Statement I and Statement II are correct.",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Statement I is correct but Statement II is",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Statement I is incorrect but Statement II is",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "appropriate answer from the options given below:",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "correct.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

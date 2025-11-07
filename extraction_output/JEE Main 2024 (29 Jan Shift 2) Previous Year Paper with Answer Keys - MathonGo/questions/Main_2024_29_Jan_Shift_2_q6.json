@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2024_29_Jan_Shift_2_q6",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 6,
+  "question_type": "MCQ",
+  "question_text": "reduced to one fourth of the original distance, how many days will it take to complete one revolution? JEE Main 2024 (29 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Q c Q = a 4 b 3 c 2 b c 3%, 4% 5% Q 66% 43% 34% 14% x t x = (t 3 −6t 2 + 20t + 15) m 4 m s −1 8 m s −1 10 m s −1 6 m s −1 900 g 1 m 10 rpm π 2 = 9. 8 g = 9. 8 m s −2 97 N 9. 8 N 8. 82 N 17. 8 N 10 m 10% g = 10 m s −2 6√5 m s −1 5√6 m s −1 5√5 m s −1 2√5 m s −1 m L A B ( K.E. ) A ( K.E. ) B 3 : 2 5 : 1 2 : 5 1 : 5 200 25 50 100 20 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "reduced to one fourth of the original distance, how many days will it take to complete one revolution? JEE Main 2024 (29 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Q c Q = a 4 b 3 c 2 b c 3%, 4% 5% Q 66% 43% 34% 14% x t x = (t 3 −6t 2 + 20t + 15) m 4 m s −1 8 m s −1 10 m s −1 6 m s −1 900 g 1 m 10 rpm π 2 = 9. 8 g = 9. 8 m s −2 97 N 9. 8 N 8. 82 N 17. 8 N 10 m 10% g = 10 m s −2 6√5 m s −1 5√6 m s −1 5√5 m s −1 2√5 m s −1 m L A B ( K.E. ) A ( K.E. ) B 3 : 2 5 : 1 2 : 5 1 : 5 200 25 50 100 20 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "a,",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "b,",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "days to complete one revolution around the Sun. If the distance of the planet from Sun is",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

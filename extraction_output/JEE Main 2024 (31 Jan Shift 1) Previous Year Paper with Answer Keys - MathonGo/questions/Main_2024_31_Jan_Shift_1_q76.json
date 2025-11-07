@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_1_q76",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 76,
+  "question_type": "MCQ",
+  "question_text": "Let 𝑦= 𝑦( 𝑥) 𝑑𝑦 𝑑𝑥 = tan𝑥+ 𝑦 sin𝑥sec𝑥- sin𝑥tan𝑥 ,   𝑥∈0, 𝜋 2 satisfying the 𝑦 𝜋 4 = 2 . Then, 𝑦 𝜋 3 is √32 + log 𝑒 √3 √3 2 2 + log 𝑒 3 √31 + 2log 𝑒 3 √32 + log 𝑒 3",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be the solution of the differential equation",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "condition",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

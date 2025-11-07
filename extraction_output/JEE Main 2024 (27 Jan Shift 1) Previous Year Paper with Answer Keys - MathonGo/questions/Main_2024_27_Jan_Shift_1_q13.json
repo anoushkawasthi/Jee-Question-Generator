@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_27_Jan_Shift_1_q13",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "27 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 13,
+  "question_type": "MCQ",
+  "question_text": "If  and  represent the electric and magnetic fields respectively, then the region of space may have : (A) ;  (B) ;  (C) ;  (D)",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) (A), (B) and (C) only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) (A), (C) and (D) only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) (A), (B) and (D) only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) (B), (C) and (D) only",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A proton moving with a constant velocity passes through a region of space without any change in its velocity.",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Choose the most appropriate answer from the options given below :",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

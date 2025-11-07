@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_2_q9",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 2",
+  "subject": "Chemistry",
+  "question_number": 9,
+  "question_type": "MCQ",
+  "question_text": "Given below are two statements : Statement (I) : The mean free path of gas molecules is inversely proportional to square of molecular diameter. Statement (II) : Average kinetic energy of gas molecules is directly the options given below :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Statement I is true but Statement II is false",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Both Statement I and Statement II are false",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Both Statement I and Statement II are true",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Statement I is false but Statement II is true",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_1_q35",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 35,
+  "question_type": "Numerical",
+  "question_text": "sensitivity. C. If we increase number of turns to its double , then the voltage sensitivity doubles. D. MCG can be converted into an ammeter by introducing a shunt resistance of large value in parallel with 2025 (23 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo 8Ω ϕ = ασ + βλ λ σ ( α β ) 10 −30 kg 2.21 × 10 6 m/s (h = 6.63 × 10 −34 J. s) [ML 2 T −2 ] (N) (2 N)",
+  "question_latex": "sensitivity. C. If we increase number of turns to its double , then the voltage sensitivity doubles. D. MCG can be converted into an ammeter by introducing a shunt resistance of large value in parallel with 2025 (23 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo 8Ω ϕ = ασ + βλ λ σ ( α β ) 10 −30 kg 2.21 × 10 6 $\\frac{m}{s}$ (h = 6.63 × 10 −34 J. s) [ML 2 T −2 ] (N) (2 N)",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) A, D Only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) A, B, E Only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) B, D, E Only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) A, B Only",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "answer from the options given below:",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B. Increasing the current sensitivity may not necessarily increase the voltage",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Consider a moving coil galvanomenter (MCG): A. The torsional constant in moving coil galvanometer has",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "dimentions",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

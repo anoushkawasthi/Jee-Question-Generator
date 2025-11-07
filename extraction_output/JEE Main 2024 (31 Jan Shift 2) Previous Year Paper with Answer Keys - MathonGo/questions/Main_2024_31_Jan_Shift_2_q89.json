@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_2_q89",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 89,
+  "question_type": "MCQ",
+  "question_text": "Let → 𝑎= 3 ^ 𝑖+ 2 ^ 𝑗+ ^ 𝑘, → 𝑏= 2 ^ 𝑖− ^ 𝑗+ 3 ^ 𝑘 → 𝑐 → 𝑎+ → 𝑏× → 𝑐= 2 → 𝑎× → 𝑏+ 24 ^ 𝑗−6 ^ 𝑘 → 𝑎− → 𝑏+ ^ 𝑖. → 𝑐= −3 . Then → 𝑐 2 is equal to _______.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be a vector such that",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_1_q58",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 58,
+  "question_type": "MCQ",
+  "question_text": "The mass of sodium acetate required to prepare of g.  Molar mass of is ) Round off to the nearest integer.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "aqueous solution is _____",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_2_q88",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 88,
+  "question_type": "MCQ",
+  "question_text": "The area of the region enclosed by the parabola ( 𝑦- 2 ) 2 = 𝑥- 1 , the line 𝑥- 2   𝑦+ 4 = 0",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and the positive",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "coordinate axes is __________.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_2_q38",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 38,
+  "question_type": "Assertion-Reason",
+  "question_text": "Given below are two statements. One is labelled as Assertion (A) and the other is labelled as Reason (R). than the Earth. The time period of the pendulum remains same on earth and the planet. Reason (R): The mass 2025 (22 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo 20 m/s 60 ∘ A 10 m/s B C 10 m/s 2 2+ √ 2 3 2+ √ 3 3 3+√3 2 3− √ 2 2 of the pendulum remains unchanged at Earth and the other planet. In the light of the above statements, choose is false but (R) is true explanation of",
+  "question_latex": "Given below are two statements. One is labelled as Assertion (A) and the other is labelled as Reason (R). than the Earth. The time period of the pendulum remains same on earth and the planet. Reason (R): The mass 2025 (22 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo 20 $\\frac{m}{s}$ 60 ∘ A 10 $\\frac{m}{s}$ B C 10 $\\frac{m}{s}$ 2 2+ √ 2 3 2+ √ 3 3 3+√3 2 3− √ 2 2 of the pendulum remains unchanged at Earth and the other planet. In the light of the above statements, choose is false but (R) is true explanation of",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) (A) is true but (R) is false",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Both",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Both (A) and (R) are true but (R) is NOT the",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "are true and",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "correct explanation of (A)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

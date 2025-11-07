@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_1_q7",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 7,
+  "question_type": "MCQ",
+  "question_text": "𝑀 1 fires a shell of mass 𝑀 2 horizontally. Instantaneously after the firing, the ratio of kinetic energy of the artillery and that of the shell is : 𝑀 1 ( 𝑀 1 + 𝑀 2 ) 𝑀 2 𝑀 1 𝑀 2 ( 𝑀 1 + 𝑀 2 ) 𝑀 1 𝑀 2",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "An artillery piece of mass",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

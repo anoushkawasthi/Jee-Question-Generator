@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_1_q43",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 1",
+  "subject": "Mathematics",
+  "question_number": 43,
+  "question_type": "Numerical",
+  "question_text": "We have three aqueous solutions of NaCl labelled as ‘A’,   ‘B’ ‘C’ with concentration 0 . 1   M,   0 . 01M 0 . 001   M, respectively. The value of van t’ Haft factor i for these solutions will be in the order. i A < i B < i C i A < i C < i B i A = i B = i C i A > i B > i C",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

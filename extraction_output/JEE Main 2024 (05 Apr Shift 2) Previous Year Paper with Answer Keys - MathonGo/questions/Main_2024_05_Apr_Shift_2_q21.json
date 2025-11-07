@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_2_q21",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 2",
+  "subject": "Physics",
+  "question_number": 21,
+  "question_type": "MCQ",
+  "question_text": "The maximum height reached by a projectile is . If the initial velocity is halved, the new maximum height of the projectile is _____ . JEE Main 2024 (05 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo List-I List-II EM-Wave Wavelength Range (A) Infra-red (I) < 10 −3 nm (B) Ultraviolet (II) 400 nm to 1 nm (C) X-rays S (III) 1 mm to 700 nm (D) Gamma rays (IV) 1 nm to 10 −3 nm (V 0 ) 1/ r √r 1 √r 1 r (Y ) 19 th 0.1 mm mm 0.5 2 5 1 64 m m Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "The maximum height reached by a projectile is . If the initial velocity is halved, the new maximum height of the projectile is _____ . JEE Main 2024 (05 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo List-I List-II EM-Wave Wavelength Range (A) Infra-red (I) < 10 −3 nm (B) Ultraviolet (II) 400 nm to 1 nm (C) X-rays S (III) 1 mm to 700 nm (D) Gamma rays (IV) 1 nm to 10 −3 nm (V 0 ) 1/ r √r 1 √r 1 r (Y ) 19 th 0.1 mm mm 0.5 2 5 1 64 m m Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A = 1,",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B = 1",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

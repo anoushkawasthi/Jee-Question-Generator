@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_2_q4",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 4,
+  "question_type": "MCQ",
+  "question_text": "Let P be the foot of the perpendicular from the point on the line . Let the line , intersect the line L at Q . Then is equal to :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 25",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 19",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 29",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 27",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

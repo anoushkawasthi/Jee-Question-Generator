@@ -1,0 +1,35 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_1_q72",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 72,
+  "question_type": "MCQ",
+  "question_text": "The molarity of a (mass  mass) aqueous solution of a monobasic acid is __________ M(Nearest integer) [Given: Density of aqueous solution of (X) is Molar mass of the acid is ] 2025 (28 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo Si > P > Cl > F Mg > Al > C > O n 3 n V 3+ Ti 3+ 2+ Ni 2+ Ti 2+ ΔH f ⊖ H (g) O (g) 250.0 kJ mol −1 ΔH f ⊖ H 2 O (g) −242.0 kJ mol −1 O −H kJmol −1 70% / (X) ×10 −1 1.25 g mL −1 70 g mol −1",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "Al > B > N > F",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "Be > Mg > Al > Si",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Cu",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

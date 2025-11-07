@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_2_q72",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 72,
+  "question_type": "MCQ",
+  "question_text": "upon oxidation with gives The total number of  bonds present in the compound ' is______",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "absorbs 2 moles of hydrogen and '",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_1_q3",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 3,
+  "question_type": "MCQ",
+  "question_text": "If :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) pressure gradient per unit mass",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Gravitational potential",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Energy per unit mass",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Force per unit mass",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be the gravitational constant and  be the energy density then which of the following quantity have the",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "dimensions as that of the",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

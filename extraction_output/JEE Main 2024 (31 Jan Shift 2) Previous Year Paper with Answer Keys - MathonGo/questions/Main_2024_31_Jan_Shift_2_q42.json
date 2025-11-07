@@ -1,0 +1,60 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_2_q42",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 42,
+  "question_type": "MCQ",
+  "question_text": "16 elements form oxides of general formula 𝐸𝑂 2 𝐸𝑂 3 where 𝐸= 𝑆,   𝑆𝑒,   𝑇𝑒 𝑃𝑜 . Both the types of oxides are acidic in nature. 𝑇𝑒𝑂 2 is an oxidising agent while 𝑆𝑂 2 is reducing in nature. 𝐻 2 𝑆 to 𝐻 2 𝑇𝑒 JEE Main 2024 (31 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "16 elements form oxides of general formula 𝐸𝑂 2 𝐸𝑂 3 where 𝐸= 𝑆,   𝑆𝑒,   𝑇𝑒 𝑃𝑜 . Both the types of oxides are acidic in nature. 𝑇𝑒𝑂 2 is an oxidising agent while 𝑆𝑂 2 is reducing in nature. 𝐻 2 𝑆 to 𝐻 2 𝑇𝑒 JEE Main 2024 (31 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) A and D only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) B and C only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) C and D only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) A and B only",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B.",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Choose the correct answer from the options given below:",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "D. The ozone molecule contains five lone pairs of electrons.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

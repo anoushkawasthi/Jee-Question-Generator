@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_27_Jan_Shift_2_q46",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "27 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 46,
+  "question_type": "MCQ",
+  "question_text": "Identify B formed in the reaction. 24 - Cl excess   NH 3 → A NaOH → 2 O + NaCl JEE Main 2024 (27 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN H 2 N - CH 24 - NH 2 - 3 N + - CH 24 - + NH 3 -",
+  "question_latex": "Identify B formed in the reaction. 24 - Cl excess   NH 3 → A NaOH → 2 O + NaCl JEE Main 2024 (27 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$ H 2 N - CH 24 - NH 2 - 3 N + - CH 24 - + NH 3 -",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B + H",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Cl",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

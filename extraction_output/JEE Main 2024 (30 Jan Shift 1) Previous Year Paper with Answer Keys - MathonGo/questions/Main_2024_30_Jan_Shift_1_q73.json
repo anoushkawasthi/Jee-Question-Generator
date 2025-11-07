@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_1_q73",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 73,
+  "question_type": "Numerical",
+  "question_text": "Let . If a real valued function  is , then for atleast two  in for exactly one   in for no  in",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be a non constant twice differentiable such that",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "defined as",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

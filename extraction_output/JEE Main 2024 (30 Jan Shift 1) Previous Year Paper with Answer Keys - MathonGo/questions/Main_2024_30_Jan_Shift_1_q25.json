@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_1_q25",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 25,
+  "question_type": "MCQ",
+  "question_text": "It is connected to another capacitor of capacitance . Then the loss of energy is , where  is _______.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and potential",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

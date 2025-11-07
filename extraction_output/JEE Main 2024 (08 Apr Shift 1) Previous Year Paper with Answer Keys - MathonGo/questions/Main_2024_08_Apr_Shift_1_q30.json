@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_1_q30",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 1",
+  "subject": "Chemistry",
+  "question_number": 30,
+  "question_type": "MCQ",
+  "question_text": "In an alpha particle scattering experiment distance of closest approach for the  particle is . If target nucleus has atomic number 80 , then maximum velocity of  - particle is _______ SI unit, mass of  particle",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "approximately.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

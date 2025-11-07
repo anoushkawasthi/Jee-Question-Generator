@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_1_q66",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 66,
+  "question_type": "MCQ",
+  "question_text": "If the foci of a hyperbola are same as that of the ellipse 𝑥 2 9 + 𝑦 2 25 = 1 15 8 times the eccentricity of the ellipse, then the smaller focal distance of the point √2, 14 3 √ 2 5 on the hyperbola, JEE Main 2024 (31 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN is equal to 7√ 2 5 - 8 3 14√ 2 5 - 4 3 14√ 2 5 - 16 3 7√ 2 5 + 8 3",
+  "question_latex": "If the foci of a hyperbola are same as that of the ellipse 𝑥 2 9 + 𝑦 2 25 = 1 15 8 times the eccentricity of the ellipse, then the smaller focal distance of the point √2, 14 3 √ 2 5 on the hyperbola, JEE Main 2024 (31 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$ is equal to 7√ 2 5 - 8 3 14√ 2 5 - 4 3 14√ 2 5 - 16 3 7√ 2 5 + 8 3",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and the eccentricity of the hyperbola is",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2024_29_Jan_Shift_1_q46",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 46,
+  "question_type": "MCQ",
+  "question_text": "In alkaline medium. oxidises to JEE Main 2024 (29 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 3 Na 3 6 3 Ca 3 (PO 4 ) 2 ⋅CaF 2 KCl ⋅MgCl 2 ⋅6H 2 O – 10% H 2 O 2 +6 +5 +10 +3 MnO − 4 I − IO − 4 IO − I 2 IO − 3 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "In alkaline medium. oxidises to JEE Main 2024 (29 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 3 Na 3 6 3 Ca 3 (PO 4 ) 2 ⋅CaF 2 KCl ⋅MgCl 2 ⋅6H 2 O – 10% H 2 O 2 +6 +5 +10 +3 MnO − 4 I − IO − 4 IO − I 2 IO − 3 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "AlF",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "BF",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Cl",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

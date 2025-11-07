@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_27_Jan_Shift_1_q82",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "27 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 82,
+  "question_type": "Numerical",
+  "question_text": "If then the value of  is JEE Main 2024 (27 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo f(x) = ⎧ ⎪ ⎨ ⎪ ⎩ 2 ) 2 −7x+12| , x < 3 2 sin(x−3) x−[x] , x > 3 b , x = 3 [x] x S (a, f(x) x = 3 S 2 4 1 ∫ 1 0 1 √3+x+√1+x 2a + 3 4 10 7 8 (a, (1, 2), (2, 3) (3, 1) I 1 = ∫ b a xsin(4x −x 2 ) dx, I 2 = ∫ b a sin(4x −x 2 ) dx 36 I 1 I 2 72 88 80 66 x = x(t) y = y(t) + ax = 0 + by = 0 x(0) = 2 ; y(0) = 1 3 y(1) = 2 x(1) t x(t) = y(t) log 2 3 2 log 4 3 log 3 4 log 4 3 2 →a = ˆi + 2ˆj + ˆk, → ˆ i − ˆ j + ˆ k) →c →a ×→c = → b →a ⋅→c = 3 →a ⋅((→c × → → → 32 24 20 36 (7, −2, 11) x−6 1 = y−4 0 = z−8 3 x−5 2 = y−1 −3 = z−5 6 12 14 18 21 x−4 1 = y+1 2 = z −3 x−λ 2 = y+1 4 = z−2 −5 6 √5 λ 5 8 7 10 α x 2 + x + 1 = 0 (1 + α) 7 = A + Bα + Cα 2 , 5(3 8 = 3 + 1 4 (3 + p) + 1 4 2 (3 + 2p) + 1 4 3 (3 + 3p) + … ∞, p Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "If then the value of  is JEE Main 2024 (27 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo f(x) = ⎧ ⎪ ⎨ ⎪ ⎩ 2 ) 2 −7x+12| , x < 3 2 sin(x−3) x−[x] , x > 3 b , x = 3 [x] x S (a, f(x) x = 3 S 2 4 1 ∫ 1 0 1 √3+x+√1+x 2a + 3 4 10 7 8 (a, (1, 2), (2, 3) (3, 1) I 1 = ∫ b a xsin(4x −x 2 ) dx, I 2 = ∫ b a sin(4x −x 2 ) dx 36 I 1 I 2 72 88 80 66 x = x(t) y = y(t) + ax = 0 + by = 0 x(0) = 2 ; y(0) = 1 3 y(1) = 2 x(1) t x(t) = y(t) log 2 3 2 log 4 3 log 3 4 log 4 3 2 →a = ˆi + 2ˆj + ˆk, → ˆ i − ˆ j + ˆ k) →c →a ×→c = → b →a ⋅→c = 3 →a ⋅((→c × → → → 32 24 20 36 (7, −2, 11) x−6 1 = y−4 0 = z−8 3 x−5 2 = y−1 −3 = z−5 6 12 14 18 21 x−4 1 = y+1 2 = z −3 x−λ 2 = y+1 4 = z−2 −5 6 √5 λ 5 8 7 10 α x 2 + x + 1 = 0 (1 + α) 7 = A + Bα + Cα 2 , 5(3 8 = 3 + 1 4 (3 + p) + 1 4 2 (3 + 2p) + 1 4 3 (3 + 3p) + … ∞, p Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A −2",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B −C)",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "c)",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "dt",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

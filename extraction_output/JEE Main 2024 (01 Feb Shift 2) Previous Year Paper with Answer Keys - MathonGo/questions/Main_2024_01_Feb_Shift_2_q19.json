@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_2_q19",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 2",
+  "subject": "Physics",
+  "question_number": 19,
+  "question_type": "Numerical",
+  "question_text": "From the statements given below : (A) The angular momentum of an electron in 𝑛 𝑡ℎ orbit is an integral multiple of ℎ . (B) Nuclear forces do not obey inverse square law. JEE Main 2024 (01 Feb Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN (C) Nuclear forces are spin dependent. (D) Nuclear forces are central and charge independent. (E) Stability of nucleus is inversely proportional to the value of packing fraction.",
+  "question_latex": "From the statements given below : (A) The angular momentum of an electron in 𝑛 𝑡ℎ orbit is an integral multiple of ℎ . (B) Nuclear forces do not obey inverse square law. JEE Main 2024 (01 Feb Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$ (C) Nuclear forces are spin dependent. (D) Nuclear forces are central and charge independent. (E) Stability of nucleus is inversely proportional to the value of packing fraction.",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) (A), (B), (C), (D) only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) (A), (C), (D), (E) only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) (A), (B), (C), (E) only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) (B), (C), (D), (E) only",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Choose the correct answer from the options given below :",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

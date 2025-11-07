@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_2_q53",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 53,
+  "question_type": "MCQ",
+  "question_text": "The pH of an aqueous solution containing 1M pK a = 4 . 20 1M sodium benzoate is 4 . 5 . The volume of benzoic acid solution in 300   mL of this buffer solution is __________ mL .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "benzoic acid",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

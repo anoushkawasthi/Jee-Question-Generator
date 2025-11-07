@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_1_q48",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 48,
+  "question_type": "Numerical",
+  "question_text": "Two particles are located at equal distance from origin. The position vectors of those are represented by , respectively. If both the vectors are at right angle to each other, the value of is _____ .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

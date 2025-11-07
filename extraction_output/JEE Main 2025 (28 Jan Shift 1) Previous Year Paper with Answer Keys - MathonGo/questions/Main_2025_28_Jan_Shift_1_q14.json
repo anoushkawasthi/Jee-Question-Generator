@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_1_q14",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 14,
+  "question_type": "MCQ",
+  "question_text": "Let term of an A.P. If for some , and , then is equal to",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 98",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 126",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 142",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 112",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be the",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

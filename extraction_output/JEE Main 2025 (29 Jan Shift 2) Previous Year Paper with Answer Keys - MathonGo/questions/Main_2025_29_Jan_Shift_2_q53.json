@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_2_q53",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 53,
+  "question_type": "MCQ",
+  "question_text": "gas will be evolved as a product of electrolysis of : (A) an aqueous solution of using silver electrodes. (B) an aqueous solution of using platinum electrodes. (C) a dilute solution of using platinum electrodes. (D) a high concentration solution of",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) (A) and (C) only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) (B) and (C) only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) (A) and (D) only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) (B) and (D) only",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "answer from the options given below :",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

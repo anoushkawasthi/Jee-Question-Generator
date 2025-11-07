@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_1_q46",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 46,
+  "question_type": "MCQ",
+  "question_text": "In a hydraulic lift, the surface area of the input piston is . If 100 N force is applied to the input piston to raise the output piston by 20 cm, then the work done is _______ kJ. 2025 (29 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo (v) v = At 2 + [M 0 L 1 T −3 ] [M 0 L 2 T −2 ] [M 0 L 1 T −2 ] [M 0 L 2 T −3 ] ( ΔV V ) % = 2 × 10 9 N m −2 = 10 3 kgm −3 = g = 10 m s −2 I 1 I 2 L 1 = 1, M 12 = ε 1 = −L 1 2 −M 12 1 ε 1 = −L 1 1 −M 12 2 ε 1 = −L 1 1 −M 12 1 ε 1 = −L 1 1 + M 12 2 (A) (R) (R) (A) (A) (R) (R) (A) m R g n√gR n ⩾1 n 2 n 2 +4 n 2 +4 n 2 n+4 n n n+4 6 2 1500 2",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and that of the output piston is",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "Bt",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "cm",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "dt",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

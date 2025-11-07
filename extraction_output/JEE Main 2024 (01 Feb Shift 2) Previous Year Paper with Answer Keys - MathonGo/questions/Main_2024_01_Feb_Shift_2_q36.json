@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_2_q36",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 2",
+  "subject": "Chemistry",
+  "question_number": 36,
+  "question_type": "MCQ",
+  "question_text": "Match List - I with List - II. List - I Compound List-II Use (A) Carbon tetrachloride (I) Paint remover (B) Methylene chloride (II) Refrigerators and air conditioners (C) DDT (III) Fire extinguisher (D) Freons (IV) Non Biodegradable insecticide (A)-(I), (B), (II), (C)-(III), (D)-(IV) (A)-(III), (B)-(I), (C)-(IV), (D)-( II) (A)-(IV), (B)-(III), (C)-(II), (D)-(I) (A)-( II), (B)-(III), (C)-(I), (D)-(IV)",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Choose the correct answer from the options given below:",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

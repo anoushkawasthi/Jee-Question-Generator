@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_2_q55",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 2",
+  "subject": "Chemistry",
+  "question_number": 55,
+  "question_type": "Numerical",
+  "question_text": "(Reaction 1 (Reaction 2) The ratio of the half life of Reaction 1 : Reaction 2 is . If represent the time taken to complete of Reaction 1 and Reaction 2, respectively, then the value of the ratio is ______ (nearest integer). [Given : ]",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Consider the two different first order reactions given below",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_2_q44",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 44,
+  "question_type": "MCQ",
+  "question_text": "𝑁𝑖𝐶𝑂 4 𝑁𝑖𝐶𝑙 4 2 − 𝑁𝑖𝐶𝑂 4 𝑁𝑖𝐶𝑙 4 2 − 𝑁𝑖𝐶𝑙 4 2 − 𝑁𝑖𝐶𝑂 4 paramagnetic 𝑁𝑖𝐶𝑂 4 𝑁𝑖𝐶𝑙 4 2 − paramagnetic",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "both paramagnetic",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "diamagnetic,",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

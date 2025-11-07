@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_1_q26",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 26,
+  "question_type": "Numerical",
+  "question_text": ". If new resistance of the stretched wire is , then value of  is _______",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A wire of resistance  and radius  is stretched till its radius became",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

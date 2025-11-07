@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_2_q7",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 7,
+  "question_type": "MCQ",
+  "question_text": "undergoes the cyclic process as shown in figure. The gas obeys equation for the path  to . The net work done in the complete cycle is (assuming JEE Main 2024 (09 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo m E h/ √ 2mE [ML 2 T −1 ] [ML −1 T −2 ] [MLT −2 ] [M 2 L 2 T −2 ] 20 m s −1 300 m 2 m s −2 200 m 100 m 50 m 25 m 1 kg 4 m F 45 ∘ F g = 10 m/s 2 10 N 10 √2 N 1 N 1 10×√2 N 10 3 kg 2R 10 4 R 6 J g = 10 m/s 2 , R = 2.5R 3R 4R 6R 1 : 9 1 : 3 1 : 27 1 : 81 1 × 10 −4 m 10 5 kg/m 3 h h 9.8 × 10 −6 N s/m 2 2296 m 2518 m 2249 m 2396 m 27 ∘ C PV 3 = RT A B R = 8 J/molK Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN ):",
+  "question_latex": "undergoes the cyclic process as shown in figure. The gas obeys equation for the path  to . The net work done in the complete cycle is (assuming JEE Main 2024 (09 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo m E h/ √ 2mE [ML 2 T −1 ] [ML −1 T −2 ] [MLT −2 ] [M 2 L 2 T −2 ] 20 m s −1 300 m 2 m s −2 200 m 100 m 50 m 25 m 1 kg 4 m F 45 ∘ F g = 10 $\\frac{m}{s}$ 2 10 N 10 √2 N 1 N 1 10×√2 N 10 3 kg 2R 10 4 R 6 J g = 10 $\\frac{m}{s}$ 2 , R = 2.5R 3R 4R 6R 1 : 9 1 : 3 1 : 27 1 : 81 1 × 10 −4 m 10 5 $\\frac{kg}{m}$ 3 h h 9.8 × 10 −6 N $\\frac{s}{m}$ 2 2296 m 2518 m 2249 m 2396 m 27 ∘ C PV 3 = RT A B R = 8 $\\frac{J}{molK}$ Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$ ):",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A real gas within a closed chamber at",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

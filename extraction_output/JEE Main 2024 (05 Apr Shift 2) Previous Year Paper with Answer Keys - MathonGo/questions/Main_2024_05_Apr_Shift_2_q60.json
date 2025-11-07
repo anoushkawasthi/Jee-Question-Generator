@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_2_q60",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 2",
+  "subject": "Chemistry",
+  "question_number": 60,
+  "question_type": "MCQ",
+  "question_text": "of ethanamine was subjected to reaction with followed by hydrolysis to liberate . The generated was completely neutralised by 0.2 moles of is ______ g.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

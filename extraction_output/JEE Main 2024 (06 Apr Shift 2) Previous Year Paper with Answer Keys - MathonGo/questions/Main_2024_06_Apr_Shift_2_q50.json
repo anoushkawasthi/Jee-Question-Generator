@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_2_q50",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 50,
+  "question_type": "MCQ",
+  "question_text": "",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) (B), (C) and (D)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) (B) and (D)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) (A), (B) and (C)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) (B) and (C)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and can catalyse different kinds of reactions. (C) Most Enzymes are globular proteins. (D) Enzyme - oxidase",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "catalyses the hydrolysis of maltose into glucose. Choose the correct answer from the option given below :",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

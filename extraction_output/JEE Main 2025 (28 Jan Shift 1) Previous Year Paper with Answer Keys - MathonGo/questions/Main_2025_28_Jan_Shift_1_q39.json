@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_1_q39",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 39,
+  "question_type": "MCQ",
+  "question_text": "' slides without friction on the wall of a vertical circular hoop of radius '  ' as shown in figure. The bead moves under the combined action of gravity and a massless spring ( k ) attached to the bottom of the hoop. The equilibrium length of the spring is '  '. If the bead is released from top of the hoop with (negligible) zero initial speed, velocity of bead, when the length of spring becomes ' R ', would be (spring",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A bead of mass '",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "constant is ' k ', g is accleration due to gravity)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

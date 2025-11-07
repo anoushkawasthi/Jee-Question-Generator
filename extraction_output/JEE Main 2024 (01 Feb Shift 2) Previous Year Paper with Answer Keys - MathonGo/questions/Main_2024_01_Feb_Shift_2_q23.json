@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_2_q23",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 2",
+  "subject": "Mathematics",
+  "question_number": 23,
+  "question_type": "MCQ",
+  "question_text": "One end of a metal wire is fixed to a ceiling and a load of 2   kg hangs from the other end. A similar wire is 1   kg hangs from this lower wire. Then the ratio of longitudinal strain of upper wire to that of the lower wire will be [Area of cross section of wire = 0 . 005   cm 2 ,   𝑌= 2 × 10 11 N   m -2 𝑔= 10   m   s -2 ]",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

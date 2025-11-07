@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_2_q17",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 2",
+  "subject": "Mathematics",
+  "question_number": 17,
+  "question_type": "MCQ",
+  "question_text": "2 . 0   cm falls normally on a slit of width 4 . 0   cm . The angular spread of the 1 . 5   m 30 º 15 º 60 º 45 º",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "away from the slit, will be:",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "central maxima of the diffraction pattern obtained on a screen",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

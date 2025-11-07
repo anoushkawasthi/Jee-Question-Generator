@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_1_q76",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 1",
+  "subject": "Mathematics",
+  "question_number": 76,
+  "question_type": "MCQ",
+  "question_text": "The area enclosed by the curves 𝑥𝑦+ 4𝑦= 16 𝑥+ 𝑦= 6 is equal to: 28 −30log 𝑒 2 30 −28log 𝑒 2 30 −32log 𝑒 2 32 −30log 𝑒 2",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

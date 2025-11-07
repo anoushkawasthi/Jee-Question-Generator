@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_2_q67",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 67,
+  "question_type": "MCQ",
+  "question_text": "hyperbola  and having the centre at the origin. Let having the centre at one of its foci. If areas (in sq units) of , respectively, then the length (in units) of latus rectum of  is",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be the circle touching the hyperbola  at its vertex and",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Consider a hyperbola  having centre at the origin and foci on the -axis. Let",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

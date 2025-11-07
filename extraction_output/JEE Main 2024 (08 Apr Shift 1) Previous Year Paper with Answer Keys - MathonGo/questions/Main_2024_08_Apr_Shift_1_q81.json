@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_1_q81",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 81,
+  "question_type": "MCQ",
+  "question_text": "The number of 3-digit numbers, formed using the digits JEE Main 2024 (08 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 2√3 √3 3√3 6√3 k ∈N I n = ∫ 1 0 (1 −x k ) n 147I 20 = 148I 21 f(x) y = f(x), y = 0 x = 0 x = a > 0 e −a + 4a 2 + a −1 y = c 1 f(x) + c 2 c 1 c 2 (8e x −1) d 2 y 2 + = 0 (8e x −1) d 2 y 2 − = 0 (8e x + 1) d 2 y 2 − = 0 (8e x + 1) d 2 y 2 + = 0 y = y(x) (1 + y 2 )e tan x 2 x (1 + e 2 tan x )dy = 0, y(0) = 1 y ( π 4 ) 2 e 2 e 2 1 e 1 e 2 α →a = αt ^ i + 6 ^ j −3 ^ k →b = t^i −2^j −2αt^k t ∈R (− 4 3 , 1) [0, 1) (− 4 3 , 0] (−2, 0] L 1 : →r = (2 + λ) ^ i + (1 −3λ) ^ j + (3 + 4λ) ^ k, λ ∈R L 2 : →r = 2(1 + μ) ^ i + 3(1 + μ) ^ j + (5 + μ) ^ k, μ ∈R m √n gcd(m, n) = 1 m + n P(x, y, z) xy Q OP = γ OQ x θ OP z ϕ O P x γ √ 1 −sin 2 ϕ cos 2 θ γ √ 1 −sin 2 θ cos 2 ϕ γ √ 1 + cos 2 ϕ sin 2 θ γ √ 1 + cos 2 θ sin 2 ϕ 3 4 m n gcd(m, n) = 1 n −m 2, 3, 4, 5 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "The number of 3-digit numbers, formed using the digits JEE Main 2024 (08 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 2√3 √3 3√3 6√3 k ∈N I n = ∫ 1 0 (1 −x k ) n 147I 20 = 148I 21 f(x) y = f(x), y = 0 x = 0 x = a > 0 e −a + 4a 2 + a −1 y = c 1 f(x) + c 2 c 1 c 2 (8e x −1) d 2 y 2 + = 0 (8e x −1) d 2 y 2 − = 0 (8e x + 1) d 2 y 2 − = 0 (8e x + 1) d 2 y 2 + = 0 y = y(x) (1 + y 2 )e tan x 2 x (1 + e 2 tan x )dy = 0, y(0) = 1 y ( π 4 ) 2 e 2 e 2 1 e 1 e 2 α →a = αt ^ i + 6 ^ j −3 ^ k →b = t^i −2^j −2αt^k t ∈R (− 4 3 , 1) [0, 1) (− 4 3 , 0] (−2, 0] L 1 : →r = (2 + λ) ^ i + (1 −3λ) ^ j + (3 + 4λ) ^ k, λ ∈R L 2 : →r = 2(1 + μ) ^ i + 3(1 + μ) ^ j + (5 + μ) ^ k, μ ∈R m √n gcd(m, n) = 1 m + n P(x, y, z) xy Q OP = γ OQ x θ OP z ϕ O P x γ √ 1 −sin 2 ϕ cos 2 θ γ √ 1 −sin 2 θ cos 2 ϕ γ √ 1 + cos 2 ϕ sin 2 θ γ √ 1 + cos 2 θ sin 2 ϕ 3 4 m n gcd(m, n) = 1 n −m 2, 3, 4, 5 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "allowed, and which are not divisible by 3 , is equal to__________",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "dx + cos",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

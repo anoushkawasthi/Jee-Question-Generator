@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_1_q32",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 32,
+  "question_type": "Numerical",
+  "question_text": "The electron affinity value are negative for A. E.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) D and E only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) A, B and C only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) A and D only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) A, B, D and E only",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B.",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Choose the most appropriate answer from the options given below :",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "D.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

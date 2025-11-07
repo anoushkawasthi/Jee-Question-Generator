@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_2_q16",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 16,
+  "question_type": "MCQ",
+  "question_text": "For the thin convex lens, the radii of curvature are at respectively. The focal length the lens is . The refractive index of the material is :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 1.2",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 1.8",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 1.5",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 1.4",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

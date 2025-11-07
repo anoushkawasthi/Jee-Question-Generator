@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_1_q27",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 1",
+  "subject": "Physics",
+  "question_number": 27,
+  "question_type": "MCQ",
+  "question_text": "The magnetic field existing in a region is given by . A square loop of edge 0.5 A current is placed in plane with its edges parallel to the magnitude of the net magnetic force experienced by the loop is_____ .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "axes, as shown in figure. The",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "carrying",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

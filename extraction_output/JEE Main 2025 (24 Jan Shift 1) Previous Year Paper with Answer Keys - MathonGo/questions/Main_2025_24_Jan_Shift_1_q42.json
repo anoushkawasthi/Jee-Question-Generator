@@ -1,0 +1,60 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_1_q42",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 42,
+  "question_type": "MCQ",
+  "question_text": ". The distance between the plates is . Out of the following, which are the ways to increase the E. 2025 (24 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo D d 16 5 10 15 4 25 R f 1 f 2 f 1 f 2 1 : 2 1 : 3 3 : 5 2 : 3 1000 kg/m 3 2100 N/m 2 g = 10 m/s 2 0.1 0.05 0.02 0.25 m r 45 ∘ 1 √2 g 1 3√2 g √2 g 3 √2g 5 4 6 8 l = 3 3μ m l = 30 m l = 3 m l = 6 m l = 1 m l = 5 m",
+  "question_latex": ". The distance between the plates is . Out of the following, which are the ways to increase the E. 2025 (24 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo D d 16 5 10 15 4 25 R f 1 f 2 f 1 f 2 1 : 2 1 : 3 3 : 5 2 : 3 1000 $\\frac{kg}{m}$ 3 2100 $\\frac{N}{m}$ 2 g = 10 $\\frac{m}{s}$ 2 0.1 0.05 0.02 0.25 m r 45 ∘ 1 √2 g 1 3√2 g √2 g 3 √2g 5 4 6 8 l = 3 3μ m l = 30 m l = 3 m l = 6 m l = 1 m l = 5 m",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) A only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) C only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) B and D only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and  only",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "b = 2",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "cm,",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "d = 1μ",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

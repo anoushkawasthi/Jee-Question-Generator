@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_2_q73",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 73,
+  "question_type": "MCQ",
+  "question_text": "respectively. The overall rate constant  is given by the expression . If the activation energies of the three steps are 60,30 and respectively, then the overall energy of activation in is . (Nearest integer)",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Consider a complex reaction taking place in three steps with rate constants",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_2_q44",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 2",
+  "subject": "Chemistry",
+  "question_number": 44,
+  "question_type": "MCQ",
+  "question_text": "\"P\" JEE Main 2024 (06 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo E 0 E 0 Sc V Ti (A) < (D) < (C) < (B) < (E) (C) < (E) < (B) < (A) < (D) (A) < (D) < (C) < (E) < (B) (B) < (C) < (D) < (E) < (A) [PtBr 2 (PMe 3 ) 2 ] PF 5 5 sp 3 d SF 6 [Co(NH 3 ) 6 ] 3+ sp 3 d 2 List - I List - II Reaction Type of redox reaction (A) TiCl 4 (I) e 2 , t 0 2 (B) [FeO 4 ] 2− (II) e 4 , t 3 2 (C) [FeCl 4 ] − (III) e 0 , t 0 2 (D) [CoCl 4 ] 2− (IV) e 2 , t 3 2 (III) > (I) > (II) > (IV) (IV) > (I) > (II) > (III) (III) > (IV) > (II) > (I) (II) > (IV) > (III) > (I) P CH 3 −COOH (i) LiAlH 4 (ii) PCC (iii) HCN/OH – − → (iv) H 2 O/OH,Δ – Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "\"P\" JEE Main 2024 (06 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo E 0 E 0 Sc V Ti (A) < (D) < (C) < (B) < (E) (C) < (E) < (B) < (A) < (D) (A) < (D) < (C) < (E) < (B) (B) < (C) < (D) < (E) < (A) [PtBr 2 (PMe 3 ) 2 ] PF 5 5 sp 3 d SF 6 [Co(NH 3 ) 6 ] 3+ sp 3 d 2 List - I List - II Reaction Type of redox reaction (A) TiCl 4 (I) e 2 , t 0 2 (B) [FeO 4 ] 2− (II) e 4 , t 3 2 (C) [FeCl 4 ] − (III) e 0 , t 0 2 (D) [CoCl 4 ] 2− (IV) e 2 , t 3 2 (III) > (I) > (II) > (IV) (IV) > (I) > (II) > (III) (III) > (IV) > (II) > (I) (II) > (IV) > (III) > (I) P CH 3 −COOH (i) LiAlH 4 (ii) PCC (iii) $\\frac{HCN}{OH}$ – − → (iv) H 2 $\\frac{O}{OH}$,Δ – Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "BrF",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Cr",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

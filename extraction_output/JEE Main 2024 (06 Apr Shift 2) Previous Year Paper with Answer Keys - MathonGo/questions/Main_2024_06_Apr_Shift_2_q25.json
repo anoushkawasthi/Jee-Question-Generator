@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_2_q25",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 2",
+  "subject": "Physics",
+  "question_number": 25,
+  "question_type": "MCQ",
+  "question_text": "through air and each plate has area is now filled equally with two dielectric media of respectively as shown in figure. If new force between the plates is . The supply voltage is _________ .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A capacitor of",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "capacitance whose plates are separated by",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

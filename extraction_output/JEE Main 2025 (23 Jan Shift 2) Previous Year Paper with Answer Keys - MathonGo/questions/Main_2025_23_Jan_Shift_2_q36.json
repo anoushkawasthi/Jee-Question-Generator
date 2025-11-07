@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_2_q36",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 36,
+  "question_type": "Numerical",
+  "question_text": "The width of one of the two slits in Young's double slit experiment is d while that of the other slit is . If the ratio of the maximum to the minimum intensity in the interference pattern on the screen is then what is the value of  ? (Assume that the field strength varies according to the slit width.)",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 4",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 5",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 3",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 2",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

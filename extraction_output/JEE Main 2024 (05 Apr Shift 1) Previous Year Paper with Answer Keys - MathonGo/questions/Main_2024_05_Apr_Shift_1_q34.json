@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_1_q34",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 1",
+  "subject": "Physics",
+  "question_number": 34,
+  "question_type": "MCQ",
+  "question_text": ". (A) All are isoelectronic (B) All have the same nuclear charge (C) has the largest ionic radii (D) has the smallest ionic radii Choose",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) (B), (C) and (D) only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) (C) and (D) only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) (A), (C) and (D) only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) (A), (B), (C) and (D)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_29_Jan_Shift_2_q26",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 26,
+  "question_type": "Numerical",
+  "question_text": "is moving with a velocity of field  of strength . The force acting on the charge is . The value of  is ______.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "along the positive -axis under a magnetic",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

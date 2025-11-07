@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_1_q31",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 31,
+  "question_type": "MCQ",
+  "question_text": "produces of glucose is : [Molar mass of glucose in ]",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 480",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 800",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 960",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 32",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and water. The amount of oxygen (in g) required for the",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "complete combustion of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

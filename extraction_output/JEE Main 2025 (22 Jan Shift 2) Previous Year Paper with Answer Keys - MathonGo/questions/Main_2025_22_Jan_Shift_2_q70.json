@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_2_q70",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 70,
+  "question_type": "MCQ",
+  "question_text": "The maximum covalency of a non-metallic group 15 element ' E ' with weakest",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 4",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 6",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 3",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 5",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "bond is :",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

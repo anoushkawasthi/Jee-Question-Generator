@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_1_q26",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 26,
+  "question_type": "MCQ",
+  "question_text": "plates, each of 10 cm length. The electron emerges out of the electric field region with a horizontal component of velocity . If the magnitude of the electric field between the plates is , then the vertical )",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 0",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and charge of electron",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "component of velocity of electron is (mass of electron",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_1_q29",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 1",
+  "subject": "Physics",
+  "question_number": 29,
+  "question_type": "Numerical",
+  "question_text": "In Young's double slit experiment, carried out with light of wavelength , the distance between the slits is from the slits. The central maximum is at . The value of for third maxima is _____ .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and the screen is at",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

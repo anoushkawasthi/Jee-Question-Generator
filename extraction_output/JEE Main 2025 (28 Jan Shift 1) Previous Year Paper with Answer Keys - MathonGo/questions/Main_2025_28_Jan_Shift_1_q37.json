@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_1_q37",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 37,
+  "question_type": "MCQ",
+  "question_text": "In the experiment for measurement of viscosity '  ' of given liquid with a ball having radius , consider following statements. A. Graph between terminal velocity V and R will be a parabola. B. The terminal velocities of different diameter balls are constant for a given liquid. C. Measurement of terminal velocity is 2025 (28 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo A R A R R A A R A R R A e − e + v : ¯v n →p + e + + ¯v n →p + e + + v n →p + e − + v n →p + e − + ¯v μ (O) √3 √3 2 3 2 √2 (E) E 1 E 2 η 12 , η 1 η 2 E, E 1 E 2 η 12 = η 1 η 2 η 12 ≥η 1 + η 2 η 12 = η 1 + η 2 η 12 < η 1 + η 2 q a v 0 x x μ 0 − 4πmvo qμoI mv o 2qμ o I ] mv qμ o I ] a 2 a 27/32 32/27 9/8 η R options given below:",
+  "question_latex": "In the experiment for measurement of viscosity '  ' of given liquid with a ball having radius , consider following statements. A. Graph between terminal velocity V and R will be a parabola. B. The terminal velocities of different diameter balls are constant for a given liquid. C. Measurement of terminal velocity is 2025 (28 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo A R A R R A A R A R R A e − e + v : ¯v n →p + e + + ¯v n →p + e + + v n →p + e − + v n →p + e − + ¯v μ (O) √3 √3 2 3 2 √2 (E) E 1 E 2 η 12 , η 1 η 2 E, E 1 E 2 η 12 = η 1 η 2 η 12 ≥η 1 + η 2 η 12 = η 1 + η 2 η 12 < η 1 + η 2 q a v 0 x x μ 0 − 4πmvo qμoI mv o 2qμ o I ] mv qμ o I ] a 2 a $\\frac{27}{32}$ $\\frac{32}{27}$ $\\frac{9}{8}$ η R options given below:",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) B, D and E Only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)  A, C and D Only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) C, D and E Only",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and E Only",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "balls are dropped with some initial speed, the value of  will change. Choose the correct answer from the",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "dependent on the temperature. D. This experiment can be utilized to assess the density of a given liquid. E. If",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_2_q57",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 2",
+  "subject": "Chemistry",
+  "question_number": 57,
+  "question_type": "Numerical",
+  "question_text": "MnO 4 - + H + + H 2 C 2 O 4 ⇌Mn 2 + + H 2 O + CO 2 The standard reduction potentials are given as below E red ° E 0 MnO 4 - / Mn 2 + = + 1 . 51   V ; E 0 2 / H 2 C 2 O 4 = - 0 . 49   V If the equilibrium constant of the above reaction is given as K eq = 10 x , then the value of x = _______ (nearest integer)",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "C",
+      "text": "CO",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

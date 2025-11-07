@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_2_q30",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 2",
+  "subject": "Physics",
+  "question_number": 30,
+  "question_type": "MCQ",
+  "question_text": "Monochromatic light of wavelength is used in Young's double slit experiment. An interference pattern is obtained on a screen. When one of the slits is covered with a very thin glass plate (refractive index ), the central maximum is shifted to a position previously occupied by the glass-plate is ______ .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "B",
+      "text": "bright fringe. The thickness of the",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

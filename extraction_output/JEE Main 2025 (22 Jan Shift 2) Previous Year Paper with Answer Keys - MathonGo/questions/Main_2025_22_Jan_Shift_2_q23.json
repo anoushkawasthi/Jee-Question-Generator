@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_2_q23",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 23,
+  "question_type": "MCQ",
+  "question_text": "Let , be the vertices of a triangle. If is equal to ______ -.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be its orthocenter and centroid respectively, then",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_2_q15",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 15,
+  "question_type": "Numerical",
+  "question_text": "In finding out refractive index of glass slab the following observations were made through travelling microscope 50 vernier scale division For mark on paper JEE Main 2024 (06 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo −2 A +2 A 0.2 s 0.1 V 4mH 1mH 5mH 2.5mH E y = 600 sin(ωt −kx)Vm −1 W/m 2 ϵ 0 = 9 × 10 −12 C 2 N −1 m −2 = 49MSD; 20 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN For mark on paper seen through slab MSR For powder particle on the top surface of the glass slab (MSR  Main Scale Reading, VC Vernier Coincidence) Refractive index of the glass slab is :",
+  "question_latex": "In finding out refractive index of glass slab the following observations were made through travelling microscope 50 vernier scale division For mark on paper JEE Main 2024 (06 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo −2 A +2 A 0.2 s 0.1 V 4mH 1mH 5mH 2.5mH E y = 600 sin(ωt −kx)Vm −1 $\\frac{W}{m}$ 2 ϵ 0 = 9 × 10 −12 C 2 N −1 m −2 = 49MSD; 20 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$ For mark on paper seen through slab MSR For powder particle on the top surface of the glass slab (MSR  Main Scale Reading, VC Vernier Coincidence) Refractive index of the glass slab is :",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 1.52",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 1.35",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 1.42",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 1.24",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "cm",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "divisions on main scale in each",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

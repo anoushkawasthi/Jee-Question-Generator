@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_1_q32",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 1",
+  "subject": "Chemistry",
+  "question_number": 32,
+  "question_type": "MCQ",
+  "question_text": "The linear combination of atomic orbitals to form molecular orbitals takes place only when the combining have different symmetry about the molecular axis",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) A, B, C only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) A and C only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) B, C, D only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) B and D only",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A. have the same energy  B. have the minimum overlap  C. have same symmetry about the molecular axis  D.",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Choose the most appropriate from the options given below:",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

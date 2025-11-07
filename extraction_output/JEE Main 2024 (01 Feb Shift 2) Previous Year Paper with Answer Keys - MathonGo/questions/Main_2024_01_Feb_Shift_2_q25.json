@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_2_q25",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 2",
+  "subject": "Physics",
+  "question_number": 25,
+  "question_type": "MCQ",
+  "question_text": "Suppose a uniformly charged wall provides a uniform electric field of 2 × 10 4 N   C -1 normally. A charged particle of mass 2   g 20   cm of 10   cm from the wall. Then the charge on the particle will be 1 √ x 𝜇C where 𝑥= ________ [use 𝑔= 10   m   s -2 ]",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and remain stayed at a distance",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "being suspended through a silk thread of length",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

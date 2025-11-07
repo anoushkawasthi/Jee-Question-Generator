@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_2_q69",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 2",
+  "subject": "Chemistry",
+  "question_number": 69,
+  "question_type": "MCQ",
+  "question_text": "Let . If is the matrix of cofactors of the elements of , then is equal to :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 64",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 216",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 343",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 125",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

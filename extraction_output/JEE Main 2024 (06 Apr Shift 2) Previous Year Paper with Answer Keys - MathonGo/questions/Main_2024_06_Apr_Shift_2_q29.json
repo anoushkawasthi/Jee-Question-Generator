@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_2_q29",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 29,
+  "question_type": "Numerical",
+  "question_text": "Two coherent monochromatic light beams of intensities I and maximum and minimum possible intensities in the resulting beam is . The value of  is $_________.",
+  "question_latex": "Two coherent monochromatic light beams of intensities I and maximum and minimum possible intensities in the resulting beam is . The value of  is $_________.",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "are superimposed. The difference between",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_1_q5",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 5,
+  "question_type": "MCQ",
+  "question_text": "is dropped from a height of from the ground. After hitting the ground, the . The impulse of force imparted by the ground to the body is given by: (given ) JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo List-I List-II I. [ML 2 T −2 ] Surface Tension II. [ML 2 T −1 ] III. [ML −1 T −1 ] Rotational kinetic energy IV. [ML 0 T −2 ] m u 30° h √3 16 mu 3 g √3 2 mu 2 g mu 3 √2g 2 kg g g 3 g 2 g 4 A B ( g = 10 m s −2 ) 20 m s −1 √10 m s −1 2 √ 10 m s −1 10 m s −1 100 g 10 m 5 m g = 9. 8 m s −2 4. 32 kg m s −1 43. 2 kg m s −1 23. 9 kg m s −1 2. 39 kg m s −1 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "is dropped from a height of from the ground. After hitting the ground, the . The impulse of force imparted by the ground to the body is given by: (given ) JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo List-I List-II I. [ML 2 T −2 ] Surface Tension II. [ML 2 T −1 ] III. [ML −1 T −1 ] Rotational kinetic energy IV. [ML 0 T −2 ] m u 30° h √3 16 mu 3 g √3 2 mu 2 g mu 3 √2g 2 kg g g 3 g 2 g 4 A B ( g = 10 m s −2 ) 20 m s −1 √10 m s −1 2 √ 10 m s −1 10 m s −1 100 g 10 m 5 m g = 9. 8 m s −2 4. 32 kg m s −1 43. 2 kg m s −1 23. 9 kg m s −1 2. 39 kg m s −1 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "ABC",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B.",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "C.",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "D.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

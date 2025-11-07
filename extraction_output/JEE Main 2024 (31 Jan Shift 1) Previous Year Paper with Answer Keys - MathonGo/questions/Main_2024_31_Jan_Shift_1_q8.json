@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_1_q8",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 8,
+  "question_type": "MCQ",
+  "question_text": "Four identical particles of mass 𝑚 one of the masses by the other masses is 2√2 + 1 32 𝐺𝑚 2 𝐿 2 , the length of the sides of the square is 𝐿 2 4𝐿 3𝐿 2𝐿",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "are kept at the four corners of a square. If the gravitational force exerted on",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

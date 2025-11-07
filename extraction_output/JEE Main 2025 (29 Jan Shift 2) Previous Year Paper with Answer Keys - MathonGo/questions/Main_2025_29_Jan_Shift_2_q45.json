@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_2_q45",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 45,
+  "question_type": "MCQ",
+  "question_text": "towards the sheet. is zero.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Potential energy and torque both are maximum.",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Torque on dipole is zero and net force is directed",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Torque on dipole is zero and net force acts",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Potential energy of dipole is minimum and torque",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "away from the sheet.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

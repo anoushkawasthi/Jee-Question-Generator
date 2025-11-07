@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_1_q5",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 5,
+  "question_type": "MCQ",
+  "question_text": "is having its one end on the ground and the other on the shoulder of a person. The bar makes an angle  with the horizontal. The weight experienced by the person is :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) W",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A heavy iron bar, of weight",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

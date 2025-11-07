@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_2_q27",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 27,
+  "question_type": "MCQ",
+  "question_text": "To determine the resistance of a wire, a circuit is designed below. The",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "C",
+      "text": "circuit is plotted for the voltmeter and the ammeter readings as shown in figure. The value of  is ______ .",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

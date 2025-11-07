@@ -1,0 +1,60 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_2_q79",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 79,
+  "question_type": "MCQ",
+  "question_text": "For , let  be the angle between the vectors . If the vectors is equal to JEE Main 2024 (04 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo ] 1 2 0 1 2 + … + (adj A) 10 B x y [−1, 1] −1 x −sin −1 y = α, −π 2 ≤α ≤π x 2 + y 2 + 2xy sin α 1 2 − 1 2 f(x) = { 72 x −9 x −8 x +1 √2−√1+cos x , x ≠0 e 2 log e 3 , x = 0 x = 0 a 2 f(x) = 3√x −2 + √4 −x α β f α 2 + 2β 2 ∫ 1 −1 1+3 x 2 π α π 3 π 6 π 4 π 2 {(x, y) : y 2 ≤2x y ≥4x −1} 11 32 8 9 11 12 9 32 y = y(x) (x 2 + 4) 2 3 y + 8xy −2)dx = 0 y(0) = 0 y(2) π 32 2π π 8 π 16 →a = ^ i + ^ j + ^ k, → ^ i + 4 ^ j −5 ^ k →c = x ^ i + 2 ^ j + 3 ^ k, x ∈R →d →b + →c →a ⋅ → (→a × → λ > 0 θ →a = ^ i + λ ^ j −3 ^ k →b = 3^i −^j + 2^k →a + → b →a − → b θ) 2 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "For , let  be the angle between the vectors . If the vectors is equal to JEE Main 2024 (04 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo ] 1 2 0 1 2 + … + (adj A) 10 B x y [−1, 1] −1 x −sin −1 y = α, −π 2 ≤α ≤π x 2 + y 2 + 2xy sin α 1 2 − 1 2 f(x) = { 72 x −9 x −8 x +1 √2−√1+cos x , x ≠0 e 2 log e 3 , x = 0 x = 0 a 2 f(x) = 3√x −2 + √4 −x α β f α 2 + 2β 2 ∫ 1 −1 1+3 x 2 π α π 3 π 6 π 4 π 2 {(x, y) : y 2 ≤2x y ≥4x −1} 11 32 8 9 11 12 9 32 y = y(x) (x 2 + 4) 2 3 y + 8xy −2)dx = 0 y(0) = 0 y(2) π 32 2π π 8 π 16 →a = ^ i + ^ j + ^ k, → ^ i + 4 ^ j −5 ^ k →c = x ^ i + 2 ^ j + 3 ^ k, x ∈R →d →b + →c →a ⋅ → (→a × → λ > 0 θ →a = ^ i + λ ^ j −3 ^ k →b = 3^i −^j + 2^k →a + → b →a − → b θ) 2 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 50",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 40",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 25",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 20",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "a log",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "b) ⋅→c",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "cos αx",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "d = 1",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

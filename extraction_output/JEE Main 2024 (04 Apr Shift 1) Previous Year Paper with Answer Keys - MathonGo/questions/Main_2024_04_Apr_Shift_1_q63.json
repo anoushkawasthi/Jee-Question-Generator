@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_1_q63",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 63,
+  "question_type": "MCQ",
+  "question_text": "There are 5 points on the side , excluding  and , of a triangle . Similarly there on the side on the side of the triangle. The number of triangles, that can be formed using the points",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 776",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 796",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 751",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 771",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "as vertices, is :",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_2_q55",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 55,
+  "question_type": "MCQ",
+  "question_text": "Which one of the following, with HBr will give a phenol? 2025 (29 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo A B R A R B R B = 2R A B 4 √ 2 A ( L B L A ) (L B ) B A ) P Q P Q t = 0 t = 0) Q Q = 4 −2 x 1000 x = g) + 3H 2 ( g) ⇌CH 4 ( g) + H 2 O( g) X 50% 16mg/mL 4mg/mL O 2 3 3 H 2 SO 4 H 2 SO 4 [FeO 4 ] 2− [Fe(CN) 6 ] 3− [Fe(CN) 5 NO] 2− [CoCl 4 ] 2− [Co(H 2 O) 3 F 3 ]",
+  "question_latex": "Which one of the following, with HBr will give a phenol? 2025 (29 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo A B R A R B R B = 2R A B 4 √ 2 A ( L B L A ) (L B ) B A ) P Q P Q t = 0 t = 0) Q Q = 4 −2 x 1000 x = g) + 3H 2 ( g) ⇌CH 4 ( g) + H 2 O( g) X 50% $\\frac{16mg}{mL}$ $\\frac{4mg}{mL}$ O 2 3 3 H 2 SO 4 H 2 SO 4 [FeO 4 ] 2− [Fe(CN) 6 ] 3− [Fe(CN) 5 NO] 2− [CoCl 4 ] 2− [Co(H 2 O) 3 F 3 ]",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "AgNO",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "CO(",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "d = (50 ± 0.1)m",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

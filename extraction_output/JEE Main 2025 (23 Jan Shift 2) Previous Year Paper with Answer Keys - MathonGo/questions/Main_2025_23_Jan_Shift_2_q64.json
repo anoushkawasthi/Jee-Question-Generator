@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_2_q64",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 64,
+  "question_type": "MCQ",
+  "question_text": "vs",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "are given respectively as:",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "component 1 in liquid and vapour phase, respectively. The slope and intercept of the linear plot of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

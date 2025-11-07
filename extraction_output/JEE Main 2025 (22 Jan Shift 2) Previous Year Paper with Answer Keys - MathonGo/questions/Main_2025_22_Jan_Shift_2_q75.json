@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_2_q75",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 75,
+  "question_type": "MCQ",
+  "question_text": "The complex of ion and dimethyl glyoxime contains ________ number of Hydrogen 2025 (22 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo ×10 −2 M (ΔH ∘ r kJmol −1 ) C 2 H 6 ( g) + 7 2 O 2 ( g) →2CO 2 ( g) + 3H 2 O(l)ΔH ∘ 1 = −1550 C (graphite) + O 2 ( g) →CO 2 ( g) ΔH ∘ 2 = −393.5 H 2 ( g) + 1 2 O 2 ( g) →H 2 O(l) ΔH ∘ 3 = −286 ΔH ∘ fC 2 H 6 ( g) kJmol −1 (Ru) x y x + y Ni 2+ (H) 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. (465) 22. 23. (145) 24. (27) 25. (28) 26. 27. 28. 29. 30. 31. 32. 33. 34. 35. 36. 37. 38. 39. 40. 41. 42. 43. 44. 45. 46. 47. 48. (1200) 49. 50. 51. 52. 53. 54. 55. 56. 57. 58. 59. 60. 61. 62. 63. 64. 65. 66. 67. 68. 69. 70. 71. (8) 72. (57) 73. (95) 74. (11) 75. (14) 2025 (22 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "ANSWER KEYS",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

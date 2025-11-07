@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_1_q27",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 1",
+  "subject": "Physics",
+  "question_number": 27,
+  "question_type": "MCQ",
+  "question_text": "enters a region of uniform magnetic field of 3 perpendicular to its of , so that electron moves along the same path, is _______ .  Given, mass of electron , electric charge",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "An electron with kinetic energy",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "direction. An electric field  is applied perpendicular to the direction of velocity and magnetic field. The value",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

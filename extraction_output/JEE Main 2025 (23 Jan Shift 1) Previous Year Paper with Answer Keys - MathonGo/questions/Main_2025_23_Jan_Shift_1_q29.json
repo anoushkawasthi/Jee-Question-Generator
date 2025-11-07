@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_1_q29",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 29,
+  "question_type": "MCQ",
+  "question_text": "Given a thin convex lens (refractive index ), kept in a liquid (refractive index ) having radii of . Its second surface is silver polished. Where should an object be placed on the optic",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "axis so that a real and inverted image is formed at the same place?",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "curvatures",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

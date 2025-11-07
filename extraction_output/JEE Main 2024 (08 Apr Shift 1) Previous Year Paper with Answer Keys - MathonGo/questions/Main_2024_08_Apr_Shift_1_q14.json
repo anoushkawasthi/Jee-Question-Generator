@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_1_q14",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 14,
+  "question_type": "MCQ",
+  "question_text": "halved keeping all other parameters same. The current amplitude at resonance will be now: JEE Main 2024 (08 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo V a V d V b V c V a V d ≠ V b V c V a V d = V b V c V a V d = ( V b V c ) −1 V a V d = ( V b V c ) 2 (27 ∘ 7 5 3 5 5 3 3 2 a b a b v √ab b a 2 V 3 V 4 V 1.5 V C L R Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "halved keeping all other parameters same. The current amplitude at resonance will be now: JEE Main 2024 (08 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo V a V d V b V c V a V d ≠ V b V c V a V d = V b V c V a V d = ( V b V c ) −1 V a V d = ( V b V c ) 2 (27 ∘ 7 5 3 5 5 3 3 2 a b a b v √ab b a 2 V 3 V 4 V 1.5 V C L R Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Zero",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) same",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) halved",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) double",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A, B, C, D",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "C)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

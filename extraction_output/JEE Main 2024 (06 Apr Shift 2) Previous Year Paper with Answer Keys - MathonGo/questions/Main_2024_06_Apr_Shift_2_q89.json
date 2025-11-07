@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_2_q89",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 89,
+  "question_type": "Numerical",
+  "question_text": "If the shortest distance between the lines is , then the largest possible value of is equal to _________",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

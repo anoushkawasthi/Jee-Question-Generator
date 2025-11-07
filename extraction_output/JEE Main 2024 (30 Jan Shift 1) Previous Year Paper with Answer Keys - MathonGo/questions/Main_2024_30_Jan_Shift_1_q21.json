@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_1_q21",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 21,
+  "question_type": "MCQ",
+  "question_text": "The displacement and the increase in the velocity of a moving particle in the time interval of  to , respectively. The distance travelled by the particle in is ___________ .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

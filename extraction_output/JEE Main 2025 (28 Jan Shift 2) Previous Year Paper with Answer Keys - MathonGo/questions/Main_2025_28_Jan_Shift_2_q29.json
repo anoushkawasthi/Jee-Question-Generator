@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_2_q29",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 29,
+  "question_type": "MCQ",
+  "question_text": ". Under the action of force , it moves to a new point Q having coordinates in 4 sec . The average power and instanteous power at the end of 4 sec are in the ratio of :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A body of mass 4 kg is placed on a plane at a point P having coordinate",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

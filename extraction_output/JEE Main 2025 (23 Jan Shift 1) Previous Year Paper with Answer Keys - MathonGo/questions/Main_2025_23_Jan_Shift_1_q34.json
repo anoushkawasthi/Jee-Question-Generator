@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_1_q34",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 34,
+  "question_type": "MCQ",
+  "question_text": "is moving with a velocity . Under the matter wave",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Visible radiation",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Gamma rays",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Infra-red radiation",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) X-rays",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A sub-atomic particle of mass",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "consideration, the particle will behave closely like",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

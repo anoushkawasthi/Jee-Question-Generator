@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_2_q86",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 86,
+  "question_type": "Numerical",
+  "question_text": "If the variance 𝜎 2 of the data x i 0 1 5 6 10 12 17 f i 3 2 3 2 6 3 3 is 𝑘 then the value of 𝑘 is ______ {where .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "D",
+      "text": "denotes the greatest integer funciton}",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

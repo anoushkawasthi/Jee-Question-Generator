@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_1_q30",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 30,
+  "question_type": "MCQ",
+  "question_text": "resistance of circuit is is 4 Volts. D. Potential across 2025 (23 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo 2a a r ∼10 a r ∼20 a r ∼0.5 a r ∼3 R = 1.5 O I PO = PI x x(t) = A sin t + B cos 2 t + Ct 2 + D t D L 2 T −2 L 2 L L 3 T −2 μ 2 μ 1 , μ 1 < μ 2 |R 1 | |R 2 | μ 1 |R 1 |⋅|R 2 | μ 2 (|R 1 |+|R 2 |)−μ 1 |R 2 | μ 1 |R 1 |⋅|R 2 | μ 2 (|R 1 |+|R 2 |)−μ 1 |R 1 | (μ 2 +μ 1 )|R 1 | (μ 2 −μ 1 ) μ 1 |R 1 |⋅|R 2 | μ 2 (2|R 1 |+|R 2 |)−μ 1 √|R 1 |⋅|R 2 | 6Ω",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) A, B and D Only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) A, B and C Only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) A, C and D Only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) B, C and E Only",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "AB",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B. Current in Ammeter is 1 A C. Potential across",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "CD is 4 Volts E. Total resistance of the circuit is",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

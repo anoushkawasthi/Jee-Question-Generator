@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_1_q2",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 2,
+  "question_type": "MCQ",
+  "question_text": "One die has two faces marked 1 , two faces marked 2 , one face marked 3 and one face marked 4 . Another die has one face marked 1 , two faces marked 2 , two faces marked 3 and one face marked 4. The probability of getting the sum of numbers to be 4 or 5 , when both the dice are thrown together, is",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

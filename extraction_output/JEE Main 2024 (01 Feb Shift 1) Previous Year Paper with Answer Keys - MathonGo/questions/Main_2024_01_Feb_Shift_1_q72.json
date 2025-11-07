@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_1_q72",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 1",
+  "subject": "Mathematics",
+  "question_number": 72,
+  "question_type": "MCQ",
+  "question_text": "Let 𝑓: 𝑅→𝑅 𝑔: 𝑅→𝑅 𝑓𝑥= log 𝑒 𝑥, 𝑥> 0 𝑒 −𝑥 , 𝑥≤0 𝑔𝑥= 𝑥, 𝑥≥0 𝑒 𝑥 , 𝑥< 0 . Then, 𝑔𝑜𝑓: 𝑅→𝑅 is:",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) one-one but not onto",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) neither one-one nor onto",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) onto but not one-one",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) both one-one and onto",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be defined as",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

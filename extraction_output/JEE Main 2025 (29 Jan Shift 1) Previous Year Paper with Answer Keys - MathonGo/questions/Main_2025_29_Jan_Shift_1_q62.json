@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_1_q62",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Chemistry",
+  "question_number": 62,
+  "question_type": "MCQ",
+  "question_text": "If is denoted as the Bohr radius of hydrogen atom, then what is the de-Broglie wavelength of the electron present in the second orbit of hydrogen atom? [n : any integer]",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

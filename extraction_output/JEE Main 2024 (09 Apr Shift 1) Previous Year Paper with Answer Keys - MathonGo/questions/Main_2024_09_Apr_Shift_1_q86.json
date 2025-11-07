@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_1_q86",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 86,
+  "question_type": "MCQ",
+  "question_text": "Let  be a non-singular matrix of order 3 . If , then is equal to",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

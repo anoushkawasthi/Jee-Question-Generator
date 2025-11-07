@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_2_q51",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 51,
+  "question_type": "MCQ",
+  "question_text": "Identify the products , respectively in the following reaction : 2025 (23 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo 2.5μ F Vs −1 300Ω ×10 4 s −1 0.095 J/m 2 10 3 kg/m 3 N/m 2 g = 10 m/s 2 M 2 R 3 M √ GMR x x M R μC [A] [B]",
+  "question_latex": "Identify the products , respectively in the following reaction : 2025 (23 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo 2.5μ F Vs −1 300Ω ×10 4 s −1 0.095 $\\frac{J}{m}$ 2 10 3 $\\frac{kg}{m}$ 3 $\\frac{N}{m}$ 2 g = 10 $\\frac{m}{s}$ 2 M 2 R 3 M √ GMR x x M R μC [A] [B]",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

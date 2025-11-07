@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_1_q22",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 22,
+  "question_type": "Numerical",
+  "question_text": "50   kg rolls along a horizontal floor so that its center of mass has a speed of 0 . 4   m   s -1 . The absolute value of work done on the disc to stop it is ______ J .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A solid circular disc of mass",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

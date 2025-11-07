@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_2_q87",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 87,
+  "question_type": "MCQ",
+  "question_text": "Let  be the region enclosed by the parabola . Then the maximum area of the rectangle inscribed in the region  is________",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and the line",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

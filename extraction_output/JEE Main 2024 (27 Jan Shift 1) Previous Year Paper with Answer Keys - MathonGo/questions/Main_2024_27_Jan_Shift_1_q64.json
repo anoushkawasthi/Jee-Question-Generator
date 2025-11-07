@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_27_Jan_Shift_1_q64",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "27 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 64,
+  "question_type": "MCQ",
+  "question_text": "if and only if : JEE Main 2024 (27 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 3− HBr A −1 5600 mL O 2 2 HI (g) →H 2( g) + I 2( g) HI(molL −1 ) 0. 005 0. 01 0. 02 (molL −1 s −1 ) 7. 5 × 10 −4 3. 0 × 10 −3 1. 2 × 10 −2 +4 SO 3 , H 2 SO 3 , SOCl 2 , SF 4 , BaSO 4 , H 2 S 2 O 7 S = z ∈C : |z −i| = |z + i| = |z −1| n(S) 1 0 3 2 4, 9, 14, 19, … … 25 th 3, 6, 9, 12 37 th 9 5 7 8 A (1 −3x + 10x 2 ) n B (1 + x 2 ) n 3 3 3 B n−1 C r = (k 2 −8) n C r+1 2 √ 2 < k ≤3 2 √ 3 < k ≤3 √ 2 2 √ 3 < k < 3 √ 3 2 √ 2 < k < 2 √ 3 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "if and only if : JEE Main 2024 (27 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 3− HBr A −1 5600 mL O 2 2 HI (g) →H 2( g) + I 2( g) HI(molL −1 ) 0. 005 0. 01 0. 02 (molL −1 s −1 ) 7. 5 × 10 −4 3. 0 × 10 −3 1. 2 × 10 −2 +4 SO 3 , H 2 SO 3 , SOCl 2 , SF 4 , BaSO 4 , H 2 S 2 O 7 S = z ∈C : |z −i| = |z + i| = |z −1| n(S) 1 0 3 2 4, 9, 14, 19, … … 25 th 3, 6, 9, 12 37 th 9 5 7 8 A (1 −3x + 10x 2 ) n B (1 + x 2 ) n 3 3 3 B n−1 C r = (k 2 −8) n C r+1 2 √ 2 < k ≤3 2 √ 3 < k ≤3 √ 2 2 √ 3 < k < 3 √ 3 2 √ 2 < k < 2 √ 3 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A = 3",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B = A",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_1_q75",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 1",
+  "subject": "Chemistry",
+  "question_number": 75,
+  "question_type": "MCQ",
+  "question_text": "Standard entropies of respectively. The temperature in Kelvin at which the reaction will be at equilibrium is_______. (Nearest integer) 2025 (24 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo 3 d x 2 −y 2 2p z 2p z 3d x 2 −y 2 NaHCO 3 2 Fe 3 O 4( s) + 4CO (g) →3Fe (l) + 4CO 2( g) x 2.32 × 10 3 kgFe 3 O 4 2.8 × 10 2 kgCO x Fe 3 O 4 = 232 g mol −1 g mol −1 Fe = 56 g mol −1 } 37.8 g N 2 O 5 2 N 2 O 5( g) ⇌2 N 2 O 4( g) + O 2( g) Kp = ×10 −2 N 2 O 5 R = 0.082 Lmol −1 K −1 K 4 [Fe(CN) 6 ] 2+ , Fe 3+ , Ba 2+ , Ca 2+ , NH + 4 , Mg 2+ , Zn 2+ X 2 , Y 2 XY 5 110 J K −1 mol −1 1 2 X 2 + 5 2 Y 2 ⇌XY 5 ΔH Θ = −35 kJ mol −1 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. (5120) 22. (14) 23. (44) 24. (19) 25. (125) 26. 27. 28. 29. 30. 31. 32. 33. 34. 35. 36. 37. 38. 39. 40. 41. 42. 43. 44. 45. 46. (8) 47. (48) 48. (15) 49. (35) 50. 51. 52. 53. 54. 55. 56. 57. 58. 59. 60. 61. 62. 63. 64. 65. 66. 67. 68. 69. 70. 71. (61) 72. (420) 73. (962) 74. 75. (700) 2025 (24 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "ANSWER KEYS",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Cu",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

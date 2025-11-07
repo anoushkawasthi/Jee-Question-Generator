@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_27_Jan_Shift_1_q35",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "27 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 35,
+  "question_type": "Numerical",
+  "question_text": "Given below are two statements : Statement (I) : Aqueous solution of ammonium carbonate is basic. Statement (II) : Acidic/basic nature of salt solution of a salt of weak acid and weak base depends on value of acid and the base forming it.",
+  "question_latex": "Given below are two statements : Statement (I) : Aqueous solution of ammonium carbonate is basic. Statement (II) : $\\frac{Acidic}{basic}$ nature of salt solution of a salt of weak acid and weak base depends on value of acid and the base forming it.",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Both Statement I and Statement II are correct",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Statement I is correct but Statement II is",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Both Statement I and Statement II are incorrect",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Statement I is incorrect but Statement II is",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "correct",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

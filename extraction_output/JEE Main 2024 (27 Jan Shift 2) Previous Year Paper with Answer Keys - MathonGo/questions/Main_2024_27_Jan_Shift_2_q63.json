@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_27_Jan_Shift_2_q63",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "27 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 63,
+  "question_type": "MCQ",
+  "question_text": "The 20 th term from the end of the progression 20, 19 1 4 , 18 1 2 , 17 3 4 , … , - 129 1 4 is :- -118 -110 -115 -100",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_1_q59",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 1",
+  "subject": "Chemistry",
+  "question_number": 59,
+  "question_type": "MCQ",
+  "question_text": "p - block elements, 2 O 7 , CO, PbO 2 ,   N 2 O, NO, Al 2 O 3 , SiO 2 ,   N 2 O 5 ,   SnO 2",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "Among the following oxide of",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Cl",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

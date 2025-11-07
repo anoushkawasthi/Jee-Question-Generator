@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_2_q23",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 23,
+  "question_type": "MCQ",
+  "question_text": "1000 small identical drops of water. If 𝐸 1 1000 small drops of water and 𝐸 2 𝐸 1 : 𝐸 2 is 𝑥:   1 , where 𝑥= ________.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A big drop is formed by coalescing",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be the surface energy of single big drop of water, the",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

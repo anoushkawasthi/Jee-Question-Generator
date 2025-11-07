@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_1_q56",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 56,
+  "question_type": "MCQ",
+  "question_text": "of a non-volatile, non-electrolyte is dissolved in of water at . The solution showed a boiling point elevation by . Assuming the solute concentration is negligible with respect to the solvent of (nearest integer) [Given : Molal boiling point elevation constant of water , pressure of , molar mass of water ]",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "C",
+      "text": "concentration, the vapor pressure of the resulting aqueous solution is",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_2_q32",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 32,
+  "question_type": "MCQ",
+  "question_text": "Water flows in a horizontal pipe whose one end is closed with a valve. The reading of the pressure gauge . The reading of the pressure gauge falls to when the valve is opened. The speed of water flowing in the pipe is proportional to",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "attached to the pipe is",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

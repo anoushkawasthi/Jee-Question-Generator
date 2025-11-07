@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_1_q22",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 22,
+  "question_type": "MCQ",
+  "question_text": ", radius , rotating with angular velocity of perpendicular to the plane of rotation. An identical disc is kept gently over the rotating disc along the same",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "axis. The energy dissipated so that both the discs continue to rotate together without slipping is _________ .",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Consider a disc of mass",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

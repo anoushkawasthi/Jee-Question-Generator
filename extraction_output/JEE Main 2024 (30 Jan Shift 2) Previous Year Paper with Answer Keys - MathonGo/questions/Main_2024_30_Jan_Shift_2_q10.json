@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_2_q10",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 10,
+  "question_type": "MCQ",
+  "question_text": "-𝑞 𝑚 moves in a circle of radius 𝑟 +𝜆 . Then time period will be given as: (Consider 𝑘 𝑇 2 = 4𝜋 2 𝑚 2𝑘𝜆𝑞 𝑟 3 𝑇= 2𝜋𝑟√ 𝑚 2𝑘𝜆𝑞 𝑇= 1 2𝜋𝑟 √ 𝑚 2𝑘𝜆𝑞 𝑇= 1 2𝜋 √ 2𝑘𝜆𝑞 𝑚",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "as Coulomb's constant)",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "density",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

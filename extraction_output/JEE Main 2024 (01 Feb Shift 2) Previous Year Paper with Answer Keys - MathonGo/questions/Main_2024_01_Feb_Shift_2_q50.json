@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_2_q50",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 2",
+  "subject": "Mathematics",
+  "question_number": 50,
+  "question_type": "MCQ",
+  "question_text": "Match List - I with List - II. List-I (Reactants) List-II Products (A) Phenol, Zn / ∆ (I) Salicylaldehyde JEE Main 2024 (01 Feb Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN (B) Phenol, 3 , NaOH, HCl (II) Salicylic acid (C) Phenol, 2 , NaOH, HCl (III) (D) Phenol, 3 (IV) Picric acid (A)-(IV), (B)-(II), (C)-(I), (D)-(III) (A)-(IV), (B)-(I), (C)-(II), (D)-(III) (A)-(III), (B)-(I), (C)-(II), (D)-(IV) (A)-(III), (B)-(IV), (C)-(I), (D)-(II)",
+  "question_latex": "Match List - I with List - II. List-I (Reactants) List-II Products (A) Phenol, Zn / ∆ (I) Salicylaldehyde JEE Main 2024 (01 Feb Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$ (B) Phenol, 3 , NaOH, HCl (II) Salicylic acid (C) Phenol, 2 , NaOH, HCl (III) (D) Phenol, 3 (IV) Picric acid (A)-(IV), (B)-(II), (C)-(I), (D)-(III) (A)-(IV), (B)-(I), (C)-(II), (D)-(III) (A)-(III), (B)-(I), (C)-(II), (D)-(IV) (A)-(III), (B)-(IV), (C)-(I), (D)-(II)",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "Benzene",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Choose the correct answer from the options given below.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

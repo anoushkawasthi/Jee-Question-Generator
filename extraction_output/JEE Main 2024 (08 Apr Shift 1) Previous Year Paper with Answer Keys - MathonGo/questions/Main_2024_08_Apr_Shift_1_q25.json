@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_1_q25",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 1",
+  "subject": "Physics",
+  "question_number": 25,
+  "question_type": "MCQ",
+  "question_text": "passes through the surface of . The electric flux for that surface is ______ .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "area having unit vector",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

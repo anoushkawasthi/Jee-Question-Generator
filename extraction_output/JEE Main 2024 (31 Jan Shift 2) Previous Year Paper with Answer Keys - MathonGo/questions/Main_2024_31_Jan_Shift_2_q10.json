@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_2_q10",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 10,
+  "question_type": "MCQ",
+  "question_text": "Force between two point charges 𝑞 1 𝑞 2 placed in vacuum at 𝑟 𝐹 . Force between them when placed in a medium having dielectric 𝐾= 5 𝑟 5 𝐹 25 5𝐹 𝐹 5 25𝐹",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "apart will be:",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "cm",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

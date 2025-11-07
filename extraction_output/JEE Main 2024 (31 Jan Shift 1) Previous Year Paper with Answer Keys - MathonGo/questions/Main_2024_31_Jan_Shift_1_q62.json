@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_1_q62",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 62,
+  "question_type": "MCQ",
+  "question_text": "For 0 < 𝑐< 𝑏< 𝑎 , let ( 𝑎+ 𝑏– 2𝑐) 𝑥 2 + ( 𝑏+ 𝑐– 2𝑎) 𝑥+ ( 𝑐+ 𝑎– 2𝑏) = 0 𝛼≠1 Then, among the two statements (I) If 𝛼∈-1,   0 , then 𝑏 𝑎 𝑐 . (II) If 𝛼∈0,   1 , then 𝑏 may be the geometric mean of 𝑎 𝑐 .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Both (I) and (II) are true",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Neither (I) nor (II) is true",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Only (II) is true",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Only (I) is true",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be one of its root.",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "cannot be the geometric mean of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

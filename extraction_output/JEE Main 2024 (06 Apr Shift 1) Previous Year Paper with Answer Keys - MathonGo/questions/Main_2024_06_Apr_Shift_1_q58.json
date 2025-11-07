@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_1_q58",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 1",
+  "subject": "Physics",
+  "question_number": 58,
+  "question_type": "Numerical",
+  "question_text": "The difference in the 'spin-only' magnetic moment values of",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "against oxalic acid in acidic medium is _______ BM. (nearest integer)",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "during titration of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

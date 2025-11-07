@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "title": "JEE Main Complete Question Bank - Extraction Pipeline",
+    "version": "1.0",
+    "extraction_method": "combined_pipeline_extraction",
+    "consolidated_at": "2025-11-07T12:51:51.272648",
+    "total_papers": 30,
+    "total_questions": 0,
+    "papers": [],
+    "papers_processed": 0,
+    "papers_with_errors": [
+      "01 Feb Shift 1",
+      "01 Feb Shift 2",
+      "04 Apr Shift 1",
+      "04 Apr Shift 2",
+      "05 Apr Shift 1",
+      "05 Apr Shift 2",
+      "06 Apr Shift 1",
+      "06 Apr Shift 2",
+      "08 Apr Shift 1",
+      "08 Apr Shift 2",
+      "09 Apr Shift 1",
+      "09 Apr Shift 2",
+      "27 Jan Shift 1",
+      "27 Jan Shift 2",
+      "29 Jan Shift 1",
+      "29 Jan Shift 2",
+      "30 Jan Shift 1",
+      "30 Jan Shift 2",
+      "31 Jan Shift 1",
+      "31 Jan Shift 2",
+      "22 Jan Shift 1",
+      "22 Jan Shift 2",
+      "23 Jan Shift 1",
+      "23 Jan Shift 2",
+      "24 Jan Shift 1",
+      "24 Jan Shift 2",
+      "28 Jan Shift 1",
+      "28 Jan Shift 2",
+      "29 Jan Shift 1",
+      "29 Jan Shift 2"
+    ],
+    "statistics": {
+      "total_questions": 0,
+      "questions_with_answers": 0,
+      "questions_missing_answers": 0,
+      "data_quality_percentage": 0
+    }
+  },
+  "questions": []
+}

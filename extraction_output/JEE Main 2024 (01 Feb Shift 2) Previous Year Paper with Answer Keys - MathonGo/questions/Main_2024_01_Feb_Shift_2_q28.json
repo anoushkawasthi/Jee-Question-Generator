@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_2_q28",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 2",
+  "subject": "Physics",
+  "question_number": 28,
+  "question_type": "Numerical",
+  "question_text": "200 turns and area 0 . 20   m 2 is rotated at half a revolution per second and is placed in uniform magnetic field of 0 . 01   T perpendicular to axis of rotation of the coil. The maximum voltage generated in the 2𝜋 𝛽 volt. The value of 𝛽 is ______.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A coil of",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "coil is",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

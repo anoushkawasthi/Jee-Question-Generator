@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_1_q66",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 1",
+  "subject": "Mathematics",
+  "question_number": 66,
+  "question_type": "MCQ",
+  "question_text": "Let 𝐶: 𝑥 2 + 𝑦 2 = 4 𝐶 ' : 𝑥 2 + 𝑦 2 −4𝜆𝑥+ 9 = 0 𝜆 so that the circles 𝐶 𝐶' intersect at two distinct points, is 𝑅−𝑎, 𝑏 , then the point 8𝑎+ 12, 16𝑏−20 lies on the curve: 𝑥 2 + 2𝑦 2 −5𝑥+ 6𝑦= 3 5𝑥 2 −𝑦= −11 𝑥 2 −4𝑦 2 = 7 6𝑥 2 + 𝑦 2 = 42",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be two circles. If the set of all values of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

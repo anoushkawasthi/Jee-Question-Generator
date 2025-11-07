@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_2_q68",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 2",
+  "subject": "Mathematics",
+  "question_number": 68,
+  "question_type": "MCQ",
+  "question_text": "Let 𝑓𝑥= 𝑥−1,   𝑥  is even, 2𝑥,   𝑥  is odd, 𝑥∈𝑁 . If for some 𝑎∈𝑁, 𝑓𝑓𝑓𝑎= 21 , then lim 𝑥→𝑎 − 𝑥 3 𝑎 − 𝑥 𝑎 , where 𝑡 greatest integer less than or equal to 𝑡 , is equal to: 121 144 169 225",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "denotes the",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

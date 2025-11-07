@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_2_q36",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 36,
+  "question_type": "MCQ",
+  "question_text": ") has focal length 24 cm in air. When it is totally immersed in water (refractive index ), its focal length changes to",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 24 cm",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 96 cm",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 48 cm",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 72 cm",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A convex lens made of glass (refractive index",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

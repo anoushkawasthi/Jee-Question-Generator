@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_2_q13",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 13,
+  "question_type": "MCQ",
+  "question_text": "Suppose that the number of terms in an A.P. is . If the sum of all odd terms of the A.P. is 40 , the sum of all even terms is 55 and the last term of the A.P. exceeds the first term by 27, then k is equal to :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 6",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 5",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 8",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 4",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

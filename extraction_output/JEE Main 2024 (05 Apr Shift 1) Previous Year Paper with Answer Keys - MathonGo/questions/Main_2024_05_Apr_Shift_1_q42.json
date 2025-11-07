@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_1_q42",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 1",
+  "subject": "Chemistry",
+  "question_number": 42,
+  "question_type": "MCQ",
+  "question_text": "The reaction at cathode in the cells commonly used in clocks involves. from +7 to +2 from +4 to +3 from +3 to +4 from +2 to +7",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) reduction of",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) reduction of",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) oxidation of",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) oxidation of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

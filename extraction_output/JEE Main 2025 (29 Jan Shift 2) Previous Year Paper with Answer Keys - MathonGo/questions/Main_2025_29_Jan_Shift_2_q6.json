@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_2_q6",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 6,
+  "question_type": "Numerical",
+  "question_text": "Let the line meet the axes of  and  at A and B, respectively. A right angled triangle AMN is inscribed in the triangle OAB , where O is the origin and the points M and N lie on the lines , respectively. If the area of the triangle is of the area of the triangle , then the sum of all possible value(s) of is  :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 2",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and AN : NB",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

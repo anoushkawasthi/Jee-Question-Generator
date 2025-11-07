@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_2_q49",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 49,
+  "question_type": "Numerical",
+  "question_text": "is revolving around earth in a circular orbit at a height of from earth surface. The . The value of  is ______ , where radius of earth, respectively. ( G is the gravitational constant)",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and  are the mass and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

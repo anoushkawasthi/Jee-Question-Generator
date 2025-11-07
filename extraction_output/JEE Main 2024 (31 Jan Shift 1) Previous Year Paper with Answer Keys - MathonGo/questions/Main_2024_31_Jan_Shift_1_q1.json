@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_1_q1",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 1,
+  "question_type": "MCQ",
+  "question_text": "If the percentage errors in measuring the length and the diameter of a wire are 0 . 1% each. The percentage error in measuring its resistance will be: 0 . 2% 0 . 3% 0 . 1% 0 . 144%",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

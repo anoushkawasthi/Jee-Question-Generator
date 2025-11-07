@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_2_q62",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 62,
+  "question_type": "MCQ",
+  "question_text": "Let . If , then is equal to: JEE Main 2024 (06 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo x ×10 −2 mL = 32 g = 0.792 g/cm 3 100 mL = 1 g/cm 3 x = 273.15 K 1.86 K kg mol −1 sp 2 NH 3 , SO 2 , SiO 2 , BeCl 2 , C 2 H 2 , C 2 H 4 , BCl 3 , HCHO, C 6 H 6 , BF 3 , C 2 H 4 2 Q ×10 −1 z 1 , z 2 z 1 −2z 2 1 2 −z 1 ¯z 2 = 2 ∣∣ z 1 1 2 z 2 z 1 z 2 z 1 z 2 z 1 1 2 z 2 z 1 z 2 1 2 0 ≤r ≤n n+1 C r+1 : n C r : n−1 C r−1 = 55 : 35 : 21 2n + 5r Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "Let . If , then is equal to: JEE Main 2024 (06 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo x ×10 −2 mL = 32 g = 0.792 $\\frac{g}{cm}$ 3 100 mL = 1 $\\frac{g}{cm}$ 3 x = 273.15 K 1.86 K kg mol −1 sp 2 NH 3 , SO 2 , SiO 2 , BeCl 2 , C 2 H 2 , C 2 H 4 , BCl 3 , HCHO, C 6 H 6 , BF 3 , C 2 H 4 2 Q ×10 −1 z 1 , z 2 z 1 −2z 2 1 2 −z 1 ¯z 2 = 2 ∣∣ z 1 1 2 z 2 z 1 z 2 z 1 z 2 z 1 1 2 z 2 z 1 z 2 1 2 0 ≤r ≤n n+1 C r+1 : n C r : n−1 C r−1 = 55 : 35 : 21 2n + 5r Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 50",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 62",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 55",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 60",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Cl",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

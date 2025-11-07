@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_2_q4",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 4,
+  "question_type": "MCQ",
+  "question_text": "5   kg is placed on a rough inclined surface as shown in the figure. If → 𝐹 1 is the force required to just move the block up the inclined plane and → 𝐹 2 is the force required to just prevent the block from sliding → 𝐹 1 − → 𝐹 2 is: [Use 𝑔= 10   m   s -2 ] 25√3   N 5√3   N 5√3 2 N 10   N",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A block of mass",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "down, then the value of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

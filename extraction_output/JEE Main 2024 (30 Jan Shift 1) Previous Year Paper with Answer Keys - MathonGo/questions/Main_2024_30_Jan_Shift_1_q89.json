@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_1_q89",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 89,
+  "question_type": "MCQ",
+  "question_text": "Let , . If is equal to __________.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and  are coprime numbers, then",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be the solution of the differential equation",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

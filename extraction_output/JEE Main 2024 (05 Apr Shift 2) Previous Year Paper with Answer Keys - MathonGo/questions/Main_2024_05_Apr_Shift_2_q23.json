@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_2_q23",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 2",
+  "subject": "Physics",
+  "question_number": 23,
+  "question_type": "MCQ",
+  "question_text": "is applied on the surface of water in the thinner arm. The force required to be applied on the surface of water in the thicker arm to maintain equilibrium of water is _____N.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A hydraulic press containing water has two arms with",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "diameters as mentioned in the figure. A force of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

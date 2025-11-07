@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_2_q46",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 46,
+  "question_type": "MCQ",
+  "question_text": ". The dielectric constant of the medium between the capacitor plates is 1 . It produces an instantaneous rate of change of the potential difference will be _____ .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A time varying potential difference is applied between the plates of a parallel plate capacitor of capacitance",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "displacement current of 0.25 mA in the intervening space between the capacitor plates, the magnitude of the",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

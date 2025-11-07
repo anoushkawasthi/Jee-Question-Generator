@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_2_q82",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 2",
+  "subject": "Mathematics",
+  "question_number": 82,
+  "question_type": "MCQ",
+  "question_text": "If three successive terms of a G.P. with common ratio 𝑟𝑟> 1 𝑟 3𝑟+ −𝑟 is equal to:",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "are the length of the sides of a triangle and",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "denotes the greatest integer less than or equal to r, then",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

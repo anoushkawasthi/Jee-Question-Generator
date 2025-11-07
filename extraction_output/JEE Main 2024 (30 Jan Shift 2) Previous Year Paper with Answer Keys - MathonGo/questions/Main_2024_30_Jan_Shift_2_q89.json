@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_2_q89",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 89,
+  "question_type": "MCQ",
+  "question_text": "Let 𝑌= 𝑌( 𝑋) 𝑌- 𝑦= 𝑌 ' (𝑥) (𝑋- 𝑥) ( 𝑥, 𝑦) is any point on the curve, is always -𝑦 2 2𝑌 ' (𝑥) + 1, 𝑌 ' 𝑥≠0 . If 𝑌( 1 ) = 1 , then 12   𝑌( 2 ) equals ________.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and the co-ordinate axes, where",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be a curve lying in the first quadrant such that the area enclosed by the line",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

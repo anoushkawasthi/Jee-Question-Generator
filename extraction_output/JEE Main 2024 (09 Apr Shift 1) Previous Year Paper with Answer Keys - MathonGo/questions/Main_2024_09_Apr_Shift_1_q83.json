@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_1_q83",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 83,
+  "question_type": "Numerical",
+  "question_text": "Let the centre of a circle, passing through the points , be . Then for all possible values of the coordinates of the centre is equal to_________",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and touching the circle",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

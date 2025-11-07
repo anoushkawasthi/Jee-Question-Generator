@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_2_q16",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 16,
+  "question_type": "MCQ",
+  "question_text": "For the photoelectric effect, the maximum kinetic energy 𝐸 𝑘 of the photoelectrons is plotted against the frequency ( 𝑣) of the incident photons as shown in figure. The slope of the graph gives",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Ratio of Planck’s constant to electric charge",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Work function of the metal",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Charge of electron",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Planck’s constant",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

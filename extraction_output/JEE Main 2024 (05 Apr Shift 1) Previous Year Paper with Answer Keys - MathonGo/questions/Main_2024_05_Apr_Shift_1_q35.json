@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_1_q35",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 35,
+  "question_type": "Assertion-Reason",
+  "question_text": "Given below are two statements : One is labelled as Assertion (A) and the other is labelled as Reason (R) . Reason (R) : Enthalpy of neutralisation is the amount of heat liberated when one mole of ions furnished by acid combine with one mole of ions furnished by base to form one mole of water. In JEE Main 2024 (05 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 20μF 5000\\AA 0.3 mm 200 x = 0 x mm ×10 −2 MeV 1u = 931MeV/c 2 = 4.002603u 42.1% 6.4% C 11 H 18 O 12 C 12 H 20 O 12 C 12 H 22 O 11 C 14 H 20 O 10 O 2− , F − , Na + Mg 2+ O 2− Mg 2+ −57 kJ mol −1 H + OH − Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN explanation of (A)",
+  "question_latex": "Given below are two statements : One is labelled as Assertion (A) and the other is labelled as Reason (R) . Reason (R) : Enthalpy of neutralisation is the amount of heat liberated when one mole of ions furnished by acid combine with one mole of ions furnished by base to form one mole of water. In JEE Main 2024 (05 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 20μF 5000\\AA 0.3 mm 200 x = 0 x mm ×10 −2 MeV 1u = $\\frac{931MeV}{c}$ 2 = 4.002603u 42.1% 6.4% C 11 H 18 O 12 C 12 H 20 O 12 C 12 H 22 O 11 C 14 H 20 O 10 O 2− , F − , Na + Mg 2+ O 2− Mg 2+ −57 kJ mol −1 H + OH − Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$ explanation of (A)",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) (A) is true but (R) is false",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Both (A) and (R) are true but (R) is not the",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Both (A) and (R) are true and (R) is the correct",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) (A) is false but (R) is true",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "Assertion (A) : Enthalpy of neutralisation of strong monobasic acid with strong monoacidic base is always",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "correct explanation of (A)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

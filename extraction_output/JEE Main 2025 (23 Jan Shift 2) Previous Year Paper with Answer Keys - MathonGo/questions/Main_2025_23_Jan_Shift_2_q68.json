@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_2_q68",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 68,
+  "question_type": "MCQ",
+  "question_text": "pH of water is 7 at . If water is heated to ., it's pH will : 2025 (23 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo List −I List −II (A) (I) (B) (II) Fe, Cr, Ni, C (C) UKsilvercoin (III) (D) Stainlesssteel (IV ) 25 ∘ C 80 ∘ C H + OH −",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Decrease",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Remains the same",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Increase",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "Brass",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Cu, Sn",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "decreases",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

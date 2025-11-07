@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_27_Jan_Shift_2_q76",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "27 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 76,
+  "question_type": "Numerical",
+  "question_text": "If y = y ( x ) is the solution curve of the differential equation x 2 - 4dy - y 2 - 3ydx = 0 , x > 2, y(4) = 3 2 the slope of the curve is never zero, then the value of y ( 10 ) equals : 3 1 + ( 8 ) 1 4 3 1 + 2√2 3 1 - 2√2 3 1 - ( 8 ) 1 4",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

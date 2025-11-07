@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_1_q42",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 1",
+  "subject": "Chemistry",
+  "question_number": 42,
+  "question_type": "MCQ",
+  "question_text": "In the given compound, the number of is _______. JEE Main 2024 (08 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo A R A R A R R A A R R A A B 2 ∘ /s Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "In the given compound, the number of is _______. JEE Main 2024 (08 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo A R A R A R R A A R R A A B 2 ∘ /s Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Four",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Two",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) One",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Three",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "carbon atom",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

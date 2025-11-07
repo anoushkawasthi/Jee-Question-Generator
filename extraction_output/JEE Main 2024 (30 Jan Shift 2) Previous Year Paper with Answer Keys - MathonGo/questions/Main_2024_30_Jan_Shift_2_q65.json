@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_2_q65",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 65,
+  "question_type": "Numerical",
+  "question_text": "If 𝑥 2 - 𝑦 2 + 2ℎ𝑥𝑦+ 2𝑔𝑥+ 2𝑓𝑦+ 𝑐= 0 is the locus of a point, which moves such that it is always equidistant from the lines 𝑥+ 2𝑦+ 7 = 0 2𝑥- 𝑦+ 8 = 0 , then the value of 𝑔+ 𝑐+ ℎ- 𝑓 equals 14 6 8 29",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

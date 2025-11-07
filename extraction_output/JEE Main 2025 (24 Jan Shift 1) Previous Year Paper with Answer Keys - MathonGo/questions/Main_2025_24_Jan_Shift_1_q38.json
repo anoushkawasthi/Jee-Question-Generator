@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_1_q38",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 38,
+  "question_type": "MCQ",
+  "question_text": "in air. Another plano-convex lens with first surface radius of curvature 3 cm has focal length of  when it is immersed in a liquid of refractive index 1.2 . If both the lenses are made of same glass of refractive index 1.5 , the ratio of will be",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

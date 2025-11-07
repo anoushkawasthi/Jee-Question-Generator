@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_29_Jan_Shift_2_q49",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 49,
+  "question_type": "MCQ",
+  "question_text": "",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) sodium nitroprusside",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) neutral",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) meta-dinitrobenzene",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) dimethyl glyoxime",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A reagent which gives brilliant red precipitate with Nickel ions in basic medium is",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

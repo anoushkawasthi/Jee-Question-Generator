@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_1_q43",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 1",
+  "subject": "Chemistry",
+  "question_number": 43,
+  "question_type": "MCQ",
+  "question_text": "The element which shows only one oxidation state other than its elemental form is :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Cobalt",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Titanium",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Nickel",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Scandium",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_1_q51",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 51,
+  "question_type": "MCQ",
+  "question_text": "The carbohydrate \"Ribose\" present in DNA, is A. A pentose sugar B. present in pyranose from C. in \"D\" 2025 (24 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo C E E ε 0 ε 0 E 2 1 2 ε 0 E 2 1 4 ε 0 E 2 3 4 ε 0 E 2 xy 45 ∘ v 0 mv 3 o 2√2g z mv 3 o 4√2g z mv 3 o 4√2g z mv 3 o 2√2g z y = 32.3×1125 27.4 y y = 1326.19 y = 1330 y = 1326.186 y = 1326.2 1 √2 m B p × 10 −6 T [ μ 0 = 4π × 10 −7 TmA −1 ] m q = 1C 5 p × 1 ε 0 Nm 2 C 50 ∘ C E 1 E 2 E 1 E 2 = x 9 x 75% 50% ×10 −3 mm 9Ω ∝ options given below:",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) A, D and E Only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) A, C and D Only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) A, B and E Only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) B, D and E Only",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "a = 1",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "configuration D. a reducing sugar, when free E. in -anomeric form Choose the correct answer from the",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

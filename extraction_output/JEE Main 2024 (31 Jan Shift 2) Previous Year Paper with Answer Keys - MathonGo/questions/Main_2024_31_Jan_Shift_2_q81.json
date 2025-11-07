@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_2_q81",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 81,
+  "question_type": "Numerical",
+  "question_text": "Let 𝑎, 𝑏, 𝑐 𝑎 2 + 𝑏 2 𝑥 2 −2𝑏𝑎+ 𝑐 𝑥+ 𝑏 2 + 𝑐 2 = 0 . If the set of all possible values of 𝑥 is in the interval 𝛼, 𝛽, then 12𝛼 2 + 𝛽 2 is equal to _______.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "B",
+      "text": "be the length of three sides of a triangle satisfying the condition",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

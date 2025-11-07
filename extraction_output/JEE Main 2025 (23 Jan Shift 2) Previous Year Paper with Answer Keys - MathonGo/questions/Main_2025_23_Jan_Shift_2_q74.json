@@ -1,0 +1,35 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_2_q74",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 74,
+  "question_type": "MCQ",
+  "question_text": "The bond dissociation enthalpy of . (Nearest integer) [Given : is a pure ionic compound and X forms in gaseous state] 2025 (23 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo d 4 (X) 10% 0.9 gH 2 O (X) gmol −1 X ′ X ′ KMnO 4 ∣H + σ X ′ 27.0 g mol −1 16.0 g mol −1 X 2 ΔH kJmol −1 M + X − (s) →M + (g) + X − (g)ΔH ∗ lattice = 800 kJ mol −1 M( s) →M( g)ΔH ∘ sub = 100 kJ mol −1 M( g) →M + (g) + e − (g)ΔH i = 500 kJ mol −1 X( g) + e − (g) →X − (g)ΔH ∗ eg = −300 kJ mol −1 M( s) + 1 2 X 2 ( g) →M + X − (s)ΔH ∘ f = −400 kJ mol −1 M + X − X 2",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "a diatomic molecule",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "bond",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "calculated from the given data is",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

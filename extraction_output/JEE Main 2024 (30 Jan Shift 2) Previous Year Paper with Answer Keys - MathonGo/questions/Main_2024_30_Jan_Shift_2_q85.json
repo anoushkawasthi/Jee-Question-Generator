@@ -1,0 +1,35 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_2_q85",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 85,
+  "question_type": "Numerical",
+  "question_text": "𝐶 1 : 𝑥 2 + 𝑦 2 = 25 𝐶 2 : ( 𝑥- 𝛼) 2 + 𝑦 2 = 16 , where 𝛼∈( 5, 9 ) . Let the angle between the two radii (one to each circle) drawn from one of the intersection points of C 1 C 2 sin -1√63 8 . If the length of common chord of 𝐶 1 𝐶 2 is 𝛽 , then the value of ( 𝛼𝛽) 2 equals _________. JEE Main 2024 (30 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "𝐶 1 : 𝑥 2 + 𝑦 2 = 25 𝐶 2 : ( 𝑥- 𝛼) 2 + 𝑦 2 = 16 , where 𝛼∈( 5, 9 ) . Let the angle between the two radii (one to each circle) drawn from one of the intersection points of C 1 C 2 sin -1√63 8 . If the length of common chord of 𝐶 1 𝐶 2 is 𝛽 , then the value of ( 𝛼𝛽) 2 equals _________. JEE Main 2024 (30 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Consider two circles",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_1_q45",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 1",
+  "subject": "Chemistry",
+  "question_number": 45,
+  "question_type": "MCQ",
+  "question_text": "This reduction reaction is known as:",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Rosenmund reduction",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Wolff-Kishner reduction",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Stephen reduction",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Etard reduction",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

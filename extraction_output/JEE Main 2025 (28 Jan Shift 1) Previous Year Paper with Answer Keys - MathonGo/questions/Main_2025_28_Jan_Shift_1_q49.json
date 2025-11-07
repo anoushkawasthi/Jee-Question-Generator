@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_1_q49",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 49,
+  "question_type": "MCQ",
+  "question_text": "Two iron solid discs of negligible thickness have radii , respectively. For , the ratio of would be , where ________ -",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

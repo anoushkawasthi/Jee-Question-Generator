@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_2_q1",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 1,
+  "question_type": "MCQ",
+  "question_text": "Given below are two statements : Statement (I) : Dimensions of specific heat is . Statement (II) : . In the light of the above statements, choose the most",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Both statement (I) and statement (II) are correct",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Statement (I) is correct but statement (II) is",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Both statement (I) and statement (II) are incorrect",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Statement (I) is incorrect but statement (II) is",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "appropriate answer from the options given below.",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "correct",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "Dimensions of gas constant is",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

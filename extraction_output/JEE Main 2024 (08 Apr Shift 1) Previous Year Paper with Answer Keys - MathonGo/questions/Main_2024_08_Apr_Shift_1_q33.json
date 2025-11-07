@@ -1,0 +1,60 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_1_q33",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 1",
+  "subject": "Chemistry",
+  "question_number": 33,
+  "question_type": "MCQ",
+  "question_text": "Match List I with List II from the options given below: JEE Main 2024 (08 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 1.0 s ×10 −6 J 600 nm 0.4 mm ×10 −3 rad α 4.5 × 10 −14 m α ×10 5 m/s ( 1 4πϵ 0 = 9 × 10 9 α = 6.72 × 10 −27 kg) (C 6 H 12 O 6 ) 2 900 g gmol −1 = 180 List - I List - II (Elements) (Properties in their respective groups) I. Elements with highest electronegativity Ge, As II. Elements with largest atomic size Fr, Ra III. F, O IV. Elements which show properties of both metals and non-metal Elements with highest negative electron gain enthalpy List-I List-II (Molecule) (Shape) NH 3 I. Square pyramid 5 II. Tetrahedral PCl 5 III. Trigonal pyramidal 4 IV. Trigonal bipyramidal Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "Match List I with List II from the options given below: JEE Main 2024 (08 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 1.0 s ×10 −6 J 600 nm 0.4 mm ×10 −3 rad α 4.5 × 10 −14 m α ×10 5 $\\frac{m}{s}$ ( 1 4πϵ 0 = 9 × 10 9 α = 6.72 × 10 −27 kg) (C 6 H 12 O 6 ) 2 900 g gmol −1 = 180 List - I List - II (Elements) (Properties in their respective groups) I. Elements with highest electronegativity Ge, As II. Elements with largest atomic size Fr, Ra III. F, O IV. Elements which show properties of both metals and non-metal Elements with highest negative electron gain enthalpy List-I List-II (Molecule) (Shape) NH 3 I. Square pyramid 5 II. Tetrahedral PCl 5 III. Trigonal pyramidal 4 IV. Trigonal bipyramidal Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) A-II, B-IV, C-I, D-III",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) A-III, B-I, C-IV, D-II",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) A-IV, B-III, C-I, D-II",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) A-III, B-IV, C-I, D-II",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A.",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "BrF",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "CH",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "D.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

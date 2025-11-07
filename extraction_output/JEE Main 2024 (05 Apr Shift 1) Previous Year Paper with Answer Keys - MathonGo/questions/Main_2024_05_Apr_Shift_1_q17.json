@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_1_q17",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 1",
+  "subject": "Physics",
+  "question_number": 17,
+  "question_type": "MCQ",
+  "question_text": "Light emerges out of a convex lens when a source of light kept at its focus. The shape of wavefront of the light is : JEE Main 2024 (05 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 19.6 J 61.6 J 616 J 431.2 J 27 ∘ C Z 127 ∘ C √3 2 z 2 √3 Z 3 4 Z 4 3 Z R 1 = 10Ω, R 2 = 8Ω, R 3 = 4Ω R 4 = 8Ω 12 V 10.5Ω 1.14 A 12Ω 1 A 10.5Ω 1 A 12Ω 11.4 A μ 0 πb 2 2a μ o 2π ⋅ b 2 a μ 0 2π ⋅ a 2 b μ 0 πa 2 2b 40 V 4kHz 12μF 10 A 12 A 8 A 13 A Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "Light emerges out of a convex lens when a source of light kept at its focus. The shape of wavefront of the light is : JEE Main 2024 (05 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 19.6 J 61.6 J 616 J 431.2 J 27 ∘ C Z 127 ∘ C √3 2 z 2 √3 Z 3 4 Z 4 3 Z R 1 = 10Ω, R 2 = 8Ω, R 3 = 4Ω R 4 = 8Ω 12 V 10.5Ω 1.14 A 12Ω 1 A 10.5Ω 1 A 12Ω 11.4 A μ 0 πb 2 2a μ o 2π ⋅ b 2 a μ 0 2π ⋅ a 2 b μ 0 πa 2 2b 40 V 4kHz 12μF 10 A 12 A 8 A 13 A Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) both spherical and cylindrical",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) plane",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) spherical",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) cylindrical",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

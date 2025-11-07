@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_2_q63",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 63,
+  "question_type": "MCQ",
+  "question_text": "If all the words with or without meaning made using all the letters of the word \"NAGPUR\" are arranged as in a position in this arrangement is :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) NRAGUP",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) NRAPUG",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) NRAPGU",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) NRAGPU",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "dictionary, then the word at",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

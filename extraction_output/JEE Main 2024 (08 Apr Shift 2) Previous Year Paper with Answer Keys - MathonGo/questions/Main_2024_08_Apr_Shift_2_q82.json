@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_2_q82",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 82,
+  "question_type": "MCQ",
+  "question_text": "The sum of all the terms of the row is_______",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "An arithmetic progression is written in the following way",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

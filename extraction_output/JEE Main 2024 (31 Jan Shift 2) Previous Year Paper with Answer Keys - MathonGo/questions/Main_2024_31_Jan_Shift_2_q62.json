@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_2_q62",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 62,
+  "question_type": "MCQ",
+  "question_text": "Let 𝑧 1 𝑧 2 𝑧 1 + 𝑧 2 = 5 𝑧 1 3 + 𝑧 2 3 = 20 + 15𝑖 . Then 𝑧 1 4 + 𝑧 2 4 equals- 30√3 75 15√15 25√3",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be two complex number such that",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_1_q26",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 26,
+  "question_type": "MCQ",
+  "question_text": "Twelve wires each having resistance emf is joined across point",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and . The voltage difference between  and  is ______V.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

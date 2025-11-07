@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_2_q74",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 74,
+  "question_type": "Numerical",
+  "question_text": "Let maximum values of , then is equal to",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 42",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 38",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 24",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 44",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be a real valued function. If  and  are respectively the minimum and the",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

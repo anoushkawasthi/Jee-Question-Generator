@@ -1,0 +1,35 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_2_q84",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 84,
+  "question_type": "Numerical",
+  "question_text": ". If the set of all values of , for which three the interval , then is equal to ________ JEE Main 2024 (09 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo √5 −√2 + log e ( 7+4√5 1+√2 ) √5 −√2 + log e ( 9+4√5 1+√2 ) √2 −√5 + log e ( 7+4√5 1+ √ 2 ) √2 −√5 + log e ( 9+4√5 1+ √ 2 ) x 2 + 3y 2 = 18 y = x √3π − 3 4 √3π + 1 √3π √3π + 3 4 →a = ^ i + 2 ^ j −3 ^ k →b = 2^i + ^j −^k →r →a × →r = →a × → b →a ⋅→r = 0 √10 3 2 →a = 2 ^ i + α ^ j + ^ k, → ^ i + ^ k, →c = β ^ j − ^ k α β αβ = −6 (α, β) →a + → b →b + →c √21 2 (α 1 , β 1 ) (α 2 , β 2 ) α 2 1 + β 2 1 −α 2 β 2 L (1, 2, 3) (2, 3, 5) ( 11 3 , 11 3 , 19 3 ) L 3x−11 2 = 3y−11 1 = 3z−19 2 i th (i −1) th i = 2, 3 3/54 2/54 1/54 5/54 ( 1 α+1 + 1 α+2 + … … + 1 α+1012 ) −( 1 2⋅1 + 1 4⋅3 + 1 6⋅5 + … . . + 1 2024⋅2023 ) = 1 2024 α C y 2 = 6x L C x D M N A B L ( ) 2 2 + y 2 = 4 P : y 2 = 8x α C (α, 0) P (p, q) (2q −p) 2 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": ". If the set of all values of , for which three the interval , then is equal to ________ JEE Main 2024 (09 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo √5 −√2 + log e ( 7+4√5 1+√2 ) √5 −√2 + log e ( 9+4√5 1+√2 ) √2 −√5 + log e ( 7+4√5 1+ √ 2 ) √2 −√5 + log e ( 9+4√5 1+ √ 2 ) x 2 + 3y 2 = 18 y = x √3π − 3 4 √3π + 1 √3π √3π + 3 4 →a = ^ i + 2 ^ j −3 ^ k →b = 2^i + ^j −^k →r →a × →r = →a × → b →a ⋅→r = 0 √10 3 2 →a = 2 ^ i + α ^ j + ^ k, → ^ i + ^ k, →c = β ^ j − ^ k α β αβ = −6 (α, β) →a + → b →b + →c √21 2 (α 1 , β 1 ) (α 2 , β 2 ) α 2 1 + β 2 1 −α 2 β 2 L (1, 2, 3) (2, 3, 5) ( 11 3 , 11 3 , 19 3 ) L 3x−11 2 = 3y−11 1 = 3z−19 2 i th (i −1) th i = 2, 3 $\\frac{3}{54}$ $\\frac{2}{54}$ $\\frac{1}{54}$ $\\frac{5}{54}$ ( 1 α+1 + 1 α+2 + … … + 1 α+1012 ) −( 1 2⋅1 + 1 4⋅3 + 1 6⋅5 + … . . + 1 2024⋅2023 ) = 1 2024 α C y 2 = 6x L C x D M N A B L ( ) 2 2 + y 2 = 4 P : y 2 = 8x α C (α, 0) P (p, q) (2q −p) 2 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "AM⋅BN",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "b = −",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "C : x",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

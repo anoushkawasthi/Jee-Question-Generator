@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_1_q61",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 61,
+  "question_type": "MCQ",
+  "question_text": ", Statement II : If , then",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Statement I is correct but Statement II is",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) both Statement I and Statement II are correct.",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) both Statement I and Statement II are incorrect.",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Statement I is incorrect but Statement II is",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "are three positive real numbers such that",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "Between the above two statements,",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "correct.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

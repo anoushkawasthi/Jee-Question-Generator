@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_2_q57",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 57,
+  "question_type": "MCQ",
+  "question_text": "Number of complexes which show optical isomerism among the following is _________. 2 2 3 - , Co ( en ) 3 3 + , cis  - Pt ( en ) 2 2 2 + , cis  - Co ( en ) 2 2 + ​ , trans - Pt ( en ) 2 2 2 + ,  trans  - Cr ( ox ) 2 2 3 -",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "C",
+      "text": "Cl",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

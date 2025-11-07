@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_2_q14",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 14,
+  "question_type": "MCQ",
+  "question_text": ". If the voltage across the inductor is , then the current in this circuit is _____ . JEE Main 2024 (05 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo 5 3 9 7 3 2 7 5 n d √2nπd 2 1 √2nπd 2 1 √2nπd 2 1 √2n 2 π 2 d 2 100Ω 400Ω 10 V 10 A x × 10 −2 Ω x 2 800 20 200 5Ω 10Ω 1 : 2 2 : 1 4 : 1 1 : 1 (F 1 ) − → ( → F 2 ) q v →F 1 = q →E, →F 2 = q( →V × →B) →F 1 = q →B, →F 2 = q( →B × →V ) →F 1 = q →E, →F 2 = q( →B × →V ) →F 1 = q →V ⋅→E, →F 2 = q( →B ⋅→V ) 200 V, 50 Hz (L = 10mH) 31.4 V 68 A 63 A 10 A 10 mA Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": ". If the voltage across the inductor is , then the current in this circuit is _____ . JEE Main 2024 (05 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo 5 3 9 7 3 2 7 5 n d √2nπd 2 1 √2nπd 2 1 √2nπd 2 1 √2n 2 π 2 d 2 100Ω 400Ω 10 V 10 A x × 10 −2 Ω x 2 800 20 200 5Ω 10Ω 1 : 2 2 : 1 4 : 1 1 : 1 (F 1 ) − → ( → F 2 ) q v →F 1 = q →E, →F 2 = q( →V × →B) →F 1 = q →B, →F 2 = q( →B × →V ) →F 1 = q →E, →F 2 = q( →B × →V ) →F 1 = q →V ⋅→E, →F 2 = q( →B ⋅→V ) 200 V, 50 Hz (L = 10mH) 31.4 V 68 A 63 A 10 A 10 mA Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A series LCR circuit is subjected to an ac signal of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_1_q67",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 67,
+  "question_type": "MCQ",
+  "question_text": "is : 2025 (29 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo a 0 (λ) 8πa 0 n 2a 0 nπ 4n πa 0 4πa 0 n A 2 + B 2 →2AB A 2 k 1 k −1 (fast) 2 (slow) (fast) k 2 − → 2 124 g mol −1 100.0156 ∘ C 25.4 g ∘ 2 250 g mol −1 100.0260 ∘ b (H 2 O) = 0.52 K kg mol −1 2 2 2 2 2 2 2 2 0 ∘ C (Mn, Fe), (Tc, Ru) (Re, Os) Fe < Mn, Ru < Tc Re < Os Mn < Fe, Tc < Ru Os < Re Mn < Fe, Tc < Ru Re < Os Fe < Mn, Ru < Tc Os < Re",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "AY",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "C K",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

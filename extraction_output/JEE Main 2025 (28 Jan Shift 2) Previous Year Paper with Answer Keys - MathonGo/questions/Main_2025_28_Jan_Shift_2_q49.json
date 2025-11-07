@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_2_q49",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 49,
+  "question_type": "Numerical",
+  "question_text": "the page. The bar starts to move from the vertex at time with a constant velocity. If the induced EMF is , then value of n is _.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A conducting bar moves on two conducting rails as shown in the figure. A constant magnetic field B exists into",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

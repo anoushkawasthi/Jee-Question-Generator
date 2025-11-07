@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_1_q57",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 57,
+  "question_type": "MCQ",
+  "question_text": "Given below are two statements : Statement ( ): The radii of isoelectronic species increases in the order. Statement (II): The magnitude of electron gain enthalpy of halogen decreases in the order. options given below : 2025 (29 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo 4 √ 2K p p 3 √ 2K p p 3 √ 2 K 2 p p √K p E ′ 374 kJ mol −1 E −328, −349, −325 −295 kJ mol −1 ED > EC > EB > EA EA > EB > EC > ED EB > EA > EC > ED ED > EC > EA > EB NH 3 , PhSH, (H 3 2 S, H 2 2 , ⊖ O H, H 3 O ⊕ , (CH 3 ) 2 3 I Mg 2+ < Na + < F − < O 2−",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Statement I is incorrect but Statement II is",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Statement I is correct but Statement II is",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Both Statement I and Statement II are incorrect",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Both Statement I and Statement II are correct",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A, B, C",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Cl > F > Br > I",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

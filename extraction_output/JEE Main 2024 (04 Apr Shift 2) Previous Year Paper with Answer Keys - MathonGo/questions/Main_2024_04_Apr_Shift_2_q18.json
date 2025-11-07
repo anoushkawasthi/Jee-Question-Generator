@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_2_q18",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 2",
+  "subject": "Chemistry",
+  "question_number": 18,
+  "question_type": "MCQ",
+  "question_text": "orbit of hydrogen atom is: JEE Main 2024 (04 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo (λ 1 ) x (λ 2 ) (λ 3 ) (λ 4 ) λ 4 < λ 3 < λ 1 < λ 2 λ 2 < λ 1 < λ 4 < λ 3 λ 1 < λ 2 < λ 3 < λ 4 λ 4 < λ 3 < λ 2 < λ 1 1 : 1 4 : 1 9 : 1 16 : 1 A A R R A A R R A A R A R 4 th h π h 2π 8 h π 2 h π Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "orbit of hydrogen atom is: JEE Main 2024 (04 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo (λ 1 ) x (λ 2 ) (λ 3 ) (λ 4 ) λ 4 < λ 3 < λ 1 < λ 2 λ 2 < λ 1 < λ 4 < λ 3 λ 1 < λ 2 < λ 3 < λ 4 λ 4 < λ 3 < λ 2 < λ 1 1 : 1 4 : 1 9 : 1 16 : 1 A A R R A A R R A A R A R 4 th h π h 2π 8 h π 2 h π Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "According to Bohr's theory, the moment of momentum of an electron revolving in",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Choose the correct answer from the options given below:",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

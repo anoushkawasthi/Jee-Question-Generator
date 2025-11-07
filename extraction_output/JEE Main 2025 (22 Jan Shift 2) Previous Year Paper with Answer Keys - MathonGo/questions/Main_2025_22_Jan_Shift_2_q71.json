@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_2_q71",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 71,
+  "question_type": "MCQ",
+  "question_text": "The compound with molecular formula , which gives only one monobromo derivative and takes up four moles of hydrogen per mole for complete hydrogenation has ________  electrons. 2025 (22 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo HBr, H 2 S, NF 3 3 H 2 S < HBr < NF 3 < CHCl 3 NF 3 < HBr < H 2 S < CHCl 3 HBr < H 2 S < NF 3 < CHCl 3 3 < NF 3 < HBr < H 2 S E −E C 6 H 6 =",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "C",
+      "text": "CHCl",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

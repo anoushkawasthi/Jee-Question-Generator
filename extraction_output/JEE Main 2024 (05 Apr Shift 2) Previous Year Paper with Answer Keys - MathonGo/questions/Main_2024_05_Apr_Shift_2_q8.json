@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_2_q8",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 2",
+  "subject": "Physics",
+  "question_number": 8,
+  "question_type": "MCQ",
+  "question_text": "temperature, then the ratio of for the gas is : JEE Main 2024 (05 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo x −y →F →p(t) = ^i cos(kt) −^j sin(kt) k → F →p π 4 π 6 π 2 π 3 −1 (P + a V 2 )(V −b) = RT [M −1 L 5 T 3 ] [M 6 L 7 T 4 ] [ML 2 T −2 ] [M 0 L 3 T −2 ] 9 m ( m/s 2 57600π 2 ms −2 4π 2 ms −2 16π 2 ms −2 50 kg 1.47 N 147 N 14.7 N 1470 N t t t 3/2 t 2 t 2/3 ( = 4.2 × 10 4 km 1.4 × 10 4 km 1.05 × 10 4 km 8.4 × 10 4 km 1.68 × 10 5 km List-I List-II (A) (I) (B) Two equal and opposite forces parallel to opposite faces (II) Young's modulus (C) (III) Stress (D) Two equal and opposite forces perpendicular to opposite faces (IV) Shear modulus Forces perpendicular everywhere to the surface per unit area same everywhere C P C V Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "temperature, then the ratio of for the gas is : JEE Main 2024 (05 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo x −y →F →p(t) = ^i cos(kt) −^j sin(kt) k → F →p π 4 π 6 π 2 π 3 −1 (P + a V 2 )(V −b) = RT [M −1 L 5 T 3 ] [M 6 L 7 T 4 ] [ML 2 T −2 ] [M 0 L 3 T −2 ] 9 m ( $\\frac{m}{s}$ 2 57600π 2 ms −2 4π 2 ms −2 16π 2 ms −2 50 kg 1.47 N 147 N 14.7 N 1470 N t t t $\\frac{3}{2}$ t 2 t $\\frac{2}{3}$ ( = 4.2 × 10 4 km 1.4 × 10 4 km 1.05 × 10 4 km 8.4 × 10 4 km 1.68 × 10 5 km List-I List-II (A) (I) (B) Two equal and opposite forces parallel to opposite faces (II) Young's modulus (C) (III) Stress (D) Two equal and opposite forces perpendicular to opposite faces (IV) Shear modulus Forces perpendicular everywhere to the surface per unit area same everywhere C P C V Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A force that restores an elastic body of unit area to its original state",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "Bulk modulus",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "During an adiabatic process, if the pressure of a gas is found to be proportional to the cube of its absolute",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_2_q35",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 35,
+  "question_type": "MCQ",
+  "question_text": "𝐴 𝑔 ⇌𝐵 𝑔 + 𝐶 2 𝑔 𝐾 𝑃 ,   𝛼 𝑃 is K P = α 1 2 P 1 2 2 + α 1 2 K P = α 3 2 P 1 2 2 + α 1 2 1 −α K P = α 1 2 P 3 2 2 + α 3 2 K P = α 1 2 P 1 2 2 + α 3 2",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and equilibrium pressure",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

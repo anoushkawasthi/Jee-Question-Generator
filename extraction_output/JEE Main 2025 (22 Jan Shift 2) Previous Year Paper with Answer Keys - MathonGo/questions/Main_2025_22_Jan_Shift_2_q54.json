@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_2_q54",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 54,
+  "question_type": "MCQ",
+  "question_text": "Given below are two statements : Statement (I) : Corrosion is an electrochemical phenomenon in which pure metal acts as an anode and impure metal as a cathode. Statement (II) : The rate of corrosion is more in alkaline options given below : 2025 (22 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo x × 10 −5 T x μ 0 = 4π × 10 −7 SI 1.25 g/mL [Co(NH 3 ) 4 ] 2+ < [Co(NH 3 ) 6 ] 2+ < [Co(en) 3 ] 3+ < [Co(NH 3 ) 6 ] 3+ [Co(NH 3 ) 6 ] 2+ < [Co(NH 3 ) 6 ] 3+ < [Co(NH 3 ) 4 ] 2+ < [Co(en) 3 ] 3+ [Co(en) 3 ] 3+ < [Co(NH 3 ) 6 ] 3+ < [Co(NH 3 ) 6 ] 2+ < [Co(NH 3 ) 4 ] 2+ [Co(NH 3 ) 4 ] 2+ < [Co(NH 3 ) 6 ] 2+ < [Co(NH 3 ) 6 ] 3+ < [Co(en) 3 ] 3+",
+  "question_latex": "Given below are two statements : Statement (I) : Corrosion is an electrochemical phenomenon in which pure metal acts as an anode and impure metal as a cathode. Statement (II) : The rate of corrosion is more in alkaline options given below : 2025 (22 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo x × 10 −5 T x μ 0 = 4π × 10 −7 SI 1.25 $\\frac{g}{mL}$ [Co(NH 3 ) 4 ] 2+ < [Co(NH 3 ) 6 ] 2+ < [Co(en) 3 ] 3+ < [Co(NH 3 ) 6 ] 3+ [Co(NH 3 ) 6 ] 2+ < [Co(NH 3 ) 6 ] 3+ < [Co(NH 3 ) 4 ] 2+ < [Co(en) 3 ] 3+ [Co(en) 3 ] 3+ < [Co(NH 3 ) 6 ] 3+ < [Co(NH 3 ) 6 ] 2+ < [Co(NH 3 ) 4 ] 2+ [Co(NH 3 ) 4 ] 2+ < [Co(NH 3 ) 6 ] 2+ < [Co(NH 3 ) 6 ] 3+ < [Co(en) 3 ] 3+",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Both Statement I and Statement II are true",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Statement I is false but Statement II is true",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Statement I is true but Statement II is false",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Both Statement I and Statement II are false",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

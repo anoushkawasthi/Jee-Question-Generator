@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_2_q53",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 53,
+  "question_type": "MCQ",
+  "question_text": "Given below are two statements : Statement (I): Experimentally determined oxygen-oxygen bond lengths in the (double bond) but less than 2025 (24 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo L M ( 3 π ) … … 0.2% P × 10 5 Nm −2 2.15 × 10 9 Nm −2 … … … … m e = 9 × 10 −31 kg |q e | = 1.6 × 10 −19 C μ 0 = 4π × 10 −7 N A 2 , 1 ns = 10 −9 s] g … … 3p x 3 d x 2 −y 2 3 d z 2 4p z −(III), (B) −(I), (C) −(IV), (D) −(II) −(III), (B) −(I), (C) −(II), (D) −(IV) −(IV), (B) −(II), (C) −(III), (D) −(I) (A) −(II), (B) −(IV), (C) −(I), (D) −(III) O 3 O = O that of a single is solely responsible for the fact that the bond length in ozone is smaller than that of a double bond from the options given below :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Both Statement I and Statement II are false",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Statement I is false but Statement II is true",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Statement I is true but Statement II is false",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Both Statement I and Statement II are true",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "are found to be same and the bond length is greater than that of a",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "but more than that of a single bond",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

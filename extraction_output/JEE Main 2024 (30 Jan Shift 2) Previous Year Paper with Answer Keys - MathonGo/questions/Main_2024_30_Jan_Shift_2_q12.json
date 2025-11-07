@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_2_q12",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 12,
+  "question_type": "Numerical",
+  "question_text": "𝑉( 𝑡) = 220sin100𝜋t volt is applied to a purely resistive load of 50   𝛺 . The time taken for the current to rise from half of the peak value to the peak value is: 5   ms 3 . 3   ms 7 . 2   ms 2 . 2   ms",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "An alternating voltage",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

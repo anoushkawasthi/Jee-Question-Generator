@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_2_q51",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 51,
+  "question_type": "MCQ",
+  "question_text": "The maximum number of orbitals which can be identified with is ______ JEE Main 2024 (04 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo [Co(H 2 O) 6 ] 3+ 3 −CH 2 −CH 2 −Br + NaOH C 2 H 5 OH − → B C [Me : −CH 3 ] List - I List - II α - Glucose and α - Galactose I. Functional isomers α - Glucose and β - Glucose II. Homologous α - Glucose and α - Fructose III. α - Glucose and α - Ribose IV. Epimers n = 4 m l = 0 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "The maximum number of orbitals which can be identified with is ______ JEE Main 2024 (04 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo [Co(H 2 O) 6 ] 3+ 3 −CH 2 −CH 2 −Br + NaOH C 2 H 5 OH − → B C [Me : −CH 3 ] List - I List - II α - Glucose and α - Galactose I. Functional isomers α - Glucose and β - Glucose II. Homologous α - Glucose and α - Fructose III. α - Glucose and α - Ribose IV. Epimers n = 4 m l = 0 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "Anomers",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B.",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "C.",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "D.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

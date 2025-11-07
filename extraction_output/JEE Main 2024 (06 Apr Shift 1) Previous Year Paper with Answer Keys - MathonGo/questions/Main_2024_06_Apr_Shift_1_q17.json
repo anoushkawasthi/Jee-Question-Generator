@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_1_q17",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 1",
+  "subject": "Physics",
+  "question_number": 17,
+  "question_type": "MCQ",
+  "question_text": "Which of the following phenomena does not explain by wave nature of light. A. reflection B. diffraction C.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) E only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) B, D only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) C only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) A, C only",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "below:",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

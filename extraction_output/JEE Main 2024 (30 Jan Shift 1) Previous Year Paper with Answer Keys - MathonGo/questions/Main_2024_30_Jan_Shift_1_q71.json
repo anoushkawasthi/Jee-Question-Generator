@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_1_q71",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 71,
+  "question_type": "MCQ",
+  "question_text": ", where",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) The system has unique solution if",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) The system is inconsistent if",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) The system has infinite number of solutions if",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) The system is consistent if",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Consider the system of linear equation",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_1_q57",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 57,
+  "question_type": "MCQ",
+  "question_text": "The 'Spin only’ Magnetic moment for [Ni ( NH 3 ) 6 ] 2 + is______ ×   10 – 1 Ni   :   28 )",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "B",
+      "text": "BM. (given = Atomic number of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

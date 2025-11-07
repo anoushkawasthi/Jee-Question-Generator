@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_2_q22",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 2",
+  "subject": "Physics",
+  "question_number": 22,
+  "question_type": "Numerical",
+  "question_text": "groove along a radial direction on the table. A steel ball is gently placed at a distance of on the groove. All the surfaces are smooth. If the radius of the table is , the radial velocity of the ball w.r.t. the table at the time ball leaves the table is , where the value of  is _____.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "about its axis (see figure). There is a smooth",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

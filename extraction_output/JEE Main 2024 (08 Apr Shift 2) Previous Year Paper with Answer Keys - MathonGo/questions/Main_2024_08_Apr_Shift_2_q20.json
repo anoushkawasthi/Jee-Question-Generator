@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_2_q20",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 20,
+  "question_type": "MCQ",
+  "question_text": "There are 100 divisions on the circular scale of a screw gauge of pitch . With no measuring quantity in is then measured using this screw gauge. It is found that 4 linear scale divisions are clearly visible while 60",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "between the jaws, the zero of the circular scale lies 5 divisions below the reference line. The diameter of a wire",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "divisions on circular scale coincide with the reference line. The diameter of the wire is :",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

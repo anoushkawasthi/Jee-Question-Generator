@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_2_q30",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 30,
+  "question_type": "MCQ",
+  "question_text": "under a tension of 5 N . Its elongation is under the tension of 7 N . For the elongation of , the tension in the spring will be,",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 39 N",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 15 N",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 11 N",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 20 N",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A massless spring gets elongated by amount",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

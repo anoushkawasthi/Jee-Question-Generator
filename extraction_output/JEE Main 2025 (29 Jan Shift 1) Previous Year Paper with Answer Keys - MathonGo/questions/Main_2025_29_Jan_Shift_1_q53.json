@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_1_q53",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 53,
+  "question_type": "MCQ",
+  "question_text": "having degree of dissociation 2025 (29 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo (1, 1, 1) → F = ^ i − ^ j + ^ k θ 1 θ 2 ′ θ 1 = θ 2 = cos −1 ( n 2 2n 1 ) n 2 > n 1 27 ∘ C ∘ C 27 km/h 9 km/h 10 m/s g = 10 m/s 2 List - I List - II (Complex) (Hybridisation & Magnetic characters) (A) [MnBr 4 ] 2− (I) d 2 s 3 & diamagnetic (B) [FeF 6 ] 3− (II) sp 3 d 2 & paramagnetic (C) [Co(C 2 O 4 ) 3 ] 3− (III) sp 3 & diamagnetic (D) [Ni(CO) 4 ] (IV) sp 3 & paramagnetic −(IV), (B) −(II), (C) −(I), (D) −(III) (A) −(III), (B) −(I), (C) −(II), (D) −(IV) −(IV), (B) −(I), (C) −(II), (D) −(III) (A) −(III), (B) −(II), (C) −(I), (D) −(IV) R = 8.3 J K −1 mol −1 2( g) 2( g) ⇌AB (g) + 1 2 B 2( g) x x K p",
+  "question_latex": "having degree of dissociation 2025 (29 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo (1, 1, 1) → F = ^ i − ^ j + ^ k θ 1 θ 2 ′ θ 1 = θ 2 = cos −1 ( n 2 2n 1 ) n 2 > n 1 27 ∘ C ∘ C 27 $\\frac{km}{h}$ 9 $\\frac{km}{h}$ 10 $\\frac{m}{s}$ g = 10 $\\frac{m}{s}$ 2 List - I List - II (Complex) (Hybridisation & Magnetic characters) (A) [MnBr 4 ] 2− (I) d 2 s 3 & diamagnetic (B) [FeF 6 ] 3− (II) sp 3 d 2 & paramagnetic (C) [Co(C 2 O 4 ) 3 ] 3− (III) sp 3 & diamagnetic (D) [Ni(CO) 4 ] (IV) sp 3 & paramagnetic −(IV), (B) −(II), (C) −(I), (D) −(III) (A) −(III), (B) −(I), (C) −(II), (D) −(IV) −(IV), (B) −(I), (C) −(II), (D) −(III) (A) −(III), (B) −(II), (C) −(I), (D) −(IV) R = 8.3 J K −1 mol −1 2( g) 2( g) ⇌AB (g) + 1 2 B 2( g) x x K p",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "AB",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "cm",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "d = 4√3",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

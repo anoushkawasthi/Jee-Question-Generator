@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_1_q30",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 1",
+  "subject": "Chemistry",
+  "question_number": 30,
+  "question_type": "Numerical",
+  "question_text": "to . Due to recoil, the percentage change in the wave length of emitted light is approximately . The value of  is_____. [Given mass of the hydrogenatom ] JEE Main 2024 (04 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 3 N a b 2 N (3a −2b) N 7 40dyne/cm (π = 22 7 ) +σ s 2 x −y +λ e z = 4 m y |σ s | = 2 |λ e | (0, 0, 2) π√n : 1 n 2Ω 6 V a c e f →B = 0.2(1 + 2x)^k T 50 x −y x −y mN i = [6 + √56 sin(100πt + π/3)] rms λ 1 λ 2 λ 1 = 450 nm λ 2 = 650 nm λ 2 λ 1 n n n = 3 n = 2 1 × 10 −n n Rhc = 13.6eV, hc = 1242eVnm, h = 6.6 × 10 −34 J s = 1.6 × 10 −27 kg Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "to . Due to recoil, the percentage change in the wave length of emitted light is approximately . The value of  is_____. [Given mass of the hydrogenatom ] JEE Main 2024 (04 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 3 N a b 2 N (3a −2b) N 7 $\\frac{40dyne}{cm}$ (π = 22 7 ) +σ s 2 x −y +λ e z = 4 m y |σ s | = 2 |λ e | (0, 0, 2) π√n : 1 n 2Ω 6 V a c e f →B = 0.2(1 + 2x)^k T 50 x −y x −y mN i = [6 + √56 sin(100πt + $\\frac{π}{3}$)] rms λ 1 λ 2 λ 1 = 450 nm λ 2 = 650 nm λ 2 λ 1 n n n = 3 n = 2 1 × 10 −n n Rhc = 13.6eV, hc = 1242eVnm, h = 6.6 × 10 −34 J s = 1.6 × 10 −27 kg Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A hydrogen atom changes its state from",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "cm",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

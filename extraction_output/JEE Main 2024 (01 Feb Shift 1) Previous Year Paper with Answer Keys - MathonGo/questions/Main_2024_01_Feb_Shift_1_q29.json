@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_1_q29",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 1",
+  "subject": "Mathematics",
+  "question_number": 29,
+  "question_type": "MCQ",
+  "question_text": "The distance between object and its 3 times magnified virtual image as produced by a convex lens is 20   cm . The focal length of the lens used is ________",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "C",
+      "text": "cm .",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

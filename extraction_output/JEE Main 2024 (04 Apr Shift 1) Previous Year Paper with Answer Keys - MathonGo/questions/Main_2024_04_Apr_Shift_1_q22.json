@@ -1,0 +1,35 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_1_q22",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 22,
+  "question_type": "Numerical",
+  "question_text": "The sphere and the cylinder reaches upto maximum heights , respectively, above the initial level. The ratio is . The value of  is______. JEE Main 2024 (04 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 20 50 500 25 (I 1 < I 2 ) ( 1 0 n) ( 235 92 U) 144 56 89 36 Kr + 4 1 0 n 144 56 89 36 Kr + 3 1 0 n 140 56 Xe + 94 38 Sr + 3 1 0 n 153 51 Sb + 99 41 Nb + 3 1 0 n 6Ω (5/2)Ω (15/4)Ω (30/11)Ω ¯F 1 ¯F 2 →F 1 →F 2 −1 ( 1 n ) |n| v h 1 h 2 h 1 : h 2 n 10 n Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "The sphere and the cylinder reaches upto maximum heights , respectively, above the initial level. The ratio is . The value of  is______. JEE Main 2024 (04 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 20 50 500 25 (I 1 < I 2 ) ( 1 0 n) ( 235 92 U) 144 56 89 36 Kr + 4 1 0 n 144 56 89 36 Kr + 3 1 0 n 140 56 Xe + 94 38 Sr + 3 1 0 n 153 51 Sb + 99 41 Nb + 3 1 0 n 6Ω ($\\frac{5}{2}$)Ω ($\\frac{15}{4}$)Ω ($\\frac{30}{11}$)Ω ¯F 1 ¯F 2 →F 1 →F 2 −1 ( 1 n ) |n| v h 1 h 2 h 1 : h 2 n 10 n Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "Ba +",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "cos",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_2_q59",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 59,
+  "question_type": "MCQ",
+  "question_text": "Which one of the following reaction sequences will give an azo dye? 2025 (29 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo 0 ∘ C 0 ∘ C n =",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_1_q32",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 32,
+  "question_type": "MCQ",
+  "question_text": "(D)",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) E  C  A  B  D",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) C  E  A  B  D",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) B  D  C  E  A",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) A  B  D  C  E",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

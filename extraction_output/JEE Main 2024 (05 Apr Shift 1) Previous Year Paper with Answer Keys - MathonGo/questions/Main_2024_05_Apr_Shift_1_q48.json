@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_1_q48",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 1",
+  "subject": "Chemistry",
+  "question_number": 48,
+  "question_type": "MCQ",
+  "question_text": "Identify compound in the following reaction sequence. JEE Main 2024 (05 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo Mn Mn Mn Mn 57 S 2 mol −1 73 S 2 mol −1 187 S 2 mol −1 260 S 2 mol −1 130 S 2 mol −1 65 S 2 mol −1 Fe Mn [Cr(H 2 O) 6 ] 2+ [Fe(H 2 O) 6 ] 2+ [Co(H 2 O) 6 ] 2+ [Mn(H 2 O) 6 ] 2+ F − < Br − < I − < NH 3 − < F − < H 2 O < NH 3 H 2 O < −OH < CN − < NH 3 − < −OH < Br − < CN − 3 2 + (Z) Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "Identify compound in the following reaction sequence. JEE Main 2024 (05 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo Mn Mn Mn Mn 57 S 2 mol −1 73 S 2 mol −1 187 S 2 mol −1 260 S 2 mol −1 130 S 2 mol −1 65 S 2 mol −1 Fe Mn [Cr(H 2 O) 6 ] 2+ [Fe(H 2 O) 6 ] 2+ [Co(H 2 O) 6 ] 2+ [Mn(H 2 O) 6 ] 2+ F − < Br − < I − < NH 3 − < F − < H 2 O < NH 3 H 2 O < −OH < CN − < NH 3 − < −OH < Br − < CN − 3 2 + (Z) Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "Br",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "CS",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_1_q44",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 44,
+  "question_type": "MCQ",
+  "question_text": "is connected to a 100 V power supply. Now the intermediate space between the plates is filled with a dielectric material of dielectric constant . Due to the introduction of dielectric material, the extra charge and the change in the electrostatic energy in the capacitor, respectively, are 2025 (22 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo |R 1 | |R 2 | 1 6 ( 1 |R 1 | − 1 |R 2 | ) − 1 6 ( 1 |R 1 | + 1 |R 2 | ) 1 6 ( 1 |R 1 | + 1 |R 2 | ) − 1 6 ( 1 |R 1 | − 1 |R 2 | ) (A) (R) (R) (A) (A) (R) (R) (A) (A) 40μ F K = 2",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 4 mC and 0.2 J",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 8 mC and 2.0 J",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 2 mC and 0.4 J",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 2 mC and 0.2 J",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A parallel-plate capacitor of capacitance",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

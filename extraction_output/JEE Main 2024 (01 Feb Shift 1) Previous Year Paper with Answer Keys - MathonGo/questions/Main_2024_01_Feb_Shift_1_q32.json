@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_1_q32",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 1",
+  "subject": "Mathematics",
+  "question_number": 32,
+  "question_type": "MCQ",
+  "question_text": "In case of isoelectronic species the size of F – ,   Ne Na + is affected by: n z",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Principal quantum number",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) None of the factors because their size is the same",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Electron-electron interaction in the outer orbitals (4) Nuclear charge",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

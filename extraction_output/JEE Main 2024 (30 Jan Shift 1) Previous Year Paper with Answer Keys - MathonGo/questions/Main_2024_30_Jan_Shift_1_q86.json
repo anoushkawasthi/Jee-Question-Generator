@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_1_q86",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 86,
+  "question_type": "MCQ",
+  "question_text": "Let such that is is least, then is equal to ______.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "denote the power set of . If the number of functions",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

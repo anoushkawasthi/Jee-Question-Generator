@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_2_q17",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 2",
+  "subject": "Physics",
+  "question_number": 17,
+  "question_type": "Assertion-Reason",
+  "question_text": "Given below are two statements: one is labelled as Assertion energy of emitted electrons increases with the frequency of incident radiation. In the light of the above explanation of . is NOT the .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Both",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Both",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "are correct and",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "correct explanation of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

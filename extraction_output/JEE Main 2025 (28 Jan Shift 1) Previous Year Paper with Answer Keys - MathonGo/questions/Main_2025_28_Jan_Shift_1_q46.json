@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_1_q46",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 46,
+  "question_type": "MCQ",
+  "question_text": "fringe pattern on a screen with 10 th bright fringe having its centre at a distance of 10 mm from the central maximum. Distance of the centre of the same 10th bright fringe from the central maximum when the source of light is replaced by another source of wavelength 660 nm would be _________ mm .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A double slit interference experiment performed with a light of wavelength 600 nm forms an interference",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

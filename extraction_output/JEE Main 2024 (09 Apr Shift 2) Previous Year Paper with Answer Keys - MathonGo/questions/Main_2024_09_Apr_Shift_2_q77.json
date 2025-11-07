@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_2_q77",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 77,
+  "question_type": "MCQ",
+  "question_text": ". Then the vector satisfying is of magnitude . Statement II : In a triangle .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Statement I is incorrect but Statement II is",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Both Statement I and Statement II are correct.",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Statement I is correct but Statement II is",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Both Statement I and Statement II are incorrect.",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "Between the following two statements: Statement I : Let",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "correct.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_29_Jan_Shift_1_q84",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 84,
+  "question_type": "MCQ",
+  "question_text": "Equations of two diameters of a circle are . The line joining the points intersects the circle at only one point . Then is equal to",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

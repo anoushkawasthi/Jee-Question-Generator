@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_29_Jan_Shift_2_q84",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 84,
+  "question_type": "MCQ",
+  "question_text": "Let . If  also lies on the chord of the parabola whose mid point is , then is equal to _______.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "B",
+      "text": "be a point on the parabola",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

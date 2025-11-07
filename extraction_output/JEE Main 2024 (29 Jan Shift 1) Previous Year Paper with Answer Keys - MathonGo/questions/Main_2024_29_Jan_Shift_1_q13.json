@@ -1,0 +1,60 @@
+{
+  "question_id": "Main_2024_29_Jan_Shift_1_q13",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 13,
+  "question_type": "MCQ",
+  "question_text": "The electric current through a wire varies with time as , where . The is: JEE Main 2024 (29 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 33800 J 2200 J 600 J 800 J A B A 1 g B 1 g P A P B A B P A P B 16 8 4 32 5Q −2Q (3a, 0) (−5a, 0) 4a 2Q ε 0 5Q ε 0 7Q ε 0 3Q ε 0 100 μ F 12 V 6. 4 mH 3. 2 A 1. 5 A 2. 0 A 1. 2 A I = I 0 + βt I 0 = 20 A β = 3 A s −1 20 s Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "The electric current through a wire varies with time as , where . The is: JEE Main 2024 (29 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 33800 J 2200 J 600 J 800 J A B A 1 g B 1 g P A P B A B P A P B 16 8 4 32 5Q −2Q (3a, 0) (−5a, 0) 4a 2Q ε 0 5Q ε 0 7Q ε 0 3Q ε 0 100 μ F 12 V 6. 4 mH 3. 2 A 1. 5 A 2. 0 A 1. 2 A I = I 0 + βt I 0 = 20 A β = 3 A s −1 20 s Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A −I,",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B −II,",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "C −III,",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "D −IV",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_1_q25",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 25,
+  "question_type": "Numerical",
+  "question_text": ", the potential is . The value of  is _______ JEE Main 2024 (09 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo λ α < λ p < λ e λ e > λ α > λ p λ p > λ e > λ α λ p < λ e < λ α 1 g 5.6 × 10 12 MeV 5.6 × 10 26 MeV 11.2 × 10 24 MeV 5.6eV 1.42eV 1400 nm 650 nm 875 nm 1243 nm m n th (n + 1) th n (n+1) 1 (n+1) m (n+1) m n(n+1) →a →b −1 ( 5 9 ) |→a + → → |→a| = n| → n 0.40kgm 2 10 40 N 10 s xrad/s x 200 N 1 × 10 11 N m −2 2 m 2 2 μm 4 m, 2 ms −1 16 ms −2 √x, m x R = 10 4nCm −1 xπV x Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": ", the potential is . The value of  is _______ JEE Main 2024 (09 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo λ α < λ p < λ e λ e > λ α > λ p λ p > λ e > λ α λ p < λ e < λ α 1 g 5.6 × 10 12 MeV 5.6 × 10 26 MeV 11.2 × 10 24 MeV 5.6eV 1.42eV 1400 nm 650 nm 875 nm 1243 nm m n th (n + 1) th n (n+1) 1 (n+1) m (n+1) m n(n+1) →a →b −1 ( 5 9 ) |→a + → → |→a| = n| → n 0.40kgm 2 10 40 N 10 s $\\frac{xrad}{s}$ x 200 N 1 × 10 11 N m −2 2 m 2 2 μm 4 m, 2 ms −1 16 ms −2 √x, m x R = 10 4nCm −1 xπV x Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and linear charge density",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "b|",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "cm",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

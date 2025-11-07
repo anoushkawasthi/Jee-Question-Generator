@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_1_q54",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 1",
+  "subject": "Chemistry",
+  "question_number": 54,
+  "question_type": "MCQ",
+  "question_text": "(x).He thought of preparing the molecule using an aldol condensation reaction. He found a few cyclic alkenes in his laboratory. He thought of performing ozonolysis reaction on alkene to produce a dicarbonyl compound followed by aldol reaction to prepare \" x \". Predict the suitable alkene that can lead to the formation of \"  \". 2025 (24 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo 3 −CH 2 −CH 2 −CH 2 −Cl 3 −CH 2 −CH 2 −CH 2 −OH + Cl (−) HO − − → x",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "Aman has been asked to synthesise the molecule",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "CH",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

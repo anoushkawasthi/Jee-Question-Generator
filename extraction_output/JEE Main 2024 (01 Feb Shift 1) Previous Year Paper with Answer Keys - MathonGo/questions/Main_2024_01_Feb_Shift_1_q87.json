@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_1_q87",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 1",
+  "subject": "Chemistry",
+  "question_number": 87,
+  "question_type": "MCQ",
+  "question_text": "Let 𝐴= 1, 2, 3, . ..20 . Let 𝑅 1 𝑅 2 two relation on 𝐴 such that 𝑅 1 = {𝑎, 𝑏: 𝑏 is divisible by 𝑎 } 𝑅 2 = {𝑎, 𝑏: 𝑎 is an integral multiple of 𝑏 } Then, number of elements in 𝑅 1 −𝑅 2 is equal to __________.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_1_q56",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 56,
+  "question_type": "MCQ",
+  "question_text": "Given below are two statements : Statement I : One mole of propyne reacts with excess of sodium to liberate half a mole of gas. Statement II : Four g of propyne reacts with to liberate gas which options given below: 2025 (22 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo 30 ∘ 60 m/s h 0 h 1 h 0 : h 1 g = 10 m/s 2 a 0 → r = 4a 0 r = 2a 0 r = a 0 2 r = a 0 4 25 ∘ C ΔU < 0, q = 0, w > 0 ΔU = 0, q = 0, w = 0 ΔU > 0, q = 0, w > 0 ΔU = 0, q < 0, w > 0 Mg < Be < B < N S < Cl < O < F 4f 7 Eu 2+ Gd 3+ Eu 3+ Tb 3+ Sm 2+ H 2 NaNH 2 NH 3",
+  "question_latex": "Given below are two statements : Statement I : One mole of propyne reacts with excess of sodium to liberate half a mole of gas. Statement II : Four g of propyne reacts with to liberate gas which options given below: 2025 (22 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo 30 ∘ 60 $\\frac{m}{s}$ h 0 h 1 h 0 : h 1 g = 10 $\\frac{m}{s}$ 2 a 0 → r = 4a 0 r = 2a 0 r = a 0 2 r = a 0 4 25 ∘ C ΔU < 0, q = 0, w > 0 ΔU = 0, q = 0, w = 0 ΔU > 0, q = 0, w > 0 ΔU = 0, q < 0, w > 0 Mg < Be < B < N S < Cl < O < F 4f 7 Eu 2+ Gd 3+ Eu 3+ Tb 3+ Sm 2+ H 2 NaNH 2 NH 3",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Statement I is incorrect but Statement II is",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Both Statement I and Statement II are correct",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Statement I is correct but Statement II is",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Both Statement I and Statement II are incorrect",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "Al < Mg < B < N",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "correct",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

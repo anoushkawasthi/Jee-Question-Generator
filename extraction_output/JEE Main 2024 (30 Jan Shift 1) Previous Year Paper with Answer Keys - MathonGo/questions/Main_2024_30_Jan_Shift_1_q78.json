@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_1_q78",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 78,
+  "question_type": "MCQ",
+  "question_text": "Let . If , then the angle between  and  is equal to : JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 0 1 2 6 x + y + z = 4μ, x + 2y + 2λz = 10μ, x + 3y + 4λ 2 z = μ 2 + 15 λ, μ ∈R λ ≠ 1 2 μ ≠1, 15 λ = 1 2 μ ≠1 λ = 1 2 μ = 15 λ ≠ 1 2 f(x) = cos −1 ( 2−|x| 4 ) + (log e (3 −x)) −1 [−α, β) −{γ} α + β + γ 12 9 11 8 g : R →R g ′ ( 1 2 ) = g ′ ( 3 2 ) f f(x) = 1 2 [ g(x) + g(2 −x)] f ′′ (x) = 0 x (0, 2) f ′′ (x) = 0 x (0, 1) f ′′ (x) = 0 x (0, 1) f ′ ( 3 2 ) + f ′ ( 1 2 ) = 1 lim n→∞ ∑ n k=1 n 3 (n 2 +k 2 )(n 2 +3k 2 ) (2√3+3)π 24 13π 8(4 √ 3+3) 13(2√3−3)π 8 π 8(2√3+3) y 2 = 4(x −2) y = 2x −8 8 9 6 7 y = y(x) sec xdy + {2(1 −x) tan x + x(2 −x)}dx = 0 y(0) = 2 y(2) 2 2{1 −sin(2)} 2{sin(2) + 1} 1 ˆ i + 2 ˆ j + 3 ˆ k − → 1 2 √410 1 2 √474 1 2 √586 1 2 √306 →a = a i ˆi + a 2 ˆj + a 3 ˆk → 1 ˆ i + b 2 ˆ j + b 3 ˆ k →a = 1;→a ⋅ → ∣ → ∣ →c = 2(→a × → → b → b →c Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "Let . If , then the angle between  and  is equal to : JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 0 1 2 6 x + y + z = 4μ, x + 2y + 2λz = 10μ, x + 3y + 4λ 2 z = μ 2 + 15 λ, μ ∈R λ ≠ 1 2 μ ≠1, 15 λ = 1 2 μ ≠1 λ = 1 2 μ = 15 λ ≠ 1 2 f(x) = cos −1 ( 2−|x| 4 ) + (log e (3 −x)) −1 [−α, β) −{γ} α + β + γ 12 9 11 8 g : R →R g ′ ( 1 2 ) = g ′ ( 3 2 ) f f(x) = 1 2 [ g(x) + g(2 −x)] f ′′ (x) = 0 x (0, 2) f ′′ (x) = 0 x (0, 1) f ′′ (x) = 0 x (0, 1) f ′ ( 3 2 ) + f ′ ( 1 2 ) = 1 lim n→∞ ∑ n k=1 n 3 (n 2 +k 2 )(n 2 +3k 2 ) (2√3+3)π 24 13π 8(4 √ 3+3) 13(2√3−3)π 8 π 8(2√3+3) y 2 = 4(x −2) y = 2x −8 8 9 6 7 y = y(x) sec xdy + {2(1 −x) tan x + x(2 −x)}dx = 0 y(0) = 2 y(2) 2 2{1 −sin(2)} 2{sin(2) + 1} 1 ˆ i + 2 ˆ j + 3 ˆ k − → 1 2 √410 1 2 √474 1 2 √586 1 2 √306 →a = a i ˆi + a 2 ˆj + a 3 ˆk → 1 ˆ i + b 2 ˆ j + b 3 ˆ k →a = 1;→a ⋅ → ∣ → ∣ →c = 2(→a × → → b → b →c Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "ABCD",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "b) −3",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "C(−3, 4, −2)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

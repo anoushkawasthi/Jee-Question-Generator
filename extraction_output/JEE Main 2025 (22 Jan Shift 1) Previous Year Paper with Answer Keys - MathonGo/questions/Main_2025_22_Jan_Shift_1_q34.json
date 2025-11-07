@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_1_q34",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 34,
+  "question_type": "MCQ",
+  "question_text": "Sliding contact of a potentiometer is in the middle of the potentiometer wire having resistance shown in the figure. An external resistance of is connected via the sliding contact. The electric 2025 (22 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo R/μ R/(2μ −3) μR R/(2μ −1) R p = 1Ω R e = 2Ω",
+  "question_latex": "Sliding contact of a potentiometer is in the middle of the potentiometer wire having resistance shown in the figure. An external resistance of is connected via the sliding contact. The electric 2025 (22 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo $\\frac{R}{μ}$ R/(2μ −3) μR R/(2μ −1) R p = 1Ω R e = 2Ω",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 0.9 A",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 1.35 A",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 0.3 A",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 1.0 A",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "as",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "current in the circuit is :",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

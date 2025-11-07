@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_1_q40",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 40,
+  "question_type": "MCQ",
+  "question_text": "The molar conductivity for electrolytes  and  are plotted against respectively are :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) A: strong electrolyte ; B: weak electrolyte",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) A: weak electrolyte ; B: weak electrolyte",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) A: weak electrolyte ; B: strong electrolyte",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) A: strong electrolyte ; B: strong electrolyte",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "as shown below. Electrolytes  and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

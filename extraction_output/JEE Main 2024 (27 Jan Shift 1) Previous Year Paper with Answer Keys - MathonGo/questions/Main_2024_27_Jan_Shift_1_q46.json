@@ -1,0 +1,35 @@
+{
+  "question_id": "Main_2024_27_Jan_Shift_1_q46",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "27 Jan Shift 1",
+  "subject": "Chemistry",
+  "question_number": 46,
+  "question_type": "MCQ",
+  "question_text": "Yellow compound of lead chromate gets dissolved on treatment with hot solution. The product of lead formed is a : six four",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Tetraanionic complex with coordination number",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Neutral complex with coordination number four",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Dianionic complex with coordination number six (4) Dianionic complex with coordination number",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

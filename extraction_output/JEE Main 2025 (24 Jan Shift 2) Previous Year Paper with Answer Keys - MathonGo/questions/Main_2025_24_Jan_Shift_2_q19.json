@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_2_q19",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 19,
+  "question_type": "MCQ",
+  "question_text": "If the equation of the parabola with vertex is , then is equal to : 2025 (24 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo 3 16 5 8 3 8 1 8 4→p + →q −3→r, −5→p + →q + 2→r 2 → p − → q + 2 → r →p+→q+→r 4 α→p + β→q + γ→r α + 2β + 5γ →a = 3^i −^j + 2^k, → → ^ i −2 ^ k) →c = → ^ k →c −2^j →a 2 √ 14 √14 3 √ 7 2 √ 7 The number of real solution(s) of the equation x 2 + 3x + 2 = min{|x −3|, |x + 2|} is : The function f : (−∞, ∞) →(−∞, 1), defined by f(x) = 2 x −2 −x 2 x +2 −x is : Neither one-one nor onto Onto but not one-one One-one but not onto In an arithmetic progression, if S 40 = 1030 S 12 = 57, then S 30 −S 10 is equal to : 30 th 12 th (1 + x) 2n−1 2 B (2, 3) f(x) = 2 log e (x −2) −x 2 + ax + 1 g(x) = (x −1) 3 (x + 2 −a) 2 100(a + b −c) f(x) = , x ≠0, lim x→0 f(x) = λ + μa + νb ∣ sin x x 1 b a 1 + sin x x b a 1 sin x x ∣ (λ + μ + ν) 2 V ( 3 2 , 3) x + 2y = 0 αx 2 + βy 2 −γxy −30x −60y + 225 = 0 α + β + γ",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 7",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 9",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 8",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 6",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "a +",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "b +",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

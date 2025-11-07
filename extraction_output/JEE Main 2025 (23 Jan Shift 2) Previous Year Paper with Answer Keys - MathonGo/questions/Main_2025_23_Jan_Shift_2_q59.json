@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_2_q59",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 59,
+  "question_type": "MCQ",
+  "question_text": "The -Helix and  - Pleated sheet structures of protein are associated with its : 2025 (23 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo n 2 −l +l E ∘ 2+ /Cu = 0.34 V, E ∘ Zn 2+ /Zn = −0.76 V E ∘ + /Ag = 0.80 V, E ∘ Mg 2+ /Mg = −2.37 V ΔG ∘ Zn Zn 2+ (1M) + (1M) Ag ∣∣∣ Zn Zn 2+ (1M) Mg 2+ (1M) Mg ∣∣∣ + (1M) Mg 2+ (1M) Mg ∣∣∣ 2+ (1M)∥Ag + (1M) Ag ∣∣ α β",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) tertiary structure",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) quaternary structure",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) secondary structure",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) primary structure",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "Ag Ag",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Cu Cu",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

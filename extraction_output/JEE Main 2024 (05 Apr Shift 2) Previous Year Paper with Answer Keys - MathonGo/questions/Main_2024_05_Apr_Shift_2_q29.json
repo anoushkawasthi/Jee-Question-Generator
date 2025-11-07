@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_2_q29",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 2",
+  "subject": "Physics",
+  "question_number": 29,
+  "question_type": "Numerical",
+  "question_text": "In a single slit experiment, a parallel beam of green light of wavelength passes through a slit of width . The transmitted light is collected on a screen the central maximum will be . The value of  is : JEE Main 2024 (05 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo x 5 x 10 N 90 400 Hz 600 Hz p E R E x x 20Ω Ω 0.5 m 1 m 5 A 6.28 × 10 −3 T m I = (3t + 8) t 12mV mH 550 nm 0.20 mm 100 x × 10 −5 m x Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "In a single slit experiment, a parallel beam of green light of wavelength passes through a slit of width . The transmitted light is collected on a screen the central maximum will be . The value of  is : JEE Main 2024 (05 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo x 5 x 10 N 90 400 Hz 600 Hz p E R E x x 20Ω Ω 0.5 m 1 m 5 A 6.28 × 10 −3 T m I = (3t + 8) t 12mV mH 550 nm 0.20 mm 100 x × 10 −5 m x Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "away. The distance of first order minima from",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "cm",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_1_q37",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 1",
+  "subject": "Chemistry",
+  "question_number": 37,
+  "question_type": "MCQ",
+  "question_text": "In acidic medium, K 2 2 O 7 shows oxidising action as represented in the half reaction JEE Main 2024 (01 Feb Shift 1) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN 2 O 7 2 - + XH + + Ye - →2   A + ZH 2 O X,   Y,   Z A 8,   6,   4 2 O 3 14,   7,   6 3 + 8,   4,   6 2 O 3 14,   6,   7 3 +",
+  "question_latex": "In acidic medium, K 2 2 O 7 shows oxidising action as represented in the half reaction JEE Main 2024 (01 Feb Shift 1) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$ 2 O 7 2 - + XH + + Ye - →2   A + ZH 2 O X,   Y,   Z A 8,   6,   4 2 O 3 14,   7,   6 3 + 8,   4,   6 2 O 3 14,   6,   7 3 +",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Cr",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

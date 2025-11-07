@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_29_Jan_Shift_1_q82",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 82,
+  "question_type": "MCQ",
+  "question_text": "words are written as in a dictionary. The serial number of the word IS",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "are written in all possible ways with or without meaning and these",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

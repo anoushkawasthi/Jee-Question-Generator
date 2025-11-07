@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_2_q51",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 51,
+  "question_type": "MCQ",
+  "question_text": "For hydrogen atom, the orbital/s with lowest energy is/are : (A) 4 s (B) (C) (D) (E)",
+  "question_latex": "For hydrogen atom, the $\\frac{orbital}{s}$ with lowest energy $\\frac{is}{are}$ : (A) 4 s (B) (C) (D) (E)",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) (B), (C) and (D) only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) (A) and (E) only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) (A) only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) (B) only",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Choose the correct answer from the options given below :",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

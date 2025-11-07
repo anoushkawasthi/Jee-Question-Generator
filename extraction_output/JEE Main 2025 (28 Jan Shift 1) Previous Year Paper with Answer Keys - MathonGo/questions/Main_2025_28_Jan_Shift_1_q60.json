@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_1_q60",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 60,
+  "question_type": "MCQ",
+  "question_text": "highest and lowest first ionisation enthalpies, respectively, are 2025 (28 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo A B A 2 ⟷CH 3 −CH 2 −CH 2 −Br B − → 3 −CH 2 −CH 2 −NO 2 , CH 3 −CH 2 −CH 2 −CN 3 −CH 2 −CH 2 −ONO, CH 3 −CH 2 −CH 2 −NC 3 −CH 2 −CH 2 −ONO, CH 3 −CH 2 −CH 2 −CN 3 −CH 2 −CH 2 −NO 2 , CH 3 −CH 2 −CH 2 −NC n = 1, l = 0, m 1 = 0 n = 2, l = 0, m 1 = 0 n = 2, l = 1, m 1 = 1 n = 3, l = 2, m 1 = 1 n = 3, l = 2, m 1 = 0 pK a log(1 + 2x) log ( 1−x x ) log ( x 1−x ) 5 &PCl 5 SbF 5 &PCl 5 SbF 5 &XeOF 4 5 &XeOF 4 In, Tl, Al, Pb, Sn +4",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) +1 and +4",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) +4 and +3",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) +2 and +3",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "AgCN",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "BrF",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "CH",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

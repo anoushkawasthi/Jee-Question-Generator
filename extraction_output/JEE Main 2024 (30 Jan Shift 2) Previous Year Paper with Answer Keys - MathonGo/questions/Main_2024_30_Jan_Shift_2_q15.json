@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_2_q15",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 15,
+  "question_type": "MCQ",
+  "question_text": "If the total energy transferred to a surface in time 𝑡 is 6 . 48 × 10 5 J , then the magnitude of the total momentum delivered to this surface for complete absorption will be : 2 . 46 × 10 -3 kg   m   s -1 2 . 16 × 10 -3 kg   m   s -1 1 . 58 × 10 -3 kg   m   s -1 4 . 32 × 10 -3 kg   m   s -1",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

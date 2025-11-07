@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_2_q7",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 7,
+  "question_type": "MCQ",
+  "question_text": "that in kerosene oil (specific gravity of Kerosene oil , specific gravity of ice ) JEE Main 2024 (08 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo ϵ 0 E ϵ 0 E 2 [M −1 L −3 T 4 A 2 ] [ML 2 T −2 ] [M ∘ L −2 TA] [ML −1 T −2 ] tan −1 tan −1 ( 1 4 ) tan −1 ( 1 2 ) tan −1 n 45 ∘ 45 ∘ √1 − 1 n 2 1 −n 2 1 − 1 n 2 √1 −n 2 M R ω M/2 3 2 ω 5 4 ω 2 3 ω 4 5 ω √6 m √5 m 1 m 2 m A B 4R R A 3v B 3v 6v 4 3 v 12v = 0.8 = 0.9 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "that in kerosene oil (specific gravity of Kerosene oil , specific gravity of ice ) JEE Main 2024 (08 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo ϵ 0 E ϵ 0 E 2 [M −1 L −3 T 4 A 2 ] [ML 2 T −2 ] [M ∘ L −2 TA] [ML −1 T −2 ] tan −1 tan −1 ( 1 4 ) tan −1 ( 1 2 ) tan −1 n 45 ∘ 45 ∘ √1 − 1 n 2 1 −n 2 1 − 1 n 2 √1 −n 2 M R ω $\\frac{M}{2}$ 3 2 ω 5 4 ω 2 3 ω 4 5 ω √6 m √5 m 1 m 2 m A B 4R R A 3v B 3v 6v 4 3 v 12v = 0.8 = 0.9 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A cube of ice floats partly in water and partly in kerosene oil. The ratio of volume of ice immersed in water to",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

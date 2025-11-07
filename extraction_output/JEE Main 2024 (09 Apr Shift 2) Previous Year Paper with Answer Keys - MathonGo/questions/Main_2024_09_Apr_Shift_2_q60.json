@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_2_q60",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 2",
+  "subject": "Physics",
+  "question_number": 60,
+  "question_type": "Numerical",
+  "question_text": "The spin-only magnetic moment value of the metal complex  is ______ BM (Nearest integer)",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "C",
+      "text": "Consider the following test for a group-IV cation.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

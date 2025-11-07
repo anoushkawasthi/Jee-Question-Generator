@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_2_q22",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 22,
+  "question_type": "MCQ",
+  "question_text": "In a system two particles of masses The particle of mass is moved towards the center of mass of the system through a distance . In order to keep the center of mass of the system at the original position, the particle of mass should move towards the center of mass by the distance _____ .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "are placed at certain distance from each other.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

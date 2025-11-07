@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_2_q40",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 40,
+  "question_type": "MCQ",
+  "question_text": "Reduction potential of ions are given below: 4 - IO 4 - 4 - E° = 1 . 19   V   ;   E° = 1 . 65   V;    E° = 1 . 74   V 4 - > IO 4 - > BrO 4 - 4 - > IO 4 - > ClO 4 - 4 - > ClO 4 - > IO 4 - IO 4 - > BrO 4 - > ClO 4 -",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "BrO",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "ClO",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

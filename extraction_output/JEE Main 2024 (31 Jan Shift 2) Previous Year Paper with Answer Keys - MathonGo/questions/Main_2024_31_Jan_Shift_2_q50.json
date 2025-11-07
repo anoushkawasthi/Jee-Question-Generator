@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_2_q50",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 50,
+  "question_type": "MCQ",
+  "question_text": "Given below are two statements : Statement I: Aniline reacts with con. H 2 SO 4 followed by heating at 453 - 473   K gives p-aminobenzene sulphonic acid, which gives blood red colour in the 'Lassaigne's test'. Statement II: In Friedel - Craft's alkylation and acylation reactions, aniline forms salt with the 3",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Statement I is false but statement II is true",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Both statement I and statement II are false",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Statement I is true but statement II is false",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Both statement I and statement II are true",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "AlCl",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "catalyst.",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "Due to this, nitrogen of aniline acquires a positive charge and acts as deactivating group.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

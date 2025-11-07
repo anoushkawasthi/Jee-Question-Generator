@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_2_q67",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 67,
+  "question_type": "Numerical",
+  "question_text": "Let a variable line passing through the centre of the circle 𝑥 2 + 𝑦 2 −16𝑥−4𝑦= 0 , meet the positive co- ordinate axes at the point 𝐴  and   𝐵 . Then the minimum value of 𝑂𝐴+ 𝑂𝐵 , where 𝑂 is the origin, is equal to 12 18 20 24",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

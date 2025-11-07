@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_1_q20",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 20,
+  "question_type": "MCQ",
+  "question_text": "The diameter of a sphere is measured using a vernier caliper whose 9 divisions of main scale are equal to 10 . The main scale reading is 8.635 g, the density of the sphere is: JEE Main 2024 (08 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 45 ∘ 1 : √ 2 √2 : 1 2 : 1 1 : 2 ×10 −34 J s, m e = 9.0 × 10 −31 kg m p = 1836 m e 1 : √1836 1 : 1 1836 1 : 1 √1836 2.4 × 10 −4 N 360 W/cm 2 0.2 m 2 20 m 2 0.1 m 2 0.02 m 2 18 × 10 8 J 10μg 20μg 0.2μg 2μg Y Λ ⋅B(Λ + B) – 1 mm 2 2.0 g/cm 3 1.7 g/cm 3 2.2 g/cm 3 2.5 g/cm 3 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "The diameter of a sphere is measured using a vernier caliper whose 9 divisions of main scale are equal to 10 . The main scale reading is 8.635 g, the density of the sphere is: JEE Main 2024 (08 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 45 ∘ 1 : √ 2 √2 : 1 2 : 1 1 : 2 ×10 −34 J s, m e = 9.0 × 10 −31 kg m p = 1836 m e 1 : √1836 1 : 1 1836 1 : 1 √1836 2.4 × 10 −4 N 360 $\\frac{W}{cm}$ 2 0.2 m 2 20 m 2 0.1 m 2 0.02 m 2 18 × 10 8 J 10μg 20μg 0.2μg 2μg Y Λ ⋅B(Λ + B) – 1 mm 2 2.0 $\\frac{g}{cm}$ 3 1.7 $\\frac{g}{cm}$ 3 2.2 $\\frac{g}{cm}$ 3 2.5 $\\frac{g}{cm}$ 3 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A ⋅B",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "cm",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "divisions of vernier scale. The shortest division on the main scale is equal to",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

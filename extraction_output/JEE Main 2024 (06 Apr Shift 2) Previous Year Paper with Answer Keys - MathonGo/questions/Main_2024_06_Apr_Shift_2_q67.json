@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_2_q67",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 67,
+  "question_type": "Numerical",
+  "question_text": "If the locus of the point, whose distances from the point , is , then the value of is equal to :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 37",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 437",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) -27",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 5",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "are in the ratio",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

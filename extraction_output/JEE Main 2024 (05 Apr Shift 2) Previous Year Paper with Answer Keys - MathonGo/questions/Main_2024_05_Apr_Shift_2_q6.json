@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_2_q6",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 6,
+  "question_type": "MCQ",
+  "question_text": "the mass of earth. The radius orbit of planet is :  Given  Radius of geo-stationary orbit for earth is )",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A satellite revolving around a planet in stationary orbit has time period 6 hours. The mass of planet is one-fourth",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

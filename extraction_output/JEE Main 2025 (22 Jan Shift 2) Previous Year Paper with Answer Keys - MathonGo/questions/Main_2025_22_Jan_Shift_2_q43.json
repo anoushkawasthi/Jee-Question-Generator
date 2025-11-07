@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_2_q43",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 43,
+  "question_type": "MCQ",
+  "question_text": "The maximum percentage error in the measurment of density of a wire is [Given, mass of wire radius of wire length of wire",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 8",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 5",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 4",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 7",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

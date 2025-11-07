@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_2_q75",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 75,
+  "question_type": "MCQ",
+  "question_text": "Total number of non bonded electrons present in ion based on Lewis theory is 2025 (29 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo → C 9 H 12 K 3 [Co(NO 2 ) 6 ], K 4 [Fe(CN) 6 ] K 3 [Fe(CN) 6 ], Cuu 2 [Fe(CN) 6 ] Zn 2 [Fe(CN) 6 ] NO 2 − 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. (12) 22. (11132) 23. (64) 24. (1328) 25. (10) 26. 27. 28. 29. 30. 31. 32. 33. 34. 35. 36. 37. 38. 39. 40. 41. 42. 43. 44. 45. 46. (8) 47. (1320) 48. (8) 49. 50. (7700) 51. 52. 53. 54. 55. 56. 57. 58. 59. 60. 61. 62. 63. 64. 65. 66. 67. 68. 69. 70. 71. (275) 72. 73. (0) 74. (60) 75. (12) 2025 (29 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "ANSWER KEYS",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

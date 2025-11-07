@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_27_Jan_Shift_2_q64",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "27 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 64,
+  "question_type": "Numerical",
+  "question_text": "If 2tan 2 𝜃- 5sec𝜃= 1 has exactly 7 solutions in the interval 0, n𝜋 2 , for the least value of n ∈N then ∑ k = 1 n k 2 k is equal to : 1 2 15 2 14 - 14 1 2 14 2 15 - 15 1 - 15 2 13 1 2 13 2 14 - 15",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

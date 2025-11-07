@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_1_q55",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 55,
+  "question_type": "MCQ",
+  "question_text": "The ions is ______.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "at which",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "begins to precipitate from a solution containing",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

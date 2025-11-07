@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_1_q17",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 17,
+  "question_type": "MCQ",
+  "question_text": ". Focal length of each of the convex lens is : JEE Main 2024 (04 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo R = 10Ω l = 500 R = 1Ω l = 400 0.2Ω 0.3Ω 0.4Ω 0.1Ω 45 ∘ → E = ^ i40 cos ω(t −z/c)NC −1 → ^ k 40 C →B = ^j40 cos ω(t −z/c) → ^ i 40 C → ^ j 40 C 25D Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": ". Focal length of each of the convex lens is : JEE Main 2024 (04 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo R = 10Ω l = 500 R = 1Ω l = 400 0.2Ω 0.3Ω 0.4Ω 0.1Ω 45 ∘ → E = ^ i40 cos ω(t −$\\frac{z}{c}$)NC −1 → ^ k 40 C →B = ^j40 cos ω(t −$\\frac{z}{c}$) → ^ i 40 C → ^ j 40 C 25D Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "axis is",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B =",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "cos ω(t −z/c)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

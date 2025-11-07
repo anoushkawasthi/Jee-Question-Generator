@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_1_q52",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 52,
+  "question_type": "MCQ",
+  "question_text": "J of energy is transferred as heat to 0.5 mol of Argon gas at 298 K and 1.00 atm. The final temperature and the",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 378 K and 500 J",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 368 K and 500 J",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 348 K and 300 J",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 378 K and 300 J",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "change in internal energy respectively are: Given :",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

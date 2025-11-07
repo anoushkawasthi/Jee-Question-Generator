@@ -1,0 +1,60 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_2_q45",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 45,
+  "question_type": "MCQ",
+  "question_text": "Match List I with List II LIST – I (Complex ion) LIST – II (Electronic 𝐶𝑟𝐻 2 𝑂 6 3 + I. 𝑡 2𝑔 2 𝑒 𝑔0 𝐹𝑒𝐻 2 𝑂 6 3 + II. 𝑡 2𝑔 3 𝑒 𝑔0 𝑁𝑖𝐻 2 𝑂 6 2 + III. 𝑡 2𝑔 3 𝑒 𝑔2 𝑉𝐻 2 𝑂 6 3 + IV. 𝑡 2𝑔 6 𝑒 𝑔2",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) A-III, B-II, C-IV, D-I",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) A-IV, B-I, C-II, D-III",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) A-IV, B-III, C-I, D-II",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) A-II, B-III, C-IV, D-I",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A.",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B.",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Choose the correct answer from the options given below :",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "D.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

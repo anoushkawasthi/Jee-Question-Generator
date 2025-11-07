@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_29_Jan_Shift_1_q68",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 68,
+  "question_type": "MCQ",
+  "question_text": "Let  be a relation on if and only if is divisible by  . Then  is",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Reflexive and symmetric but not transitive",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Reflexive but neither symmetric not transitive",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Reflexive, symmetric and transitive",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Reflexive and transitive but not symmetric",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "defined by",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

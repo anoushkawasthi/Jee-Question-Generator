@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_1_q85",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 85,
+  "question_type": "Numerical",
+  "question_text": "Let 𝐴= 1,   2,   3,   4 𝑅= ( 1,   2 ) ,   ( 2,   3 ) ,   ( 1,   4 ) 𝐴 . Let 𝑆 relation on 𝐴 such that 𝑅⊂𝑆 𝑆 is 𝑛 . Then, the minimum value of 𝑛 is _______",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and the number of elements in",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be the equivalence",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

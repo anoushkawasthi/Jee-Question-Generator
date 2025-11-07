@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_2_q59",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 59,
+  "question_type": "MCQ",
+  "question_text": "Identify the homoleptic complex(es) that is/are low spin. (A) (B) (C) (D) (E) 2025 (22 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo E 1 + E 2 E 1 + E 2 E 1 E 1 + E 2 − 3 − − 2 − 4 (Zr 4+ ) 3 (PO 3− 4 ) 4 ( K sp 9612 ) 1 3 ( K sp 6912 ) 1 7 ( K sp 8435 ) 1 7 ( K sp 5348 ) 1 6 [Fe(CN) 5 NO] 2− [CoF 6 ] 3− [Fe(CN) 6 ] 4− [Co(NH 3 ) 6 ] 3+ [Cr(H 2 O) 6 ] 2+",
+  "question_latex": "Identify the homoleptic complex(es) that $\\frac{is}{are}$ low spin. (A) (B) (C) (D) (E) 2025 (22 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo E 1 + E 2 E 1 + E 2 E 1 E 1 + E 2 − 3 − − 2 − 4 (Zr 4+ ) 3 (PO 3− 4 ) 4 ( K sp 9612 ) 1 3 ( K sp 6912 ) 1 7 ( K sp 8435 ) 1 7 ( K sp 5348 ) 1 6 [Fe(CN) 5 NO] 2− [CoF 6 ] 3− [Fe(CN) 6 ] 4− [Co(NH 3 ) 6 ] 3+ [Cr(H 2 O) 6 ] 2+",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) (C) only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) (C) and (D) only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) (A) and (C) only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) (B) and (E) only",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "ClO",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

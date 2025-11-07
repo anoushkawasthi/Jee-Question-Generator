@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_1_q43",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 43,
+  "question_type": "MCQ",
+  "question_text": "when treated with gives green colour solution of . The two solutions are separated as shown below : [SPM : Semi Permeable Membrane] solution is lowered. solution is lowered.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Molarity of",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Molarity of",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Green colour formation observed on side Y.",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Green colour formation observed on side X.",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "Due to osmosis :",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

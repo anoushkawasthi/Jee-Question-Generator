@@ -1,0 +1,60 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_2_q45",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 2",
+  "subject": "Chemistry",
+  "question_number": 45,
+  "question_type": "MCQ",
+  "question_text": "In the above reaction product '  ' is JEE Main 2024 (09 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Λ m −Λ 0 m + AC 1 2 = 0 Λ 2 m a Λ ∘2 m + K a Λ m Λ m = 0 Λ 2 m a Λ ∘2 m −K a Λ m Λ ∘ m = 0 Λ m −Λ ∘ m −AC 1 2 = 0 List - I (Cell) List - II (Use/Property/Reaction) Leclanche cell I. Ni −Cd II. Fuel cell III. Rechargeable Mercury cell IV. Reaction at anode Zn →Zn 2+ + 2e − energy in hearing aids List - I List - II K 2 [Ni(CN) 4 ] I. sp 3 [Ni(CO) 4 ] II. sp 3 d 2 [Co(NH 3 ) 6 ]Cl 3 III. 2 Na 3 [CoF 6 ] IV. d 2 sp 3 2+ EDTA 4− P Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "In the above reaction product '  ' is JEE Main 2024 (09 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Λ m −Λ 0 m + AC 1 2 = 0 Λ 2 m a Λ ∘2 m + K a Λ m Λ m = 0 Λ 2 m a Λ ∘2 m −K a Λ m Λ ∘ m = 0 Λ m −Λ ∘ m −AC 1 2 = 0 List - I (Cell) List - II ($\\frac{Use}{Property}$/Reaction) Leclanche cell I. Ni −Cd II. Fuel cell III. Rechargeable Mercury cell IV. Reaction at anode Zn →Zn 2+ + 2e − energy in hearing aids List - I List - II K 2 [Ni(CN) 4 ] I. sp 3 [Ni(CO) 4 ] II. sp 3 d 2 [Co(NH 3 ) 6 ]Cl 3 III. 2 Na 3 [CoF 6 ] IV. d 2 sp 3 2+ EDTA 4− P Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A.",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B.",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Ca",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "D.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

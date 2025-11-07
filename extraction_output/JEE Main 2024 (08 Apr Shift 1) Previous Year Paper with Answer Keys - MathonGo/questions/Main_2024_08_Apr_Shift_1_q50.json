@@ -1,0 +1,60 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_1_q50",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 1",
+  "subject": "Chemistry",
+  "question_number": 50,
+  "question_type": "MCQ",
+  "question_text": "water structure Schiff's test JEE Main 2024 (08 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo List-I List-II (Name of the test) (Reaction sequence involved) [M is metal] I. MCO 3 →MO II. MCO 3 →MCl 2 →M 2+ C III MSO 4 M(BO 2 ) 2 →MBO 2 →M Flame test IV MSO 4 MCO 3 →MO →M 3 ) 2 − → test Na 2 B 4 O 7 − → Δ Na 2 3 − → Δ 2 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "water structure Schiff's test JEE Main 2024 (08 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo List-I List-II (Name of the test) (Reaction sequence involved) [M is metal] I. MCO 3 →MO II. MCO 3 →MCl 2 →M 2+ C III MSO 4 M(BO 2 ) 2 →MBO 2 →M Flame test IV MSO 4 MCO 3 →MO →M 3 ) 2 − → test Na 2 B 4 O 7 − → Δ Na 2 3 − → Δ 2 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) can be oxidized to a dicarboxylic acid with",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) will coexist in equilibrium with 2 other cyclic",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) despite the presence of -",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) has 4 asymmetric carbon atom",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A.",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "Br",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "CHO",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "D.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

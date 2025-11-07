@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_1_q41",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 1",
+  "subject": "Mathematics",
+  "question_number": 41,
+  "question_type": "MCQ",
+  "question_text": "In Kjeldahl's method for estimation of nitrogen, 4",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Reducing agent",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Catalytic agent",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Hydrolysis agent",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Oxidising agent",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "acts as :",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "CuSO",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

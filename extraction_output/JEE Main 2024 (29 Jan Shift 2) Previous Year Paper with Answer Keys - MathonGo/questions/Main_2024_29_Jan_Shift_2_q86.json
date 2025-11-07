@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_29_Jan_Shift_2_q86",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 86,
+  "question_type": "MCQ",
+  "question_text": "Let for any three distinct consecutive terms of an A.P, the lines point , , has infinitely many solutions. Then is equal to _______. JEE Main 2024 (29 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo sin( y x ) = log e x + α 2 ∣ x cos( y x ) = y cos( y x ) + x y(1) = π 3 α 2 3 12 4 9 OA = → → → b − → − → OC = → b − → O S OA OC of the quadrilateral OABC of S 6 10 7 8 ˆu = x ˆ i + y ˆ j + z ˆ k π 2 , π 3 2π 3 1 √2 ˆi + 1 √2 ˆk, 1 √2 ˆj + 1 √2 ˆk 1 √2 ˆi + 1 √2 ˆj →v = 1 √2 ˆi + 1 √2 ˆj + 1 √2 ˆk |^u −→v| 2 11 2 5 2 9 7 P(3, 2, 3), Q(4, 6, 2) R(7, 3, 2) Δ PQR ∠QPR π 6 −1 ( 7 18 ) −1 ( 1 18 ) π 3 1 , 2, 3, . . . . . , 50 4, 6 7 8 25 21 50 9 50 14 25 2 −2 y = 2023, x, y ∈N} ∑ (x,y)∈C (x + y) α, β x 2 − √ 6x + 3 = 0 Im (α) >Im (β) b 3 n α 99 β + α 98 = 3 n (a + ib), i = √−1 n + a + b 64 32 32 9 P(α, β) y 2 = 4x P x 2 = 8y (1, 5 4 ) (α −28)(β −8) 45x + 5y + 3 = 0 27r 1 + 9r 2 2 r 1 , r 2 ∈R lim x→3 (∫ x 3 8t 2 3r2x 2 −r 2 x 2 −r 1 x 3 −3x c P Q(α, β) x + y + z = 6 2x + 5y + αz = β x + 2 y + 3 z = 4 (PQ) 2 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "Let for any three distinct consecutive terms of an A.P, the lines point , , has infinitely many solutions. Then is equal to _______. JEE Main 2024 (29 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo sin( y x ) = log e x + α 2 ∣ x cos( y x ) = y cos( y x ) + x y(1) = π 3 α 2 3 12 4 9 OA = → → → b − → − → OC = → b − → O S OA OC of the quadrilateral OABC of S 6 10 7 8 ˆu = x ˆ i + y ˆ j + z ˆ k π 2 , π 3 2π 3 1 √2 ˆi + 1 √2 ˆk, 1 √2 ˆj + 1 √2 ˆk 1 √2 ˆi + 1 √2 ˆj →v = 1 √2 ˆi + 1 √2 ˆj + 1 √2 ˆk |^u −→v| 2 11 2 5 2 9 7 P(3, 2, 3), Q(4, 6, 2) R(7, 3, 2) Δ PQR ∠QPR π 6 −1 ( 7 18 ) −1 ( 1 18 ) π 3 1 , 2, 3, . . . . . , 50 4, 6 7 8 25 21 50 9 50 14 25 2 −2 y = 2023, x, y ∈N} ∑ (x,y)∈C (x + y) α, β x 2 − √ 6x + 3 = 0 Im (α) >Im (β) b 3 n α 99 β + α 98 = 3 n (a + ib), i = √−1 n + a + b 64 32 32 9 P(α, β) y 2 = 4x P x 2 = 8y (1, 5 4 ) (α −28)(β −8) 45x + 5y + 3 = 0 27r 1 + 9r 2 2 r 1 , r 2 ∈R lim x→3 (∫ x 3 8t 2 3r2x 2 −r 2 x 2 −r 1 x 3 −3x c P Q(α, β) x + y + z = 6 2x + 5y + αz = β x + 2 y + 3 z = 4 (PQ) 2 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "ax + by + c = 0",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "b,",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "C = {(x, y) ∣x",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "dt)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

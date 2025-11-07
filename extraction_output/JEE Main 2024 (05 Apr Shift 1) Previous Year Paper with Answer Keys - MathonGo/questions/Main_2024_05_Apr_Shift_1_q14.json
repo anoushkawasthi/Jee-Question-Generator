@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_1_q14",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 14,
+  "question_type": "MCQ",
+  "question_text": "In a co-axial straight cable, the central conductor and the outer conductor carry equal currents in opposite",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) outside the cable",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) inside the outer conductor",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) inside the inner conductor",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) in between the two conductors",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "directions. The magnetic field is zero :",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

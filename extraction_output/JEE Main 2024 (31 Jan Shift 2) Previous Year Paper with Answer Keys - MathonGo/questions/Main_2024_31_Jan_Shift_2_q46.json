@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_2_q46",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 46,
+  "question_type": "MCQ",
+  "question_text": "",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) B > C > A > D",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) D > C > B > A",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) A > B > C > D",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) B > A > C > D",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_1_q17",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 17,
+  "question_type": "MCQ",
+  "question_text": "If , then equals",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 64",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 196",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 144",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 100",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

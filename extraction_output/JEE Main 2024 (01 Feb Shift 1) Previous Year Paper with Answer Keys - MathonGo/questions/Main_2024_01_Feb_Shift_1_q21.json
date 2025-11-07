@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_1_q21",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 1",
+  "subject": "Physics",
+  "question_number": 21,
+  "question_type": "MCQ",
+  "question_text": "𝑥 was 16   m right of origin. The variation of its position 𝑥 with time 𝑡 is given as 𝑥= – 3𝑡 3 + 18𝑡 2 + 16𝑡, where 𝑥 is in m 𝑡 is in s . The velocity of the particle when its acceleration becomes zero is _________ m   s -1 . JEE Main 2024 (01 Feb Shift 1) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "𝑥 was 16   m right of origin. The variation of its position 𝑥 with time 𝑡 is given as 𝑥= – 3𝑡 3 + 18𝑡 2 + 16𝑡, where 𝑥 is in m 𝑡 is in s . The velocity of the particle when its acceleration becomes zero is _________ m   s -1 . JEE Main 2024 (01 Feb Shift 1) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

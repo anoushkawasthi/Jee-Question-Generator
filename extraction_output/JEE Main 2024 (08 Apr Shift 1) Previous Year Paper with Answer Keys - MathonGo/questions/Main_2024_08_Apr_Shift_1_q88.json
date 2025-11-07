@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_1_q88",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 88,
+  "question_type": "MCQ",
+  "question_text": "Let the area of the region enclosed by the curve to is equal to ___________",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and the  axis between",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be . Then",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

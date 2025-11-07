@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_2_q79",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 79,
+  "question_type": "MCQ",
+  "question_text": "Let in the line . If the area of the triangle is  and , then is equal to :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 36",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 81",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 72",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 18",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and  be the point",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be the image of the point",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

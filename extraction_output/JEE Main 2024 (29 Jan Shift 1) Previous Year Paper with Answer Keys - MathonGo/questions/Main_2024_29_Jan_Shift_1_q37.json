@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_29_Jan_Shift_1_q37",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Chemistry",
+  "question_number": 37,
+  "question_type": "MCQ",
+  "question_text": "The interaction between  bond and lone pair of electrons present on an adjacent atom is responsible for",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Hyperconjugation",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Inductive effect",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Electromeric effect",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Resonance effect",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

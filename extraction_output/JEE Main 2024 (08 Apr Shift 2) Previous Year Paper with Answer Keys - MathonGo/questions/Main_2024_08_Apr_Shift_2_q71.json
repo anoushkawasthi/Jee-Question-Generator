@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_2_q71",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 71,
+  "question_type": "MCQ",
+  "question_text": "Let where . Then the function is",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) neither one-one nor onto.",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) onto.",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) both one-one and onto.",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) one-one.",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

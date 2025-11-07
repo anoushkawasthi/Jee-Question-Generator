@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_29_Jan_Shift_2_q4",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 4,
+  "question_type": "MCQ",
+  "question_text": "The bob of a pendulum was released from a horizontal position. The length of the pendulum is . If it of its initial energy against air resistance, the speed with which the bob arrives at the lowest point is: [Use, ]",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "dissipates",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

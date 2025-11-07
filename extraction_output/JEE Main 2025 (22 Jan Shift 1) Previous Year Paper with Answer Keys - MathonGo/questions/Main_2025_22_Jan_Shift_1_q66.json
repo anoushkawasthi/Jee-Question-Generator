@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_1_q66",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 66,
+  "question_type": "MCQ",
+  "question_text": "respectively. Faraday constant 2025 (22 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo 1 8 ln 2 1 rate constant 3 −CHO 3 −COOH 3 −CHO 2 1 4 3 2 2 27 g mol −1 35.5 g mol −1 = 96500Cmol −1 ]",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 1.660 g",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 0.336 g",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 0.441 g",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 1.007 g",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "CO",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

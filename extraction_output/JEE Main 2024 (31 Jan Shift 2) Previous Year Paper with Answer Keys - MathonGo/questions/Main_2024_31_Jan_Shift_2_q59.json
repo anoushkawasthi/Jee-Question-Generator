@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_2_q59",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 59,
+  "question_type": "MCQ",
+  "question_text": "𝑥 with molar mass 108𝑔  mol −1 undergoes acetylation to give product with molar mass 192𝑔  mol −1 . The number of amino groups in the compound 𝑥 is ________.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A compound",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

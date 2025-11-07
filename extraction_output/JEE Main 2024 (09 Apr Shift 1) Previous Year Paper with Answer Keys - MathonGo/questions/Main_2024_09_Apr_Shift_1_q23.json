@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_1_q23",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 1",
+  "subject": "Physics",
+  "question_number": 23,
+  "question_type": "MCQ",
+  "question_text": "Two persons pull a wire towards themselves. Each person exerts a force of on the wire. Young's modulus of the material of wire is . Original length of the wire is section is . The wire will extend in length by ______ .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and the area of cross",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

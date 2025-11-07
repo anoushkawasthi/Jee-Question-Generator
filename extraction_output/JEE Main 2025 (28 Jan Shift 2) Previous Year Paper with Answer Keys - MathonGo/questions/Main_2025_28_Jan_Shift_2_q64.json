@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_2_q64",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 64,
+  "question_type": "MCQ",
+  "question_text": "of glucose solution (aqueous). This cell is immersed in another solution having equal mole fraction of glucose and water. (Consider the data upto first decimal place only) The cell will :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) show no change in volume since solution is",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) shrink since solution is",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) swell up since solution is",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) None of these",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "Assume a living cell with",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

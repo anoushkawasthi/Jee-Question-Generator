@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_29_Jan_Shift_2_q23",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 23,
+  "question_type": "Numerical",
+  "question_text": "Two metallic wires  and have same volume and are made up of same material. If their area of cross sections are in the ratio is applied to , an extension of is produced. The force which is required to produce same extension in  is . The value of is ______.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and force",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_1_q56",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 56,
+  "question_type": "MCQ",
+  "question_text": "The standard reduction potentials at for the following half cells are given below : number of metal(s) which will be oxidized be , in aqueous solution is ______",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "C",
+      "text": "Consider the given electrochemical reactions, The",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

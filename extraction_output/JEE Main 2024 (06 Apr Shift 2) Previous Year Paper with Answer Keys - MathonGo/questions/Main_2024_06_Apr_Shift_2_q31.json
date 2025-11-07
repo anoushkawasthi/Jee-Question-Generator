@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_2_q31",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 31,
+  "question_type": "MCQ",
+  "question_text": "Molality ( ) of is : (Given : Density of solution , Molar mass in ) JEE Main 2024 (06 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo θ = 1 100 A ×10 −4 m 2 x << L g = 10 m/s 2 60 90 6 th 5 th Hz = 333 m/s 10μF 10 mm 4 2 K 1 = 2, K 2 = 3 8 N ×10 −4 V 240Ω 10Ω mA 5 × 10 −3 m 2 1 mA 0.20 T 90 ∘ μJ 25nF 200Ω 100mH ×10 3 Hz π 2 = 10 4I xI x nm hc = 1245eVnm, e = 1.6 × 10 −19 C m 3M NaCl = 1.25 g mL −1 gmol −1 : Na −23, Cl −35.5 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "Molality ( ) of is : (Given : Density of solution , Molar mass in ) JEE Main 2024 (06 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo θ = 1 100 A ×10 −4 m 2 x << L g = 10 $\\frac{m}{s}$ 2 60 90 6 th 5 th Hz = 333 $\\frac{m}{s}$ 10μF 10 mm 4 2 K 1 = 2, K 2 = 3 8 N ×10 −4 V 240Ω 10Ω mA 5 × 10 −3 m 2 1 mA 0.20 T 90 ∘ μJ 25nF 200Ω 100mH ×10 3 Hz π 2 = 10 4I xI x nm hc = 1245eVnm, e = 1.6 × 10 −19 C m 3M NaCl = 1.25 g mL −1 gmol −1 : Na −23, Cl −35.5 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "aqueous solution of",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "cm",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

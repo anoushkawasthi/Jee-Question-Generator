@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_1_q87",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 87,
+  "question_type": "MCQ",
+  "question_text": "If a function  satisfies for all , then the largest natural number  such that is equal to _________ JEE Main 2024 (09 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 2x + 3y = 9 2x + 3y = −9 2x + 3y = −6 2x + 3y = 6 (x 2 + y 2 )dx −5xy x 2 −2y 2 6 = x ∣∣ x 2 −4y 2 6 = x ∣∣ x 2 −4y 2 5 = x 2 ∣∣ x 2 −2y 2 5 = x 2 ∣∣ →a = α^i + 4^j + 2^k, → ^ i + 3 ^ j + 4 ^ k, → ^ i + y ^ j + z ^ k →c = →a − → b 5 √ 6 α |→c| 2 OA = 2→a, OB = 6→a + 5 → b − → − → OC = 3 → b − → O OA − → OC − → OABC L x −2 = −y = z −1, 2(x + 1) = 2(y −1) = z + 1 x−2 3 = y−1 1 = z−2 2 (− 1 3 , 1, −1) (− 1 3 , −1, 1) (− 1 3 , 1, 1) (− 1 3 , −1, −1) x−3 4 = y+7 −11 = z−1 5 x−5 3 = y−9 −6 = z+2 1 178 √563 187 √563 185 √563 179 √563 {z = a + ib : a, b ∈Z, z ∈C, |z −1| ≤1, |z −5| ≤|z −5i|} 428 2024 (0, 0), (1, 0) x 2 + y 2 = 9 (h, k) (h, k), 4 (h 2 + k 2 ) lim n→∞ ( n √n 4 +1 − 2n (n 2 +1) √ n 4 +1 + n √n 4 +16 − 8n (n 2 +4) √ n 4 +16 + … + n √n 4 +n 4 − 2n⋅n 2 (n 2 +n 2 ) √ n 4 +n 4 ) π k k 2 R (a 1 , b 1 )R (a 2 , b 2 ) a 1 + a 2 = b 1 + b 2 R A −13 ⋅2 −10 m ⋅3 n |3 m + 2n| f f( m + n) = f( m) + f(n) m, n ∈N f(1) = 1 λ ∑ 2022 k=1 f(λ + k) ≤(2022) 2 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "If a function  satisfies for all , then the largest natural number  such that is equal to _________ JEE Main 2024 (09 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 2x + 3y = 9 2x + 3y = −9 2x + 3y = −6 2x + 3y = 6 (x 2 + y 2 )dx −5xy x 2 −2y 2 6 = x ∣∣ x 2 −4y 2 6 = x ∣∣ x 2 −4y 2 5 = x 2 ∣∣ x 2 −2y 2 5 = x 2 ∣∣ →a = α^i + 4^j + 2^k, → ^ i + 3 ^ j + 4 ^ k, → ^ i + y ^ j + z ^ k →c = →a − → b 5 √ 6 α |→c| 2 OA = 2→a, OB = 6→a + 5 → b − → − → OC = 3 → b − → O OA − → OC − → OABC L x −2 = −y = z −1, 2(x + 1) = 2(y −1) = z + 1 x−2 3 = y−1 1 = z−2 2 (− 1 3 , 1, −1) (− 1 3 , −1, 1) (− 1 3 , 1, 1) (− 1 3 , −1, −1) x−3 4 = y+7 −11 = z−1 5 x−5 3 = y−9 −6 = z+2 1 178 √563 187 √563 185 √563 179 √563 {z = a + ib : a, b ∈Z, z ∈C, |z −1| ≤1, |z −5| ≤|z −5i|} 428 2024 (0, 0), (1, 0) x 2 + y 2 = 9 (h, k) (h, k), 4 (h 2 + k 2 ) lim n→∞ ( n √n 4 +1 − 2n (n 2 +1) √ n 4 +1 + n √n 4 +16 − 8n (n 2 +4) √ n 4 +16 + … + n √n 4 +n 4 − 2n⋅n 2 (n 2 +n 2 ) √ n 4 +n 4 ) π k k 2 R (a 1 , b 1 )R (a 2 , b 2 ) a 1 + a 2 = b 1 + b 2 R A −13 ⋅2 −10 m ⋅3 n |3 m + 2n| f f( m + n) = f( m) + f(n) m, n ∈N f(1) = 1 λ ∑ 2022 k=1 f(λ + k) ≤(2022) 2 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A)) = 2",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B = {4, 5, 6, 8}",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "c = x",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "det(3 adj(2",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

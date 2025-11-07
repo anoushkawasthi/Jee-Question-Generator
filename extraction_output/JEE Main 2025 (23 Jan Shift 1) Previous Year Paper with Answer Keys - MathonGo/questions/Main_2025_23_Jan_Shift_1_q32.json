@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_1_q32",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 32,
+  "question_type": "MCQ",
+  "question_text": "from this disc in such a way that the edge of the hole touches the edge of the disc. The distance of centre of mass of residual or remaining disc from the origin will be",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 2.0 cm",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 1.5 cm",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 1.0 cm",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 0.5 cm",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Consider a circular disc of radius 20 cm with centre located at the origin. A circular hole of radius 5 cm is cut",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

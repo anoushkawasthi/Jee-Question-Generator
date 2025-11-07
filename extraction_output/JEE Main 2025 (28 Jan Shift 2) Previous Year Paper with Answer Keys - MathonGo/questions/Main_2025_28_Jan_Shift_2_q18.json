@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_2_q18",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 18,
+  "question_type": "MCQ",
+  "question_text": "If the midpoint of a chord of the ellipse is , and the length of the chord is , then is : 2025 (28 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo 29 30 31 36 B 1 B 2 B 3 B 2 4 15 1 3 2 5 2 3 f : R →R f(2) = 1 F(x) = xf(x) x ∈R ∫ 2 0 x F ′ (x)dx = 6 ∫ 2 0 x 2 F ′′ (x)dx = 40 F ′ 2 0 F(x)dx 11 13 15 9 n 4a n = (n 2 + 5n + 6) S n = ∑ n k=1 ( 1 a k ) 507S 2025 540 675 1350 135 f : R −{0} →(−∞, 1) f(x)f ( 1 x ) = f(x) + f ( 1 x ) f(K) = −2K K 7 6 1 9 A B x 2 + y 2 −8x = 0 x 2 9 − y 2 4 = 1 2x −3y + 4 = 0 △PAB x + 9y = 36 4x −9y = 12 6x −9y = 20 9x −9y = 32 f(x) = ∫ 1 x 1/4 (1+x 1/4 ) f(1) 4 (log e 2 −2) 2 −log e 2 2 log e 2 + 2 4 (log e 2 + 2) x (1 + y 2 ) = 1 y 2 = 2x 2 ( π 2 − 1 3 ) π 2 − 1 3 π 4 − 1 3 1 2 ( π 2 − 1 3 ) ( 15 7 , 32 7 , 7) x+1 3 = y+3 5 = z+5 7 ^i + 4^j + 7^k 54 44 41 66 x 2 9 + y 2 4 = 1 ( √ 2, 4/3) 2√α 3 α 20 22 18 26",
+  "question_latex": "If the midpoint of a chord of the ellipse is , and the length of the chord is , then is : 2025 (28 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo 29 30 31 36 B 1 B 2 B 3 B 2 4 15 1 3 2 5 2 3 f : R →R f(2) = 1 F(x) = xf(x) x ∈R ∫ 2 0 x F ′ (x)dx = 6 ∫ 2 0 x 2 F ′′ (x)dx = 40 F ′ 2 0 F(x)dx 11 13 15 9 n 4a n = (n 2 + 5n + 6) S n = ∑ n k=1 ( 1 a k ) 507S 2025 540 675 1350 135 f : R −{0} →(−∞, 1) f(x)f ( 1 x ) = f(x) + f ( 1 x ) f(K) = −2K K 7 6 1 9 A B x 2 + y 2 −8x = 0 x 2 9 − y 2 4 = 1 2x −3y + 4 = 0 △PAB x + 9y = 36 4x −9y = 12 6x −9y = 20 9x −9y = 32 f(x) = ∫ 1 x $\\frac{1}{4}$ (1+x $\\frac{1}{4}$ ) f(1) 4 (log e 2 −2) 2 −log e 2 2 log e 2 + 2 4 (log e 2 + 2) x (1 + y 2 ) = 1 y 2 = 2x 2 ( π 2 − 1 3 ) π 2 − 1 3 π 4 − 1 3 1 2 ( π 2 − 1 3 ) ( 15 7 , 32 7 , 7) x+1 3 = y+3 5 = z+5 7 ^i + 4^j + 7^k 54 44 41 66 x 2 9 + y 2 4 = 1 ( √ 2, $\\frac{4}{3}$) 2√α 3 α 20 22 18 26",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) + ∫",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "dx, f(0) = −6",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

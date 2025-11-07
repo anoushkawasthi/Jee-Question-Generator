@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_1_q46",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 46,
+  "question_type": "Assertion-Reason",
+  "question_text": "Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R). (R):",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Both (A) and (R) are correct but (R) is not the",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) (A) is not correct but (R) is correct",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Both (A) and (R) are correct and (R) is the",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) (A) is correct but (R) is not correct",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "Assertion (A) : The total number of geometrical isomers shown by",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "correct explanation of (A)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

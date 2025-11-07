@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_2_q33",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 33,
+  "question_type": "Assertion-Reason",
+  "question_text": "Given below are two statements: One is labelled as Assertion A and the other is labelled as Reason R. H 2 Te is more acidic than H 2 S . Reason R: Bond dissociation enthalpy of H 2 Te is lower than H 2 S . In the light of the above statements. Choose the most appropriate from the options given below. JEE Main 2024 (30 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN explanation of A. explanation of A.",
+  "question_latex": "Given below are two statements: One is labelled as Assertion A and the other is labelled as Reason R. H 2 Te is more acidic than H 2 S . Reason R: Bond dissociation enthalpy of H 2 Te is lower than H 2 S . In the light of the above statements. Choose the most appropriate from the options given below. JEE Main 2024 (30 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$ explanation of A. explanation of A.",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Both A and R are true but R is NOT the correct",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Both A and R are true and R is the correct",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) A is false but R is true.",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) A is true but R is false.",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "Assertion A :",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

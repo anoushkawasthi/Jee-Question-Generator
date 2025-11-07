@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_2_q30",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 30,
+  "question_type": "MCQ",
+  "question_text": "In an experiment to measure the focal length ( 𝑓) of a convex lens, the magnitude of object distance ( 𝑥) the image distance ( 𝑦) 𝑦- 𝑥 plot is shown in figure. The focal length of the lens is _____cm .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "are measured with reference to the focal point of the lens. The",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

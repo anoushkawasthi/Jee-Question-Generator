@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_2_q70",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 70,
+  "question_type": "MCQ",
+  "question_text": "If  is a square matrix of order 3 such that , then is equal to : JEE Main 2024 (06 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo 315 th P Q P 2 = 6√3Q P 2 = 36√3Q P = 36√3Q 2 P 2 = 72√3Q m m P(6, 1) C x 2 + y 2 −61 = 0 x 2 + y 2 −52 = 0 x 2 + y 2 −65 = 0 x 2 + y 2 −74 = 0 (2, 1) (1, 3) 5 : 4 2 + by 2 + cxy + dx + ey + 170 = 0 a 2 + 2b + 3c + 4d + e lim n→∞ (1 2 −1)(n−1)+(2 2 −2)(n−2)+⋯+((n−1) 2 −(n−1))⋅1 (1 3 +2 3 +⋯⋯+n 3 )−(1 2 +2 2 +⋯⋯+n 2 ) 2 3 1 3 3 4 1 2 R A xRy 4x ≤5y m R n R m + n A −1 ))))) = 2 m 3 n m + 2n Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "If  is a square matrix of order 3 such that , then is equal to : JEE Main 2024 (06 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo 315 th P Q P 2 = 6√3Q P 2 = 36√3Q P = 36√3Q 2 P 2 = 72√3Q m m P(6, 1) C x 2 + y 2 −61 = 0 x 2 + y 2 −52 = 0 x 2 + y 2 −65 = 0 x 2 + y 2 −74 = 0 (2, 1) (1, 3) 5 : 4 2 + by 2 + cxy + dx + ey + 170 = 0 a 2 + 2b + 3c + 4d + e lim n→∞ (1 2 −1)(n−1)+(2 2 −2)(n−2)+⋯+((n−1) 2 −(n−1))⋅1 (1 3 +2 3 +⋯⋯+n 3 )−(1 2 +2 2 +⋯⋯+n 2 ) 2 3 1 3 3 4 1 2 R A xRy 4x ≤5y m R n R m + n A −1 ))))) = 2 m 3 n m + 2n Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 2",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 3",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 6",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 4",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A)",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "C(h, k)",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "det (adj (−4 adj (−3 adj (3 adj ((2",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

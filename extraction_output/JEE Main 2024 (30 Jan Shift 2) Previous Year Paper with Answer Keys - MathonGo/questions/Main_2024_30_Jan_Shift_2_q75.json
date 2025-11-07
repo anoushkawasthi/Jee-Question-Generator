@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_2_q75",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 75,
+  "question_type": "MCQ",
+  "question_text": "Let 𝑦= 𝑓( 𝑥) ( - 5, 5 ) . Let the tangents to the curve 𝑦= 𝑓( 𝑥) ( 1, f ( 1 ) ) ( 3, f ( 3 ) ) make angles 𝜋 6 𝜋 4 , respectively with positive x -axis. If 27 ∫ 1 3 𝑓 ' 𝑡 2 + 1𝑓 \" 𝑡𝑑𝑡= 𝛼+ 𝛽√3 where 𝛼,   𝛽 𝛼+ 𝛽 equals JEE Main 2024 (30 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN -14 26 -16 36",
+  "question_latex": "Let 𝑦= 𝑓( 𝑥) ( - 5, 5 ) . Let the tangents to the curve 𝑦= 𝑓( 𝑥) ( 1, f ( 1 ) ) ( 3, f ( 3 ) ) make angles 𝜋 6 𝜋 4 , respectively with positive x -axis. If 27 ∫ 1 3 𝑓 ' 𝑡 2 + 1𝑓 \" 𝑡𝑑𝑡= 𝛼+ 𝛽√3 where 𝛼,   𝛽 𝛼+ 𝛽 equals JEE Main 2024 (30 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$ -14 26 -16 36",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "are integers, then the value of",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be a thrice differentiable function in",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

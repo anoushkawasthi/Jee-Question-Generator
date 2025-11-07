@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_1_q68",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 68,
+  "question_type": "MCQ",
+  "question_text": "The frequency distribution of the age of students in a class of 40 students is given below. If the mean deviation about the median is 1.25, then is equal to :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 46",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 43",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 44",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 47",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

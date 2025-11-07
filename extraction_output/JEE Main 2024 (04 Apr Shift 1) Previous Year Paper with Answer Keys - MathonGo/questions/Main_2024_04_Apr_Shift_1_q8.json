@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_1_q8",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 8,
+  "question_type": "MCQ",
+  "question_text": "Given below are two statements: Statement I : When speed of liquid is zero everywhere, pressure difference at . Statement II : In ventury tube shown",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Both Statement I and Statement II are correct.",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Statement I is correct but Statement II is",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Statement I is incorrect but Statement II is",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Both Statement I and Statement II are incorrect.",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "any two points depends on equation",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "correct.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

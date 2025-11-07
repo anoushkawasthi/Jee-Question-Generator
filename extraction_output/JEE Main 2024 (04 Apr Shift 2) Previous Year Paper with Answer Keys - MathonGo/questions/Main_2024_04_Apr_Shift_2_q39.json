@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_2_q39",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 39,
+  "question_type": "MCQ",
+  "question_text": "The adsorbent used in adsorption chromatography is/are - A. silica gel B. alumina C. quick lime D. magnesia",
+  "question_latex": "The adsorbent used in adsorption chromatography $\\frac{is}{are}$ - A. silica gel B. alumina C. quick lime D. magnesia",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) A only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) B only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) C and D only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) A and B only",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Choose the most appropriate answer from the options given below :",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

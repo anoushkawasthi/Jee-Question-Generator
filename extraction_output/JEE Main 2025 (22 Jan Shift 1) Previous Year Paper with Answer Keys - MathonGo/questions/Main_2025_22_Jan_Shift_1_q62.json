@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_1_q62",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 62,
+  "question_type": "MCQ",
+  "question_text": "Which of the following statement is not true for radioactive decay? temperature. three half lives is th of original amount. temperature. times of .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Decay constant increases with increase in",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Amount of radioactive substance remained after",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Decay constant does not depend upon",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Half life is",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

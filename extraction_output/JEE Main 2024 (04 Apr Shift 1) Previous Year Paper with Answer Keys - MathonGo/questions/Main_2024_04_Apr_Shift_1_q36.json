@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_1_q36",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 1",
+  "subject": "Chemistry",
+  "question_number": 36,
+  "question_type": "MCQ",
+  "question_text": "Which of the following nitrogen containing compound does not give Lassaigne's test? JEE Main 2024 (04 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo O N F B < < < < < < < < < < < < < < < < NF 3 4 PF 5 NH 3 sp 3 NO − 3 , BCl 3 , ClO − 2 , ClO 3 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "Which of the following nitrogen containing compound does not give Lassaigne's test? JEE Main 2024 (04 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo O N F B < < < < < < < < < < < < < < < < NF 3 4 PF 5 NH 3 sp 3 NO − 3 , BCl 3 , ClO − 2 , ClO 3 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Urea",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Phenyl hydrazine",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Glycene",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Hydrazine",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "Be",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "CH",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

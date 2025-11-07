@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_2_q70",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 70,
+  "question_type": "Numerical",
+  "question_text": "If the domain of the function 𝑓𝑥= log 𝑒 2𝑥+ 3 4𝑥 2 + 𝑥- 3 + cos -12𝑥- 1 𝑥+ 2 is ( 𝛼, 𝛽] , then the value of 5𝛽- 4𝛼 is equal to 10 12 11 9",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

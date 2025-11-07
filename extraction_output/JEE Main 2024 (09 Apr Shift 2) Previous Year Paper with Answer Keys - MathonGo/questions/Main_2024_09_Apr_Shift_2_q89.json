@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_2_q89",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 89,
+  "question_type": "Numerical",
+  "question_text": "Let the set of all values of , for which have any critical point, be the interval . Then is equal to _______",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "D",
+      "text": "does not",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

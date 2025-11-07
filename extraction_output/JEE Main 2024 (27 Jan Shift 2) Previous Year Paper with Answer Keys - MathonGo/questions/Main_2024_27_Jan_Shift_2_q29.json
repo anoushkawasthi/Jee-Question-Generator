@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_27_Jan_Shift_2_q29",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "27 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 29,
+  "question_type": "MCQ",
+  "question_text": "5000 o A is incident normally on a single narrow slit of width 0 . 001   mm . The light is focused by convex lens on screen, placed on its focal plane. The first minima will be formed for the angle of diffraction of ______ (degree).",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A parallel beam of monochromatic light of wavelength",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

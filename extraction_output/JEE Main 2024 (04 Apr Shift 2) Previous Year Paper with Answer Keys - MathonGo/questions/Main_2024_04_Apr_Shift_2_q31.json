@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_2_q31",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 2",
+  "subject": "Chemistry",
+  "question_number": 31,
+  "question_type": "MCQ",
+  "question_text": "elements combine in any ratio. elements combine in any ratio. All the atoms of a given element have identical properties including identical mass.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) chemical reactions involve reorganization of",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Matter consists of indivisible atoms.",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Compounds are formed when atoms of different",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Compounds are formed when atoms of different",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "atoms",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Choose the Incorrect Statement about Dalton's Atomic Theory",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

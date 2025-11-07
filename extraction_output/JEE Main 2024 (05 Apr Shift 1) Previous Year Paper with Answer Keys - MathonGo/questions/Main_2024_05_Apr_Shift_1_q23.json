@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_1_q23",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 1",
+  "subject": "Physics",
+  "question_number": 23,
+  "question_type": "Numerical",
+  "question_text": "The density and breaking stress of a wire are respectively. The wire is suspended from a rigid support on a planet where acceleration due to gravity is of the value on the surface of earth. The maximum length of the wire with breaking is _____ m (take, ).",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

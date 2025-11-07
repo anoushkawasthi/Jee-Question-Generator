@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_2_q62",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 62,
+  "question_type": "Numerical",
+  "question_text": "The value of is JEE Main 2024 (04 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo 2 , BCl 3 , NF 3 , XeF 4 , CCl 4 , H 2 O, H 2 S, HBr, CO 2 , H 2 , HCl 60 L 20 L 5 Q 2.7 kg −x ∘ C x = = 18 g mol −1 = 60 g mol −1 K f H 2 O : 1.86 K kg mol −1 K f 3.90 K kg mol −1 H 2 O = 273 K = 290 K rate = k[A] 1/2 [ 1/2 1M A B (k) 4.6 × 10 −2 s −1 A 0.1M M 2 O n n = 3, 4 Sc : 21, Ti : 22, V : 23, Cr : 24, Mn : 25, Fe : 26, Co : 27 Ni : 28, Cu : 29, Zn : 30 π 6.55 g ×10 −1 g π S = {z ∈C : |z −1| ≤2; (z + ¯z) + i(z −¯z) ≤2, Im(z) ≥0} 7π 3 7π 4 17π 8 3π 2 1×2 2 +2×3 2 +…+100×(101) 2 1 2 ×2+2 2 ×3+….+100 2 ×101 32 31 31 30 306 305 305 301 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "The value of is JEE Main 2024 (04 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo 2 , BCl 3 , NF 3 , XeF 4 , CCl 4 , H 2 O, H 2 S, HBr, CO 2 , H 2 , HCl 60 L 20 L 5 Q 2.7 kg −x ∘ C x = = 18 g mol −1 = 60 g mol −1 K f H 2 O : 1.86 K kg mol −1 K f 3.90 K kg mol −1 H 2 O = 273 K = 290 K rate = k[A] $\\frac{1}{2}$ [ $\\frac{1}{2}$ 1M A B (k) 4.6 × 10 −2 s −1 A 0.1M M 2 O n n = 3, 4 Sc : 21, Ti : 22, V : 23, Cr : 24, Mn : 25, Fe : 26, Co : 27 Ni : 28, Cu : 29, Zn : 30 π 6.55 g ×10 −1 g π S = {z ∈C : |z −1| ≤2; (z + ¯z) + i(z −¯z) ≤2, Im(z) ≥0} 7π 3 7π 4 17π 8 3π 2 1×2 2 +2×3 2 +…+100×(101) 2 1 2 ×2+2 2 ×3+….+100 2 ×101 32 31 31 30 306 305 305 301 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A + B →C",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "BM",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

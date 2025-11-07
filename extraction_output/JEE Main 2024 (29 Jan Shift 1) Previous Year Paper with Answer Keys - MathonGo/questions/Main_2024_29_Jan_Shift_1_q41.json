@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_29_Jan_Shift_1_q41",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Chemistry",
+  "question_number": 41,
+  "question_type": "MCQ",
+  "question_text": "The major product(P) in the following reaction is JEE Main 2024 (29 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo FeSO 4 H 2 SO 4 N N S S Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "The major product(P) in the following reaction is JEE Main 2024 (29 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo FeSO 4 H 2 SO 4 N N S S Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "Br",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

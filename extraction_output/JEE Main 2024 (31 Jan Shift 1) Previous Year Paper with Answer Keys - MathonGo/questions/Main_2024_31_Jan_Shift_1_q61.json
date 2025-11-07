@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_1_q61",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 1",
+  "subject": "Chemistry",
+  "question_number": 61,
+  "question_type": "MCQ",
+  "question_text": "Let 𝑆 𝑎 for which 𝑎𝑥 2 + 2𝑎+ 1𝑥+ 9𝑎+ 4 𝑥 2 - 8𝑥+ 32 < 0,   ∀𝑥∈ℝ . Then, the number of elements in 𝑆 is: 1 0 ∞ 3",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be the set of positive integral values of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

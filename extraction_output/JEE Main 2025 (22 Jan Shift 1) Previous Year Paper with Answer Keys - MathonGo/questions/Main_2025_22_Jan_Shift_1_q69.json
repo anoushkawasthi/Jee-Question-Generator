@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_1_q69",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 69,
+  "question_type": "MCQ",
+  "question_text": "(ii) Urea (iii) (iv) iii) < (iv)",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) (i) < (ii) < (iii) < (iv)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) (iv) < (iii) < (i) < (ii)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) (ii) < (i",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) (ii) < (i) < (iii) < (iv)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "Arrange the following solutions in order of their increasing boiling points. (i)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_1_q70",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 70,
+  "question_type": "Numerical",
+  "question_text": "For the function , between the following two statements (S1) for only one value of  in . (S2) is decreasing in .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Both (S1) and (S2) are correct.",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Both (S1) and (S2) are incorrect.",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Only (S2) is correct.",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Only (S1) is correct.",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and increasing in",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

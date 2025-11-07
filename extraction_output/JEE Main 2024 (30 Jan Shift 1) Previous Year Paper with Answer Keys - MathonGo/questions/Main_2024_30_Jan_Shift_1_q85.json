@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_1_q85",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 85,
+  "question_type": "MCQ",
+  "question_text": "students appeared in an examination of  subjects - Mathematics, Physics & Chemistry. It was found that all students passed in at least one of the subjects, students passed in Mathematics, students passed in Physics, students passed in Chemistry, at most students passed in both Mathematics and Physics, at most students passed in both Physics and Chemistry, at most students passed in both Mathematics and Chemistry. The maximum number of students passed in all the three subjects is _____.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A group of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

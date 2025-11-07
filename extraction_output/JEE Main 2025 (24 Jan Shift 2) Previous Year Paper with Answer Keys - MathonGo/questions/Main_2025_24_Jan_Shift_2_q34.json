@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_2_q34",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 34,
+  "question_type": "MCQ",
+  "question_text": ". The units) 2025 (24 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo (V 0 )v/s (ν) ϕ 0 V 0 v/sν V 0 v/sν = ϕ 0 h V 0 v/sν h V 0 v/sν h t 1 t 2 t 1 > t 2 t 1 = t 2 t 1 < t 2 t 1 = 2t 2 4 × 10 −8 C 9 × 10 −3 N 1 4πϵ o 9 × 10 9 inSI",
+  "question_latex": ". The units) 2025 (24 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo (V 0 )$\\frac{v}{s}$ (ν) ϕ 0 V 0 $\\frac{v}{sν}$ V 0 $\\frac{v}{sν}$ = ϕ 0 h V 0 $\\frac{v}{sν}$ h V 0 $\\frac{v}{sν}$ h t 1 t 2 t 1 > t 2 t 1 = t 2 t 1 < t 2 t 1 = 2t 2 4 × 10 −8 C 9 × 10 −3 N 1 4πϵ o 9 × 10 9 inSI",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 3 cm",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 2 cm",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 4 cm",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 1 cm",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "as",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "charge and then removed to a distance such that the force of repulsion between them is",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "distance between them is (Take",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

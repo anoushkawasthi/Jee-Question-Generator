@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_2_q37",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 2",
+  "subject": "Mathematics",
+  "question_number": 37,
+  "question_type": "MCQ",
+  "question_text": "Given below are two statements: Statement (I) : SiO 2 GeO 2 SnO PbO Statement (II) : Allotropic forms of carbon are due to property of catenation and pπ - dπ",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Both Statement I and Statement II are false",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Both Statement I and Statement II are true",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Statement I is true but Statement II is false",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Statement I is true but Statement II is true",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "are amphoteric in nature.",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "bond formation.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

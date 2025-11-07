@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_2_q27",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 27,
+  "question_type": "MCQ",
+  "question_text": "the ball becomes constant after some time. If the density of glycerine is half of the density of the ball, then the viscous force acting on the ball will be (consider g as acceleration due to gravity)",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 2 Mg",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Mg",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A small rigid spherical ball of mass M is dropped in a long vertical tube containing glycerine. The velocity of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

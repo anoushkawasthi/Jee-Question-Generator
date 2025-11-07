@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_2_q12",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 2",
+  "subject": "Physics",
+  "question_number": 12,
+  "question_type": "Numerical",
+  "question_text": "front edge enters the wide magnetic field at 0 . The value of induced emf in the loop at will JEE Main 2024 (09 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo 20 J 205 J −20 J 225 J −78 ∘ C K 2 K 127 ∘ C 117 ∘ C −39 ∘ C −78 ∘ C +q, +5q, −2q, +3q −4q S 4q ϵ 0 5q ϵ 0 q ϵ 0 3q ϵ 0 A B R 8R 3 5R 3 4R 3 2 3 R q = +e, m = 2.0u) →B →B r d r p √2 : 1 1 : 1 1 : √ 2 1 : 2 15 50 t = t = 10 s Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "front edge enters the wide magnetic field at 0 . The value of induced emf in the loop at will JEE Main 2024 (09 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo 20 J 205 J −20 J 225 J −78 ∘ C K 2 K 127 ∘ C 117 ∘ C −39 ∘ C −78 ∘ C +q, +5q, −2q, +3q −4q S 4q ϵ 0 5q ϵ 0 q ϵ 0 3q ϵ 0 A B R 8R 3 5R 3 4R 3 2 3 R q = +e, m = 2.0u) →B →B r d r p √2 : 1 1 : 1 1 : √ 2 1 : 2 15 50 t = t = 10 s Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) zero",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "as shown in figure. The",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be :",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "cm",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

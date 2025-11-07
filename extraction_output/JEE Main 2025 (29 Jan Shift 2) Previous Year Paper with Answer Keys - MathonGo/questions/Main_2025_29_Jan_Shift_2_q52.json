@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_2_q52",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 52,
+  "question_type": "MCQ",
+  "question_text": "which becomes in 12 months. The expiry time of the drug in months is __________",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 2",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 6",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 12",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 3",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "Assume that the decomposition of the drug follows first order kinetics.",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "becomes ineffective after",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "decomposition. The original concentration of drug in a bottle was",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

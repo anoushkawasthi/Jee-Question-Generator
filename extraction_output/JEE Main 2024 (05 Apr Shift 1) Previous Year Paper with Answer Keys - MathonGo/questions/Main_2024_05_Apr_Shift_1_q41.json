@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_1_q41",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 41,
+  "question_type": "MCQ",
+  "question_text": "Given below are two statements: Statement I : Nitration of benzene involves the following step - Statement II : Use of Lewis base promotes the electrophilic substitution of benzene. In the light of the above JEE Main 2024 (05 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo Fe 2 O 3( s) + 3CO (g) ⇌Fe (l) + 3CO 2( g) 2 2 Fe 2 O 3 x y x + y σ π H 3 2 −O −CH 2 −CH 2 −CH 3 H 3 2 2 −CH 2 −CH 2 −CH 3 (D) < ( C ) < ( A ) < ( B ) (B) < (A) < (C) < (D) (A) < (B) < (C) < (D) (B) < (A) < (D) < (C) Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "Given below are two statements: Statement I : Nitration of benzene involves the following step - Statement II : Use of Lewis base promotes the electrophilic substitution of benzene. In the light of the above JEE Main 2024 (05 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo Fe 2 O 3( s) + 3CO (g) ⇌Fe (l) + 3CO 2( g) 2 2 Fe 2 O 3 x y x + y σ π H 3 2 −O −CH 2 −CH 2 −CH 3 H 3 2 2 −CH 2 −CH 2 −CH 3 (D) < ( C ) < ( A ) < ( B ) (B) < (A) < (C) < (D) (A) < (B) < (C) < (D) (B) < (A) < (D) < (C) Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Statement I is correct but Statement II is incorrect(2) Statement I is incorrect but Statement II is correct",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Both Statement I and Statement II are correct",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Both Statement I and Statement II are incorrect",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "C −CH",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

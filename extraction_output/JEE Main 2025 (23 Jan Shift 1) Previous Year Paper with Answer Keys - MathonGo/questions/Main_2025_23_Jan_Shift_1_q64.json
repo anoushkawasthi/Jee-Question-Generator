@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_1_q64",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 64,
+  "question_type": "MCQ",
+  "question_text": "Ice at is heated to become vapor with temperature of 2025 (23 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo Sc 3+ , Ti 3+ , Cr 2+ V 2+ , Cr 3+ , Mn 3+ Ti 4+ , V 4+ , Mn 2+ Zn 2+ , V 3+ , Fe 3+ FeSO 4 Na 4 [Fe(CN) 6 ] 3 ⋅xNH 3 0.558 ∘ C 100% K f = 1.86 K kg mol −1 [Cr(NH 3 ) 5 2 [Cr(NH 3 ) 6 ]Cl 3 [Cr(NH 3 ) 3 3 ] [Cr(NH 3 ) 4 2 ]Cl NH 4 OH A 2+ 1MB 3+ K sp [A(OH) 2 ] = 9 × 10 −10 K sp [B(OH) 3 ] = 27 × 10 −18 2 3 NH 4 OH 2 3 3 2 2 3 3 2 excess HCHO − → reflux −5 ∘ C 110 ∘ C",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "alkali",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B(OH)",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "CH = O",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_1_q43",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 1",
+  "subject": "Chemistry",
+  "question_number": 43,
+  "question_type": "MCQ",
+  "question_text": "Iron (III) catalyses the reaction between iodide and persulphate ions, in which A. oxidises the iodide ion oxidises the persulphate ion C. reduces the iodide ion D. reduces the persulphate ion",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) B only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) A only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) B and C only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) A and D only",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B.",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Choose the most appropriate answer from the options given below:",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_2_q82",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 82,
+  "question_type": "Numerical",
+  "question_text": "Let the of 𝑥 𝑟 in the expansion of 𝑥+ 3 𝑛−1 + 𝑥+ 3 𝑛−2 𝑥+ 2 + 𝑥+ 3 𝑛−3 𝑥+ 2 2 + . ... + 𝑥+ 2 𝑛−1 𝛼 𝑟 . If ∑ 𝑟= 0 𝑛 𝛼 𝑟 = 𝛽 𝑛 −𝛾 𝑛 , 𝛽, 𝛾∈𝑁 , then the value of 𝛽 2 + 𝛾 2 equals _______.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "B",
+      "text": "be",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "coefficient",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

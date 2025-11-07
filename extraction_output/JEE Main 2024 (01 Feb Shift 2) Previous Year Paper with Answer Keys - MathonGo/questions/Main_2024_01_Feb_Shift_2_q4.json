@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_2_q4",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 2",
+  "subject": "Physics",
+  "question_number": 4,
+  "question_type": "MCQ",
+  "question_text": "4   kg experiences two forces → 𝐹 1 = 5 ^ 𝑖+ 8 ^ 𝑗+ 7 ^ 𝑘 → 𝐹 2 = 3 ^ 𝑖- 4 ^ 𝑗- 3 ^ 𝑘. The acceleration -2 ^ 𝑖- ^ 𝑗- ^ 𝑘 4 ^ 𝑖+ 2 ^ 𝑗+ 2 ^ 𝑘 2 ^ 𝑖+ ^ 𝑗+ ^ 𝑘 2 ^ 𝑖+ 3 ^ 𝑗+ 3 ^ 𝑘",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "acting on the body is:",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

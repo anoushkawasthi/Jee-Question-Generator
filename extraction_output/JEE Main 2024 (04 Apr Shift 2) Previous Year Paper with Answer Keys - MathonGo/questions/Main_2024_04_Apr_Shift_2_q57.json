@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_2_q57",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 2",
+  "subject": "Chemistry",
+  "question_number": 57,
+  "question_type": "Numerical",
+  "question_text": "temperature forms oxides of formula (where , 5). The 'spin-only' magnetic moment value of the (near integer) (Given atomic number: , )",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "amphoteric oxide from the above oxides is ______",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

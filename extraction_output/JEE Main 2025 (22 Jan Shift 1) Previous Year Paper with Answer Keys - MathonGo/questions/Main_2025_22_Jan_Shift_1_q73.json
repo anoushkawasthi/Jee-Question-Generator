@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_1_q73",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 73,
+  "question_type": "MCQ",
+  "question_text": "Molar mass of the product formed is _______ .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "C",
+      "text": "Consider the following sequence of reactions :",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_2_q5",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 5,
+  "question_type": "MCQ",
+  "question_text": "2   kg → 𝐹= 6𝑡 ^ i + 6𝑡 2 ^ j   N . The power developed by the force at the time 𝑡 is given by: 6𝑡 4 + 9𝑡 5 W 3𝑡 3 + 6𝑡 5 W 9𝑡 5 + 6𝑡 3 W 9𝑡 3 + 6𝑡 5 W JEE Main 2024 (31 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "2   kg → 𝐹= 6𝑡 ^ i + 6𝑡 2 ^ j   N . The power developed by the force at the time 𝑡 is given by: 6𝑡 4 + 9𝑡 5 W 3𝑡 3 + 6𝑡 5 W 9𝑡 5 + 6𝑡 3 W 9𝑡 3 + 6𝑡 5 W JEE Main 2024 (31 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A body of mass",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "begins to move under the action of a time dependent force given by",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

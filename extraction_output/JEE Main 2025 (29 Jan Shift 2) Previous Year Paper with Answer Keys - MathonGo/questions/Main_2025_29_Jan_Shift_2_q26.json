@@ -1,0 +1,60 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_2_q26",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 26,
+  "question_type": "Assertion-Reason",
+  "question_text": "Given below are two statements. One is labelled as Assertion (A) and the other is labelled as Reason (R). Three identical spheres of same mass undergo one dimensional motion as shown in figure with initial velocities . If we wait sufficiently long for elastic collision to happen, then , will be the final velocities. Reason (R): In an elastic collision 2025 (29 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo α, β(α ≠β) x + y + z = 1; x + 2y + 4z = m x + 4y + 10z = m 2 ∑ 10 n=1 (n α + n β ) S = N ∪{0} R S R R = {(x, y) : log e y = x log e ( 2 5 ), x ∈ S, y ∈R} R 10 9 3 2 5 2 5 3 sin x + sin 2 x = 1, x ∈(0, π 2 ) (cos 12 x + tan 12 x) + 3 (cos 10 x + tan 10 x + cos 8 x + tan 8 x) + (cos 6 x + tan 6 x) 24 ∫ π 4 0 (sin 4x − π 12 + [2 sin x])dx = 2π + α ∣∣ [⋅] α a 1 , a 2 , … , a 2024 a 1 + (a 5 + a 10 + a 15 + … + a 2020 ) + a 2024 = 2233 a 1 + a 2 + a 3 + … + a 2024 lim t→0 (∫ 1 0 (3x + 5) t 1 t = α 5e ( 8 5 ) 2 3 α y 2 = 12x S (SP)(SQ) = 147 4 C 64x 2 + 64y 2 −αx −64 √ 3y = β β −α z−a z+b = 1 ∣ = 1, z ∈C ∣ z + 1 ω ω 2 ω z + ω 2 1 ω 2 1 z + ω ∣ ω ω 2 x 2 + x + 1 = 0 v A = 5 m/s, v B = 2 m/s, v C = 4 m/s v A = 4 m/s, v B = 2 m/s v C = 5 m/s explanation of (A)",
+  "question_latex": "Given below are two statements. One is labelled as Assertion (A) and the other is labelled as Reason (R). Three identical spheres of same mass undergo one dimensional motion as shown in figure with initial velocities . If we wait sufficiently long for elastic collision to happen, then , will be the final velocities. Reason (R): In an elastic collision 2025 (29 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo α, β(α ≠β) x + y + z = 1; x + 2y + 4z = m x + 4y + 10z = m 2 ∑ 10 n=1 (n α + n β ) S = N ∪{0} R S R R = {(x, y) : log e y = x log e ( 2 5 ), x ∈ S, y ∈R} R 10 9 3 2 5 2 5 3 sin x + sin 2 x = 1, x ∈(0, π 2 ) (cos 12 x + tan 12 x) + 3 (cos 10 x + tan 10 x + cos 8 x + tan 8 x) + (cos 6 x + tan 6 x) 24 ∫ π 4 0 (sin 4x − π 12 + [2 sin x])dx = 2π + α ∣∣ [⋅] α a 1 , a 2 , … , a 2024 a 1 + (a 5 + a 10 + a 15 + … + a 2020 ) + a 2024 = 2233 a 1 + a 2 + a 3 + … + a 2024 lim t→0 (∫ 1 0 (3x + 5) t 1 t = α 5e ( 8 5 ) 2 3 α y 2 = 12x S (SP)(SQ) = 147 4 C 64x 2 + 64y 2 −αx −64 √ 3y = β β −α z−a z+b = 1 ∣ = 1, z ∈C ∣ z + 1 ω ω 2 ω z + ω 2 1 ω 2 1 z + ω ∣ ω ω 2 x 2 + x + 1 = 0 v A = 5 $\\frac{m}{s}$, v B = 2 $\\frac{m}{s}$, v C = 4 $\\frac{m}{s}$ v A = 4 $\\frac{m}{s}$, v B = 2 $\\frac{m}{s}$ v C = 5 $\\frac{m}{s}$ explanation of (A)",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) (A) is false but (R) is true",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Both (A) and (R) are true but (R) is NOT the",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Both (A) and (R) are true and (R) is the correct",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) (A) is true but (R) is false",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "a + b ≠0",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "between identical masses, two objects exchange their velocities. In the light of the above statements, choose",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "correct explanation of (A)",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "dx)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

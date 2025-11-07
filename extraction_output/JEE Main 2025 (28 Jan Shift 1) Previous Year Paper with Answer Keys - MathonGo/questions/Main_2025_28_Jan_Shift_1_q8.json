@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_1_q8",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 8,
+  "question_type": "Numerical",
+  "question_text": "Two number value of is non-zero, equals 2025 (28 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo O A z 1 = √3 + 2 √ 2i 2 ) √3 |z 2 | = |z 1 | 2 ) = arg (z 1 ) + π 6 11 √3 11 4 f : R →R f(x) = (2 + 3a)x 2 + ( )x + b, a ≠1. If f(x + y) = f(x) + f(y) + 1 − 2 7 xy 28 ∑ 5 i=1 |f(i)| y 2 = 4x 25 4 (1, 0) 75 4 = 25 2 125 8 75 8 f(x) = ⎧ ⎪ ⎨ ⎪ ⎩ 1 −2x, x < −1 1 3 (7 + 2|x|), −1 ≤x ≤2 11 18 (x −4)(x −5), x > 2 157 72 131 72 171 72 167 72 n C r−1 = 28, n C r = 56 n C r+1 = 70 2 −n −1) t (3x −1) 2 + (3y) 2 = α α x (a, 0), a > 0 b y x 2 + y 2 −αx + βy + γ = 0 x (2a, b 2 ) (γ, β 2 −4α) (α, β 2 + 4γ) (γ, β 2 + 4α) (α, β 2 −4γ) f(x) = 2 x 2 x +√2 , x ∈R ∑ 81 k=1 f ( k 82 ) 1. 81√2 81 2 k 1 k 2 i k 1 + i k 2 , (i = √−1)",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "ABC",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "BC",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "C (3r −n, r",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

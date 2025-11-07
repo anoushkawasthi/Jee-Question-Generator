@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_2_q23",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 23,
+  "question_type": "Numerical",
+  "question_text": "Two blocks of mass 2   kg 4   kg figure. The radius of wire is 4 . 0 × 10 -5 m 2 . 0 × 10 11 N   m -2 . The longitudinal strain developed in the wire is 1 𝛼𝜋 . The value of 𝛼 is _____. [Use 𝑔= 10   m   s -2 )",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and Young's modulus of the metal is",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

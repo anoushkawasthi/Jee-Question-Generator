@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_1_q12",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 1",
+  "subject": "Physics",
+  "question_number": 12,
+  "question_type": "MCQ",
+  "question_text": ". An electron revolves JEE Main 2024 (04 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo L M m GmMπ 2 L 2 GMmπ 2 L 2 0 2GmMπ L 2 P 1 −P 2 = ρg (h 2 −h 1 ) 2gh = v 2 1 −v 2 2 8Ω 10Ω 400 ∘ C 10Ω 8Ω 16Ω 2Ω 40 ∘ C 68 ∘ F 75 ∘ F 72 ∘ F 70 ∘ F ρ 1 , ρ 2 , ρ 3 ρ 1 > ρ 2 ρ 2 < ρ 3 ρ 1 = ρ 2 = ρ 3 ρ 1 < ρ 2 λCm −1 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN of the kinetic energy of electron as a function of radius of circular path from the wire is :",
+  "question_latex": ". An electron revolves JEE Main 2024 (04 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo L M m GmMπ 2 L 2 GMmπ 2 L 2 0 2GmMπ L 2 P 1 −P 2 = ρg (h 2 −h 1 ) 2gh = v 2 1 −v 2 2 8Ω 10Ω 400 ∘ C 10Ω 8Ω 16Ω 2Ω 40 ∘ C 68 ∘ F 75 ∘ F 72 ∘ F 70 ∘ F ρ 1 , ρ 2 , ρ 3 ρ 1 > ρ 2 ρ 2 < ρ 3 ρ 1 = ρ 2 = ρ 3 ρ 1 < ρ 2 λCm −1 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$ of the kinetic energy of electron as a function of radius of circular path from the wire is :",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "along a circular path having axis along the length of the wire. The graph that correctly represents the variation",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

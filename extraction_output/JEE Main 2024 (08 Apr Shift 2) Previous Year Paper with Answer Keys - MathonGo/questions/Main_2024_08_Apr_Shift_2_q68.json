@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_2_q68",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 68,
+  "question_type": "MCQ",
+  "question_text": "Let . Let  be a relation on if is an even integer. Then the relation  is",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) an equivalence relation.",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) reflexive and symmetric but not transitive.",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) transitive but not symmetric.",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) reflexive but not symmetric.",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and only if",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "defined by",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

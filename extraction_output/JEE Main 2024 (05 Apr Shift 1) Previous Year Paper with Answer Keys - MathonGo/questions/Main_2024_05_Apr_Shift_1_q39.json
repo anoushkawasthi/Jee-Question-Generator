@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_1_q39",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 39,
+  "question_type": "Assertion-Reason",
+  "question_text": "Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R). options given below : explanation of (A)",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) (A) is false but (R) is true",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Both (A) and (R) are true and (R) is the correct",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) (A) is true but (R) is false",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Both (A) and (R) are true but (R) is NOT the",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "Assertion (A) : Cis form of alkene is found to be more polar than the trans form. Reason (R): Dipole moment",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "correct explanation of (A)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

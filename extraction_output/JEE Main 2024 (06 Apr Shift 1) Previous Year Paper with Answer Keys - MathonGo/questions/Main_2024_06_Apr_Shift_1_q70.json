@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_1_q70",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 70,
+  "question_type": "MCQ",
+  "question_text": "Let the relations on the set . If , respectively, in order to make the relations symmetric, then equals",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 12",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 16",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 8",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 10",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be the minimum number of elements required to be added in",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

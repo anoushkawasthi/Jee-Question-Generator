@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_2_q12",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 2",
+  "subject": "Chemistry",
+  "question_number": 12,
+  "question_type": "MCQ",
+  "question_text": "Water boils in an electric kettle in 20 minutes after being switched on. Using the same main supply, the length of the heating element should be _____ to _____ times of its initial length if the water is to be boiled in 15 minutes.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) decreased,",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) increased,",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) decreased, 4/3",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) increased,",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

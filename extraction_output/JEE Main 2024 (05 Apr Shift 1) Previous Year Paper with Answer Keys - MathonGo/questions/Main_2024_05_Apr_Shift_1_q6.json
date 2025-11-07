@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_1_q6",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 6,
+  "question_type": "Numerical",
+  "question_text": "Ratio of radius of gyration of a hollow sphere to that of a solid cylinder of equal mass, for moment of Inertia . The value of  is : JEE Main 2024 (05 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo →Q (2 → Q + 2 → P) (2 → Q −2 → P) tan −1 (2 →Q−2 →P) 2 → Q+2 → P 0 ∘ tan −1 (P/Q) tan −1 (2Q/P) 4.62 s, 4.632 s, 4.6 s 4.64 s 5 s 4.623 s 4.6 s 4.62 s G u √uG 5 kg 25 kg 0.1 ms −2 196 N 291 N 294 N 297 N 50 kg 20 m 1 : 2 √3 : 2 2 : 1 1 : 1 √8/x x 51 34 17 67 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "Ratio of radius of gyration of a hollow sphere to that of a solid cylinder of equal mass, for moment of Inertia . The value of  is : JEE Main 2024 (05 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo →Q (2 → Q + 2 → P) (2 → Q −2 → P) tan −1 (2 →Q−2 →P) 2 → Q+2 → P 0 ∘ tan −1 ($\\frac{P}{Q}$) tan −1 ($\\frac{2Q}{P}$) 4.62 s, 4.632 s, 4.6 s 4.64 s 5 s 4.623 s 4.6 s 4.62 s G u √uG 5 kg 25 kg 0.1 ms −2 196 N 291 N 294 N 297 N 50 kg 20 m 1 : 2 √3 : 2 2 : 1 1 : 1 √$\\frac{8}{x}$ x 51 34 17 67 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "AB",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

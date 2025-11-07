@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_1_q32",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 32,
+  "question_type": "MCQ",
+  "question_text": "Given is a thin convex lens of glass (refractive index  ) and each side having radius of curvature . One side is polished for complete reflection. At what distance from the lens, an object be placed on the optic axis so that 2025 (22 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo 7 32 MR 2 9 32 MR 2 17 32 MR 2 13 32 MR 2 10 −3 kg −10 ∘ C 110 ∘ C = 2100Jkg −1 K −1 = 4180Jkg −1 K −1 = 1920Jkg −1 K −1 = 3.35 × 10 5 Jkg −1 = 2.25 × 10 6 Jkg −1 5.3 × 10 −11 m 8.48 × 10 −10 m m O l v 0 B C μ R the image gets formed on the object itself ?",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

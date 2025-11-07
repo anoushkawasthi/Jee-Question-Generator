@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_1_q87",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 87,
+  "question_type": "Numerical",
+  "question_text": "Let 𝑆= −1,   ∞ 𝑓: 𝑆→ℝ 𝑓𝑥= 𝑥 ∫ −1 𝑒 𝑡 −1 11 2𝑡−1 5 𝑡−2 7 𝑡−3 12 2𝑡−10 61 𝑑𝑡 . Let 𝑝= Sum of square of the values of 𝑥 , where 𝑓𝑥 𝑆 . and 𝑞= Sum of the values of 𝑥 , where 𝑓𝑥 𝑆 . Then, the value of 𝑝 2 + 2𝑞 is ________",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "attains local minima on",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be defined as",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

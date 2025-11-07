@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_1_q4",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 4,
+  "question_type": "MCQ",
+  "question_text": "if and only if . Then R is :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) both reflexive and transitive but not symmetric",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) an equivalence relation",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) reflexive but neither symmetric not transitive",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) both reflexive and symmetric but not transitive",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "by",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "Define a relation R on the interval",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

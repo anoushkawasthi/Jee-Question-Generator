@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_1_q18",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 1",
+  "subject": "Physics",
+  "question_number": 18,
+  "question_type": "Numerical",
+  "question_text": "Given below are two statements : Statement I : Figure shows the variation of stopping potential with frequency for the two photosensitive materials . The slope gives value of , where  is Planck's constant,  is the charge of electron. Statement II : will emit photoelectrons of greater kinetic energy for the incident radiation having same frequency. In the light of the above statements,",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Both Statement I and Statement II are correct",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Statement I is incorrect but Statement II is correct",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Both Statement I and Statement II are incorrect",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Statement I is correct and Statement II is",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "choose the most appropriate answer from the options given below.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

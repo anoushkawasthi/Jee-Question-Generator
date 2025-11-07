@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_2_q41",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 2",
+  "subject": "Physics",
+  "question_number": 41,
+  "question_type": "MCQ",
+  "question_text": "The quantity of silver deposited when one coulomb charge is passed through solution : of silver",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 1 electrochemical equivalent of silver",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 1 chemical equivalent of silver",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "atom of silver",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

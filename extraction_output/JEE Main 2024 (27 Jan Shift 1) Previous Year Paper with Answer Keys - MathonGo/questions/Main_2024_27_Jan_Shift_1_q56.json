@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_27_Jan_Shift_1_q56",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "27 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 56,
+  "question_type": "MCQ",
+  "question_text": "JEE Main 2024 (27 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo R < Q < P R < P < Q Q < R < P Q < P < R S N l S N 2 S N l S N 2 S N 1 S N 2 S N 1 S N 2 22 g n = 4 s = + 1 2 n = s = NO + 300 K 30 dm 3 45 dm 3 80 kPa −OCH 3 , −NO 2 , −CN, −CH 3 −NHCOCH 3 −COR, −OH, −COOH, −Cl Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "JEE Main 2024 (27 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo R < Q < P R < P < Q Q < R < P Q < P < R S N l S N 2 S N l S N 2 S N 1 S N 2 S N 1 S N 2 22 g n = 4 s = + 1 2 n = s = NO + 300 K 30 dm 3 45 dm 3 80 kPa −OCH 3 , −NO 2 , −CN, −CH 3 −NHCOCH 3 −COR, −OH, −COOH, −Cl Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "Among the given organic compounds, the total number of aromatic compounds is",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "CO",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

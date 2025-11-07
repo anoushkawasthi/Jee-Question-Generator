@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_1_q41",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 41,
+  "question_type": "MCQ",
+  "question_text": "viscosity increases. C. As the temperature of gas increases, the coefficient of viscosity increases D. The onset of turbulence is determined by Reynold's number. E. In a steady flow two stream lines never intersect. Choose 2025 (28 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo η E = 100 sin(ωt −kx)NC −1 400 sin(ωt −kx)NC −1 200 sin(ωt −kx)NC −1 50 sin(ωt −kx)NC −1 25 sin(ωt −kx)NC −1 m R R √3Rg + kR 2 m 2 √ gR + kR 2 m √2Rg + kR 2 m √2Rg + 4kR 2 m r 9 r 3 r 6",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) C, D, E Only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) A, D, E Only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) B, C, D Only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) A, B, C Only",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A, B",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "compared to the molecules at the surface, of a liquid. B. As the temperature of liquid rises, the coefficient of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

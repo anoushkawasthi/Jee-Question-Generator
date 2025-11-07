@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_2_q42",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 42,
+  "question_type": "MCQ",
+  "question_text": "energy of 2 eV . If the same surface is illuminated by a light source of wavelength , then the maximum kinetic energy of ejected electrons will be (The work function of metal is 1 eV )",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 3 eV",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 2 eV",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 6 eV",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 5 eV",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A light source of wavelength  illuminates a metal surface and electrons are ejected with maximum kinetic",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

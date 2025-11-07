@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_2_q60",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 60,
+  "question_type": "MCQ",
+  "question_text": "E. Identical DNA strands are transferred to daughter cells.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A. RNA is regarded as the reserve of genetic information.",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B. DNA molecule self-duplicates during cell division",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "C. DNA synthesizes proteins in the cell.",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "D. The message for the synthesis of particular proteins is present in DNA",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

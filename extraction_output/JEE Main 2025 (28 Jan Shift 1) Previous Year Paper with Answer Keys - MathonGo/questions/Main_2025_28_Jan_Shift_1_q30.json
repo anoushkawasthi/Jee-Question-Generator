@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_1_q30",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 30,
+  "question_type": "MCQ",
+  "question_text": "' and charge '  ' is fastened to one end '  ' of a massless string having equilibrium length , whose other end is fixed at point '  '. The whole system is placed on a frictionless horizontal plane speed of the particle when it crosses the x -axis is",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and is initially at rest. If uniform electric field is switched on along the direction as shown in figure, then the",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

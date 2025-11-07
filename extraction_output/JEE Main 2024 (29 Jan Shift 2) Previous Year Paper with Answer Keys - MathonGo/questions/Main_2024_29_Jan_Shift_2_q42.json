@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_29_Jan_Shift_2_q42",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 42,
+  "question_type": "MCQ",
+  "question_text": "is:",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Potassium tetraoxopermanganate (VI)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Potassium tetraoxidomanganate (VI)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Dipotassium tetraoxidomanganate (VII)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Potassium tetraoxidomanganese (VI)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

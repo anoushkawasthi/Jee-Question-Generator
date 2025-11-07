@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_2_q81",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 2",
+  "subject": "Mathematics",
+  "question_number": 81,
+  "question_type": "MCQ",
+  "question_text": "The lines 𝐿 1 , 𝐿 2 , . .. , 𝐿 20 𝑛= 1, 2, 3, . .. , 10 𝐿 2𝑛−1 𝐿 2𝑛 pass through a given point 𝑃 . The maximum number of points of intersection of pairs of lines from the set 𝐿 1 , 𝐿 2 , . .. , 𝐿 20 is equal to:",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "all the lines",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

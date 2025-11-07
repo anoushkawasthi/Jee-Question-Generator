@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_1_q64",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 64,
+  "question_type": "MCQ",
+  "question_text": "Let 𝛼,   𝛽,   𝛾,   𝛿∈𝑍 𝐴𝛼,   𝛽,   𝐵1,   0,   𝐶𝛾,   𝛿 𝐷1,   2 𝐴𝐵𝐶𝐷 . If 𝐴𝐵= √10 𝐴 𝐶 lie on the line 3𝑦= 2𝑥+ 1 , then 2𝛼+ 𝛽+ 𝛾+ 𝛿 is equal to 10 5 12 8",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be the vertices of a parallelogram",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

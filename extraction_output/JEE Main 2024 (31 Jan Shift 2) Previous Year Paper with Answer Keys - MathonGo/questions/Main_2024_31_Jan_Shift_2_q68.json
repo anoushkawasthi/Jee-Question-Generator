@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_2_q68",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 68,
+  "question_type": "MCQ",
+  "question_text": "Let 𝑃 2,   3 2𝑥+ 𝑦= 6 . Let an ellipse 𝐸: 𝑥 2 𝑎 2 + 𝑦 2 𝑏 2 = 1,   𝑎> 𝑏 of eccentricity 1 √ 2 pass through the focus of the parabola 𝑃 . Then the square of the length of the latus rectum of 𝐸 , is 385 8 347 8 512 25 656 25",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and directrix",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be a parabola with vertex",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

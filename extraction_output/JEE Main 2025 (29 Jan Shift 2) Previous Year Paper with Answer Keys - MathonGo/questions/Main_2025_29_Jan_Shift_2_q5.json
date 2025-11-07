@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_2_q5",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 5,
+  "question_type": "MCQ",
+  "question_text": "Let , with . If the sum of all the elements in the third row of is , then is equal to :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 280",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 224",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 210",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 168",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be a matrix of order",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

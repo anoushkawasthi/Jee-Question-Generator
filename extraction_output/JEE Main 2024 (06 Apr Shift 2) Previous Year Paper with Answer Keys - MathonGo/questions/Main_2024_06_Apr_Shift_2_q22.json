@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_2_q22",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 22,
+  "question_type": "MCQ",
+  "question_text": "Three balls of masses respectively are arranged at centre of the edges of an equilateral triangle of side . The moment of intertia of the system about an axis through the centroid and perpendicular to the plane of triangle, will be _______ .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

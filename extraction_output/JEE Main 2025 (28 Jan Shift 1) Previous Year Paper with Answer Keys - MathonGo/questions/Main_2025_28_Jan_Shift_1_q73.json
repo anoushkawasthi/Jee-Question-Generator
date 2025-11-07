@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_1_q73",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 1",
+  "subject": "Chemistry",
+  "question_number": 73,
+  "question_type": "MCQ",
+  "question_text": "11.25 mg of chlorobenzene will produce __________ of product B . (Consider the reactions result in complete conversion.) [Given molar mass of respectively]",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Consider the following sequence of reactions:",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_2_q8",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 8,
+  "question_type": "Numerical",
+  "question_text": "Let the point A divide the line segment joining the points internally in the ratio . If O is the origin and , then the value of r is : 2025 (23 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo x−2 2 = y−6 3 = z−3 4 (1, 4, 0) x 1 = y−2 2 = z+3 3 √17 √15 √14 √13 y = 0} ∑ (x,y)∈C |x + y| X = R × R R X (a 1 , b 1 )R (a 2 , b 2 ) ⇔b 1 = b 2 R (a, b) ∈X S = {(x, y) ∈X : (x, y)R(a, b)} y = x ∫x 3 sin x C 8 (g ( π 2 ) + g ′ ( π 2 )) = απ 3 + βπ 2 + γ, α, β, γ ∈Z α + β −γ A B x −y + 2 = 0 y + 2 = 0 P 2 : 1 9 (x 2 + αy 2 + βxy + γx + 28y) −76 = 0 α −β −γ x−2 1 = y−1 2 = z+3 −3 x+1 2 = y+3 4 = z+5 −5 m n m, n m + n lim x→∞ (2x 2 −3x+5)(3x−1) x 2 (3x 2 +5x+4)√(3x+2) x 2 √3e 2e √3 2 3√e 2e 3 P(−1, −1, 2) Q(5, 5, 10) r : 1(r > 0) (OQ ⋅OA) − 1 5 |OP × OA| 2 = 10 − → − → − → − → √7",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 14",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 3",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 7",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "AB",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B = {(x, y) ∈R × R : |x| + |y| ≤3}",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "C = {(x, y) ∈A ∩B : x = 0",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "dx = g(x) + C",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

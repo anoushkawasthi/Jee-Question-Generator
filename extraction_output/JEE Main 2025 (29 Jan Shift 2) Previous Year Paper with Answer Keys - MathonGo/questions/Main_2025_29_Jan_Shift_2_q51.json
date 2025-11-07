@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_2_q51",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 51,
+  "question_type": "MCQ",
+  "question_text": "If the pressure applied over the system increases by two fold at constant temperature then (A) Concentration of reactants and products increases. (B) Equilibrium will shift in forward direction. (C) Equilibrium constant increases since concentration of products increases. (D) Equilibrium constant remains unchanged as concentration of reactants and products remain",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) (A), (B) and (C) only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) (A) and (B) only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) (A), (B) and (D) only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) (B) and (C) only",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Consider the equilibrium",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

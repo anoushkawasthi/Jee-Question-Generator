@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_2_q69",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 69,
+  "question_type": "Numerical",
+  "question_text": "Let 𝑓: →𝑅→0, ∞ lim 𝑥→∞ 𝑓7𝑥 𝑓𝑥 = 1 . Then, the value of lim 𝑥→∞ 𝑓5𝑥 𝑓𝑥 −1 is equal to 4 0 7 5 1",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be strictly increasing function such that",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

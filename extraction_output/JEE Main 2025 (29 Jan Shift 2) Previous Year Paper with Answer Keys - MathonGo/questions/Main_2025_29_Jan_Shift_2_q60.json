@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_2_q60",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 60,
+  "question_type": "MCQ",
+  "question_text": "Identify the essential amino acids from below : (A) Valine (B) Proline (C) Lysine (D) Threonine (E) Tyrosine",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) (A), (C) and (E) only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) (A), (C) and (D) only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) (C), (D) and (E) only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) (B), (C) and (E) only",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Choose the correct answer from the options given below :",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

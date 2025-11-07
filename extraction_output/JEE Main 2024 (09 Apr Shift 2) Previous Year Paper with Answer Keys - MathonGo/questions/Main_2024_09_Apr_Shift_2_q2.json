@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_2_q2",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 2,
+  "question_type": "MCQ",
+  "question_text": "Two cars are travelling towards each other at speed of each. When the cars are . The distance between them when they come to rest is :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "apart, both the",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "drivers apply brakes and the cars retard at the rate of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

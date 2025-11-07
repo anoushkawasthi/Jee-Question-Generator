@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_1_q43",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 1",
+  "subject": "Chemistry",
+  "question_number": 43,
+  "question_type": "MCQ",
+  "question_text": "The number of element from the following that do not belong to lanthanoids is",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 3",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 4",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 1",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 5",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

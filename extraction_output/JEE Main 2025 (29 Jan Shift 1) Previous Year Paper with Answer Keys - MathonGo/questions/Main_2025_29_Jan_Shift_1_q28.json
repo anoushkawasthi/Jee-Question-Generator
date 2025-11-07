@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_1_q28",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 28,
+  "question_type": "Assertion-Reason",
+  "question_text": "Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R). used with fluorescent mercury-tube fittings. If household electric power is directly connected to a mercury 2025 (29 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo y = y(x) e (cos x)) 2 e (cos x))dx = 0, x ∈(0, π 2 ) y ( π 4 ) = −1 log e 2 y ( π 6 ) 1 log e e 2 log e e 1 log e e − 1 log e x + y = 1 x 2 + y 2 = 4 C D √14 3 √ 7 2 √ 14 5 √ 7 {(x, y) : 2y ≤x 2 + 3, y + |x| ≤3, y ⩾|x −1|} S = {x : cos −1 x = π + sin −1 x + sin −1 (2x + 1)} ∑ x∈ S (2x −1) 2 f : (0, ∞) →R 1 0 f(λx)dλ = af(x), f(1) = 1 f(16) = 1 8 16 −f ′ ( 1 16 ) S = {m ∈Z : A m 2 + A m = 3I −A −6 } ] 2 −1 1 0 n(S) p ∈N lim x→0 + (x ([ 1 x ] + [ 2 x ] + … + [ p x ]) −x 2 ([ 1 x 2 ] + [ 2 2 x 2 ] + … + [ 9 2 x 2 ])) ≥1 l → E = E 0 ^ i 1 2π √ ml 2qE 0 2π√ ml qE 0 1 2π √ 2 ml qE 0 2π√ ml 2qE 0 ω →B →B φ emf ε →B φ = AB, ε = 0 φ = 0, ε = 0 φ = 0, ε = NABω φ = AB, ε = NABω tube, the tube will be damaged. Reason (R): By using the choke coil, the voltage across the tube is reduced by , where  is frequency of the supply across resistor  and inductor L . If the choke is true but (R) is false explanation of (A) is not the",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Both (A) and (R) are true and (R) is the correct",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) (A) is false but (R) is true",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Both",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "are true but",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "correct explanation of",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "dy + (sin x −3y sin x log",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

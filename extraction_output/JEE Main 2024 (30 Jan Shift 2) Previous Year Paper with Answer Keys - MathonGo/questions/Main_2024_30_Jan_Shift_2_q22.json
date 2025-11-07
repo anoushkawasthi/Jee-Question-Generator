@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_2_q22",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 22,
+  "question_type": "MCQ",
+  "question_text": "Two discs of moment of inertia 𝐼 1 = 4   kg   m 2 𝐼 2 = 2   kg   m 2 planes, rotating with angular speeds 10   rad   s -1 &   4   rad   s -1 respectively are brought into contact face to face with their axe of rotation coincident. The loss in kinetic energy of the system in the process is _________ J .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "about their central axes & normal to their",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

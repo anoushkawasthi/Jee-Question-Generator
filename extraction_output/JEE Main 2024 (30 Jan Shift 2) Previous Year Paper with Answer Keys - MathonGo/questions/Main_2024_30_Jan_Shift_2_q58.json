@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_2_q58",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 58,
+  "question_type": "MCQ",
+  "question_text": "2 - chlorobutane + Cl 2 →C 4 H 8 2 (isomers) Total number of optically active isomers shown by C 4 H 8 2 , obtained in the above reaction is ________. JEE Main 2024 (30 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "2 - chlorobutane + Cl 2 →C 4 H 8 2 (isomers) Total number of optically active isomers shown by C 4 H 8 2 , obtained in the above reaction is ________. JEE Main 2024 (30 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "C",
+      "text": "Cl",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_1_q32",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 32,
+  "question_type": "Assertion-Reason",
+  "question_text": "Given below are the two statements: one is labeled as Assertion (A) and the other is labeled as Reason (R). JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 30 Hz 110 Hz 2 2 g 330 m s −1 C V E. 2C 2V x 3 E x E 1 8 V 2 Ω E 2 2 V 4 Ω E 2 V 3 80 1200 rpm 0. 5 G 30° Nπ × 10 −5 V N 3. 5 × 10 −5 T √2 A ×10 −6 N m −1 45 E n = −0. 85 eV 3p 3 d Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN to . However from to only a small increase in covalent radius is observed. Reason (R): covalent and ionic radii in a particular oxidation state increases down the group. explanation of (A)",
+  "question_latex": "Given below are the two statements: one is labeled as Assertion (A) and the other is labeled as Reason (R). JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 30 Hz 110 Hz 2 2 g 330 m s −1 C V E. 2C 2V x 3 E x E 1 8 V 2 Ω E 2 2 V 4 Ω E 2 V 3 80 1200 rpm 0. 5 G 30° Nπ × 10 −5 V N 3. 5 × 10 −5 T √2 A ×10 −6 N m −1 45 E n = −0. 85 eV 3p 3 d Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$ to . However from to only a small increase in covalent radius is observed. Reason (R): covalent and ionic radii in a particular oxidation state increases down the group. explanation of (A)",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) (A) is false but (R) is true",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Both (A) and (R) are true but (R) is not the",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) (A) is true but (R) is false",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Both (A) and (R) are true and (R) is the correct",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "Assertion (A): There is a considerable increase in covalent radius from",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "correct explanation of (A)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

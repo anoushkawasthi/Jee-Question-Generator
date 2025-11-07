@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_2_q15",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 15,
+  "question_type": "MCQ",
+  "question_text": "Given below are two statements: Statement I: Electromagnetic waves carry energy as they travel through space and this energy is equally shared Statement II: When electromagnetic waves strike a surface, a pressure is exerted on the surface.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Statement I is incorrect but Statement II is",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Both Statement I and Statement II are correct",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Both Statement I and Statement II are incorrect",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Statement I is correct but Statement II is",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "by the electric and magnetic fields.",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "correct",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

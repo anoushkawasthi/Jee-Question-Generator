@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_27_Jan_Shift_2_q10",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "27 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 10,
+  "question_type": "Assertion-Reason",
+  "question_text": "Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason(R) zero. Reason (R) : Electric lines of forces are always perpendicular to equipotential surfaces.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Both (A) and (R) are correct but (R) is not the",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) (A) is correct but (R) is not correct",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) (A) is not correct but (R) is correct",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Both (A) and (R) are correct and (R) is the",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "Assertion (A) : Work done by electric field on moving a positive charge on an equipotential surface is always",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "correct explanation of (A)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

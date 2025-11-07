@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_1_q21",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 21,
+  "question_type": "MCQ",
+  "question_text": "Let  be a square matrix of order 3 such that . Then is equal to _______",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

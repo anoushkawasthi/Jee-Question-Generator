@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_2_q12",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 12,
+  "question_type": "MCQ",
+  "question_text": "The resistance per centimeter of a meter bridge wire is 𝑟 , with 𝑋  𝛺 resistance in left gap. Balancing length from left end is at 40   cm with 25   𝛺 resistance in right gap. Now the wire is replaced by another wire of 2𝑟 resistance per centimeter. The new balancing length for same settings will be at 20   cm 10   cm 80   cm 40   cm",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

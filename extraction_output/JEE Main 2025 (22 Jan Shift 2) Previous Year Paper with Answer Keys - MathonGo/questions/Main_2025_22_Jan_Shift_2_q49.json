@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_2_q49",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 49,
+  "question_type": "Numerical",
+  "question_text": "rotated uniformly in horizontal plane about one of its ends. If the force exerted by the liquid at the other end is F then angular velocity of the tube is in SI unit. The value of  is __________.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A tube of length 1 m is filled completely with an ideal liquid of mass 2 M , and closed at both ends. The tube is",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

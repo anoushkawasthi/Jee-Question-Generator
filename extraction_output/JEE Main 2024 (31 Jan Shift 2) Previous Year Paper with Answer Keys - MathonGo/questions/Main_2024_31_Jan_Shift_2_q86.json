@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_2_q86",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 86,
+  "question_type": "MCQ",
+  "question_text": "Let 𝐴 3 × 3 matrix and . If 𝑛= det𝑎𝑑𝑗𝑎𝑑𝑗. ... 𝑎𝑑𝑗𝐴 ⏟ 2024 −times , then the remainder when 𝑛 is divided by 9 is equal to __________.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "B",
+      "text": "be a",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "det𝐴= 2",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

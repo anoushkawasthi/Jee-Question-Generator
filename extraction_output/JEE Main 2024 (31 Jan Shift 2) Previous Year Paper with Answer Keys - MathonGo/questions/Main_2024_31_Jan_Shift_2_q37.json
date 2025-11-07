@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_2_q37",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 37,
+  "question_type": "MCQ",
+  "question_text": "Given below are two statements : Statement I: Group 13 trivalent halides get easily hydrolysed by water due to their covalent nature. Statement II: 3 upon hydrolysis in acidified aqueous solution forms octahedral 2 O 6 3 + ion.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Statement I is true but statement II is false",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Statement I is false but statement II is true",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Both statement I and statement II are false",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Both statement I and statement II are true",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "AlH",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

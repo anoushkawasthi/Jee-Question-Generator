@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_2_q3",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 2",
+  "subject": "Physics",
+  "question_number": 3,
+  "question_type": "MCQ",
+  "question_text": "120   g moving with 25   m   s -1 speed. If the catching process is 0 . 1   s then the magnitude of force exerted by the ball on the hand of player will be(in SI unit): 24 12 25 30",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A cricket player catches a ball of mass",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "completed in",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_1_q36",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 1",
+  "subject": "Chemistry",
+  "question_number": 36,
+  "question_type": "MCQ",
+  "question_text": "Which of the following reactions are disproportionation reactions? 1   Cu + →Cu 2 + + Cu 2 3MnO 4 2 - + 4H + →2MnO 4 - + MnO 2 + 2H 2 O 3   2KMnO 4 →K 2 MnO 4 + MnO 2 + O 2 4   2MnO 4 - + 3Mn 2 + + 2H 2 O →5MnO 2 + 4H + 1,   2 2,   3,   4 1,   2,   4 1,   4",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Choose the correct answer from the options given below:",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

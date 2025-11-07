@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_2_q22",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 22,
+  "question_type": "Numerical",
+  "question_text": "𝑚 is projected with a speed 𝑢 making an angle of 45 o with the ground. The angular momentum of the body about the point of projection, at the highest point is expressed as √2𝑚𝑢 3 𝑋𝑔 . The value of 𝑋 is_______.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A body of mass",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

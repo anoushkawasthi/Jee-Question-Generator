@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_1_q59",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 59,
+  "question_type": "MCQ",
+  "question_text": "The molar conductivity of a weak electrolyte when plotted against the square root of its concentration, which of the following is expected to be observed ? observed at infinite dilution. increase in concentration. observed at infinite dilution. increase in concentration.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) A small decrease in molar conductivity is",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Molar conductivity decreases sharply with",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) A small increase in molar conductivity is",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Molar conductivity increases sharply with",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

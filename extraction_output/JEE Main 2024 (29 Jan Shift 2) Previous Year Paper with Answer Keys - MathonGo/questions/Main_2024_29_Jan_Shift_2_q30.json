@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_29_Jan_Shift_2_q30",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 30,
+  "question_type": "Numerical",
+  "question_text": "Hydrogen atom is bombarded with electrons accelerated through a potential different of , which causes excitation of hydrogen atoms. If the experiment is being formed at . The minimum potential , where _________.(Write the value to the nearest integer)",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "D",
+      "text": "difference needed to observe any Balmer series lines in the emission spectra will be",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

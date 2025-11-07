@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_27_Jan_Shift_1_q42",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "27 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 42,
+  "question_type": "MCQ",
+  "question_text": "point point point point",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) increased vapour pressure, increased boiling",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) increased vapour pressure, decreased boiling",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) decreased vapour pressure, decreased boiling",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) decreased vapour pressure, increased boiling",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A solution of two miscible liquids showing negative deviation from Raoult's law will have :",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

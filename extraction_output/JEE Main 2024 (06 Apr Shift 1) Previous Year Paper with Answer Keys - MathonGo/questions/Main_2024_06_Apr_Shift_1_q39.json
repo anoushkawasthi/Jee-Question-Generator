@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_1_q39",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 39,
+  "question_type": "MCQ",
+  "question_text": "water. C. Ethanol can be separated from ethanol water mixture by azeotropic distillation because it forms",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) A, B, C only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) A, C, D only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) A, B, D only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) B, C, D only",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "answer from the options given below :",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "decomposes at its normal boiling point. B. Aniline can be purified by steam distillation as aniline is miscible in",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

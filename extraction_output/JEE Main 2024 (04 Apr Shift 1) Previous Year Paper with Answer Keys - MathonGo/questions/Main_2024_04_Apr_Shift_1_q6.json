@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_1_q6",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 1",
+  "subject": "Physics",
+  "question_number": 6,
+  "question_type": "MCQ",
+  "question_text": "If a rubber ball falls from a height  and rebounds upto the height of . The percentage loss of total energy of the initial system as well as velocity ball before it strikes the ground, respectively, are : JEE Main 2024 (04 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo (f) (u) (v) Δu Δv 2f [ Δu u + Δv v ] Δu u + Δv v f 2 [ Δu u 2 + Δv v 2 ] f [ Δu u + Δv v ] y = 2a sin ( 2πnt λ ) cos ( 2πx λ ). n/λ n [LT −1 ] x nt 102.5 m n th 115.0 m (n + 2) th 6.25 m/s 2 12.5 m/s 2 9 m/s 2 5 m/s 2 x −y x = 2 + 4t, y = 3t + 8t 2 t h h/2 50%, √2gh 50%, √gh 40%, √2gh 50%, √ gh 2 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "If a rubber ball falls from a height  and rebounds upto the height of . The percentage loss of total energy of the initial system as well as velocity ball before it strikes the ground, respectively, are : JEE Main 2024 (04 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo (f) (u) (v) Δu Δv 2f [ Δu u + Δv v ] Δu u + Δv v f 2 [ Δu u 2 + Δv v 2 ] f [ Δu u + Δv v ] y = 2a sin ( 2πnt λ ) cos ( 2πx λ ). $\\frac{n}{λ}$ n [LT −1 ] x nt 102.5 m n th 115.0 m (n + 2) th 6.25 $\\frac{m}{s}$ 2 12.5 $\\frac{m}{s}$ 2 9 $\\frac{m}{s}$ 2 5 $\\frac{m}{s}$ 2 x −y x = 2 + 4t, y = 3t + 8t 2 t h $\\frac{h}{2}$ 50%, √2gh 50%, √gh 40%, √2gh 50%, √ gh 2 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

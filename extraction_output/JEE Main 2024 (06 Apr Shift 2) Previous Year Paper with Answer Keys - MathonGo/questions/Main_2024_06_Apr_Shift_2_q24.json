@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_2_q24",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 2",
+  "subject": "Physics",
+  "question_number": 24,
+  "question_type": "MCQ",
+  "question_text": "Two open organ pipes of lengths resonate at harmonics respectively. The . (Velocity of sound in air )",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "difference of frequencies for the given modes is _______",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

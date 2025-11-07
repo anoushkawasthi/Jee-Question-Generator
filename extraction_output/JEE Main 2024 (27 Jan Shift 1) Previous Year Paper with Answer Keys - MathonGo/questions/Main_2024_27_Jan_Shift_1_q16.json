@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_27_Jan_Shift_1_q16",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "27 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 16,
+  "question_type": "MCQ",
+  "question_text": "If the refractive index of the material of a prism is , where  is the angle of prism then the angle of minimum deviation will be JEE Main 2024 (27 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo K B = 1. 38 × 10 −23 J mol −1 K −1 3000 K 3200 K 1600 K 1500 K 10 −6 μC (0, 0) m X −Y P Q (√3, √3) m (√6, 0) m P Q √3 V √6 V 0 V 3 V R L 5 R 25 R 5 25R 5R 10 √7 × 10 −4 m 4. 5 Ω 60 R × 10 −7 Ω m R 63 70 66 35 → E → B E = 0, E = 0, E ≠0, E ≠0, 2. 5 m 2 m 60° 4 T 10 sec −2 V +2 V +1 V −1 V x E y = (200 V m −1 ) sin[1. 5 × 10 7 t −0. 05x]; ϵ 0 = 8. 85 × 10 −12 C 2 N −1 m −2 35. 4 W m −2 53. 1 W m −2 26. 6 W m −2 106. 2 W m −2 A 2 ) A π −2 A π 2 −2 A π −A π 2 −A Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "If the refractive index of the material of a prism is , where  is the angle of prism then the angle of minimum deviation will be JEE Main 2024 (27 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo K B = 1. 38 × 10 −23 J mol −1 K −1 3000 K 3200 K 1600 K 1500 K 10 −6 μC (0, 0) m X −Y P Q (√3, √3) m (√6, 0) m P Q √3 V √6 V 0 V 3 V R L 5 R 25 R 5 25R 5R 10 √7 × 10 −4 m 4. 5 Ω 60 R × 10 −7 Ω m R 63 70 66 35 → E → B E = 0, E = 0, E ≠0, E ≠0, 2. 5 m 2 m 60° 4 T 10 sec −2 V +2 V +1 V −1 V x E y = (200 V m −1 ) sin[1. 5 × 10 7 t −0. 05x]; ϵ 0 = 8. 85 × 10 −12 C 2 N −1 m −2 35. 4 W m −2 53. 1 W m −2 26. 6 W m −2 106. 2 W m −2 A 2 ) A π −2 A π 2 −2 A π −A π 2 −A Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B ≠0",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "cot(",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

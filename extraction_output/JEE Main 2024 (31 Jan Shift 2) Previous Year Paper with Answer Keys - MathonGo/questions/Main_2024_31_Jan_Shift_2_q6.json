@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_2_q6",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 6,
+  "question_type": "MCQ",
+  "question_text": "The mass of the moon is 1 144 times the mass of a planet and its diameter 1 16 times the diameter of a planet. If the escape velocity on the planet is v, the escape velocity on the moon will be: 𝑣 3 𝑣 4 𝑣 12 𝑣 6",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

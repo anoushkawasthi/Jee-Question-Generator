@@ -1,0 +1,35 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_1_q60",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 1",
+  "subject": "Chemistry",
+  "question_number": 60,
+  "question_type": "Numerical",
+  "question_text": "In a borax bead test under hot condition, a metal salt (one from the given) is heated at point B of the flame, JEE Main 2024 (05 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo −321.30 kJ 27 ∘ C (−321.30 −xR)kJ x 0.2M 0.05M NaCl 300 K ×10 −1 R = 0.083 Lbarmol −1 K −1 NaCl 2A + B →C + D initial rate of formation of D I 0.1 0.1 6.0 × 10 −3 II 0.3 0.2 7.20 × 10 −2 III 0.3 0.4 2.88 × 10 −1 IV 0.4 0.1 2.40 × 10 −2 Ti 2+ , V 2+ , Co 3+ 2+ Ti : 22, V : 23, Cr : 24, Co : 27 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN resulted in green colour salt bead. The spin-only magnetic moment value of the salt is _______ BM (Nearest integer) [Given atomic number of ]",
+  "question_latex": "In a borax bead test under hot condition, a metal salt (one from the given) is heated at point B of the flame, JEE Main 2024 (05 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo −321.30 kJ 27 ∘ C (−321.30 −xR)kJ x 0.2M 0.05M NaCl 300 K ×10 −1 R = 0.083 Lbarmol −1 K −1 NaCl 2A + B →C + D initial rate of formation of D I 0.1 0.1 6.0 × 10 −3 II 0.3 0.2 7.20 × 10 −2 III 0.3 0.4 2.88 × 10 −1 IV 0.4 0.1 2.40 × 10 −2 Ti 2+ , V 2+ , Co 3+ 2+ Ti : 22, V : 23, Cr : 24, Co : 27 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$ resulted in green colour salt bead. The spin-only magnetic moment value of the salt is _______ BM (Nearest integer) [Given atomic number of ]",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A [M]",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B [M]",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Cr",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

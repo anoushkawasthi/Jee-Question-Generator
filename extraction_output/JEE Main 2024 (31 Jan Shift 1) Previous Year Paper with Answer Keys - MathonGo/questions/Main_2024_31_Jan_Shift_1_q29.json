@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_1_q29",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 29,
+  "question_type": "MCQ",
+  "question_text": "Two waves of intensity ratio 1   :   9 Waves are incoherent is 𝐼 1 𝑏 Waves are coherent is 𝐼 2 60 o . If 𝐼 1 𝐼 2 = 10 𝑥 , then 𝑥= _________. JEE Main 2024 (31 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "Two waves of intensity ratio 1   :   9 Waves are incoherent is 𝐼 1 𝑏 Waves are coherent is 𝐼 2 60 o . If 𝐼 1 𝐼 2 = 10 𝑥 , then 𝑥= _________. JEE Main 2024 (31 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and differ in phase by",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "cross each other at a point. The resultant intensities at the point, when (a)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

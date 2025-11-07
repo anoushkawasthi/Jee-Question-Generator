@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_1_q61",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Chemistry",
+  "question_number": 61,
+  "question_type": "MCQ",
+  "question_text": "The product formed in the following reaction is : 2025 (29 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo (A) (I) β −C 1 −C 4 , plant (B) (II) α −C 1 −C 4 , (C) Glycogen (III) α −C 1 −C 4 , α −C 1 −C 6 , plant (D) (IV) α −C 1 −C 4 , plant List - I (Carbohydrate) List - II (Linkage Source) E ⊖ Pb 4+ /Pb 2+ = +1.67 V E ⊖ Sn 4+ /Sn 2+ = +1.15 V E ⊖ 3+ /Al = −1.66 V E ⊖ T1 /Tl/2.26 V (P)",
+  "question_latex": "The product formed in the following reaction is : 2025 (29 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo (A) (I) β −C 1 −C 4 , plant (B) (II) α −C 1 −C 4 , (C) Glycogen (III) α −C 1 −C 4 , α −C 1 −C 6 , plant (D) (IV) α −C 1 −C 4 , plant List - I (Carbohydrate) List - II (Linkage Source) E ⊖ Pb 4+ /Pb 2+ = +1.67 V E ⊖ Sn 4+ /Sn 2+ = +1.15 V E ⊖ 3+ /Al = −1.66 V E ⊖ T1 /$\\frac{Tl}{2}$.26 V (P)",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "Al",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Cellulose",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

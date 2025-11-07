@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_1_q57",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 1",
+  "subject": "Chemistry",
+  "question_number": 57,
+  "question_type": "MCQ",
+  "question_text": "The compounds which give positive Fehling's test are : (A) (B) (C) (D) (E)",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) (A), (D) and (E) Only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) (C), (D) and (E) Only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) (A), (C) and (D) Only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) (A), (B) and (C) Only",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Choose the correct answer from the options given below :",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

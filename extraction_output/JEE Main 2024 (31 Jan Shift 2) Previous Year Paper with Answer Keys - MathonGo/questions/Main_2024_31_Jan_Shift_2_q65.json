@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_2_q65",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 65,
+  "question_type": "MCQ",
+  "question_text": "If for some 𝑚,   𝑛; 6 𝐶 𝑚 + 2 6 𝐶 𝑚+ 1 + 6 𝐶 𝑚+ 2 > 8 𝐶 3 𝑛−1 𝑃 3 : 𝑛 𝑃 4 = 1: 8 , then 𝑛 𝑃 𝑚+ 1 + 𝑛+ 1 𝐶 𝑚 is equal to 380 376 384 372 JEE Main 2024 (31 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "If for some 𝑚,   𝑛; 6 𝐶 𝑚 + 2 6 𝐶 𝑚+ 1 + 6 𝐶 𝑚+ 2 > 8 𝐶 3 𝑛−1 𝑃 3 : 𝑛 𝑃 4 = 1: 8 , then 𝑛 𝑃 𝑚+ 1 + 𝑛+ 1 𝐶 𝑚 is equal to 380 376 384 372 JEE Main 2024 (31 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_1_q25",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 25,
+  "question_type": "MCQ",
+  "question_text": "5   mm is charged up by a battery. It is found that on introducing a dielectric sheet of thickness 2   mm , while keeping the battery connections intact, the capacitor 25% more charge from the battery than before. The dielectric constant of the sheet is ____.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A parallel plate capacitor with plate separation",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "draws",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

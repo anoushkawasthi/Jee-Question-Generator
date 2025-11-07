@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_2_q77",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 2",
+  "subject": "Mathematics",
+  "question_number": 77,
+  "question_type": "MCQ",
+  "question_text": "𝛥𝐴𝐵𝐶 where 𝐴1, 3, 2, 𝐵−2, 8, 0 𝐶3, 6, 7 . If the angle bisector of ∠𝐵𝐴𝐶 meets the line 𝐵𝐶 𝐷 , then the length of the projection of the vector → 𝐴𝐷 on the vector → 𝐴𝐶 is: 37 2√38 √38 2 39 2√38 √19",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "at",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Consider a",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_27_Jan_Shift_2_q4",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "27 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 4,
+  "question_type": "MCQ",
+  "question_text": "position and lowest position are equal. The angle ( θ ) of thread deflection in the extreme position will be : tan -1 ( √2 ) 2tan -11 2 tan -11 2 2tan -1 1 √ 5",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A ball suspended by a thread swings in a vertical plane so that its magnitude of acceleration in the extreme",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

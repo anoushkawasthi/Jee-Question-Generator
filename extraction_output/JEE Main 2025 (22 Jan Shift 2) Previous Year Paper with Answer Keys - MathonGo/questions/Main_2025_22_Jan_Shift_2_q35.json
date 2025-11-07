@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_2_q35",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 35,
+  "question_type": "MCQ",
+  "question_text": "with time is given by 2025 (22 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo V 0 E 0 4 E 0 16 E 0 8 V 0 2 E 0 16 ρ ρ √ h πeeB √ 2h πeB √ h 2πeB √ 4 h πeB (A) (R) (R) (A) (ε) (t)",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A rectangular metallic loop is moving out of a uniform magnetic field region to a field free region with a",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "constant speed. When the loop is partially inside the magnate field, the plot of magnitude of induced emf",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_1_q24",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 24,
+  "question_type": "MCQ",
+  "question_text": "In a closed organ pipe, the frequency of fundamental note is . A certain amount of water is now poured in the organ pipe so that the fundamental frequency is increased to . If the organ pipe has a cross- sectional area of , the amount of water poured in the organ tube is ________ . (Take speed of sound in )",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "air is",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

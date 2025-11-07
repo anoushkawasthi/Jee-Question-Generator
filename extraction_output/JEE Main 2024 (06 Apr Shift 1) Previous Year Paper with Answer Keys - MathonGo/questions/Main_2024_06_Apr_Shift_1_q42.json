@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_1_q42",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 42,
+  "question_type": "MCQ",
+  "question_text": "weak electrolyte. If volume is doubled by adding more water at constant temperature, the molar conductivity of the cell will - JEE Main 2024 (06 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo (X) (256 K) Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "weak electrolyte. If volume is doubled by adding more water at constant temperature, the molar conductivity of the cell will - JEE Main 2024 (06 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo (X) (256 K) Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) decrease sharply",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) increase sharply",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) remain same or can not be measured accurately",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) depend upon type of electrolyte",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A conductivity cell with two electrodes (dark side) are half filled with infinitely dilute aqueous solution of a",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

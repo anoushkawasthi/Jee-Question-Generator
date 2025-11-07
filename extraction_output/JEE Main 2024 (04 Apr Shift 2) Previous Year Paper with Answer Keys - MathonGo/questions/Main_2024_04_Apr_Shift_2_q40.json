@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_2_q40",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 40,
+  "question_type": "MCQ",
+  "question_text": "Product  is JEE Main 2024 (04 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo S 2 O 2− 3 , SO 2− 4 , SO 2− 3 , S 2 O 2− 7 SO 3 (g) ⇌SO 2 ( g) + 1 2 O 2 ( g) K c = 4.9 × 10 −2 K c 2SO 2 ( g) + O 2 ( g) ⇌2SO 3 ( g) > > > P Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "Product  is JEE Main 2024 (04 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo S 2 O 2− 3 , SO 2− 4 , SO 2− 3 , S 2 O 2− 7 SO 3 (g) ⇌SO 2 ( g) + 1 2 O 2 ( g) K c = 4.9 × 10 −2 K c 2SO 2 ( g) + O 2 ( g) ⇌2SO 3 ( g) > > > P Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "c > b > d >",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "d > c > b > a",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

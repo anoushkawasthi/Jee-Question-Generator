@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_1_q57",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 1",
+  "subject": "Chemistry",
+  "question_number": 57,
+  "question_type": "Numerical",
+  "question_text": "Given below are two statements : Statement I: The rate law for the reaction is rate . When the concentration of both A and B is doubled, the reaction rate is increased \"  \" times. Statement II : JEE Main 2024 (09 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo (M) x g 4 500 mL 32 ∘ C 2 × 10 −1 M ×10 −3 m = 1.25 g/mL N 2 , O 2 , C − 2 , O − 2 , O 2− 2 , H + 2 , CN − , He + 2 1MHCl 1MH 2 SO 4 1M NaOH x y kJ y/x 4 4 ⋅5H 2 O −70 kJ mol −1 +12 kJ mol −1 4 4 ⋅5H 2 O −x kJ x 298 K 2 O 2− 7 + 14H + + 6e − →2Cr 3+ + 7H 2 O, E ∘ = 1.33 V Fe 3+ (aq) + 3e − →Fe E ∘ = −0.04 V Ni 2+ (aq) + 2e − →Ni E ∘ = −0.25 V + (aq) + e − →Ag E ∘ = 0.80 V 3+ (aq) + 3e − →Au E ∘ = 1.40 V 2 O 2− 7 (r) = k[A] 2 [B] x Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN The figure is showing \"the variation in concentration against time plot\" for a \"  \" order reaction. The Value of is ______",
+  "question_latex": "Given below are two statements : Statement I: The rate law for the reaction is rate . When the concentration of both A and B is doubled, the reaction rate is increased \"  \" times. Statement II : JEE Main 2024 (09 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo (M) x g 4 500 mL 32 ∘ C 2 × 10 −1 M ×10 −3 m = 1.25 $\\frac{g}{mL}$ N 2 , O 2 , C − 2 , O − 2 , O 2− 2 , H + 2 , CN − , He + 2 1MHCl 1MH 2 SO 4 1M NaOH x y kJ $\\frac{y}{x}$ 4 4 ⋅5H 2 O −70 kJ mol −1 +12 kJ mol −1 4 4 ⋅5H 2 O −x kJ x 298 K 2 O 2− 7 + 14H + + 6e − →2Cr 3+ + 7H 2 O, E ∘ = 1.33 V Fe 3+ (aq) + 3e − →Fe E ∘ = −0.04 V Ni 2+ (aq) + 2e − →Ni E ∘ = −0.25 V + (aq) + e − →Ag E ∘ = 0.80 V 3+ (aq) + 3e − →Au E ∘ = 1.40 V 2 O 2− 7 (r) = k[A] 2 [B] x Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$ The figure is showing \"the variation in concentration against time plot\" for a \"  \" order reaction. The Value of is ______",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A + B →C",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Cr",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

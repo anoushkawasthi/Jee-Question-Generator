@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_1_q31",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 31,
+  "question_type": "MCQ",
+  "question_text": "is suspended at a point  by a light string of length  and left to perform vertical motion (circular) as shown in figure. Initially, by applying horizontal velocity slack when, the bob reaches at the point ' D '. The ratio of the kinetic energy of the bob at the points  and  is ______ -.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 1",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 2",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 4",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 3",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "at the point ' A ', the string becomes",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

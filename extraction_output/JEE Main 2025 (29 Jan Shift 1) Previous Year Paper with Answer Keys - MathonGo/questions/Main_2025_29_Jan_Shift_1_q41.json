@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_1_q41",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 41,
+  "question_type": "MCQ",
+  "question_text": "The fractional compression of water at the depth of 2.5 km below the sea level is ______ . Given, the , density of water , acceleration due to gravity .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 1.25",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 1.0",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 1.75",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 1.5",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "Bulk modulus of water",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

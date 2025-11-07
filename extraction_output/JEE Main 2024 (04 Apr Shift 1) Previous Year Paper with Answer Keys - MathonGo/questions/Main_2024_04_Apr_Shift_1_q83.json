@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_1_q83",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 83,
+  "question_type": "MCQ",
+  "question_text": "Let  be a square matrix of order 2 such that satisfying lie on a hyperbola, whose , eccentricity is  and the length of the latus rectum is , then is equal to",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and the sum of its diagonal elements is -3 . If the points",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

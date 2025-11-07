@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_29_Jan_Shift_2_q21",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 21,
+  "question_type": "MCQ",
+  "question_text": "in such a way that at any instant the normal and tangential is , the time taken to complete the first revolution will be , where ______.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A particle is moving in a circle of radius",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "components of its acceleration are equal. If its speed at",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

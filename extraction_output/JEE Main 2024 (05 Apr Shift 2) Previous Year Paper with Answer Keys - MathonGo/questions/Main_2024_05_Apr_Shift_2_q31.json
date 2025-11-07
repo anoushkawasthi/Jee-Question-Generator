@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_2_q31",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 31,
+  "question_type": "MCQ",
+  "question_text": "The number of moles of methane required to produce molar mass of methane in )",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 0.35",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 0.5",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 0.75",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 0.25",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "after complete combustion is : (Given",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

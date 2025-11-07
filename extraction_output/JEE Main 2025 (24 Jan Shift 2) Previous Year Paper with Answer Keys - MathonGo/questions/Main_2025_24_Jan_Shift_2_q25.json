@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_2_q25",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 25,
+  "question_type": "MCQ",
+  "question_text": "Let respectively. Let their ecentricities be respectively. If the product of the lengths of their transverse axes is , then is equal to ________.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be two hyperbolas having length of latus rectums",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

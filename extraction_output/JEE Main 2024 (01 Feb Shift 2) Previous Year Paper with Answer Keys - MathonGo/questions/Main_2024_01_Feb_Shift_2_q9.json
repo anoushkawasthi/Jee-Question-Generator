@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_2_q9",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 2",
+  "subject": "Chemistry",
+  "question_number": 9,
+  "question_type": "MCQ",
+  "question_text": "If the root mean square velocity of hydrogen molecule at a given temperature and pressure is 2   km   s -1 , the root mean square velocity of oxygen at the same condition in km   s -1 is: 2 . 0 0 . 5 1 . 5 1 . 0",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

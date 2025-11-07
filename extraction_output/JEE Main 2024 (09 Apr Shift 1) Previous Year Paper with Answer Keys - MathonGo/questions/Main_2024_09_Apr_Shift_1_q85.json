@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_1_q85",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 1",
+  "subject": "Chemistry",
+  "question_number": 85,
+  "question_type": "MCQ",
+  "question_text": "Let . Let  be a relation defined on if and only if . Then the number of elements in  is _________",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "by",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

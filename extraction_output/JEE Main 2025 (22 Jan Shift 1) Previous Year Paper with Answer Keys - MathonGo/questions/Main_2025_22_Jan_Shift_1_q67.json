@@ -1,0 +1,35 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_1_q67",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 1",
+  "subject": "Chemistry",
+  "question_number": 67,
+  "question_type": "MCQ",
+  "question_text": "The IUPAC name of the following compound is :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Methyl-6-carboxy-2,5-dimethylhexanoate.",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 2-Carboxy-5-methoxycarbonylhexane.",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 6-Methoxycarbonyl-2,5-dimethylhexanoic acid. (4) Methyl-5-carboxy-2-methylhexanoate.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

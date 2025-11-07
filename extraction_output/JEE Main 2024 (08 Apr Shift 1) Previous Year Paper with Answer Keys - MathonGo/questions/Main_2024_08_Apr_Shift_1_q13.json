@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_1_q13",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 1",
+  "subject": "Physics",
+  "question_number": 13,
+  "question_type": "MCQ",
+  "question_text": "Paramagnetic substances: A. align themselves along the directions of external magnetic field. B. attract strongly towards external magnetic field. C. has susceptibility little more than zero. D. move from a region of",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) A, B, C Only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) A, C Only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) B, D Only",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "below:",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

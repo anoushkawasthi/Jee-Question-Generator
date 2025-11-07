@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_2_q69",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 69,
+  "question_type": "MCQ",
+  "question_text": "𝑥+ 𝑦+ 𝑧= 5, 𝑥+ 2𝑦+ 𝜆 2 𝑧= 9 𝑥+ 3𝑦+ 𝜆𝑧= 𝜇 , where 𝜆, 𝜇∈𝑅 𝜆= 1 𝜇= 13 𝜆= 1 𝜇≠13 𝜆≠1 𝜇≠13 𝜆≠1 𝜇= 13",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) System has infinite number of solution if",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) System is inconsistent if",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) System has unique solution if",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) System is consistent if",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Consider the system of linear equations",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

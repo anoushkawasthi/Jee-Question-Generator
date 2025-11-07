@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_1_q54",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 1",
+  "subject": "Chemistry",
+  "question_number": 54,
+  "question_type": "MCQ",
+  "question_text": "The element that does not belong to the same period of the remaining elements (modern periodic table) is: 2025 (23 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo A B 6.67 × 10 −19 C 9.6 × 10 −10 C 19.2 × 10 −27 kg 9 × 10 −27 kg P × 10 45 P 1 4πε 0 = 9 × 10 9 Nm 2 C −1 6.67 × 10 −11 Nm 2 kg −2 8 12Ω ¯A = 2^i + 3n^j + 2^k ¯B = 2^i −2^j + 4p^k n −1 0 ∘ C 3/2 f = x 2 y ^ i + y 2 ^ j x + y = 10 (0, 0) (4 m, 2 m) 1. [Co(en) 2 2 ] + [Co(en) 3 ] 3+ [Co(NH 3 ) 3 3 ] [Co(NH 3 ) 4 2 ] + FeO 2− 4 Fe 3+ Fe 2+ Fe 0 +2.0v − → 0.8v − → −0.5v − → E O FeO 2− 4 /Fe 2+",
+  "question_latex": "The element that does not belong to the same period of the remaining elements (modern periodic table) is: 2025 (23 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo A B 6.67 × 10 −19 C 9.6 × 10 −10 C 19.2 × 10 −27 kg 9 × 10 −27 kg P × 10 45 P 1 4πε 0 = 9 × 10 9 Nm 2 C −1 6.67 × 10 −11 Nm 2 kg −2 8 12Ω ¯A = 2^i + 3n^j + 2^k ¯B = 2^i −2^j + 4p^k n −1 0 ∘ C $\\frac{3}{2}$ f = x 2 y ^ i + y 2 ^ j x + y = 10 (0, 0) (4 m, 2 m) 1. [Co(en) 2 2 ] + [Co(en) 3 ] 3+ [Co(NH 3 ) 3 3 ] [Co(NH 3 ) 4 2 ] + FeO 2− 4 Fe 3+ Fe 2+ Fe 0 +2.0v − → 0.8v − → −0.5v − → E O FeO 2− 4 /Fe 2+",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Iridium",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Platinum",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Osmium",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Palladium",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A/s",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Cl",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

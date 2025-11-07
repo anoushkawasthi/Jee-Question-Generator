@@ -1,0 +1,35 @@
+{
+  "question_id": "Main_2024_29_Jan_Shift_1_q29",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 29,
+  "question_type": "Numerical",
+  "question_text": "In a double slit experiment shown in figure, when light of wavelength is used, dark fringe is observed , the minimum distance between the slits is . Write the value of to the nearest integer. JEE Main 2024 (29 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 3. 3 mA 5. 5 mA 10 mA 7 mA u 0. 1 m 0. 1 m u 5 √x m s −1 x = g = 10 m s −2 60° x √3 m s −2 x = g = 10 m s −2 70 m s −1 65 m s −1 2 m 2 N = 1. 2 kg m −3 x 8 x = S +σ t = 0 1 m S 1 m s −1 σ S t = 1 s α[ mϵ 0 e ] C m 2 α 16 Ω 9 V 1 Ω 4 μ F x 2 μ J x = 20 1. 5 × 10 −5 T m A m 2 μ 0 4π = 10 −7 T m A −1 10 0. 7 Ω 0. 20 T 1 s √x × 10 −3 V x 400 nm P m S 1 S 2 α mm 10α Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "In a double slit experiment shown in figure, when light of wavelength is used, dark fringe is observed , the minimum distance between the slits is . Write the value of to the nearest integer. JEE Main 2024 (29 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 3. 3 mA 5. 5 mA 10 mA 7 mA u 0. 1 m 0. 1 m u 5 √x m s −1 x = g = 10 m s −2 60° x √3 m s −2 x = g = 10 m s −2 70 m s −1 65 m s −1 2 m 2 N = 1. 2 kg m −3 x 8 x = S +σ t = 0 1 m S 1 m s −1 σ S t = 1 s α[ mϵ 0 e ] C m 2 α 16 Ω 9 V 1 Ω 4 μ F x 2 μ J x = 20 1. 5 × 10 −5 T m A m 2 μ 0 4π = 10 −7 T m A −1 10 0. 7 Ω 0. 20 T 1 s √x × 10 −3 V x 400 nm P m S 1 S 2 α mm 10α Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "cm",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "D = 0. 2",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

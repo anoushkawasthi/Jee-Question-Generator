@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_2_q64",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 64,
+  "question_type": "MCQ",
+  "question_text": "If the term independent of  in the expansion of is 105 , then is equal to : JEE Main 2024 (08 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo gmol −1 4.44 m x × 10 −3 x [Co(NH 3 ) 6 ] 3+ [NiCl 4 ] 2− NaOH x π x θ ∈[−π, 2π] 1+i cos θ 1−2i cos θ 3π 2π 5π 4π 70 3 4 th , 6 th 8 th x (√ax 2 + 1 2x 3 ) 10 a 2 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "If the term independent of  in the expansion of is 105 , then is equal to : JEE Main 2024 (08 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo gmol −1 4.44 m x × 10 −3 x [Co(NH 3 ) 6 ] 3+ [NiCl 4 ] 2− NaOH x π x θ ∈[−π, 2π] 1+i cos θ 1−2i cos θ 3π 2π 5π 4π 70 3 4 th , 6 th 8 th x (√ax 2 + 1 2x 3 ) 10 a 2 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 2",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 4",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 6",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 9",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

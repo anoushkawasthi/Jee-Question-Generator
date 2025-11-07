@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_2_q57",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 2",
+  "subject": "Physics",
+  "question_number": 57,
+  "question_type": "Numerical",
+  "question_text": "The fusion of chromite ore with sodium carbonate in the presence of air leads to the formation of products . The sum of spin-only magnetic moment values of  and  is ______ ]",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and  along with the evolution of",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B.M. (Nearest integer) [Given atomic number :",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

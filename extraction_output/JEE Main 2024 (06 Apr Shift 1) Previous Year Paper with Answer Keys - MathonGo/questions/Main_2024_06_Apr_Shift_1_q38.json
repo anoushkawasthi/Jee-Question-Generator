@@ -1,0 +1,60 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_1_q38",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 1",
+  "subject": "Chemistry",
+  "question_number": 38,
+  "question_type": "MCQ",
+  "question_text": "Functional group present in sulphonic acids is : JEE Main 2024 (06 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo List - I List - II (Hybridization) (Orientation in Space) sp 3 I. Trigonal bipyramidal 2 II. Octahedral sp 3 d III. Tetrahedral sp 3 d 2 IV. Square planar List - I List - II (Compound/Species) (Shape/Geometry) SF 4 I. Tetrahedral 3 II. Pyramidal − 3 III. See saw NH + 4 + KS IV. List - I List - II (Molecule/Species) (Property/Shape) SO 2 2 I. Paramagnetic NO II. NO − 2 III. Tetrahedral I − 3 IV. Linear −20 ∘ C 1 H 2 , I 2 HI H 2 ( g) + I 2 ( g) ⇌2HI(g) K p x × 10 −1 x = R = 0.082 L K −1 mol −1 −SO 4 H −SO 3 H −SO 2 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "Functional group present in sulphonic acids is : JEE Main 2024 (06 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo List - I List - II (Hybridization) (Orientation in Space) sp 3 I. Trigonal bipyramidal 2 II. Octahedral sp 3 d III. Tetrahedral sp 3 d 2 IV. Square planar List - I List - II ($\\frac{Compound}{Species}$) ($\\frac{Shape}{Geometry}$) SF 4 I. Tetrahedral 3 II. Pyramidal − 3 III. See saw NH + 4 + KS IV. List - I List - II ($\\frac{Molecule}{Species}$) ($\\frac{Property}{Shape}$) SO 2 2 I. Paramagnetic NO II. NO − 2 III. Tetrahedral I − 3 IV. Linear −20 ∘ C 1 H 2 , I 2 HI H 2 ( g) + I 2 ( g) ⇌2HI(g) K p x × 10 −1 x = R = 0.082 L K −1 mol −1 −SO 4 H −SO 3 H −SO 2 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "atm",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B.",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "C.",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "D.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

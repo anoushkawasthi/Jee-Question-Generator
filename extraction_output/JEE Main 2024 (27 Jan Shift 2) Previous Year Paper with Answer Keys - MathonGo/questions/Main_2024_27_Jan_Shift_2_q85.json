@@ -1,0 +1,35 @@
+{
+  "question_id": "Main_2024_27_Jan_Shift_2_q85",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "27 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 85,
+  "question_type": "MCQ",
+  "question_text": "The mean and standard deviation of 15 observations were found to be 12 3 respectively. On rechecking it was found that an observation was read as 10 in place of 12 . If 𝜇 𝜎 2 15𝜇+ 𝜇 2 + 𝜎 2 is equal to _________. JEE Main 2024 (27 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "The mean and standard deviation of 15 observations were found to be 12 3 respectively. On rechecking it was found that an observation was read as 10 in place of 12 . If 𝜇 𝜎 2 15𝜇+ 𝜇 2 + 𝜎 2 is equal to _________. JEE Main 2024 (27 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "correct observations respectively, then",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "denote the mean and variance of the",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

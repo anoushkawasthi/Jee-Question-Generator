@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_2_q74",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 74,
+  "question_type": "MCQ",
+  "question_text": "Heat of formation of Heat of combustion of benzene The heat of formation of . (Nearest integer)",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "B",
+      "text": "benzene is _",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Consider the following data : Heat of formation of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

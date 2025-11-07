@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_27_Jan_Shift_2_q65",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "27 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 65,
+  "question_type": "MCQ",
+  "question_text": "Let 𝐴 𝐵 𝑚 𝑛 elements respectively. The total number of subsets of the set 𝐴 is 56 more than the total number of subsets of 𝐵 . Then the distance of the point P ( m, n ) from the point Q ( - 2, - 3 ) is 10 6 4 8",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be two finite sets with",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

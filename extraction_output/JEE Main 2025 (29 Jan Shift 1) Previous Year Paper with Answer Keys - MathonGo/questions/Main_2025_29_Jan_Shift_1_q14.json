@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_1_q14",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 14,
+  "question_type": "Numerical",
+  "question_text": "Let M and m respectively be the maximum and the minimum values of Then is equal to :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 1280",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 1295",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 1215",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 1040",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

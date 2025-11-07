@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_2_q2",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 2,
+  "question_type": "MCQ",
+  "question_text": "In a group of 3 girls and 4 boys, there are two boys . The number of ways, in which these girls and not adjacent to each other, is :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 96",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 144",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 120",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 72",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "are",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "boys can stand in a queue such that all the girls stand together, all the boys stand together, but",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_1_q53",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 53,
+  "question_type": "Numerical",
+  "question_text": "When equal volume of solution.  and of heat is liberated respectively. The value of is _______",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "are separately neutralised by excess volume of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

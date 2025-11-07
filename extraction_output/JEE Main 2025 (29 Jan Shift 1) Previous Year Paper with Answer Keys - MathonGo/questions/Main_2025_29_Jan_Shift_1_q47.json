@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_1_q47",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 47,
+  "question_type": "MCQ",
+  "question_text": "The coordinates of a particle with respect to origin in a given reference frame is meters. If a force of ______.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "acts on the particle, then the magnitude of torque (with respect to origin) in z-direction is",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

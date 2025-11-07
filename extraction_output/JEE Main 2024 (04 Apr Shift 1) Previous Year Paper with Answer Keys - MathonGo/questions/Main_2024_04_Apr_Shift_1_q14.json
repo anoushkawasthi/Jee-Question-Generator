@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_1_q14",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 1",
+  "subject": "Physics",
+  "question_number": 14,
+  "question_type": "MCQ",
+  "question_text": "velocity along the axis of the solenoid. to the",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) the electron will continue to move with uniform",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) the electron will be accelerated along the axis.",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) the electron path will be circular about the axis.",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) the electron will experience a force at",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "axis and execute a helical path.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_2_q41",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 41,
+  "question_type": "MCQ",
+  "question_text": "Two concave refracting surfaces of equal radii of curvature and refractive index 1.5 face each other in air as shown in figure. A point object O is placed midway, between P and B . The separation between the images of , formed by each refracting surface is :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 0.214 R",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 0.411 R",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 0.124 R",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 0.114 R",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

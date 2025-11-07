@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_2_q31",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 2",
+  "subject": "Chemistry",
+  "question_number": 31,
+  "question_type": "MCQ",
+  "question_text": "electronegativity than metals. (B) Non metals have lower ionisation enthalpy than metals. (C) Compounds formed between highly reactive nonmetals and highly reactive metals are generally ionic. (D) The non-metal oxides are generally basic in nature. (E) The metal oxides are generally acidic or neutral in nature. Choose the",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) (B) and (D) only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) (A) and (C) only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) (D) and (E) only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) (B) and (E) only",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "correct answer from the options given below :",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

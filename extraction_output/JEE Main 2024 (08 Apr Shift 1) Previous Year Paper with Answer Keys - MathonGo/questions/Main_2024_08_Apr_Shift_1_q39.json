@@ -1,0 +1,60 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_1_q39",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 1",
+  "subject": "Chemistry",
+  "question_number": 39,
+  "question_type": "Assertion-Reason",
+  "question_text": "Give below are two statements: One is labelled as Assertion  and the other is labelled as Reason R: Assertion T1. Reason R: The inert pair effect JEE Main 2024 (08 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo List-I List-II (Molecule) (Shape) Fe 4 [Fe(CN) 6 ] 3 ⋅xH 2 O I. Violet [Fe(CN) 5 NOS 4− II. A [Fe(SCN)] 2+ III. Prussian Blue (NH 4 ) 3 PO 4 ⋅12MoO 3 IV. Yellow N(CH 3 ) 3 P(CH 3 ) 3 N(CH 3 ) 3 P(CH 3 ) 3 X ⇌Y; K 1 = 1.0 Y ⇌Z; K 2 = 2.0 Z ⇌W; K 3 = 4.0 X ⇌W F 2 , Cl 2 , Br 2 I 2 F 2 , Cl 2 2 F 2 2 I 2 2 , Br 2 I 2 2 S 2 O 2− 3 + I 2 →S 4 O 2− 6 + 2I − S 2 O 2− 3 + 5Br 2 + 5H 2 O →2SO 2− 4 + 4Br − + 10H + A Ga < In < Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN is true but  is false. is false but  is true. explanation of . explanation of .",
+  "question_latex": "Give below are two statements: One is labelled as Assertion  and the other is labelled as Reason R: Assertion T1. Reason R: The inert pair effect JEE Main 2024 (08 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo List-I List-II (Molecule) (Shape) Fe 4 [Fe(CN) 6 ] 3 ⋅xH 2 O I. Violet [Fe(CN) 5 NOS 4− II. A [Fe(SCN)] 2+ III. Prussian Blue (NH 4 ) 3 PO 4 ⋅12MoO 3 IV. Yellow N(CH 3 ) 3 P(CH 3 ) 3 N(CH 3 ) 3 P(CH 3 ) 3 X ⇌Y; K 1 = 1.0 Y ⇌Z; K 2 = 2.0 Z ⇌W; K 3 = 4.0 X ⇌W F 2 , Cl 2 , Br 2 I 2 F 2 , Cl 2 2 F 2 2 I 2 2 , Br 2 I 2 2 S 2 O 2− 3 + I 2 →S 4 O 2− 6 + 2I − S 2 O 2− 3 + 5Br 2 + 5H 2 O →2SO 2− 4 + 4Br − + 10H + A Ga < In < Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$ is true but  is false. is false but  is true. explanation of . explanation of .",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Both  and  are true and  is the correct",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Both  and  are true but  is NOT the correct",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A.",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "Br",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Cl",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "D.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

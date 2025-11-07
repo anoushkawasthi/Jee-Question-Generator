@@ -22,3 +22,20 @@ psycopg2-binary
 tqdm
 groq
 pydantic  # FastAPI uses Pydantic for data validation
+
+# PDF Extraction Pipeline Components
+pymupdf>=1.24.0  # PyMuPDF for text and image extraction
+pymupdf-fonts  # Font support for PyMuPDF
+
+# Nougat for LaTeX conversion (optional, requires GPU)
+# nougat-ocr  # Uncomment to enable Nougat; requires more setup
+
+# Chemistry/OSRA support (optional)
+# OSRA must be installed separately from system packages
+
+# Schema Validation
+jsonschema>=4.0.0  # JSON schema validation
+
+# Additional utilities
+python-magic>=0.4.0  # File type detection
+PyYAML>=6.0  # YAML configuration support

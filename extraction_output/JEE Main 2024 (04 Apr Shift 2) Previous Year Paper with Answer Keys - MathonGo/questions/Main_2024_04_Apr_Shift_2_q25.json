@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_2_q25",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 2",
+  "subject": "Physics",
+  "question_number": 25,
+  "question_type": "MCQ",
+  "question_text": "is charged by a battery connected between its plates to potential difference of . The battery is now disconnected and a dielectric slab is inserted .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A parallel plate capacitor of capacitance",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "between the plates. The change in its potential energy after inserting the dielectric slab is _____",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

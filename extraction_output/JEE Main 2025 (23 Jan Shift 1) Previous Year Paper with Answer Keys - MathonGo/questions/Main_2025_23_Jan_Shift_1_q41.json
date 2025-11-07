@@ -1,0 +1,60 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_1_q41",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 41,
+  "question_type": "Numerical",
+  "question_text": "execute simple harmonic oscillations. The time period of oscillations is , where the value of  is (Acceleration due to gravity, , density of water ) 2025 (23 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo LIST-I LIST-II Pressure varies inversely with volume of an ideal gas. I. Heat absorbed goes partly to increase internal energy and partly to do work. II. Isochoric process Heat is neither absorbed nor released by a system. III. Isothermal process No work is done on or by a gas. IV. Isobaric process → E = 57 cos [7.5 × 10 6 t −5 × 10 −3 (3x + 4y)](4 ^ i −3 ^ j)N/C ⇀ 57 3×10 8 6 t −5 × 10 −3 (3x + 4y)](^k) → 57 3×10 8 6 t −5 × 10 −3 (3x + 4y)](^k) → 57 3×10 8 6 t −5 × 10 −3 (3x + 4y)](5^k) → 57 3×10 8 6 t −5 × 10 −3 (3x + 4y)](5^k) = 2.5 × 10 4 JKg −1 = 125JKg −1 K −1 ) 10 20 5 15 h i r h tan(i−r) tan r h sin(i−r) h cos(i−r) sin r n 2 n 1 n 2 n 1 n 1 1/8 8 4 1/4 yπ × 10 −2 s y g = 10 m/s 2 = 10 3 kg/m 3",
+  "question_latex": "execute simple harmonic oscillations. The time period of oscillations is , where the value of  is (Acceleration due to gravity, , density of water ) 2025 (23 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo LIST-I LIST-II Pressure varies inversely with volume of an ideal gas. I. Heat absorbed goes partly to increase internal energy and partly to do work. II. Isochoric process Heat is neither absorbed nor released by a system. III. Isothermal process No work is done on or by a gas. IV. Isobaric process → E = 57 cos [7.5 × 10 6 t −5 × 10 −3 (3x + 4y)](4 ^ i −3 ^ j)$\\frac{N}{C}$ ⇀ 57 3×10 8 6 t −5 × 10 −3 (3x + 4y)](^k) → 57 3×10 8 6 t −5 × 10 −3 (3x + 4y)](^k) → 57 3×10 8 6 t −5 × 10 −3 (3x + 4y)](5^k) → 57 3×10 8 6 t −5 × 10 −3 (3x + 4y)](5^k) = 2.5 × 10 4 JKg −1 = 125JKg −1 K −1 ) 10 20 5 15 h i r h tan(i−r) tan r h sin(i−r) h cos(i−r) sin r n 2 n 1 n 2 n 1 n 1 $\\frac{1}{8}$ 8 4 $\\frac{1}{4}$ yπ × 10 −2 s y g = 10 $\\frac{m}{s}$ 2 = 10 3 $\\frac{kg}{m}$ 3",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "Adiabatic process",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B =",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "cos r",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "D.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

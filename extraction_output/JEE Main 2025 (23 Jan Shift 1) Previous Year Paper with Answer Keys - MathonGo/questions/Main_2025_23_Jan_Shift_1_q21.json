@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_1_q21",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 21,
+  "question_type": "MCQ",
+  "question_text": "Let the circle  touch the line , have the centre on the positive x -axis, and cut off a chord of length . Let H be the hyperbola , whose one of the foci is the is equal to ______",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "along the line",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "centre of  and the length of the transverse axis is the diameter of . Then",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

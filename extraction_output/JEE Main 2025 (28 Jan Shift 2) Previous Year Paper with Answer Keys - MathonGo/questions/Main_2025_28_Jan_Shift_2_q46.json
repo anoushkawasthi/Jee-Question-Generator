@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_2_q46",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 46,
+  "question_type": "MCQ",
+  "question_text": "evaporates such that transmission through the film at wavelength 560 nm goes to a minimum every 12 seconds. . 2025 (28 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo M a 3a ′ 2Ma 3a+g 3Ma 2a−g 3Ma 2a+g 2Ma 3a−g 4 25 25 4 2 5 5 2 4 25 1μ F 1μ m 2 × 10 −4 J/m 3 1.8 × 10 5 J/m 3 1.8 × 10 3 J/m 3 2 × 10 2 J/m 3 n 1 n 4 1 n 2 1 n 1 n 3 V V π × 10 −13 m 3 /s",
+  "question_latex": "evaporates such that transmission through the film at wavelength 560 nm goes to a minimum every 12 seconds. . 2025 (28 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo M a 3a ′ 2Ma 3a+g 3Ma 2a−g 3Ma 2a+g 2Ma 3a−g 4 25 25 4 2 5 5 2 4 25 1μ F 1μ m 2 × 10 −4 $\\frac{J}{m}$ 3 1.8 × 10 5 $\\frac{J}{m}$ 3 1.8 × 10 3 $\\frac{J}{m}$ 3 2 × 10 2 $\\frac{J}{m}$ 3 n 1 n 4 1 n 2 1 n 1 n 3 V V π × 10 −13 m 3 /s",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "AB",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

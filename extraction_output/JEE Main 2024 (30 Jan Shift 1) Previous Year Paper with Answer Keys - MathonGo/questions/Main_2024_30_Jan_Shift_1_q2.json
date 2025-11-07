@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_1_q2",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 2,
+  "question_type": "MCQ",
+  "question_text": "projected with a velocity  making an angle of with the horizontal. The magnitude of is :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) zero",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "angular momentum of the projectile about the point of projection when the particle is at its maximum height",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

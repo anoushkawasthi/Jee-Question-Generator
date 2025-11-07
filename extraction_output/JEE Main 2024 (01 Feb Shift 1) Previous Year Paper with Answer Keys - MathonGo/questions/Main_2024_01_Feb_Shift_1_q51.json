@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_1_q51",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 1",
+  "subject": "Mathematics",
+  "question_number": 51,
+  "question_type": "MCQ",
+  "question_text": "3PbCl 2 + 2NH 43 PO 4 →Pb 3 PO 42 + 6NH 4 If 72   mmol   PbCl 2 is mixed with 50   mmol of NH 43 PO 4 , then amount of Pb 3 PO 42 formed in mmol . (nearest integer)",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "C",
+      "text": "Cl",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

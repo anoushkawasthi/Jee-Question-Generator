@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_2_q21",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 21,
+  "question_type": "MCQ",
+  "question_text": "is brought to halt within",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "after applying the",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "brakes. The distance travelled by the bus during this time (Assume the retardation is uniform) is _____m.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

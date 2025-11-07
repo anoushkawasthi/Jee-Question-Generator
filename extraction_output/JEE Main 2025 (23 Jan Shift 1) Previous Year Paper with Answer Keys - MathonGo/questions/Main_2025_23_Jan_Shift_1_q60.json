@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_1_q60",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 1",
+  "subject": "Chemistry",
+  "question_number": 60,
+  "question_type": "MCQ",
+  "question_text": "Propane molecule on chlorination under photochemical condition gives two di-chloro products, \" x \" and \" y \". structural isomers) will be obtained from \" x \" when it is further treated with chlorine under the photochemical",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 2",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 5",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 4",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 3",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "Amongst \" x \" and \" y \", \" x \" is an optically active molecule. How many tri-chloro products (consider only",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "condition?",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

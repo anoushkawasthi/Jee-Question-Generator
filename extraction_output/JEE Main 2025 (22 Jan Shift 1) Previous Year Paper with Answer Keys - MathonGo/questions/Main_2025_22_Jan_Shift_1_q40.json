@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_1_q40",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 40,
+  "question_type": "MCQ",
+  "question_text": "The work functions of cesium (Cs) and lithium (Li) metals are 1.9 eV and 2.5 eV , respectively. If we incident",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Both Cs and Li",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Neither Cs nor Li",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Cs only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Li only",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "a light of wavelength 550 nm on these two metal surfaces, then photo-electric effect is possible for the case of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

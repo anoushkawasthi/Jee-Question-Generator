@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_1_q84",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 1",
+  "subject": "Mathematics",
+  "question_number": 84,
+  "question_type": "MCQ",
+  "question_text": "Let the line 𝐿: √2𝑥+ 𝑦= 𝛼 pass through the point of the intersection 𝑃 (in the first quadrant)of the circle 𝑥 2 + 𝑦 2 = 3 𝑥 2 = 2𝑦 . Let the line 𝐿 touch two circles 𝐶 1 𝐶 2 of equal radius 2√3 . If the 𝑄 1 𝑄 2 of the circles 𝐶 1 𝐶 2 lie on the 𝑦- 𝑃𝑄 1 𝑄 2 is equal to _________.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "axis, then the square of the area of the triangle",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "centres",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

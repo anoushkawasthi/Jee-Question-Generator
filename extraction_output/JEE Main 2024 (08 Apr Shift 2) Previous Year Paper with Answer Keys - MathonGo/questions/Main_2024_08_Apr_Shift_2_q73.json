@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_2_q73",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 73,
+  "question_type": "MCQ",
+  "question_text": "If the function has a local maximum at , then  and JEE Main 2024 (08 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo 3 cos 36 ∘ +5 sin 18 ∘ 5 cos 36 ∘ −3 sin 18 ∘ c gcd(a, c) = 1 (−4, 5) x + 2y = 2 (x + 4) 2 + (y −3) 2 = r 2 r (5, 2) (2, a) π 4 a R (a, b)R(c, d) 3ad −7bc R α ≠a, β ≠b, γ ≠c = 0 ∣ α b c a β c a b γ ∣ a α−a + b β−b + γ γ−c x + 4y −z = λ, 7x + 9y + μz = −3, 5x + y + 2z = −1 (2μ + 3λ) f(x) = { −a if −a ≤x ≤0 x + a if 0 < x ≤a g(x) = (f(x ∣) −|f(x)|)/2 g : [−a, a] →[−a, a] f(x) = ⎧ ⎪ ⎨ ⎪ ⎩ tan((a+1)x)+b tan x x , x < 0 3, x = 0 √ax+b 2 x 2 −√ax , x > 0 x = 0 b a f(x) = 2x 3 −9x 2 + 12a 2 x + 1, a > 0 x = α x = α 2 α α 2 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "If the function has a local maximum at , then  and JEE Main 2024 (08 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo 3 cos 36 ∘ +5 sin 18 ∘ 5 cos 36 ∘ −3 sin 18 ∘ c gcd(a, c) = 1 (−4, 5) x + 2y = 2 (x + 4) 2 + (y −3) 2 = r 2 r (5, 2) (2, a) π 4 a R (a, b)R(c, d) 3ad −7bc R α ≠a, β ≠b, γ ≠c = 0 ∣ α b c a β c a b γ ∣ a α−a + b β−b + γ γ−c x + 4y −z = λ, 7x + 9y + μz = −3, 5x + y + 2z = −1 (2μ + 3λ) f(x) = { −a if −a ≤x ≤0 x + a if 0 < x ≤a g(x) = (f(x ∣) −|f(x)|)/2 g : [−a, a] →[−a, a] f(x) = ⎧ ⎪ ⎨ ⎪ ⎩ tan((a+1)x)+b tan x x , x < 0 3, x = 0 √ax+b 2 x 2 −√ax , x > 0 x = 0 b a f(x) = 2x 3 −9x 2 + 12a 2 x + 1, a > 0 x = α x = α 2 α α 2 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "a, b > 0",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "b√ax√x",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

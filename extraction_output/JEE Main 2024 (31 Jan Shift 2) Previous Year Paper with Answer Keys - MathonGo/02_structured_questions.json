@@ -1,0 +1,3467 @@
+{
+  "paper_metadata": {
+    "exam_name": "Main 2024",
+    "exam_date_shift": "31 Jan Shift 2",
+    "paper_id": "JEE Main 2024 (31 Jan Shift 2) Previous Year Paper with Answer Keys - MathonGo",
+    "total_questions": 84,
+    "extraction_timestamp": "2025-11-07T12:47:50.141282",
+    "extraction_method": "pymupdf"
+  },
+  "questions": [
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q1",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 1,
+      "question_type": "MCQ",
+      "question_text": "If two vectors → 𝐴 → 𝐵 having equal magnitude 𝑅 𝜃 , then → 𝐴− → 𝐵= √2𝑅sin 𝜃 2 → 𝐴+ → 𝐵= 2𝑅sin 𝜃 2 → 𝐴+ → 𝐵= 2𝑅cos 𝜃 2 → 𝐴− → 𝐵= 2𝑅cos 𝜃 2",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "are inclined at an angle",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q2",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Physics",
+      "question_number": 2,
+      "question_type": "MCQ",
+      "question_text": "𝐴 𝐵 related to each other as 𝐸= 𝐵−𝑥 2 𝐴𝑡 where 𝐸,   𝑥 𝑡 have dimensions of energy, length and time respectively. The dimension of 𝐴𝐵 is 𝐿 −2 𝑀 1 𝑇 0 𝐿 2 𝑀 -1 𝑇 1 𝐿 −2 𝑀 -1 𝑇 1 𝐿 0 𝑀 -1 𝑇 1",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "Consider two physical quantities",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q3",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 3,
+      "question_type": "MCQ",
+      "question_text": "𝑚 1 𝑚 2 . If the 𝑔 8 , then the ratio of masses is 9 7 8 1 4 3 5 3",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "acceleration of the system is",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q4",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Physics",
+      "question_number": 4,
+      "question_type": "MCQ",
+      "question_text": "5   kg is placed on a rough inclined surface as shown in the figure. If → 𝐹 1 is the force required to just move the block up the inclined plane and → 𝐹 2 is the force required to just prevent the block from sliding → 𝐹 1 − → 𝐹 2 is: [Use 𝑔= 10   m   s -2 ] 25√3   N 5√3   N 5√3 2 N 10   N",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "A block of mass",
+          "latex": null
+        },
+        {
+          "id": "D",
+          "text": "down, then the value of",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q5",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Physics",
+      "question_number": 5,
+      "question_type": "MCQ",
+      "question_text": "2   kg → 𝐹= 6𝑡 ^ i + 6𝑡 2 ^ j   N . The power developed by the force at the time 𝑡 is given by: 6𝑡 4 + 9𝑡 5 W 3𝑡 3 + 6𝑡 5 W 9𝑡 5 + 6𝑡 3 W 9𝑡 3 + 6𝑡 5 W JEE Main 2024 (31 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+      "question_latex": "2   kg → 𝐹= 6𝑡 ^ i + 6𝑡 2 ^ j   N . The power developed by the force at the time 𝑡 is given by: 6𝑡 4 + 9𝑡 5 W 3𝑡 3 + 6𝑡 5 W 9𝑡 5 + 6𝑡 3 W 9𝑡 3 + 6𝑡 5 W JEE Main 2024 (31 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "A body of mass",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "begins to move under the action of a time dependent force given by",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q6",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Physics",
+      "question_number": 6,
+      "question_type": "MCQ",
+      "question_text": "The mass of the moon is 1 144 times the mass of a planet and its diameter 1 16 times the diameter of a planet. If the escape velocity on the planet is v, the escape velocity on the moon will be: 𝑣 3 𝑣 4 𝑣 12 𝑣 6",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q7",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Physics",
+      "question_number": 7,
+      "question_type": "MCQ",
+      "question_text": "𝑟 , falling through a viscous medium of negligible density has terminal velocity 𝑣 . Another ball of the same mass but of radius 2𝑟 , falling through the same viscous medium will have terminal velocity: 𝑣 2 𝑣 4 4𝑣 2𝑣",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "A small spherical ball of radius",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q8",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Physics",
+      "question_number": 8,
+      "question_type": "MCQ",
+      "question_text": "8 moles of argon and 6 moles of oxygen at temperature 𝑇 . Neglecting all vibrational modes, the total internal energy of the system is 29   𝑅𝑇 20   𝑅𝑇 27   𝑅𝑇 21   𝑅𝑇",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "A gas mixture consists of",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q9",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 9,
+      "question_type": "MCQ",
+      "question_text": "The speed of sound in oxygen at S.T.P. will be approximately: (Given, 𝑅= 8 . 3   J   K -1 ,   𝛾= 1 . 4) 310   m   s -1 333   m   s -1 341   m   s -1 325   m   s -1",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q10",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Physics",
+      "question_number": 10,
+      "question_type": "MCQ",
+      "question_text": "Force between two point charges 𝑞 1 𝑞 2 placed in vacuum at 𝑟 𝐹 . Force between them when placed in a medium having dielectric 𝐾= 5 𝑟 5 𝐹 25 5𝐹 𝐹 5 25𝐹",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "apart will be:",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "cm",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q11",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 11,
+      "question_type": "MCQ",
+      "question_text": "20% ? 46% 26% 36% 56%",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "By what percentage will the illumination of the lamp decrease if the current drops by",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q12",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 12,
+      "question_type": "MCQ",
+      "question_text": "The resistance per centimeter of a meter bridge wire is 𝑟 , with 𝑋  𝛺 resistance in left gap. Balancing length from left end is at 40   cm with 25   𝛺 resistance in right gap. Now the wire is replaced by another wire of 2𝑟 resistance per centimeter. The new balancing length for same settings will be at 20   cm 10   cm 80   cm 40   cm",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q13",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 13,
+      "question_type": "MCQ",
+      "question_text": "2 × 10 -3 T 20   cm 10   cm with current of 5   A is in Y-Z plane. The current is in anticlockwise sense with reference to negative X axis. Magnitude and direction of the torque is : 2 × 10 -4 N   m 2 × 10 -4 N   m 2 × 10 -4 N   m 2 × 10 -4 N   m",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "along positive Y-direction",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q14",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 14,
+      "question_type": "MCQ",
+      "question_text": "𝑉= 20sin200𝜋𝑡 is applied to a series LCR circuit which drives a current 𝐼= 10sin200π𝑡+ π 3 . The average power dissipated is: JEE Main 2024 (31 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN 21 . 6   W 200   W 173 . 2   W 50   W",
+      "question_latex": "𝑉= 20sin200𝜋𝑡 is applied to a series LCR circuit which drives a current 𝐼= 10sin200π𝑡+ π 3 . The average power dissipated is: JEE Main 2024 (31 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$ 21 . 6   W 200   W 173 . 2   W 50   W",
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "An AC voltage",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q15",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Physics",
+      "question_number": 15,
+      "question_type": "MCQ",
+      "question_text": "Given below are two statements: Statement I: Electromagnetic waves carry energy as they travel through space and this energy is equally shared Statement II: When electromagnetic waves strike a surface, a pressure is exerted on the surface.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) Statement I is incorrect but Statement II is",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) Both Statement I and Statement II are correct",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) Both Statement I and Statement II are incorrect",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) Statement I is correct but Statement II is",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "by the electric and magnetic fields.",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "correct",
+          "latex": null
+        }
+      ],
+      "correct_answer": "A",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q16",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 16,
+      "question_type": "MCQ",
+      "question_text": "When unpolarized light is incident at an angle of 60° on a transparent medium from air. The reflected ray is 30° 60° 90° 45°",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "completely polarized. The angle of refraction in the medium is",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q17",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Physics",
+      "question_number": 17,
+      "question_type": "MCQ",
+      "question_text": "In a photoelectric effect experiment a light of frequency 1 . 5 times the threshold frequency is made to fall on the surface of photosensitive material. Now if the frequency is halved and intensity is doubled, the number of photo electrons emitted will be:",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) Doubled",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) Quadrupled",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) Zero",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) Halved",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q18",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 18,
+      "question_type": "MCQ",
+      "question_text": "The mass number of nucleus having radius equal to half of the radius of nucleus with mass number 192 is: 24 32 40 20",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q19",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 19,
+      "question_type": "MCQ",
+      "question_text": "The output of the given circuit diagram is JEE Main 2024 (31 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+      "question_latex": "The output of the given circuit diagram is JEE Main 2024 (31 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q20",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Physics",
+      "question_number": 20,
+      "question_type": "Numerical",
+      "question_text": "The measured value of the length of a simple pendulum is 20   cm with 2   mm 50 oscillations was measured to be 40 seconds with 1 second resolution. From these measurements, the accuracy in the measurement of acceleration due to gravity is 𝑁% . The value of 𝑁 is: 4 8 6 5",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "accuracy. The time for",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q21",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 21,
+      "question_type": "Numerical",
+      "question_text": "Two identical spheres each of mass 2   kg 50   cm separation between the centers is 150   cm . Then, moment of inertia of the system about an axis perpendicular to the rod and passing through its middle point is 𝑥 20 kg   m 2 , where the value of 𝑥 is",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "are fixed at the ends of a light rod so that the",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q22",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Physics",
+      "question_number": 22,
+      "question_type": "Numerical",
+      "question_text": "𝑚 is projected with a speed 𝑢 making an angle of 45 o with the ground. The angular momentum of the body about the point of projection, at the highest point is expressed as √2𝑚𝑢 3 𝑋𝑔 . The value of 𝑋 is_______.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "A body of mass",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q23",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 23,
+      "question_type": "Numerical",
+      "question_text": "Two blocks of mass 2   kg 4   kg figure. The radius of wire is 4 . 0 × 10 -5 m 2 . 0 × 10 11 N   m -2 . The longitudinal strain developed in the wire is 1 𝛼𝜋 . The value of 𝛼 is _____. [Use 𝑔= 10   m   s -2 )",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "and Young's modulus of the metal is",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q25",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Physics",
+      "question_number": 25,
+      "question_type": "Numerical",
+      "question_text": "The distance between charges +𝑞 -𝑞 is 2𝑙 +2𝑞 -2𝑞 is 4𝑙 . The electrostatic potential at point 𝑃 𝑟 from centre 𝑂 is -𝛼 𝑞𝑙 𝑟 2 × 10 9 V , where the value of 𝛼 is ______. (Use 1 4𝜋𝜀 0 = 9 × 10 9 N   m 2 C -2 )",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "at a distance",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q26",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 26,
+      "question_type": "MCQ",
+      "question_text": "In the following circuit, the battery has an emf of 2   V 2 3 𝛺 .  The power W .",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "and an internal resistance of",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "consumption in the entire circuit is ______",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q27",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Physics",
+      "question_number": 27,
+      "question_type": "MCQ",
+      "question_text": "Two circular coils 𝑃 𝑄 of 100 turns each have same radius of 𝜋  cm . The currents in 𝑃 𝑅 1   A 2   A respectively. 𝑃 𝑄 resultant magnetic field induction at the center of the coils is √𝑥  mT , where 𝑥= ______. [Use 𝜇 0 = 4𝜋× 10 −7 T   m   A −1 ]",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "are placed with their planes mutually perpendicular with their centers coincide. The",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q29",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 29,
+      "question_type": "MCQ",
+      "question_text": "Light from a point source in air falls on a convex curved surface of radius 20   cm 1 . 5 . If the source is located at 100   cm from the convex surface, the image will be formed at ______ from the object. JEE Main 2024 (31 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+      "question_latex": "Light from a point source in air falls on a convex curved surface of radius 20   cm 1 . 5 . If the source is located at 100   cm from the convex surface, the image will be formed at ______ from the object. JEE Main 2024 (31 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "and refractive index",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "cm",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q30",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 30,
+      "question_type": "MCQ",
+      "question_text": "𝐴 1 𝑉 1 . Another nucleus has mass number 𝐴 2 𝑉 2 . If relation between mass number is 𝐴 2 = 4𝐴 1 , then 𝑉 2 𝑉 1 = _______.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "and volume",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q31",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 31,
+      "question_type": "MCQ",
+      "question_text": "3 MgCO 3 weighed 2 .21 g is ignited to constant weight of 1 .152 g . The composition of the mixture is: (Given molar mass in g   mol −1 , 3 : 100,   MgCO 3 : 84 ) 1 .187 𝑔  𝐶𝑎𝐶𝑂 3 + 1 .023   𝑔  𝑀𝑔𝐶𝑂 3 1 .023   𝑔  𝐶𝑎𝐶𝑂 3 + 1 .023   𝑔  𝑀𝑔𝐶𝑂 3 1 .187   𝑔  𝐶𝑎𝐶𝑂 3 + 1 .187   𝑔  𝑀𝑔𝐶𝑂 3 1 .023   𝑔  𝐶𝑎𝐶𝑂 3 + 1 .187   𝑔  𝑀𝑔𝐶𝑂 3",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "CaCO",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q32",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Chemistry",
+      "question_number": 32,
+      "question_type": "MCQ",
+      "question_text": "The four quantum numbers for the electron in the outer most orbital of potassium (atomic no. 19 ) are n = 4, l = 2, m = −1, s = + 1 2 n = 4, l = 0, m = 0, s = + 1 2 n = 3, l = 0, m = −1, s = + 1 2 n = 2, l = 0, m = 0, s = + 1 2",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q33",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 33,
+      "question_type": "MCQ",
+      "question_text": "Which of the following is/are true about A ' ,   B ' ,   C ' D ' ? B ' < A ' < D ' < C ' B ' < A ' < D ' < C ' D ' < C ' < B ' < A ' B '+ < A '+ < D '+ < C '+",
+      "question_latex": "Which of the following $\\frac{is}{are}$ true about A ' ,   B ' ,   C ' D ' ? B ' < A ' < D ' < C ' B ' < A ' < D ' < C ' D ' < C ' < B ' < A ' B '+ < A '+ < D '+ < C '+",
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) A only",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) A, B and D only",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) A and B only",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) B, C and D only",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "A. Order of atomic radii:",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "B. Order of metallic character :",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "Choose the correct answer from the options given below:",
+          "latex": null
+        },
+        {
+          "id": "D",
+          "text": "D. Order of ionic radii :",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q34",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 34,
+      "question_type": "MCQ",
+      "question_text": "Which of the following is least ionic? 2 KCl 2",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "AgCl",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "BaCl",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "CoCl",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q35",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 35,
+      "question_type": "MCQ",
+      "question_text": "𝐴 𝑔 ⇌𝐵 𝑔 + 𝐶 2 𝑔 𝐾 𝑃 ,   𝛼 𝑃 is K P = α 1 2 P 1 2 2 + α 1 2 K P = α 3 2 P 1 2 2 + α 1 2 1 −α K P = α 1 2 P 3 2 2 + α 3 2 K P = α 1 2 P 1 2 2 + α 3 2",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and equilibrium pressure",
+          "latex": null
+        }
+      ],
+      "correct_answer": "A",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q36",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Chemistry",
+      "question_number": 36,
+      "question_type": "MCQ",
+      "question_text": "Given below are two statements : Statement I: S 8 solid undergoes disproportionation reaction under alkaline conditions to form S 2 − S 2 O 3 2 − Statement II: 4 − JEE Main 2024 (31 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+      "question_latex": "Given below are two statements : Statement I: S 8 solid undergoes disproportionation reaction under alkaline conditions to form S 2 − S 2 O 3 2 − Statement II: 4 − JEE Main 2024 (31 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) Statement I is correct but statement II is",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) Statement I is incorrect but statement II is correct",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) Both statement I and statement II are incorrect",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) Both statement I and statement II are correct",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "can undergo disproportionation reaction under acidic condition.",
+          "latex": null
+        }
+      ],
+      "correct_answer": "A",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q37",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 37,
+      "question_type": "MCQ",
+      "question_text": "Given below are two statements : Statement I: Group 13 trivalent halides get easily hydrolysed by water due to their covalent nature. Statement II: 3 upon hydrolysis in acidified aqueous solution forms octahedral 2 O 6 3 + ion.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) Statement I is true but statement II is false",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) Statement I is false but statement II is true",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) Both statement I and statement II are false",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) Both statement I and statement II are true",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "AlH",
+          "latex": null
+        }
+      ],
+      "correct_answer": "A",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q38",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 38,
+      "question_type": "MCQ",
+      "question_text": "Identify structure of 2,   3 -dibromo- 1 -phenylpentane.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q39",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Chemistry",
+      "question_number": 39,
+      "question_type": "MCQ",
+      "question_text": "The fragrance of flowers is due to the presence of some steam volatile organic compounds called essential oils. These are generally insoluble in water at room temperature but are miscible with water vapour in the vapour phase. A suitable method for the extraction of these oils from the flowers is:",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) crystallisation",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) distillation under reduced pressure",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) distillation",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) steam distillation",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q40",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Chemistry",
+      "question_number": 40,
+      "question_type": "MCQ",
+      "question_text": "Major product of the following reaction is: JEE Main 2024 (31 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+      "question_latex": "Major product of the following reaction is: JEE Main 2024 (31 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q41",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Chemistry",
+      "question_number": 41,
+      "question_type": "MCQ",
+      "question_text": "Identify 𝐴 𝐵 in the following reaction sequence.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q42",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Chemistry",
+      "question_number": 42,
+      "question_type": "MCQ",
+      "question_text": "16 elements form oxides of general formula 𝐸𝑂 2 𝐸𝑂 3 where 𝐸= 𝑆,   𝑆𝑒,   𝑇𝑒 𝑃𝑜 . Both the types of oxides are acidic in nature. 𝑇𝑒𝑂 2 is an oxidising agent while 𝑆𝑂 2 is reducing in nature. 𝐻 2 𝑆 to 𝐻 2 𝑇𝑒 JEE Main 2024 (31 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+      "question_latex": "16 elements form oxides of general formula 𝐸𝑂 2 𝐸𝑂 3 where 𝐸= 𝑆,   𝑆𝑒,   𝑇𝑒 𝑃𝑜 . Both the types of oxides are acidic in nature. 𝑇𝑒𝑂 2 is an oxidising agent while 𝑆𝑂 2 is reducing in nature. 𝐻 2 𝑆 to 𝐻 2 𝑇𝑒 JEE Main 2024 (31 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) A and D only",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) B and C only",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) C and D only",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) A and B only",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "B.",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "Choose the correct answer from the options given below:",
+          "latex": null
+        },
+        {
+          "id": "D",
+          "text": "D. The ozone molecule contains five lone pairs of electrons.",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q43",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 43,
+      "question_type": "MCQ",
+      "question_text": "Mn 2 O 7 is an oil at room temperature  B. V 2 O 4 reacts with acid to give VO 2 2 + is a basic oxide  D. V 2 O 5",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) A, B and D only",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) A and C only",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) A, B and C only",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) B and C only",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "A.",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "Choose the correct answer from the options given below:",
+          "latex": null
+        },
+        {
+          "id": "D",
+          "text": "does not react with acid",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q44",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Physics",
+      "question_number": 44,
+      "question_type": "MCQ",
+      "question_text": "𝑁𝑖𝐶𝑂 4 𝑁𝑖𝐶𝑙 4 2 − 𝑁𝑖𝐶𝑂 4 𝑁𝑖𝐶𝑙 4 2 − 𝑁𝑖𝐶𝑙 4 2 − 𝑁𝑖𝐶𝑂 4 paramagnetic 𝑁𝑖𝐶𝑂 4 𝑁𝑖𝐶𝑙 4 2 − paramagnetic",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "both paramagnetic",
+          "latex": null
+        },
+        {
+          "id": "D",
+          "text": "diamagnetic,",
+          "latex": null
+        }
+      ],
+      "correct_answer": "A",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q45",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 45,
+      "question_type": "MCQ",
+      "question_text": "Match List I with List II LIST – I (Complex ion) LIST – II (Electronic 𝐶𝑟𝐻 2 𝑂 6 3 + I. 𝑡 2𝑔 2 𝑒 𝑔0 𝐹𝑒𝐻 2 𝑂 6 3 + II. 𝑡 2𝑔 3 𝑒 𝑔0 𝑁𝑖𝐻 2 𝑂 6 2 + III. 𝑡 2𝑔 3 𝑒 𝑔2 𝑉𝐻 2 𝑂 6 3 + IV. 𝑡 2𝑔 6 𝑒 𝑔2",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) A-III, B-II, C-IV, D-I",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) A-IV, B-I, C-II, D-III",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) A-IV, B-III, C-I, D-II",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) A-II, B-III, C-IV, D-I",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "A.",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "B.",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "Choose the correct answer from the options given below :",
+          "latex": null
+        },
+        {
+          "id": "D",
+          "text": "D.",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q46",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 46,
+      "question_type": "MCQ",
+      "question_text": "",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) B > C > A > D",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) D > C > B > A",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) A > B > C > D",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) B > A > C > D",
+          "latex": null
+        }
+      ],
+      "correct_answer": "A",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q47",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Chemistry",
+      "question_number": 47,
+      "question_type": "MCQ",
+      "question_text": "Identify the name reaction.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) Stephen reaction",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) Etard reaction",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) Gatterman-koch reaction",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) Rosenmund reduction",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q48",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Chemistry",
+      "question_number": 48,
+      "question_type": "MCQ",
+      "question_text": "Identify major product ‘ 𝑃 ’ formed in the following reaction. JEE Main 2024 (31 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+      "question_latex": "Identify major product ‘ 𝑃 ’ formed in the following reaction. JEE Main 2024 (31 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q49",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Chemistry",
+      "question_number": 49,
+      "question_type": "MCQ",
+      "question_text": "The azo-dye 𝑌 formed in the following reactions is Sulphanilic acid +   NaNO 2 + CH 3",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "COOH →X",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q50",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Chemistry",
+      "question_number": 50,
+      "question_type": "MCQ",
+      "question_text": "Given below are two statements : Statement I: Aniline reacts with con. H 2 SO 4 followed by heating at 453 - 473   K gives p-aminobenzene sulphonic acid, which gives blood red colour in the 'Lassaigne's test'. Statement II: In Friedel - Craft's alkylation and acylation reactions, aniline forms salt with the 3",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) Statement I is false but statement II is true",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) Both statement I and statement II are false",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) Statement I is true but statement II is false",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) Both statement I and statement II are true",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "AlCl",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "catalyst.",
+          "latex": null
+        },
+        {
+          "id": "D",
+          "text": "Due to this, nitrogen of aniline acquires a positive charge and acts as deactivating group.",
+          "latex": null
+        }
+      ],
+      "correct_answer": "A",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q52",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Chemistry",
+      "question_number": 52,
+      "question_type": "MCQ",
+      "question_text": "1 .2 D . If the bond distance is 1 o A , then fractional charge on each × 10 −1 esu. (Given 1D = 10 −18 esu   cm ) JEE Main 2024 (31 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+      "question_latex": "1 .2 D . If the bond distance is 1 o A , then fractional charge on each × 10 −1 esu. (Given 1D = 10 −18 esu   cm ) JEE Main 2024 (31 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "atom is _____",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q53",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 53,
+      "question_type": "Numerical",
+      "question_text": "If 5 moles of an ideal gas expands from 10L to a volume of 100L 300K under isothermal and reversible w , is −x   J . The value of x is - _______. (Given R = 8 .314   J   K -1 mol -1 )",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "at",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "condition then work,",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q55",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 55,
+      "question_type": "Numerical",
+      "question_text": "The values of conductivity of some materials at 298 .15 K in Sm −1 2 .1 × 10 3 ,   1 .0 × 10 −16 ,   1 .2 × 10, 3 .91 ,   1 .5 × 10 −2 ,   1 × 10 −7 ,   1 .0 × 10 3 . The number of",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "are",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "conductors among the materials is _____.",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q56",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Chemistry",
+      "question_number": 56,
+      "question_type": "MCQ",
+      "question_text": "r = kA for a reaction, 50% of A is decomposed in 120 minutes. The time taken for 90% A is ______ minutes.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "D",
+          "text": "decomposition of",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q57",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 57,
+      "question_type": "MCQ",
+      "question_text": "Number of moles of H + ions required by 1 mole of MnO 4 − to oxidise oxalate ion to 2 is ______.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "C",
+          "text": "CO",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q58",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Chemistry",
+      "question_number": 58,
+      "question_type": "MCQ",
+      "question_text": "In the reaction of potassium dichromate, potassium chloride and sulfuric acid (conc.), the oxidation state of the + _______.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "C",
+          "text": "chromium in the product is",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q59",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Chemistry",
+      "question_number": 59,
+      "question_type": "MCQ",
+      "question_text": "𝑥 with molar mass 108𝑔  mol −1 undergoes acetylation to give product with molar mass 192𝑔  mol −1 . The number of amino groups in the compound 𝑥 is ________.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "A compound",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q60",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 60,
+      "question_type": "MCQ",
+      "question_text": "From the vitamins 𝐴, 𝐵 1 , 𝐵 6 , 𝐵 12 , 𝐶, 𝐷, 𝐸 𝐾 , the number vitamins that can be stored in our body is ______.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "and",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q61",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 61,
+      "question_type": "MCQ",
+      "question_text": "The number of solutions, of the equation 𝑒 sin𝑥 −2𝑒 −sin𝑥 = 2 is 2 2 1 0",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) more than",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q62",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 62,
+      "question_type": "MCQ",
+      "question_text": "Let 𝑧 1 𝑧 2 𝑧 1 + 𝑧 2 = 5 𝑧 1 3 + 𝑧 2 3 = 20 + 15𝑖 . Then 𝑧 1 4 + 𝑧 2 4 equals- 30√3 75 15√15 25√3",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "be two complex number such that",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q63",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 63,
+      "question_type": "MCQ",
+      "question_text": "The number of ways in which 21 identical apples can be distributed among three children such that each child gets at least 2 406 130 142 136",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "apples, is",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q64",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 64,
+      "question_type": "MCQ",
+      "question_text": "Let 2 nd ,   8 th 44 th , terms of a non-constant 𝐴. 𝑃. 1 st ,   2 nd 3 rd terms of 𝐺. 𝑃. If the first term of A.P. is 1 then the sum of first 20 terms is equal to- 980 960 990 970",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "be respectively the",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q65",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 65,
+      "question_type": "MCQ",
+      "question_text": "If for some 𝑚,   𝑛; 6 𝐶 𝑚 + 2 6 𝐶 𝑚+ 1 + 6 𝐶 𝑚+ 2 > 8 𝐶 3 𝑛−1 𝑃 3 : 𝑛 𝑃 4 = 1: 8 , then 𝑛 𝑃 𝑚+ 1 + 𝑛+ 1 𝐶 𝑚 is equal to 380 376 384 372 JEE Main 2024 (31 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+      "question_latex": "If for some 𝑚,   𝑛; 6 𝐶 𝑚 + 2 6 𝐶 𝑚+ 1 + 6 𝐶 𝑚+ 2 > 8 𝐶 3 𝑛−1 𝑃 3 : 𝑛 𝑃 4 = 1: 8 , then 𝑛 𝑃 𝑚+ 1 + 𝑛+ 1 𝐶 𝑚 is equal to 380 376 384 372 JEE Main 2024 (31 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q66",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 66,
+      "question_type": "MCQ",
+      "question_text": "Let 𝐴𝑎,   𝑏,   𝐵3,   4 −6,   −8 respectively denote the centroid, circumcentre and orthocentre of a triangle. Then, the distance of the point 𝑃2𝑎+ 3, 7𝑏+ 5 from the line 2𝑥+ 3𝑦−4 = 0 measured parallel to the line 𝑥−2𝑦−1 = 0 is 15√5 7 17√5 6 17√5 7 √5 17",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q67",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 67,
+      "question_type": "Numerical",
+      "question_text": "Let a variable line passing through the centre of the circle 𝑥 2 + 𝑦 2 −16𝑥−4𝑦= 0 , meet the positive co- ordinate axes at the point 𝐴  and   𝐵 . Then the minimum value of 𝑂𝐴+ 𝑂𝐵 , where 𝑂 is the origin, is equal to 12 18 20 24",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q68",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 68,
+      "question_type": "MCQ",
+      "question_text": "Let 𝑃 2,   3 2𝑥+ 𝑦= 6 . Let an ellipse 𝐸: 𝑥 2 𝑎 2 + 𝑦 2 𝑏 2 = 1,   𝑎> 𝑏 of eccentricity 1 √ 2 pass through the focus of the parabola 𝑃 . Then the square of the length of the latus rectum of 𝐸 , is 385 8 347 8 512 25 656 25",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and directrix",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "be a parabola with vertex",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q69",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 69,
+      "question_type": "Numerical",
+      "question_text": "Let 𝑓: →𝑅→0, ∞ lim 𝑥→∞ 𝑓7𝑥 𝑓𝑥 = 1 . Then, the value of lim 𝑥→∞ 𝑓5𝑥 𝑓𝑥 −1 is equal to 4 0 7 5 1",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "be strictly increasing function such that",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q70",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 70,
+      "question_type": "MCQ",
+      "question_text": "Let the mean and the variance of 6 observation 𝑎,   𝑏,   68,   44,   48,   60 55 194 , respectively if 𝑎> 𝑏 , then 𝑎+ 3𝑏 is 200 190 180 210",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "be",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q71",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 71,
+      "question_type": "MCQ",
+      "question_text": "Let A be a 3 × 3 real matrix such that 𝐴 1 0 1 = 2 1 0 1 ,   𝐴 −1 0 1 = 4 −1 0 1 ,   𝐴 0 1 0 = 2 0 1 0 . Then, the system 𝐴−3𝐼 𝑥 𝑦 𝑧 = 1 2 3 has",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) unique solution",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) exactly two solutions",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) no solution",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) infinitely many solutions",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q72",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 72,
+      "question_type": "MCQ",
+      "question_text": "If 𝑎= sin −1 sin5 𝑏= cos −1 , then 𝑎 2 + 𝑏 2 is equal to 4𝜋 2 + 25 8𝜋 2 −40𝜋+ 50 4𝜋 2 −20𝜋+ 50 25",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "cos5",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q73",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 73,
+      "question_type": "MCQ",
+      "question_text": "If the function 𝑓: −∞, −1 →𝑎, 𝑏 𝑓𝑥= 𝑒 𝑥 3 −3𝑥+ 1 is one-one and onto, then the distance of the point 𝑃2𝑏+ 4,   𝑎+ 2 from the line 𝑥+ 𝑒 −3 𝑦= 4 is: 2√1 + 𝑒 6 4√1 + 𝑒 6 3√1 + 𝑒 6 √1 + 𝑒 6 JEE Main 2024 (31 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+      "question_latex": "If the function 𝑓: −∞, −1 →𝑎, 𝑏 𝑓𝑥= 𝑒 𝑥 3 −3𝑥+ 1 is one-one and onto, then the distance of the point 𝑃2𝑏+ 4,   𝑎+ 2 from the line 𝑥+ 𝑒 −3 𝑦= 4 is: 2√1 + 𝑒 6 4√1 + 𝑒 6 3√1 + 𝑒 6 √1 + 𝑒 6 JEE Main 2024 (31 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "D",
+          "text": "defined by",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q74",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 74,
+      "question_type": "MCQ",
+      "question_text": "𝑓: 0, ∞→𝑅 𝑓𝑥= 𝑒 −log 𝑒 𝑥 . If 𝑚 𝑛 which 𝑓 is not continuous and 𝑓 is not differentiable, then 𝑚+ 𝑛 is 0 3 1 2",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "be respectively the number of points at",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "Consider the function",
+          "latex": null
+        },
+        {
+          "id": "D",
+          "text": "defined by",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q75",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 75,
+      "question_type": "Numerical",
+      "question_text": "Let 𝑓, 𝑔: 0,   ∞→𝑅 𝑓𝑥= ∫ −𝑥 𝑥 𝑡−𝑡 2 𝑒 −𝑡 2 𝑑𝑡 𝑔𝑥= ∫ 0 𝑥 2 𝑡 1 2 𝑒 −𝑡 2 𝑑𝑡 . Then the value of 9𝑓√log 𝑒 9 + 𝑔√log 𝑒 9 is equal to 6 9 8 10",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "be two functions defined by",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q76",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 76,
+      "question_type": "MCQ",
+      "question_text": "The area of the region enclosed by the parabola 𝑦= 4𝑥−𝑥 2 3𝑦= 𝑥−4 2 is equal to 32 9 4 6 14 3",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q77",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 77,
+      "question_type": "MCQ",
+      "question_text": "The temperature 𝑇𝑡 of a body at time 𝑡= 0 is 160 ° 𝐹 equation 𝑑𝑇 𝑑𝑡 = −𝐾𝑇−80 , where 𝐾 is positive constant. If 𝑇15 = 120 ° 𝐹 , then 𝑇45 is equal to 85 ° 𝐹 95 ° 𝐹 90 ° 𝐹 80 ° 𝐹",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and it decreases continuously as per the differential",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q78",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 78,
+      "question_type": "MCQ",
+      "question_text": "Let 𝛼, 𝛽, 𝛾 2, 3, 5 in the line 𝑥−1 2 = 𝑦−2 3 = 𝑧−3 4 . Then 2𝛼+ 3𝛽+ 4𝛾 is equal to 32 33 31 34",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "be mirror image of the point",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q79",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 79,
+      "question_type": "MCQ",
+      "question_text": "The shortest distance between lines 𝐿 1 𝐿 2 , where 𝐿 1 : 𝑥−1 2 = 𝑦+ 1 −3 = 𝑧+ 4 2 𝐿 2 is the line passing through the points 𝐴−4, 4, 3,   𝐵−1, 6, 3 𝑥−3 −2 = 𝑦 3 = 𝑧−1 1 , is 121 √ 221 24 √ 117 141 √ 221 42 √ 117",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and perpendicular to the line",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q80",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 80,
+      "question_type": "MCQ",
+      "question_text": "3 times, then the probability of getting two tails and one head is- 2 9 1 9 2 27 1 27",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "A coin is biased so that a head is twice as likely to occur as a tail. If the coin is tossed",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q81",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 81,
+      "question_type": "Numerical",
+      "question_text": "Let 𝑎, 𝑏, 𝑐 𝑎 2 + 𝑏 2 𝑥 2 −2𝑏𝑎+ 𝑐 𝑥+ 𝑏 2 + 𝑐 2 = 0 . If the set of all possible values of 𝑥 is in the interval 𝛼, 𝛽, then 12𝛼 2 + 𝛽 2 is equal to _______.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "B",
+          "text": "be the length of three sides of a triangle satisfying the condition",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q82",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 82,
+      "question_type": "Numerical",
+      "question_text": "Let the of 𝑥 𝑟 in the expansion of 𝑥+ 3 𝑛−1 + 𝑥+ 3 𝑛−2 𝑥+ 2 + 𝑥+ 3 𝑛−3 𝑥+ 2 2 + . ... + 𝑥+ 2 𝑛−1 𝛼 𝑟 . If ∑ 𝑟= 0 𝑛 𝛼 𝑟 = 𝛽 𝑛 −𝛾 𝑛 , 𝛽, 𝛾∈𝑁 , then the value of 𝛽 2 + 𝛾 2 equals _______.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "B",
+          "text": "be",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "coefficient",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q83",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 83,
+      "question_type": "Numerical",
+      "question_text": "Let 𝐴−2, −1,   𝐵1, 0,   𝐶𝛼, 𝛽 𝐷𝛾, 𝛿 𝐴𝐵𝐶𝐷 . If the point 𝐶 lies on 2𝑥−𝑦= 5 𝐷 lies on 3𝑥−2𝑦= 6 , then the value of 𝛼+ 𝛽+ 𝛾+ 𝛿 is equal to ______.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "and the point",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "be the vertices of a parallelogram",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q85",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 85,
+      "question_type": "Numerical",
+      "question_text": "Let 𝐴= 1, 2, 3, . ...100 . Let 𝑅 𝐴 𝑥,   𝑦∈𝑅 if and only if 2𝑥= 3𝑦 . Let 𝑅 1 symmetric relation on 𝐴 such that 𝑅⊂𝑅 1 𝑅 1 is 𝑛 . Then the minimum value of 𝑛 is _______.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "and the number of elements in",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "be a",
+          "latex": null
+        },
+        {
+          "id": "D",
+          "text": "defined by",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q86",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 86,
+      "question_type": "MCQ",
+      "question_text": "Let 𝐴 3 × 3 matrix and . If 𝑛= det𝑎𝑑𝑗𝑎𝑑𝑗. ... 𝑎𝑑𝑗𝐴 ⏟ 2024 −times , then the remainder when 𝑛 is divided by 9 is equal to __________.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "B",
+          "text": "be a",
+          "latex": null
+        },
+        {
+          "id": "D",
+          "text": "det𝐴= 2",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q88",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 88,
+      "question_type": "MCQ",
+      "question_text": "Let 𝑦= 𝑦𝑥 sec 2 𝑥𝑑𝑥+ 𝑒 2𝑦 tan 2 𝑥+ tan𝑥𝑑𝑦= 0, 0 < 𝑥< 𝜋 2 , 𝑦 𝜋 4 = 0 . If 𝑦 𝜋 6 = 𝛼 , then 𝑒 8𝛼 is equal to ______.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "B",
+          "text": "be the solution of the differential equation",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q89",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 89,
+      "question_type": "MCQ",
+      "question_text": "Let → 𝑎= 3 ^ 𝑖+ 2 ^ 𝑗+ ^ 𝑘, → 𝑏= 2 ^ 𝑖− ^ 𝑗+ 3 ^ 𝑘 → 𝑐 → 𝑎+ → 𝑏× → 𝑐= 2 → 𝑎× → 𝑏+ 24 ^ 𝑗−6 ^ 𝑘 → 𝑎− → 𝑏+ ^ 𝑖. → 𝑐= −3 . Then → 𝑐 2 is equal to _______.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "and",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "be a vector such that",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_31_Jan_Shift_2_q90",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "31 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 90,
+      "question_type": "MCQ",
+      "question_text": "𝐴4, −6, −2 𝐵16, −2, 4 . The point 𝑃𝑎, 𝑏, 𝑐 where 𝑎, 𝑏, 𝑐 on the line 𝐴𝐵 lies at a distance of 21 units, from the point 𝐴 . The distance between the points 𝑃𝑎, 𝑏, 𝑐 𝑄4, −12, 3 is equal to ______. JEE Main 2024 (31 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. (53) 22. (8) 23. (12) 24. (12) 25. (27) 26. 27. (20) 28. 29. (200) 30. 31. 32. 33. 34. 35. 36. 37. 38. 39. 40. 41. 42. 43. 44. 45. 46. 47. 48. 49. 50. 51. (11) 52. (0) 53. (-28721) 54. (6) 55. 56. (399) 57. (8) 58. (6) 59. 60. (5) 61. 62. 63. 64. 65. 66. 67. 68. 69. 70. 71. 72. 73. 74. 75. 76. 77. 78. 79. 80. 81. (36) 82. (25) 83. (32) 84. (81) 85. (66) 86. (7) 87. (15) 88. (9) 89. (38) 90. (22) JEE Main 2024 (31 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo",
+      "question_latex": "𝐴4, −6, −2 𝐵16, −2, 4 . The point 𝑃𝑎, 𝑏, 𝑐 where 𝑎, 𝑏, 𝑐 on the line 𝐴𝐵 lies at a distance of 21 units, from the point 𝐴 . The distance between the points 𝑃𝑎, 𝑏, 𝑐 𝑄4, −12, 3 is equal to ______. JEE Main 2024 (31 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$ 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. (53) 22. (8) 23. (12) 24. (12) 25. (27) 26. 27. (20) 28. 29. (200) 30. 31. 32. 33. 34. 35. 36. 37. 38. 39. 40. 41. 42. 43. 44. 45. 46. 47. 48. 49. 50. 51. (11) 52. (0) 53. (-28721) 54. (6) 55. 56. (399) 57. (8) 58. (6) 59. 60. (5) 61. 62. 63. 64. 65. 66. 67. 68. 69. 70. 71. 72. 73. 74. 75. 76. 77. 78. 79. 80. 81. (36) 82. (25) 83. (32) 84. (81) 85. (66) 86. (7) 87. (15) 88. (9) 89. (38) 90. (22) JEE Main 2024 (31 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo",
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "ANSWER KEYS",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    }
+  ]
+}

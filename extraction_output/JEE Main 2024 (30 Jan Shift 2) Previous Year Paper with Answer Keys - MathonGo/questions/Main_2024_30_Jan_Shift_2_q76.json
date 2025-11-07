@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_2_q76",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 76,
+  "question_type": "Numerical",
+  "question_text": "Let 𝑓: 𝑅→𝑅 𝑓𝑥= 𝑎𝑒 2𝑥 + 𝑏𝑒 𝑥 + 𝑐𝑥 . If 𝑓(0) = - 1, 𝑓 ' log 𝑒 2 = 21 ∫ 0 log4 𝑓𝑥- 𝑐𝑥𝑑𝑥= 39 2 , then the value of |𝑎+ 𝑏+ 𝑐| equals: 16 10 12 8",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be defined",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

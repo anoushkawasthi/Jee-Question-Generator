@@ -1,0 +1,35 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_2_q29",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 29,
+  "question_type": "MCQ",
+  "question_text": "2 . 3   kV to a step down transformer with its primary winding having 3000   turns . The output power is delivered at 230   V of the transformer is 5   A 90% . The winding of transformer is made of copper. The output A .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and its efficiency is",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "by the transformer. The current in the primary",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "current of transformer is ____",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

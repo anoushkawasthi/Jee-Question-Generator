@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_1_q41",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 41,
+  "question_type": "MCQ",
+  "question_text": "One of the commonly used electrode is calomel electrode. Under which of the following categories, calomel electrode comes? JEE Main 2024 (04 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo (H + ) (M) 5.85 g 500 mL Na : 23 −1 H 2 25 ∘ C 10 −7 10 −14 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "One of the commonly used electrode is calomel electrode. Under which of the following categories, calomel electrode comes? JEE Main 2024 (04 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo (H + ) (M) 5.85 g 500 mL Na : 23 −1 H 2 25 ∘ C 10 −7 10 −14 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Oxidation - Reduction electrodes",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Metal ion - Metal electrodes",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Gas - Ion electrodes",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Metal - Insoluble Salt - Anion electrodes",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Cl : 35.5gmol",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

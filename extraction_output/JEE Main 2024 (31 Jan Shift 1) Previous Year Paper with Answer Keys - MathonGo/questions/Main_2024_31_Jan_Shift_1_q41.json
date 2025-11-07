@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_1_q41",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 41,
+  "question_type": "MCQ",
+  "question_text": "The metals that are employed in the battery industries are A. Fe, B. Mn, C. Ni, D. Cr, E. Cd",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) B, C and E only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) A, B, C, D and E",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) A, B, C and D only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) B, D and E only",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Choose the correct answer from the options given below:",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

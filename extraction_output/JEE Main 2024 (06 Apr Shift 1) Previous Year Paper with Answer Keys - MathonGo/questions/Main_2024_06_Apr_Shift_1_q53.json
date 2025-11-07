@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_1_q53",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 53,
+  "question_type": "MCQ",
+  "question_text": ", is expanded adiabatically against a constant pressure of 1 atm untill it doubles in volume. If the initial temperature and pressure is , respectively then the final temperature is _______  (nearest integer). [ is the molar heat capacity at constant volume] JEE Main 2024 (06 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo List - I List - II (Precipitating reagent and conditions) (Cation) NH 4 4 OH/ARKS I. Mn 2+ NH 4 OH + Na 2 3 II. Pb 2+ NH 4 OH + NH 4 2 S gas III. 3+ HCl IV. Sr 2+ ×10 13 Hz [Given : R H ( Rydberg constant ) = 2.18 × 10 −18 J, h (Plank's ) = 6.6 × 10 −34 J.s.] C v = 5 2 R – 298 K 5 K C v – Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": ", is expanded adiabatically against a constant pressure of 1 atm untill it doubles in volume. If the initial temperature and pressure is , respectively then the final temperature is _______  (nearest integer). [ is the molar heat capacity at constant volume] JEE Main 2024 (06 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo List - I List - II (Precipitating reagent and conditions) (Cation) NH 4 4 $\\frac{OH}{ARKS}$ I. Mn 2+ NH 4 OH + Na 2 3 II. Pb 2+ NH 4 OH + NH 4 2 S gas III. 3+ HCl IV. Sr 2+ ×10 13 Hz [Given : R H ( Rydberg constant ) = 2.18 × 10 −18 J, h (Plank's ) = 6.6 × 10 −34 J.s.] C v = 5 2 R – 298 K 5 K C v – Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "atm",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B.",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "constant",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "dilute",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

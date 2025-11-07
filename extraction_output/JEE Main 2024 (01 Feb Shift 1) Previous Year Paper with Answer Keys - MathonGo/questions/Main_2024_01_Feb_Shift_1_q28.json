@@ -1,0 +1,35 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_1_q28",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 1",
+  "subject": "Physics",
+  "question_number": 28,
+  "question_type": "MCQ",
+  "question_text": "12   cm 5   cm , with its sides parallel to the 𝑥 -axis and 𝑦 -axis respectively moves with a velocity of 5   cm   s -1 in the positive 𝑥 field in the positive 𝑧 10 -3 T   cm -1 𝑥 is decreasing with time at the rate of 10 -3 T   s -1 . If the resistance of the loop is 6   m𝛺 , the power dissipated × 10 -9 W .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "along the negative",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "by the loop as heat is ______",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "direction and it",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

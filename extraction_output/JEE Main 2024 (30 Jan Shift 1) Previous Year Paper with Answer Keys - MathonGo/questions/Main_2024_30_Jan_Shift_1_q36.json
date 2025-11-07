@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_1_q36",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 1",
+  "subject": "Chemistry",
+  "question_number": 36,
+  "question_type": "Assertion-Reason",
+  "question_text": "Given below are two statement one is labeled as Assertion (A) and the other is labeled as Reason (R). is an example of allyl halide Reason (R): Allyl halides are the compounds in which the halogen atom is attached to hybridised carbon JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo N P 5 H 2 O 3 SF 4 4 −Methylpent −2 −enal 2 = CH −CH 2 −Cl sp 2 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN explanation of (A)",
+  "question_latex": "Given below are two statement one is labeled as Assertion (A) and the other is labeled as Reason (R). is an example of allyl halide Reason (R): Allyl halides are the compounds in which the halogen atom is attached to hybridised carbon JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo N P 5 H 2 O 3 SF 4 4 −Methylpent −2 −enal 2 = CH −CH 2 −Cl sp 2 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$ explanation of (A)",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) (A) is true but (R) is false",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Both (A) and (R) are true but (R) is not the",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) (A) is false but (R) is true",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Both (A) and (R) are true and (R) is the correct",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "As",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "BrF",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "correct explanation of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

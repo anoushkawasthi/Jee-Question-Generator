@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_2_q17",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 17,
+  "question_type": "MCQ",
+  "question_text": "In a photoelectric effect experiment a light of frequency 1 . 5 times the threshold frequency is made to fall on the surface of photosensitive material. Now if the frequency is halved and intensity is doubled, the number of photo electrons emitted will be:",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Doubled",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Quadrupled",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Zero",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Halved",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

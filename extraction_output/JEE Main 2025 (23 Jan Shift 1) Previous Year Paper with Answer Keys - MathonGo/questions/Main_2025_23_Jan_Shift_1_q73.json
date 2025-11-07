@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_1_q73",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 1",
+  "subject": "Chemistry",
+  "question_number": 73,
+  "question_type": "MCQ",
+  "question_text": "Sulphur in the given compound is _______ %. (Given molar mass in of )",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "D",
+      "text": "During \" S \" estimation, 160 mg of an organic compound gives 466 mg of barium sulphate. The percentage of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

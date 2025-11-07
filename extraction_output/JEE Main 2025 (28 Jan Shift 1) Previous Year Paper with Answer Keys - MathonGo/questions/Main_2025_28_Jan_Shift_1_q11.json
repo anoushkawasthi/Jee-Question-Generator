@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_1_q11",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 11,
+  "question_type": "MCQ",
+  "question_text": "Let -plane, which is equidistant from three points ). Let . Then among the statements (S1) : is an isosceles right angled triangle, and (S2) : the area of is ,",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) both are true",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) only (S2) is true",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) only (S1) is true",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) both are false",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be a point in",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

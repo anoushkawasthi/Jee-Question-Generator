@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_1_q34",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 1",
+  "subject": "Chemistry",
+  "question_number": 34,
+  "question_type": "MCQ",
+  "question_text": "should react with another chemical instantaneously and stoichiometrically. (D) It should be readily soluble in water. (E) given below :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) (A) and (B) only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) (C) and (E) only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) (B) and (E) only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) (C) and (D) only",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "available in dry form. (B) It should not undergo chemical change in air. (C) It should be hygroscopic and",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "can be used as primary standard. Choose the correct answer from the options",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

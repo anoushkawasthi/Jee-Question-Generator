@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_1_q46",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 46,
+  "question_type": "Numerical",
+  "question_text": ", and masses respectively. At an instant, the ions are separated by a certain distance r. At that instant the ratio of the magnitudes of electrostatic force to gravitational force is , where the value of 10  is (Take )",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "Assume that charge may not be an integral multiple of electrons.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

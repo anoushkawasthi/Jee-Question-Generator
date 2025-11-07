@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_2_q57",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 57,
+  "question_type": "MCQ",
+  "question_text": "If the total pressure of the gases is found to be 200 torr after . and 300 torr upon the complete decomposition of (nearest integer) [Given : ]",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A after a very long time, then the rate constant of the given reaction is ______",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Consider the following first order gas phase reaction at constant temperature",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

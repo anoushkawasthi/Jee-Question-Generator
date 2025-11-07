@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_27_Jan_Shift_1_q24",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "27 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 24,
+  "question_type": "MCQ",
+  "question_text": ". At the mean position, velocity of the particle is . The distance of the particle from the mean position when its speed becomes is , where ______. JEE Main 2024 (27 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 40 I 20 I 2 4I 2I I R 4 3 R 16 9 R 3 4 R 9 16 R t = 0 5 ˆ i m s −1 x −y (3 ˆ i + 2 ˆ j) m s −2 x 84 m √α m s −1 α 1 kg 2 m ______ kg m 2 4000 m 2 × 10 9 N m −2 ΔV V α × 10 −2 α g = 10 m s −2 , ρ = 1000 kg m −3 4 10 s −1 5 s −1 √α α = Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": ". At the mean position, velocity of the particle is . The distance of the particle from the mean position when its speed becomes is , where ______. JEE Main 2024 (27 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 40 I 20 I 2 4I 2I I R 4 3 R 16 9 R 3 4 R 9 16 R t = 0 5 ˆ i m s −1 x −y (3 ˆ i + 2 ˆ j) m s −2 x 84 m √α m s −1 α 1 kg 2 m ______ kg m 2 4000 m 2 × 10 9 N m −2 ΔV V α × 10 −2 α g = 10 m s −2 , ρ = 1000 kg m −3 4 10 s −1 5 s −1 √α α = Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A particle executes simple harmonic motion with an amplitude of",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "cm",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

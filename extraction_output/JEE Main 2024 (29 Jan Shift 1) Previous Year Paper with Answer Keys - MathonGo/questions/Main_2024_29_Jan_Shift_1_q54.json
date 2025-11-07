@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_29_Jan_Shift_1_q54",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Chemistry",
+  "question_number": 54,
+  "question_type": "MCQ",
+  "question_text": "Number of compounds among the following which contain sulphur as heteroatom is____. Furan,Thiophene, Pyridine, Pyrrole, Cysteine, Tyrosine JEE Main 2024 (29 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo [Co 2 (CO) 8 ] [Mn 2 (CO) 10 ] [Os 3 (CO) 12 ] [Ru 3 (CO) 12 ] β α δ γ O 3 , H 2 O, SF 4 , ClF 3 , NH 3 , BrF 5 , XeF 4 H 2 , He + 2 , O + 2 , N 2− 2 , O 2− 2 , F 2 , Ne + 2 , B 2 N 2 O 4 ( g) ⇌2 NO 2 ( g) K p = 0. 492 300 K. K c ______ × 10 −2 R = 0. 082 L mol −1 K −1 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "Number of compounds among the following which contain sulphur as heteroatom is____. Furan,Thiophene, Pyridine, Pyrrole, Cysteine, Tyrosine JEE Main 2024 (29 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo [Co 2 (CO) 8 ] [Mn 2 (CO) 10 ] [Os 3 (CO) 12 ] [Ru 3 (CO) 12 ] β α δ γ O 3 , H 2 O, SF 4 , ClF 3 , NH 3 , BrF 5 , XeF 4 H 2 , He + 2 , O + 2 , N 2− 2 , O 2− 2 , F 2 , Ne + 2 , B 2 N 2 O 4 ( g) ⇌2 NO 2 ( g) K p = 0. 492 300 K. K c ______ × 10 −2 R = 0. 082 L mol −1 K −1 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "atm",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "CO",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

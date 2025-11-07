@@ -1,0 +1,60 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_2_q40",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 40,
+  "question_type": "MCQ",
+  "question_text": "JEE Main 2024 (09 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo List - I List - II Melting Point [K] I. T1 > In > Ga > A1 > B Ionic Radius [M +3 /pm] II. Δ i H 1 [ kJ mol −1 ] III. T1 > In > A1 > Ga > B [pm] IV. 3 , PF 3 3 3 < PF 3 < ClF 3 3 < PF 3 < BF 3 PF 3 < BF 3 < ClF 3 3 = PF 3 < ClF 3 2 A 2+ B − 1.2 × 10 −4 M 0.24 × 10 −3 M 2 6.91 × 10 −12 0.276 × 10 −12 27.65 × 10 −12 0.069 × 10 −12 3 −CH = CH −CHO > > > > > > > > Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "JEE Main 2024 (09 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo List - I List - II Melting Point [K] I. T1 > In > Ga > A1 > B Ionic Radius [M +3 /pm] II. Δ i H 1 [ kJ mol −1 ] III. T1 > In > A1 > Ga > B [pm] IV. 3 , PF 3 3 3 < PF 3 < ClF 3 3 < PF 3 < BF 3 PF 3 < BF 3 < ClF 3 3 = PF 3 < ClF 3 2 A 2+ B − 1.2 × 10 −4 M 0.24 × 10 −3 M 2 6.91 × 10 −12 0.276 × 10 −12 27.65 × 10 −12 0.069 × 10 −12 3 −CH = CH −CHO > > > > > > > > Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "AB",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "BF",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "CH",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "D.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

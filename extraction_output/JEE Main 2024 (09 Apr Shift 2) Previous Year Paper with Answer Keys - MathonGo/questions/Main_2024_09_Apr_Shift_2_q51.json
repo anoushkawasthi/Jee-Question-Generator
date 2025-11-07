@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_2_q51",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 51,
+  "question_type": "Numerical",
+  "question_text": "is ________. (nearest integer) [Given : mass of electron , Plank's constant ] (Value of )",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "an atomic nucleus of diameter",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "Based on Heisenberg's uncertainty principle, the uncertainty in the velocity of the electron to be found within",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

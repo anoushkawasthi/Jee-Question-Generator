@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_29_Jan_Shift_2_q7",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 7,
+  "question_type": "MCQ",
+  "question_text": "original length constant, the increase in length will become: times",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)  times",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)  times",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)  times",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A wire of length  and radius  is clamped at one end. If its other end is pulled by a force , its length increases",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "by . If the radius of the wire and the applied force both are reduced to half of their original values keeping",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_2_q88",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 2",
+  "subject": "Mathematics",
+  "question_number": 88,
+  "question_type": "Numerical",
+  "question_text": "The sum of squares of all possible values of 𝑘 , for which area of the region bounded by the parabolas 2𝑦 2 = 𝑘𝑥 𝑘𝑦 2 = 2𝑦−𝑥 is maximum, is equal to:",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

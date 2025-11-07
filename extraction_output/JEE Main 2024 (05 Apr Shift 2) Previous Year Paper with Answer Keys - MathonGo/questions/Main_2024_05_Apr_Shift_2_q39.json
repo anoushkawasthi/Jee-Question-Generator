@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_2_q39",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 2",
+  "subject": "Chemistry",
+  "question_number": 39,
+  "question_type": "MCQ",
+  "question_text": "Identify  and  in the given chemical reaction sequence : JEE Main 2024 (05 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo [Al(H 2 O) 6 ] 3+ sp 3 d 2 List - I List - II (Pair of compounds) (Isomerism) (A) n-propanol and Isopropanol (I) Metamerism (B) Methoxypropane and ethoxyethane (II) Chain Isomerism (C) Propanone and propanal (III) Position Isomerism (D) Neopentane and Isopentane (IV) Functional Isomerism A B Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "Identify  and  in the given chemical reaction sequence : JEE Main 2024 (05 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo [Al(H 2 O) 6 ] 3+ sp 3 d 2 List - I List - II (Pair of compounds) (Isomerism) (A) n-propanol and Isopropanol (I) Metamerism (B) Methoxypropane and ethoxyethane (II) Chain Isomerism (C) Propanone and propanal (III) Position Isomerism (D) Neopentane and Isopentane (IV) Functional Isomerism A B Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "Al",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_29_Jan_Shift_1_q20",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 20,
+  "question_type": "Numerical",
+  "question_text": "In the given circuit, the breakdown voltage of the Zener diode is . What is the value of ? JEE Main 2024 (29 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 80 C 1000 C 800 C 1600 C 10 Ω 3 mA 8 A 3 × 10 −3 Ω 4. 85 × 10 −3 Ω 3. 75 × 10 −3 Ω 2. 75 × 10 −3 Ω 25 5 24 Ω 12 Ω 96 Ω 48 Ω 100 Ω 30 −45 45 −15 15 1. 5 20 1. 6 −16 −160 +160 +16 25% 1 1 1 8 8 1 1 4 1 H 2 , 1 H 3 3 Li 6 3 Li 6 + 0 n 1 → 2 He 4 + 1 H 3 1 H 2 + 1 H 3 → 2 He 4 + 0 n 1 M(Li) = 6. 01690 M( 1 H 2 ) = 2. 01471 M( 2 He 4 ) = 4. 00388 1 MeV 28. 12 MeV 12. 64 MeV 16. 48 MeV 22. 22 MeV 3. 0 V I z Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "In the given circuit, the breakdown voltage of the Zener diode is . What is the value of ? JEE Main 2024 (29 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 80 C 1000 C 800 C 1600 C 10 Ω 3 mA 8 A 3 × 10 −3 Ω 4. 85 × 10 −3 Ω 3. 75 × 10 −3 Ω 2. 75 × 10 −3 Ω 25 5 24 Ω 12 Ω 96 Ω 48 Ω 100 Ω 30 −45 45 −15 15 1. 5 20 1. 6 −16 −160 +160 +16 25% 1 1 1 8 8 1 1 4 1 H 2 , 1 H 3 3 Li 6 3 Li 6 + 0 n 1 → 2 He 4 + 1 H 3 1 H 2 + 1 H 3 → 2 He 4 + 0 n 1 M(Li) = 6. 01690 M( 1 H 2 ) = 2. 01471 M( 2 He 4 ) = 4. 00388 1 MeV 28. 12 MeV 12. 64 MeV 16. 48 MeV 22. 22 MeV 3. 0 V I z Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "amu = 931. 5",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "cm",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

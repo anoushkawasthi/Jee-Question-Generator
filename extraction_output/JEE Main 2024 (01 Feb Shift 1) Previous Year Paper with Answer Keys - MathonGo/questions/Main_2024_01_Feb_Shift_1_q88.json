@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_1_q88",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 1",
+  "subject": "Mathematics",
+  "question_number": 88,
+  "question_type": "MCQ",
+  "question_text": "If ∫ −𝜋/ 2 𝜋/ 2 8√2cos𝑥𝑑𝑥 1 + 𝑒 sin𝑥 1 + sin 4 𝑥 = 𝛼𝜋+ 𝛽log 𝑒 3 + 2√2 , where 𝛼,   𝛽 𝛼 2 + 𝛽 2 equals __________",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "are integers, then",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

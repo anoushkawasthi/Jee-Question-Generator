@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_2_q56",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 56,
+  "question_type": "MCQ",
+  "question_text": "in 2025 (28 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo [A], [B] [C] KMnO 4 6 3 5 4 NaNO 2 3 known as Hinsberg's reagent. (E) Tertiary amines reacts with benzenesulfonyl chloride very easily. Choose the",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) (A) and (B) only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) (D) and (E) only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) (B) and (D) only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) (B) and (C) only",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and ethanolic KOH form",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "correct answer from the options given below :",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

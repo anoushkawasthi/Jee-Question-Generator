@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_2_q2",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 2",
+  "subject": "Physics",
+  "question_number": 2,
+  "question_type": "MCQ",
+  "question_text": "Train A is moving along two parallel rail tracks towards north with 72   km   h -1 𝐵 is moving towards south with speed 108   km     h -1 . Velocity of train 𝐵 with respect to 𝐴 𝐵 m   s -1 ): -30 50 -50 -30 -50 30 50 -30",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

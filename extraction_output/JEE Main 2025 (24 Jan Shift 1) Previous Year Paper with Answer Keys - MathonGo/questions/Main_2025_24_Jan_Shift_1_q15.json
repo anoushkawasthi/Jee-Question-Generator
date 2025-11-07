@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_1_q15",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 15,
+  "question_type": "MCQ",
+  "question_text": "wins if he throws a sum of 8 before  throws a sum of 5 . The probability, that  wins if A makes the first throw, is",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and  alternately throw a pair of dice.  wins if he throws a sum of 5 before  throws a sum of 8 , and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

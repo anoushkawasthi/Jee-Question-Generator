@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_1_q75",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 75,
+  "question_type": "MCQ",
+  "question_text": "Molar mass of product is . (Given molar mass in of ) 2025 (23 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo q > r > p r > q > p q > p > r p > q > r 1 N 2 O 4 NO 2 55.0 kJ mol −1 175.0 J/K/mol 25 ∘ C mol −1 N 2 O 5 ( g) 2 N 2 O 5 ( g) →2 N 2 O 4 ( g) + O 2 ( g) x = … × 10 −3 [nearest integer] 4.606 × 10 −2 s −1 gmol −1 S : 32, O : 16 – pH = 9 (K b ) 10 −x x (A) gmol −1 gmol −1 N : 14, P : 31 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. (19) 22. (117) 23. (30) 24. (612) 25. (77) 26. 27. 28. 29. 30. 31. 32. 33. 34. 35. 36. 37. 38. 39. 40. 41. 42. 43. 44. 45. 46. (5) 47. 48. 49. (273) 50. (152) 51. 52. 53. 54. 55. 56. 57. 58. 59. 60. 61. 62. 63. 64. 65. 66. 67. 68. 69. 70. 71. (2850) 72. (897) 73. (40) 74. (7) 75. (171) 2025 (23 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo",
+  "question_latex": "Molar mass of product is . (Given molar mass in of ) 2025 (23 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo q > r > p r > q > p q > p > r p > q > r 1 N 2 O 4 NO 2 55.0 kJ mol −1 175.0 $\\frac{J}{K}$/mol 25 ∘ C mol −1 N 2 O 5 ( g) 2 N 2 O 5 ( g) →2 N 2 O 4 ( g) + O 2 ( g) x = … × 10 −3 [nearest integer] 4.606 × 10 −2 s −1 gmol −1 S : 32, O : 16 – pH = 9 (K b ) 10 −x x (A) gmol −1 gmol −1 N : 14, P : 31 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. (19) 22. (117) 23. (30) 24. (612) 25. (77) 26. 27. 28. 29. 30. 31. 32. 33. 34. 35. 36. 37. 38. 39. 40. 41. 42. 43. 44. 45. 46. (5) 47. 48. 49. (273) 50. (152) 51. 52. 53. 54. 55. 56. 57. 58. 59. 60. 61. 62. 63. 64. 65. 66. 67. 68. 69. 70. 71. (2850) 72. (897) 73. (40) 74. (7) 75. (171) 2025 (23 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "ANSWER KEYS",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "Ba : 137,",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "C : 12, H : 1, O : 16, Br : 80,",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

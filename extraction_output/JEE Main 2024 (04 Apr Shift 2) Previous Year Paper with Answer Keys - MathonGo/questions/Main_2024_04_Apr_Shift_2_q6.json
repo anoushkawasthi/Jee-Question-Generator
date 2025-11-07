@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_2_q6",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 6,
+  "question_type": "MCQ",
+  "question_text": "JEE Main 2024 (04 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo T G M r T 2 = 4π 2 r 2 GM T 2 = 4π 2 r GM 2 T 2 = 4π 2 r 3 GM T 2 = 4π 2 r 3 P 2 km S √8 km 8 km 6 km 4 km 2 kg 45 ∘ 1.7 1 √3 0.5 1 m kg A B B (given, R = 14 m, g = 10 m/s 2 √2 = 1.4 ) 16.7 m/s 19.8 m/s 10.6 m/s 21.9 m/s 90 kg 2R ( R = Radius of earth, g = 10 m s −2 ) 100 N 300 N 225 N 120 N Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "JEE Main 2024 (04 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo T G M r T 2 = 4π 2 r 2 GM T 2 = 4π 2 r GM 2 T 2 = 4π 2 r 3 GM T 2 = 4π 2 r 3 P 2 km S √8 km 8 km 6 km 4 km 2 kg 45 ∘ 1.7 1 √3 0.5 1 m kg A B B (given, R = 14 m, g = 10 $\\frac{m}{s}$ 2 √2 = 1.4 ) 16.7 $\\frac{m}{s}$ 19.8 $\\frac{m}{s}$ 10.6 $\\frac{m}{s}$ 21.9 $\\frac{m}{s}$ 90 kg 2R ( R = Radius of earth, g = 10 m s −2 ) 100 N 300 N 225 N 120 N Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Correct formula for height of a satellite from earths surface is:",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

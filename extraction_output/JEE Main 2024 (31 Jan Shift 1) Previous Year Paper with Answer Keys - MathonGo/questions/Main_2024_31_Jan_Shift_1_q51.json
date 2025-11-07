@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_1_q51",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 51,
+  "question_type": "Numerical",
+  "question_text": "Number of moles of methane required to produce 22g   CO 2 ( g ) x × 10 – 2 moles. The value of x is",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "after combustion is",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

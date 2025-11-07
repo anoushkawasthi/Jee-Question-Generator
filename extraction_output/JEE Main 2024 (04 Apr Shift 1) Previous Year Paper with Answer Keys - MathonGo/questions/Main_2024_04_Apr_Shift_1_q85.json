@@ -1,0 +1,35 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_1_q85",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 85,
+  "question_type": "MCQ",
+  "question_text": "In a survey of 220 students of a higher secondary school, it was found that at least 125 and at most 130 students studied Mathematics; at least 85 and at most 95 studied Physics; at least 75 and at most 90 studied the most number of students who studied all the three subjects. Then is equal to ______",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and  respectively be the least and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "both Mathematics and Physics and 10 studied none of these subjects. Let",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Chemistry; 30 studied both Physics and Chemistry; 50 studied both Chemistry and Mathematics; 40 studied",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

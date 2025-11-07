@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_27_Jan_Shift_2_q52",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "27 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 52,
+  "question_type": "MCQ",
+  "question_text": "9 . 3   g of aniline is subjected to reaction with excess of acetic anhydride to prepare acetanilide. The mass of 100% × 10 -1 g . (Given molar mass in g   mol -1 N = 14, O = 16, C = 12, H = 1 )",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "acetanilide produced if the reaction is",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "completed is _____",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

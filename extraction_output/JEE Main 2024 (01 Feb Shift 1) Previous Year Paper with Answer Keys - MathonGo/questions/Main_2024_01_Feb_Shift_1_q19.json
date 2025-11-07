@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_1_q19",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 1",
+  "subject": "Mathematics",
+  "question_number": 19,
+  "question_type": "Numerical",
+  "question_text": "In the given circuit if the power rating of Zener diode is 10   mW , the value of series resistance 𝑅 𝑠 to regulate the input unregulated supply is: 3 7 𝑘𝛺 10   𝛺 1   𝑘𝛺 10   𝑘𝛺",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

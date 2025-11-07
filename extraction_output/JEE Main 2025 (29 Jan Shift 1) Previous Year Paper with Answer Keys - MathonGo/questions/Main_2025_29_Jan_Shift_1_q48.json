@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_1_q48",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 48,
+  "question_type": "MCQ",
+  "question_text": "Two light beams fall on a transparent material block at point 1 and 2 with angle respectively, as shown in figure. After refraction, the beams intersect at point 3 which is exactly on the interface at other end of the block. Given : the distance between 1 and 2, , where refractive index of the block refractive index of the outside medium , then the thickness of the block is ________",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "cm.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

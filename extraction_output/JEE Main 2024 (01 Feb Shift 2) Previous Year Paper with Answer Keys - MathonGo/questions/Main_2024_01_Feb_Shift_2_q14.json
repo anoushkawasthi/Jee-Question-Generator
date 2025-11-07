@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_2_q14",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 2",
+  "subject": "Physics",
+  "question_number": 14,
+  "question_type": "MCQ",
+  "question_text": "To measure the temperature coefficient of resistivity α of a semiconductor, an electrical arrangement shown in the figure is prepared. The arm is made up of the semiconductor. The experiment is being conducted at 25°C 3   m𝛺 . Arm is cooled at a constant rate of 2   °C   s -1 . If the galvanometer G shows no deflection after 10   s, then α is: -2 × 10 -2   ∘ C -1 -1 . 5 × 10 -2   ∘ C -1 -1 × 10 -2 ∘ C -1 -2 . 5 × 10 -2 ∘ C -1",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and resistance of the semiconductor arm is",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "BC",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

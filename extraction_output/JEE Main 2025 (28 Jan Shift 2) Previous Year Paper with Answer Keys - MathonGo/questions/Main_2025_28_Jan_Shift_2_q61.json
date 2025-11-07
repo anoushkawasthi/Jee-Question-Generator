@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_2_q61",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 61,
+  "question_type": "MCQ",
+  "question_text": "(B) (C) (D) 2025 (28 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo N 0 V 2 O 3 , V 2 O 4 V 2 O 5 +3 +4 +7 +5 2 , AgBr, PbS, HgS HgS < AgBr < PbS < Ca(OH) 2 2 < AgBr < HgS < PbS PbS < HgS < Ca(OH) 2 < AgBr HgS < PbS < AgBr < Ca(OH) 2 1 s < 2p < 3 s 1 s < 2 s = 2p < 3 s = 3p 1 s < 2 s < 2p < 3 s < 3p 1 s < 2 s < 4 s < 3 d",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) (A) and (C) only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) (B) and (D) only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) (C) and (D) only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) (A) and (B) only",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Choose the correct answer from the options given below :",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "d < 4",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

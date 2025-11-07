@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_2_q20",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 20,
+  "question_type": "MCQ",
+  "question_text": "In a vernier calliper, when both jaws touch each other, zero of the vernier scale shifts towards left and its scale divisions and zero error in the instrument is then how many main scale divisions are there in ?",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 10",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 5",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 20",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 40",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "division coincides exactly with a certain division on main scale. If 50 vernier scale divisions equal to 49 main",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

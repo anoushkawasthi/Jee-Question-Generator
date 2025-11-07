@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_1_q80",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 80,
+  "question_type": "MCQ",
+  "question_text": "Three rotten apples are accidently mixed with fifteen good apples. Assuming the random variable 𝑥 to be the number of rotten apples in a draw of two apples, the variance of 𝑥 is 37 153 57 153 47 153 40 153",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

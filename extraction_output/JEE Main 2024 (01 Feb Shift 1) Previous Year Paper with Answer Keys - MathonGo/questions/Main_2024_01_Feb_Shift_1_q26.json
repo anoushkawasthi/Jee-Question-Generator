@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_1_q26",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 1",
+  "subject": "Physics",
+  "question_number": 26,
+  "question_type": "MCQ",
+  "question_text": "The current in a conductor is expressed as 𝐼= 3𝑡 2 + 4𝑡 3 , where 𝐼 is in Ampere and 𝑡 is in second. The amount of electric charge that flows through a section of the conductor during 𝑡= 1   s to 𝑡= 2   s is ____________",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "C",
+      "text": "C .",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

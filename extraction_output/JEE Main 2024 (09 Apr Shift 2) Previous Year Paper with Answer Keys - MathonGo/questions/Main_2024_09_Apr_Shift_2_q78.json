@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_2_q78",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 78,
+  "question_type": "Numerical",
+  "question_text": "Let , where  and  are integers and . Let the values of the ordered pair , for which the area of the parallelogram of diagonals is , be . Then is equal to",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 19",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 17",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 24",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 21",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_2_q77",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 77,
+  "question_type": "MCQ",
+  "question_text": "The temperature 𝑇𝑡 of a body at time 𝑡= 0 is 160 ° 𝐹 equation 𝑑𝑇 𝑑𝑡 = −𝐾𝑇−80 , where 𝐾 is positive constant. If 𝑇15 = 120 ° 𝐹 , then 𝑇45 is equal to 85 ° 𝐹 95 ° 𝐹 90 ° 𝐹 80 ° 𝐹",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and it decreases continuously as per the differential",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_2_q46",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 46,
+  "question_type": "MCQ",
+  "question_text": "The magnetic field inside a 200 turns solenoid of radius 10 cm is . If the solenoid carries a .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "C",
+      "text": "current of 0.29 A , then the length of the solenoid is ________",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

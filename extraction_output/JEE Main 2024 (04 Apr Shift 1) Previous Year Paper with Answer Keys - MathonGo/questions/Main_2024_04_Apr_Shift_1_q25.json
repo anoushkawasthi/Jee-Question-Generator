@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_1_q25",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 1",
+  "subject": "Physics",
+  "question_number": 25,
+  "question_type": "Numerical",
+  "question_text": "is placed on plane. is placed at plane then at point , the ratio of magnitudes of electric field values due to sheet charge to that of line charge is . The value of  is_______.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and parallel to -axis. If the magnitude values",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

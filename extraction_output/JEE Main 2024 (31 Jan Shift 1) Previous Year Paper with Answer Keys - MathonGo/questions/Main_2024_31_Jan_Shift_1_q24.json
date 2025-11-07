@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_1_q24",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 24,
+  "question_type": "Numerical",
+  "question_text": "𝐴 . Its speed is increased to three times at an instant when its displacement is 2𝐴 3 . The new amplitude of motion is 𝑛𝐴 3 . The value of 𝑛 is _____.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A particle performs simple harmonic motion with amplitude",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

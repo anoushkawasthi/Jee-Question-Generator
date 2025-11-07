@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_1_q31",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 31,
+  "question_type": "Assertion-Reason",
+  "question_text": "Given below are two statements: one is labelled as Assertion encountered in mechanics does not have an associated potential energy. In the light of the above statements, 2025 (28 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo A R R A A R A R A R R A C 1 C 2 U 1 U 2 C 2 > C 1 , U 2 < U 1 C 1 > C 2 , U 1 > U 2 C 1 > C 2 , U 1 < U 2 C 2 > C 1 , U 2 > U 1 P 1 4 ∘ P 2 P 2 m q A l O √ qEl 2 m √ qEl m √ qEl 4 m √ 2qEl m A R is false but is true explanation of is true but is false explanation of",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Both",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Both",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "are true and",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "choose the most appropriate answer from the options given below",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

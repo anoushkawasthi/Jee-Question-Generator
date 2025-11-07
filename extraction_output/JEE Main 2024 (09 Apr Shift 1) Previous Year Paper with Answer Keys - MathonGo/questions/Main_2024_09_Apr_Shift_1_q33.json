@@ -1,0 +1,60 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_1_q33",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 1",
+  "subject": "Chemistry",
+  "question_number": 33,
+  "question_type": "MCQ",
+  "question_text": "In which one of the following pairs the central atoms exhibit hybridization ? JEE Main 2024 (09 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 1Ω n 10 n 2 m 2 A x y x −y →B = B 0 (1 + 4x)^k B 0 = 5 T N 20 V 5 A 20 V, 50 Hz 4 A mH ( π = 3 ( 1 4 ) th μm λ = 600 nm, mm, D = 1.0 m 100% 4 He 12 C 4 He + 4 He + 4 He → 12 2.0 × 10 32 kg 5.808 × 10 30 W 4 He 12 C n × 10 42 s −1 n 4 He = 4.0026u 12 n = 4, 1 = 1 n = 4, l = 2 n = 3, 1 = 1 n = 3, 1 = 2 n = 4, 1 = 0 (B) > (A) > (C) > (E) > (D) (E) < ( C ) < (D) < ( A ) < ( B ) (E) > ( C ) > ( A ) > ( D ) > (B) (C) < (E) < (D) < (A) < (B) pπ −pπ sp 2 H 2 O NO 2 3 NO − 2 NH − 2 H 2 O NH − 2 3 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "In which one of the following pairs the central atoms exhibit hybridization ? JEE Main 2024 (09 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 1Ω n 10 n 2 m 2 A x y x −y →B = B 0 (1 + 4x)^k B 0 = 5 T N 20 V 5 A 20 V, 50 Hz 4 A mH ( π = 3 ( 1 4 ) th μm λ = 600 nm, mm, D = 1.0 m 100% 4 He 12 C 4 He + 4 He + 4 He → 12 2.0 × 10 32 kg 5.808 × 10 30 W 4 He 12 C n × 10 42 s −1 n 4 He = 4.0026u 12 n = 4, 1 = 1 n = 4, l = 2 n = 3, 1 = 1 n = 3, 1 = 2 n = 4, 1 = 0 (B) > (A) > (C) > (E) > (D) (E) < ( C ) < (D) < ( A ) < ( B ) (E) > ( C ) > ( A ) > ( D ) > (B) (C) < (E) < (D) < (A) < (B) pπ −pπ sp 2 H 2 O NO 2 3 NO − 2 NH − 2 H 2 O NH − 2 3 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "BF",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "C = 12u",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "d = 1.0",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

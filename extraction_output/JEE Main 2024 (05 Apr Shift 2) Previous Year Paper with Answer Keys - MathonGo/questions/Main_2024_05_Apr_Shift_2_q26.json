@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_2_q26",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 26,
+  "question_type": "MCQ",
+  "question_text": "is divided into 10 equal parts, resulting pairs. A combination of two parts are equivalent resistance of final combination is _____ .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A wire of resistance",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "connected in parallel and so on. Now resulting pairs of parallel combination are connected in series. The",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

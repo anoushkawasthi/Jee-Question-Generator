@@ -1,0 +1,35 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_2_q65",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 65,
+  "question_type": "MCQ",
+  "question_text": "Given below are two statements : Statement (I): in the increasing order of their atomic number. Statement (II): Meyer observed a periodically repeated pattern upon plotting physical properties of certain elements against their respective atomic numbers. In the light of the Statement (I) Statement (II) Statement (I) Statement (II) Statement (I) is false but Statement (II) is true. (4) Statement (I) is true but Statement (II) is false. 2025 (28 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo 1 3 x x 3 1 9 9 1 3 B 0.9%(ω/ω) 0.9%(ω/ω) 0.5%(ω/ω) 1%(ω/ω)",
+  "question_latex": "Given below are two statements : Statement (I): in the increasing order of their atomic number. Statement (II): Meyer observed a periodically repeated pattern upon plotting physical properties of certain elements against their respective atomic numbers. In the light of the Statement (I) Statement (II) Statement (I) Statement (II) Statement (I) is false but Statement (II) is true. (4) Statement (I) is true but Statement (II) is false. 2025 (28 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo 1 3 x x 3 1 9 9 1 3 B 0.9%($\\frac{ω}{ω}$) 0.9%($\\frac{ω}{ω}$) 0.5%($\\frac{ω}{ω}$) 1%($\\frac{ω}{ω}$)",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Both",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A(g) + B(g) →C(g) + D(g)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

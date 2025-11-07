@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_2_q1",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 2",
+  "subject": "Mathematics",
+  "question_number": 1,
+  "question_type": "MCQ",
+  "question_text": "Match List - I with List - II. List - I (Number) List - II (Signficant figure) (A) 1001 (I) 3 (B) 010 . 1 (II) 4 (C) 100 . 100 (III) 5 (D) 0 . 0010010 (IV) 6",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) (A)-(III), (B)-(IV), (C)-(II), (D)-(I)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) (A)-(IV), (B)-(III), (C)-(I), (D)-(II)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) (A)-(II), (B)-(I), (C)-(IV), (D)-(III)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) (A)-(I), (B)-(II), (C)-(III), (D)-(IV)",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Choose the correct answer from the options given below:",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

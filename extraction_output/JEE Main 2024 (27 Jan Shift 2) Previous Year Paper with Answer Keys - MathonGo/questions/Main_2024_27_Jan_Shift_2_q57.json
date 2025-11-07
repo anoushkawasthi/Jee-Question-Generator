@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_27_Jan_Shift_2_q57",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "27 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 57,
+  "question_type": "MCQ",
+  "question_text": "Total number of compounds with Chiral carbon atoms from following is 3 - CH 2 - CHNO 2 - COOH 3 - CH ( I ) - CH 2 - NO 2 3 - CH 2 - CHBr - CH 2 - CH 3 3 - CH 2 - CH ( OH ) - CH 2 OH JEE Main 2024 (27 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "Total number of compounds with Chiral carbon atoms from following is 3 - CH 2 - CHNO 2 - COOH 3 - CH ( I ) - CH 2 - NO 2 3 - CH 2 - CHBr - CH 2 - CH 3 3 - CH 2 - CH ( OH ) - CH 2 OH JEE Main 2024 (27 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "C",
+      "text": "CH",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

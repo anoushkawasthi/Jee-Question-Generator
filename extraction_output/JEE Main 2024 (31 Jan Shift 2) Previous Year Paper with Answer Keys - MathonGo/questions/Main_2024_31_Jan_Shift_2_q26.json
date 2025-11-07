@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_2_q26",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 26,
+  "question_type": "MCQ",
+  "question_text": "In the following circuit, the battery has an emf of 2   V 2 3 𝛺 .  The power W .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and an internal resistance of",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "consumption in the entire circuit is ______",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

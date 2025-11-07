@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_1_q22",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 1",
+  "subject": "Mathematics",
+  "question_number": 22,
+  "question_type": "Numerical",
+  "question_text": "The identical spheres each of mass 2𝑀 perpendicular sides equal to 4   m each. Taking point of intersection of these two sides as origin, the magnitude of position vector of the centre of mass of the system is 4√2 𝑥 , where the value of 𝑥 is ________.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "are placed at the corners of a right angled triangle with mutually",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

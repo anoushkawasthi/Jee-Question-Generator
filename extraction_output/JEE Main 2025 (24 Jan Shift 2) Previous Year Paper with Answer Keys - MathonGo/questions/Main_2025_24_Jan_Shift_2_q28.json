@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_2_q28",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 28,
+  "question_type": "MCQ",
+  "question_text": "The output of the circuit is low (zero) for : (A) (B) (C) (D) options given below :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) (B), (C) and (D) only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) (A), (B) and (C) only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) (A), (C) and (D) only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) (A), (B) and (D) only",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Choose the correct answer from the",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

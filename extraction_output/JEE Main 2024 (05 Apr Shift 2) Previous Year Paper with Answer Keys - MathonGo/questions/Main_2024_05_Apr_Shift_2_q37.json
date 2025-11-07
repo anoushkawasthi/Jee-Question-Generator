@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_2_q37",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 37,
+  "question_type": "MCQ",
+  "question_text": "",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 2-formyl-4-hydroxyhept-7-enoic acid",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 2-formyl-4-hydroxyhept-6-enoic acid",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 2-carboxy-4-hydroxyhept-7-enal",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 2-carboxy-4-hydroxyhept-6-enal",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

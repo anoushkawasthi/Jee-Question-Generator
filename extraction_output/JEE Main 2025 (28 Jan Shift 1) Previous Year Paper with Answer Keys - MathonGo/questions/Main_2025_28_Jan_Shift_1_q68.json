@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_1_q68",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 68,
+  "question_type": "MCQ",
+  "question_text": "Ice and water are placed in a closed container at a pressure of 1 atm and temperature 273.15 K . If pressure of",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Volume of system increases .",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) The solid phase (ice) disappears completely.",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Liquid phase disappears completely.",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) The amount of ice decreases.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_1_q54",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 54,
+  "question_type": "Numerical",
+  "question_text": "The heat of combustion of solid benzoic acid at constant volume is . The heat of , the value of  is _______.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "at",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "combustion at constant pressure is",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

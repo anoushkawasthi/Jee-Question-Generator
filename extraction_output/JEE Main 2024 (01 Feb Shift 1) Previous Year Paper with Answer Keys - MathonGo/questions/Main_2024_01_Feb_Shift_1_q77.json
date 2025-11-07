@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_1_q77",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 1",
+  "subject": "Mathematics",
+  "question_number": 77,
+  "question_type": "MCQ",
+  "question_text": "Let 𝑦= 𝑦𝑥 𝑑𝑦 𝑑𝑥 = 2𝑥𝑥+ 𝑦 3 −𝑥𝑥+ 𝑦−1, 𝑦0 = 1 . Then, 1 √ 2 + 𝑦 1 √ 2 2 equals: 4 4 + √𝑒 3 3 −√𝑒 2 1 + √𝑒 1 2 −√𝑒",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be the solution of the differential equation",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

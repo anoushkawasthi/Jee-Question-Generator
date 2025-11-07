@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_1_q64",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 1",
+  "subject": "Chemistry",
+  "question_number": 64,
+  "question_type": "MCQ",
+  "question_text": "Which of the following statement is true with respect to ? A. The central atoms of all the molecules are hybridized. B. The , respectively. C. The increasing order of dipole moment is . is a Lewis base. E. A solution of in is basic. In this solution options given below:",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) A, B and C Only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) A, D and E Only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) C, D and E Only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) A, B, C and E Only",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "act as Lowry-Bronsted acid and base respectively. Choose the correct answer from the",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "D. Both",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

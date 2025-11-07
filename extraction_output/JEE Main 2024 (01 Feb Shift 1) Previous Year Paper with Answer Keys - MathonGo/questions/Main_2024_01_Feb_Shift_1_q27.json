@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_1_q27",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 1",
+  "subject": "Physics",
+  "question_number": 27,
+  "question_type": "Numerical",
+  "question_text": "6 sides is formed by bending a wire of length 4   π meter. If an electric current of 4𝜋√3   A is flowing through the sides of the polygon, the magnetic field at the centre of the polygon would be 𝑥× 10 -7 T . The value of 𝑥 is ______.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A regular polygon of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

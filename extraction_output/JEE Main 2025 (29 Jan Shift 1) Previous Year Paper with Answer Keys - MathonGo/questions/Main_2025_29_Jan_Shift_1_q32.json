@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_1_q32",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 32,
+  "question_type": "MCQ",
+  "question_text": "If  and 2025 (29 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo (R/ √ R 2 + ω 2 L 2 ) ω R (A) (A) (R) (R) (A) A R 60 ∘ B 4 3 √Rg 2 3 √Rg √Rg 1 3 √Rg R (A) (A) (R) (R) (A) R (45 ∘ −α) (45 ∘ + α) 1−tan α 1+tan α 1−sin 2α 1+sin 2α 1+sin 2α 1−sin 2α 1+sin α 1−sin α λ K",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "are de Broglie wavelength and kinetic energy, respectively, of a particle with constant mass. The",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "correct graphical representation for the particle will be",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

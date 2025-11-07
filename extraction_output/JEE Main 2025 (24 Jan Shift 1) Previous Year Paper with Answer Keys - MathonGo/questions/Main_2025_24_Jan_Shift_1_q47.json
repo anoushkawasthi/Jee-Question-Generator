@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_1_q47",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 47,
+  "question_type": "Numerical",
+  "question_text": "is held normally in front of a point charge . The flux of the electric field through the shaded region is , where the value of p is _____.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A square loop of sides",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

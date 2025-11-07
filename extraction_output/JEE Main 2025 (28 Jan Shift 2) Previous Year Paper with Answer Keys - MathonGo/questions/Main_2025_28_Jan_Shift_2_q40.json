@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_2_q40",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 40,
+  "question_type": "MCQ",
+  "question_text": "Which of the following phenomena can not be explained by wave theory of light? 2025 (28 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo O μ 0 4π I a [ π 2 + 1] μ 0 4π I a [ 3π 2 + 2] μ 0 2π I a [ π 2 + 2] μ 0 4π I a [ 3π 2 + 1] A −2 ′ 1 3 4 3 1 2 3 = 1000 kg m −3 1400 3 600 3 4000 3 400 3 x 0 p 0 t ω x 0 p 0 (A) (R) (R) (A) 190 g 200 g 300 g 290 g 11.2 km/s km/s 2.8 11.2 5.6 8.4 → √3 2 ^i + 1 2 ^j)30 sin [ω (t − z c )] → E = ( 1 2 ^i − √3 2 ^j)30c sin [ω (t − z c )] → E = ( 3 4 ^i + 1 4 ^j)30c cos [ω (t − z c )] → E = ( 1 2 ^i + √3 2 ^j)30c sin [ω (t + z c )] → E = ( √3 2 ^i − 1 2 ^j)30c sin [ω (t + z c )] 2 17 ∘ C",
+  "question_latex": "Which of the following phenomena can not be explained by wave theory of light? 2025 (28 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo O μ 0 4π I a [ π 2 + 1] μ 0 4π I a [ 3π 2 + 2] μ 0 2π I a [ π 2 + 2] μ 0 4π I a [ 3π 2 + 1] A −2 ′ 1 3 4 3 1 2 3 = 1000 kg m −3 1400 3 600 3 4000 3 400 3 x 0 p 0 t ω x 0 p 0 (A) (R) (R) (A) 190 g 200 g 300 g 290 g 11.2 $\\frac{km}{s}$ $\\frac{km}{s}$ 2.8 11.2 5.6 8.4 → √3 2 ^i + 1 2 ^j)30 sin [ω (t − z c )] → E = ( 1 2 ^i − √3 2 ^j)30c sin [ω (t − z c )] → E = ( 3 4 ^i + 1 4 ^j)30c cos [ω (t − z c )] → E = ( 1 2 ^i + √3 2 ^j)30c sin [ω (t + z c )] → E = ( √3 2 ^i − 1 2 ^j)30c sin [ω (t + z c )] 2 17 ∘ C",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Compton effect",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Refraction of light",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Reflection of light",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Diffraction of light",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B = (",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "CO",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

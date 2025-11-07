@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_1_q46",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 46,
+  "question_type": "MCQ",
+  "question_text": "Following is a confirmatory test for aromatic primary amines. Identify reagent (A) and (B) JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo +2 3d 8 Mn + 3d 3 4s 1 Ni +2 3d 4 V + 3d 5 4s 1 Ethane −1 , 2 −diamine 2+ Mg 2+ Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "Following is a confirmatory test for aromatic primary amines. Identify reagent (A) and (B) JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo +2 3d 8 Mn + 3d 3 4s 1 Ni +2 3d 4 V + 3d 5 4s 1 Ethane −1 , 2 −diamine 2+ Mg 2+ Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Ca",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

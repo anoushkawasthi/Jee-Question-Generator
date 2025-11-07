@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_29_Jan_Shift_1_q25",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 25,
+  "question_type": "Numerical",
+  "question_text": "having surface charge density . The electron at is at a distance of from  and has a speed of . The maximum value of , if the electron strikes  at is . The value of  is _____.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "An electron is moving under the influence of the electric field of a uniformly charged infinite plane sheet",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

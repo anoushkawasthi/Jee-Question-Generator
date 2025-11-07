@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_2_q18",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 2",
+  "subject": "Mathematics",
+  "question_number": 18,
+  "question_type": "MCQ",
+  "question_text": "Monochromatic light of frequency 6 × 10 14 Hz is produced by a laser. The power emitted is 2 × 10 -3 W . How many photons per second on an average, are emitted by the source? (Given h = 6 . 63 × 10 -34 J   s ) 9 × 10 18 6 × 10 15 5 × 10 15 7 × 10 16",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

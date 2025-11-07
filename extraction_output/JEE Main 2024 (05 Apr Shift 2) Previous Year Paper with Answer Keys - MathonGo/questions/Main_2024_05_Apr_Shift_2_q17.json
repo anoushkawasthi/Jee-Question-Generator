@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_2_q17",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 2",
+  "subject": "Physics",
+  "question_number": 17,
+  "question_type": "MCQ",
+  "question_text": "Which of the following statement is not true about stopping potential ? e times the maximum kinetic energy of electrons emitted. incident light.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) It is",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) It increases with increase in intensity of the",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) It depends on the nature of emitter material.",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) It depends upon frequency of the incident light.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

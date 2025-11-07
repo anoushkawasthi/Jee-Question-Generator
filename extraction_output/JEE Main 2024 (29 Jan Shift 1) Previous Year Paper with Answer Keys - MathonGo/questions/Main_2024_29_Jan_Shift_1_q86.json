@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_29_Jan_Shift_1_q86",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 86,
+  "question_type": "MCQ",
+  "question_text": "If the mean and variance of the data , where respectively, then is equal to JEE Main 2024 (29 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo x ∈(− π 2 , π 2 ) y(x) = ∫ 2 x lim x→( π 2 ) − y(x) = 0 y( π 4 ) tan −1 ( 1 √2 ) 1 2 tan −1 ( 1 √2 ) − 1 √2 tan −1 ( 1 √2 ) 1 √2 tan −1 (− 1 2 ) y = f(x) f(x) sin 2x + sin x −(1 + cos 2 x)f ′ (x) = 0 f(0) = 0 f( π 2 ) 1 0 −1 2 →a, → b →c → b →c →a + 5 → b →c, → → c →a →a + α → β → → 0 α + β 35 30 −30 −25 O A B 2 ˆ i + 2 ˆ j + ˆ k 2 ˆ i + 4 ˆ j + 4 ˆ k ∠AOB C OC 2 3 √31 2 3 √34 3 4 √34 3 2 √31 PQR R(−1, 4, 2) M(2, 1, 2) PQ ΔPQR x−2 0 = y 2 = z+3 −1 x−1 1 = y+3 −3 = z+1 1 69 9 √69 √99 2 2 5 6 1 6 5 11 6 11 α, β x 2 −x + 2 = 0 Im (α) >Im (β) α 6 + α 4 + β 4 −5α 2 GTWENTY GTWENTY 11 C 1 2 + 11 C 2 3 + … . . + 11 C 9 10 = n m gcd (n, m) = 1 n + m 2x −3y = 5 3x −4y = 7 (− 22 7 , −4) (− 1 7 , 3) P(α, β) 17β −α x 2 + y 2 = 4b x 2 16 + y 2 b 2 = 1 y 2 = 3x 2 3√3 65, 68, 58, 44 48, 45, 60, α, β, 60 α > β 56 66. 2 α 2 + β 2 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "If the mean and variance of the data , where respectively, then is equal to JEE Main 2024 (29 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo x ∈(− π 2 , π 2 ) y(x) = ∫ 2 x lim x→( π 2 ) − y(x) = 0 y( π 4 ) tan −1 ( 1 √2 ) 1 2 tan −1 ( 1 √2 ) − 1 √2 tan −1 ( 1 √2 ) 1 √2 tan −1 (− 1 2 ) y = f(x) f(x) sin 2x + sin x −(1 + cos 2 x)f ′ (x) = 0 f(0) = 0 f( π 2 ) 1 0 −1 2 →a, → b →c → b →c →a + 5 → b →c, → → c →a →a + α → β → → 0 α + β 35 30 −30 −25 O A B 2 ˆ i + 2 ˆ j + ˆ k 2 ˆ i + 4 ˆ j + 4 ˆ k ∠AOB C OC 2 3 √31 2 3 √34 3 4 √34 3 2 √31 PQR R(−1, 4, 2) M(2, 1, 2) PQ ΔPQR x−2 0 = y 2 = z+3 −1 x−1 1 = y+3 −3 = z+1 1 69 9 √69 √99 2 2 5 6 1 6 5 11 6 11 α, β x 2 −x + 2 = 0 Im (α) >Im (β) α 6 + α 4 + β 4 −5α 2 GTWENTY GTWENTY 11 C 1 2 + 11 C 2 3 + … . . + 11 C 9 10 = n m gcd (n, m) = 1 n + m 2x −3y = 5 3x −4y = 7 (− 22 7 , −4) (− 1 7 , 3) P(α, β) 17β −α x 2 + y 2 = 4b x 2 16 + y 2 b 2 = 1 y 2 = 3x 2 3√3 65, 68, 58, 44 48, 45, 60, α, β, 60 α > β 56 66. 2 α 2 + β 2 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "AB",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "b +",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "c =",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "dx",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

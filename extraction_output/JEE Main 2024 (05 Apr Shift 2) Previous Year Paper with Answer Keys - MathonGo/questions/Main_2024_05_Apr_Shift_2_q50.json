@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_2_q50",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 50,
+  "question_type": "MCQ",
+  "question_text": "JEE Main 2024 (05 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo M sp 3 P Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN unchanged structure of protein occurs",
+  "question_latex": "JEE Main 2024 (05 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo M sp 3 P Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$ unchanged structure of protein occurs",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) The secondary structure of protein remains",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Denaturation of protein occurs",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Biological property of protein remains unchanged(4) Breaking of the peptide linkage in the primary",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Coagulation of egg, on heating is because of :",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

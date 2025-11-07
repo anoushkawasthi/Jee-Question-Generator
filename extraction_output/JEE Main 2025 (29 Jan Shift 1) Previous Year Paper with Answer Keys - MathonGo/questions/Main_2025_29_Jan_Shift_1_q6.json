@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_1_q6",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Chemistry",
+  "question_number": 6,
+  "question_type": "MCQ",
+  "question_text": "Let P be the set of seven digit numbers with sum of their digits equal to 11 . If the numbers in P are formed by using the digits 1,2 and 3 only, then the number of elements in the set  is :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 173",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 164",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 158",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 161",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

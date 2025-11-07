@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_29_Jan_Shift_2_q73",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 73,
+  "question_type": "MCQ",
+  "question_text": "The function , has local maxima of local minima one point of local minima one point of local minima",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) exactly one point of local minima and no point of",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) exactly one point of local maxima and no point",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) exactly one point of local maxima and exactly",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) exactly two points of local maxima and exactly",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

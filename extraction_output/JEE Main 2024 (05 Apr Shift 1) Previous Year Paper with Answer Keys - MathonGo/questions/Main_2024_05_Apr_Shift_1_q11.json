@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_1_q11",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 11,
+  "question_type": "MCQ",
+  "question_text": "The heat absorbed by a system in going through the given cyclic process is : JEE Main 2024 (05 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo R T 1 = 4 s T 2 2R [R = ] 2 T 1 = T 2 2 T 1 = 3 T 2 T 1 = T 2 3 T 1 = 2 T 2 10 39 10 29 10 19 10 36 0 ∘ Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "The heat absorbed by a system in going through the given cyclic process is : JEE Main 2024 (05 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo R T 1 = 4 s T 2 2R [R = ] 2 T 1 = T 2 2 T 1 = 3 T 2 T 1 = T 2 3 T 1 = 2 T 2 10 39 10 29 10 19 10 36 0 ∘ Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

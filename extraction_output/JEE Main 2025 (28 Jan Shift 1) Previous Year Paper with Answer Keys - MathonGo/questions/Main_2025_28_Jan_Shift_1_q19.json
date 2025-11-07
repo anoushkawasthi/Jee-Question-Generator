@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_1_q19",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 19,
+  "question_type": "MCQ",
+  "question_text": "The number of different 5 digit numbers greater than 50000 that can be formed using the digits 0 , , such that the sum of their first and last digits should not be more than 8 , is",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 4608",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 5720",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 5719",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 4607",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

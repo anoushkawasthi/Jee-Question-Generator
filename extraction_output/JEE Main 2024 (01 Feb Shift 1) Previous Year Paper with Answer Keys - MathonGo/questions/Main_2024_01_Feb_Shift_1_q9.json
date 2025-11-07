@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_1_q9",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 1",
+  "subject": "Mathematics",
+  "question_number": 9,
+  "question_type": "MCQ",
+  "question_text": "The pressure and volume of an ideal gas are related as 𝑃𝑉 3 2 = 𝐾 (Constant). The work done when the gas is taken from state 𝐴𝑃 1 ,   𝑉 1 ,   𝑇 1 to state 𝐵𝑃 2 ,   𝑉 2 ,   𝑇 2 is : 2 ( 𝑃 1 𝑉 1 - 𝑃 2 𝑉 2 ) 2 ( 𝑃 2 𝑉 2 - 𝑃 1 𝑉 1 ) 2√𝑃 1 𝑉 1 −√𝑃 2 𝑉 2 2𝑃 2 √𝑉 2 −𝑃 1 √𝑉 1",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

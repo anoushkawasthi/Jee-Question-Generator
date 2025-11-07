@@ -1,0 +1,35 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_2_q86",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 86,
+  "question_type": "MCQ",
+  "question_text": "Let . Let  be the set of all points in the interval is equal to _______",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "at which  is not continuous. Then",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be a function defined by",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "denote the greatest integer less than or equal to . Let",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

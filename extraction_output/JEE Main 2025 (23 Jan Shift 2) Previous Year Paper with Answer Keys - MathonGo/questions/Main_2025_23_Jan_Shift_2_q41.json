@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_2_q41",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 41,
+  "question_type": "MCQ",
+  "question_text": "If a satellite orbiting the Earth is 9 times closer to the Earth than the Moon, what is the time period of rotation of the satellite? Given rotational time period of Moon satellite and the moon is neglected.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 27 days",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 1 day",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 81 days",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 3 days",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "days and gravitational attraction between the",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

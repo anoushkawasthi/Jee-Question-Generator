@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_1_q39",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 39,
+  "question_type": "MCQ",
+  "question_text": "Given below are two statements : Statement I : In a vernier callipers, one vernier scale division is always smaller than one main scale division. Statement II : The vernier constant is given by one main scale division 2025 (22 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo m 2R O ′ F 1 R/3 F 2 F 1 : F 2 12 : 11 11 : 10 12 : 9 16 : 9 ρ 1 ρ 2 ′ 9 th 4 th ρ 1 : ρ 2 = 1 : 16 15 7 20 7 15 9 20 9 B μ 0 (B/μ 0 ) ML 2 T −2 A −1 MT −2 A −1 L −1 A LT −2 A −1 ' a ' 2 a λ ϵ 0 λa 2ϵ 0 λa 4ϵ 0 λa 16ϵ 0 λa 8ϵ 0",
+  "question_latex": "Given below are two statements : Statement I : In a vernier callipers, one vernier scale division is always smaller than one main scale division. Statement II : The vernier constant is given by one main scale division 2025 (22 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo m 2R O ′ F 1 $\\frac{R}{3}$ F 2 F 1 : F 2 12 : 11 11 : 10 12 : 9 16 : 9 ρ 1 ρ 2 ′ 9 th 4 th ρ 1 : ρ 2 = 1 : 16 15 7 20 7 15 9 20 9 B μ 0 ($\\frac{B}{μ}$ 0 ) ML 2 T −2 A −1 MT −2 A −1 L −1 A LT −2 A −1 ' a ' 2 a λ ϵ 0 λa 2ϵ 0 λa 4ϵ 0 λa 16ϵ 0 λa 8ϵ 0",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Statement I is true but Statement II is false",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Statement I is false but Statement II is true",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Both Statement I and Statement II are false",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Both Statement I and Statement II are true",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "ABCDEFGH",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "BC",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "cm",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

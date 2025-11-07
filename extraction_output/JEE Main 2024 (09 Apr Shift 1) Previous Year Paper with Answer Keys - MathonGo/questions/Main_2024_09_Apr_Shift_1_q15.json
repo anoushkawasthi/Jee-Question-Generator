@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_1_q15",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 1",
+  "subject": "Physics",
+  "question_number": 15,
+  "question_type": "MCQ",
+  "question_text": ". If electric field is in , the equation for magnetic field is : JEE Main 2024 (09 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 16 25 4 5 8 5√5 2 √5 A 3 d 13ϵ o A 17d 11ϵ o A 18 d 18ϵ o A 11 d 11ϵ o A 20 d 200Ω 20μA (0 −20)mA 0.40Ω 0.20Ω 0.50Ω 0.10Ω A B 18Ω 19Ω 25Ω 27Ω x 4 mm y 60Vm −1 B z = 2 × 10 −7 sin [ π 2 × 10 3 (x −3 × 10 8 t)]^kT B z = 60 sin [ π 2 (x −3 × 10 8 t)]^kT B x = 60 sin [ π 2 (x −3 × 10 8 t)] ^ i T B z = 2 × 10 −7 sin [ π 2 (x −3 × 10 8 t)]^kT Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": ". If electric field is in , the equation for magnetic field is : JEE Main 2024 (09 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 16 25 4 5 8 5√5 2 √5 A 3 d 13ϵ o A 17d 11ϵ o A 18 d 18ϵ o A 11 d 11ϵ o A 20 d 200Ω 20μA (0 −20)mA 0.40Ω 0.20Ω 0.50Ω 0.10Ω A B 18Ω 19Ω 25Ω 27Ω x 4 mm y 60Vm −1 B z = 2 × 10 −7 sin [ π 2 × 10 3 (x −3 × 10 8 t)]^kT B z = 60 sin [ π 2 (x −3 × 10 8 t)]^kT B x = 60 sin [ π 2 (x −3 × 10 8 t)] ^ i T B z = 2 × 10 −7 sin [ π 2 (x −3 × 10 8 t)]^kT Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A plane EM wave is propagating along  direction. It has a wavelength of",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "direction with the maximum magnitude of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_1_q39",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 39,
+  "question_type": "MCQ",
+  "question_text": ". If the pressure inside the bubble is greater than the atmospheric pressure, then the surface tension of the liquid in SI unit is (use )",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "An air bubble of radius 0.1 cm lies at a depth of 20 cm below the free surface of a liquid of density",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

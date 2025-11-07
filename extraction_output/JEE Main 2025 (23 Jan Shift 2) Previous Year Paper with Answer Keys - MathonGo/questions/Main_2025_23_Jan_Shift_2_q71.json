@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_2_q71",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 71,
+  "question_type": "MCQ",
+  "question_text": "0.01 mole of an organic compound hydrogen, on complete combustion produced . Molar mass of is _____ .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "C",
+      "text": "containing",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

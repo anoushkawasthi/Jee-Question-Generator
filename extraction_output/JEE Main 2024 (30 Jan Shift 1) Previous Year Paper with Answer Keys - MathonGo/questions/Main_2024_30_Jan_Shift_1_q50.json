@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_1_q50",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 50,
+  "question_type": "MCQ",
+  "question_text": "Sugar which does not give reddish brown precipitate with Fehling's reagent is: JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo A H 2 SO 4 HNO 3 HNO 3 HNO 3 2 S HNO 3 Na 2 S NaCN HNO 3 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "Sugar which does not give reddish brown precipitate with Fehling's reagent is: JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo A H 2 SO 4 HNO 3 HNO 3 HNO 3 2 S HNO 3 Na 2 S NaCN HNO 3 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Sucrose",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Lactose",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Glucose",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Maltose",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "Ag",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

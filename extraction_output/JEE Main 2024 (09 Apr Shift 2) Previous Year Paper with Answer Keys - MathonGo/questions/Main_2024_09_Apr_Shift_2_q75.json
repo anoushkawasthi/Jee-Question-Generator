@@ -1,0 +1,60 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_2_q75",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 75,
+  "question_type": "Numerical",
+  "question_text": "The value of the integral is JEE Main 2024 (09 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo H α β 3α 2 + 2β 2 lim x→ π 2 ( ∫ (π/2)3 x 3 (sin(2t 1/3 )+cos(t 1/3 ))dt (x− π 2 ) 2 ) 5π 2 9 9π 2 8 11π 2 10 3π 2 2 lim x→0 e−(1+2x) 1 2x x −2 e e −e 2 x c 2c 3c 4c 5c 6c f 2 1 1 1 1 1 ] 1 3 1 5 A 2 × 2 −1 = A −1 −1 = A C 4 + αC 2 + βI = O 2β −α ∫ 3/4 1/4 −1 √ 1−x 1+x )dx 1/2 −1/2 −1/4 1/4 f(x) = 1 2+sin 3x+cos 3x , x ∈R [a, b] α β a b α β π √π √2 log e y = 3 sin −1 x (1 −x 2 )y ′′ −xy ′ x = 1 2 3e π/6 9e π/2 3e π/2 9e π/6 ∫ x 0 √1 −(y ′ (t)) 2 x 0 y(t)dt, 0 ≤x ≤3, y ≥0, y(0) = 0 x = 2, y ′′ + y + 1 √2 1/2 ∫ 2 −1 log e (x + √x 2 + 1)dx Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "The value of the integral is JEE Main 2024 (09 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo H α β 3α 2 + 2β 2 lim x→ π 2 ( ∫ ($\\frac{π}{2}$)3 x 3 (sin(2t $\\frac{1}{3}$ )+cos(t $\\frac{1}{3}$ ))dt (x− π 2 ) 2 ) 5π 2 9 9π 2 8 11π 2 10 3π 2 2 lim x→0 e−(1+2x) 1 2x x −2 e e −e 2 x c 2c 3c 4c 5c 6c f 2 1 1 1 1 1 ] 1 3 1 5 A 2 × 2 −1 = A −1 −1 = A C 4 + αC 2 + βI = O 2β −α ∫ $\\frac{3}{4}$ $\\frac{1}{4}$ −1 √ 1−x 1+x )dx $\\frac{1}{2}$ −$\\frac{1}{2}$ −$\\frac{1}{4}$ $\\frac{1}{4}$ f(x) = 1 2+sin 3x+cos 3x , x ∈R [a, b] α β a b α β π √π √2 log e y = 3 sin −1 x (1 −x 2 )y ′′ −xy ′ x = 1 2 3e $\\frac{π}{6}$ 9e $\\frac{π}{2}$ 3e $\\frac{π}{2}$ 9e $\\frac{π}{6}$ ∫ x 0 √1 −(y ′ (t)) 2 x 0 y(t)dt, 0 ≤x ≤3, y ≥0, y(0) = 0 x = 2, y ′′ + y + 1 √2 $\\frac{1}{2}$ ∫ 2 −1 log e (x + √x 2 + 1)dx Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "AB",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "BCB",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "cos (2 cot",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "dt = ∫",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

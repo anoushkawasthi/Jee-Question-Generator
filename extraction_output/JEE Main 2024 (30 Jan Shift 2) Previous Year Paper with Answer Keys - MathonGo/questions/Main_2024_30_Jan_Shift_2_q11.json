@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_2_q11",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 11,
+  "question_type": "MCQ",
+  "question_text": "When a potential difference 𝑉 is applied across a wire of resistance 𝑅 , it dissipates energy at a rate 𝑊. If the wire is cut into two halves and these halves are connected mutually parallel across the same supply, the energy 1 4 W 1 2 W 2   W 4   W JEE Main 2024 (30 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "When a potential difference 𝑉 is applied across a wire of resistance 𝑅 , it dissipates energy at a rate 𝑊. If the wire is cut into two halves and these halves are connected mutually parallel across the same supply, the energy 1 4 W 1 2 W 2   W 4   W JEE Main 2024 (30 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "dissipation rate will become:",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

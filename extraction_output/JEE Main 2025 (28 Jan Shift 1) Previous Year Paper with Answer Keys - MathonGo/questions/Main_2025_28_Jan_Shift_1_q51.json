@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_1_q51",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 51,
+  "question_type": "MCQ",
+  "question_text": "Given below are two statements: Statement I : D-glucose pentaacetate reacts with 2, 4-dinitrophenylhydrazine Statement II : Starch, on heating with concentrated sulfuric acid at 2025 (28 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo m p λ 1 c √ E m p 1 c √ 2E m p 1 2c √ E m p 1 c √ E 2 m p [M a L b T c ] c x 100 x R 1 R 2 I 1 I 2 R 2 = 2R 1 I 1 I 2 1/x x = n 100 ∘ C",
+  "question_latex": "Given below are two statements: Statement I : D-glucose pentaacetate reacts with 2, 4-dinitrophenylhydrazine Statement II : Starch, on heating with concentrated sulfuric acid at 2025 (28 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo m p λ 1 c √ E m p 1 c √ 2E m p 1 2c √ E m p 1 c √ E 2 m p [M a L b T c ] c x 100 x R 1 R 2 I 1 I 2 R 2 = 2R 1 I 1 I 2 $\\frac{1}{x}$ x = n 100 ∘ C",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Statement I is false but Statement II is true",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Both Statement I and Statement II are false",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Both Statement I and Statement II are true",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Statement I is true but Statement II is false",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and 2-3 atmosphere pressure",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "b = −3",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

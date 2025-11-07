@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_2_q84",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 84,
+  "question_type": "MCQ",
+  "question_text": "Let 𝛼= ∑ 𝑘= 0 𝑛 𝑛 C 𝑘 2 𝑘+ 1 𝛽= ∑ 𝑘= 0 𝑛- 1 𝑛 C 𝑘 𝑛 C 𝑘+ 1 𝑘+ 2 . If 5𝛼= 6𝛽 , then 𝑛 equals",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_2_q32",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 32,
+  "question_type": "MCQ",
+  "question_text": "2025 (28 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo t = 0 t = 4 s 30 m 11 m 10 m 13 m (3, 4)m → F = (2 ^ i + 3 ^ j)N (6, 10)m 13 : 6 4 : 3 1 : 2 6 : 13 10πrads −1 (π = 3.14) 0.5024 V V 0.2512V V 0.1256V V magnetic field at the origin  of the arc is given by :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "An infinite wire has a circular bend of radius a, and carrying a current I as shown in figure. The magnitude of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

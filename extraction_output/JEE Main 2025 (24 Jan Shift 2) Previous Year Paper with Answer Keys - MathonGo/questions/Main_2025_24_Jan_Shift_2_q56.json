@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_2_q56",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 56,
+  "question_type": "MCQ",
+  "question_text": "",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) (A) only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) (A), (B) and (E) only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) (A) and (C) only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) (A), (C) and (D) only",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "are meta directing group. (D) Activating groups act as ortho - and para",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "directing groups. (E) Halides are activating groups. Choose the correct answer from the options given below :",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

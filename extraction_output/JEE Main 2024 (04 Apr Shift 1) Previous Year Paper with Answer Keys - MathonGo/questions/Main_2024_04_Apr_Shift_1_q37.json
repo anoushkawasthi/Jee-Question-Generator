@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_1_q37",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 37,
+  "question_type": "MCQ",
+  "question_text": "effect shows negative electromeric effect in the presence of the reagent only.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Electromeric effect dominates over inductive",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) The electromeric effect is, temporary effect",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Hydrogen ion",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) The organic compound shows electromeric effect",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

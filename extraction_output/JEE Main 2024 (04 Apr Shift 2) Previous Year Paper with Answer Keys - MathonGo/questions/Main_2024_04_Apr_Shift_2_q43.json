@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_2_q43",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 2",
+  "subject": "Physics",
+  "question_number": 43,
+  "question_type": "MCQ",
+  "question_text": "Fuel cell, using hydrogen and oxygen as fuels, A. has been used in spaceship B. has as efficiency of to produce electricity C. uses aluminum as catalysts D. is eco-friendry E. is actually a type of Galvanic cell only",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) A, B, D, E only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) A, D, E only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) A, B, D only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) A, B, C only",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Choose the correct answer from the options given below:",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

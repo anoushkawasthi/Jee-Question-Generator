@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_2_q72",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 72,
+  "question_type": "MCQ",
+  "question_text": "The observed and normal molar masses of compound of ionisation of is %. (Nearest integer)",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "are 65.6 and 164 respectively. The percent degree",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

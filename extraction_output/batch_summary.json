@@ -1,0 +1,256 @@
+{
+  "timestamp": "2025-11-07T12:48:03.501867",
+  "statistics": {
+    "total_pdfs": 30,
+    "processed": 30,
+    "successful": 30,
+    "failed": 0,
+    "success_rate": 100.0,
+    "total_duration_seconds": 57.82,
+    "avg_duration_per_pdf": 1.93,
+    "total_questions_extracted": 0
+  },
+  "failed_files": [],
+  "results": [
+    {
+      "pdf_file": "JEE Main 2024 (01 Feb Shift 2) Previous Year Paper with Answer Keys - MathonGo.pdf",
+      "status": "success",
+      "output_dir": "extraction_output\\JEE Main 2024 (01 Feb Shift 2) Previous Year Paper with Answer Keys - MathonGo",
+      "questions_extracted": 0,
+      "error": null,
+      "duration": 29.199759
+    },
+    {
+      "pdf_file": "JEE Main 2024 (01 Feb Shift 1) Previous Year Paper with Answer Keys - MathonGo.pdf",
+      "status": "success",
+      "output_dir": "extraction_output\\JEE Main 2024 (01 Feb Shift 1) Previous Year Paper with Answer Keys - MathonGo",
+      "questions_extracted": 0,
+      "error": null,
+      "duration": 30.132406
+    },
+    {
+      "pdf_file": "JEE Main 2024 (04 Apr Shift 2) Previous Year Paper with Answer Keys - MathonGo.pdf",
+      "status": "success",
+      "output_dir": "extraction_output\\JEE Main 2024 (04 Apr Shift 2) Previous Year Paper with Answer Keys - MathonGo",
+      "questions_extracted": 0,
+      "error": null,
+      "duration": 31.006644
+    },
+    {
+      "pdf_file": "JEE Main 2024 (04 Apr Shift 1) Previous Year Paper with Answer Keys - MathonGo.pdf",
+      "status": "success",
+      "output_dir": "extraction_output\\JEE Main 2024 (04 Apr Shift 1) Previous Year Paper with Answer Keys - MathonGo",
+      "questions_extracted": 0,
+      "error": null,
+      "duration": 32.032281
+    },
+    {
+      "pdf_file": "JEE Main 2024 (05 Apr Shift 1) Previous Year Paper with Answer Keys - MathonGo.pdf",
+      "status": "success",
+      "output_dir": "extraction_output\\JEE Main 2024 (05 Apr Shift 1) Previous Year Paper with Answer Keys - MathonGo",
+      "questions_extracted": 0,
+      "error": null,
+      "duration": 4.011254
+    },
+    {
+      "pdf_file": "JEE Main 2024 (05 Apr Shift 2) Previous Year Paper with Answer Keys - MathonGo.pdf",
+      "status": "success",
+      "output_dir": "extraction_output\\JEE Main 2024 (05 Apr Shift 2) Previous Year Paper with Answer Keys - MathonGo",
+      "questions_extracted": 0,
+      "error": null,
+      "duration": 3.890448
+    },
+    {
+      "pdf_file": "JEE Main 2024 (06 Apr Shift 1) Previous Year Paper with Answer Keys - MathonGo.pdf",
+      "status": "success",
+      "output_dir": "extraction_output\\JEE Main 2024 (06 Apr Shift 1) Previous Year Paper with Answer Keys - MathonGo",
+      "questions_extracted": 0,
+      "error": null,
+      "duration": 3.970652
+    },
+    {
+      "pdf_file": "JEE Main 2024 (08 Apr Shift 2) Previous Year Paper with Answer Keys - MathonGo.pdf",
+      "status": "success",
+      "output_dir": "extraction_output\\JEE Main 2024 (08 Apr Shift 2) Previous Year Paper with Answer Keys - MathonGo",
+      "questions_extracted": 0,
+      "error": null,
+      "duration": 2.177842
+    },
+    {
+      "pdf_file": "JEE Main 2024 (06 Apr Shift 2) Previous Year Paper with Answer Keys - MathonGo.pdf",
+      "status": "success",
+      "output_dir": "extraction_output\\JEE Main 2024 (06 Apr Shift 2) Previous Year Paper with Answer Keys - MathonGo",
+      "questions_extracted": 0,
+      "error": null,
+      "duration": 4.955133
+    },
+    {
+      "pdf_file": "JEE Main 2024 (08 Apr Shift 1) Previous Year Paper with Answer Keys - MathonGo.pdf",
+      "status": "success",
+      "output_dir": "extraction_output\\JEE Main 2024 (08 Apr Shift 1) Previous Year Paper with Answer Keys - MathonGo",
+      "questions_extracted": 0,
+      "error": null,
+      "duration": 4.688015
+    },
+    {
+      "pdf_file": "JEE Main 2024 (09 Apr Shift 1) Previous Year Paper with Answer Keys - MathonGo.pdf",
+      "status": "success",
+      "output_dir": "extraction_output\\JEE Main 2024 (09 Apr Shift 1) Previous Year Paper with Answer Keys - MathonGo",
+      "questions_extracted": 0,
+      "error": null,
+      "duration": 4.231603
+    },
+    {
+      "pdf_file": "JEE Main 2024 (09 Apr Shift 2) Previous Year Paper with Answer Keys - MathonGo.pdf",
+      "status": "success",
+      "output_dir": "extraction_output\\JEE Main 2024 (09 Apr Shift 2) Previous Year Paper with Answer Keys - MathonGo",
+      "questions_extracted": 0,
+      "error": null,
+      "duration": 3.789721
+    },
+    {
+      "pdf_file": "JEE Main 2024 (27 Jan Shift 1) Previous Year Paper with Answer Keys - MathonGo.pdf",
+      "status": "success",
+      "output_dir": "extraction_output\\JEE Main 2024 (27 Jan Shift 1) Previous Year Paper with Answer Keys - MathonGo",
+      "questions_extracted": 0,
+      "error": null,
+      "duration": 3.973526
+    },
+    {
+      "pdf_file": "JEE Main 2024 (27 Jan Shift 2) Previous Year Paper with Answer Keys - MathonGo.pdf",
+      "status": "success",
+      "output_dir": "extraction_output\\JEE Main 2024 (27 Jan Shift 2) Previous Year Paper with Answer Keys - MathonGo",
+      "questions_extracted": 0,
+      "error": null,
+      "duration": 4.577129
+    },
+    {
+      "pdf_file": "JEE Main 2024 (29 Jan Shift 1) Previous Year Paper with Answer Keys - MathonGo.pdf",
+      "status": "success",
+      "output_dir": "extraction_output\\JEE Main 2024 (29 Jan Shift 1) Previous Year Paper with Answer Keys - MathonGo",
+      "questions_extracted": 0,
+      "error": null,
+      "duration": 4.314945
+    },
+    {
+      "pdf_file": "JEE Main 2024 (29 Jan Shift 2) Previous Year Paper with Answer Keys - MathonGo.pdf",
+      "status": "success",
+      "output_dir": "extraction_output\\JEE Main 2024 (29 Jan Shift 2) Previous Year Paper with Answer Keys - MathonGo",
+      "questions_extracted": 0,
+      "error": null,
+      "duration": 4.459929
+    },
+    {
+      "pdf_file": "JEE Main 2024 (31 Jan Shift 1) Previous Year Paper with Answer Keys - MathonGo.pdf",
+      "status": "success",
+      "output_dir": "extraction_output\\JEE Main 2024 (31 Jan Shift 1) Previous Year Paper with Answer Keys - MathonGo",
+      "questions_extracted": 0,
+      "error": null,
+      "duration": 2.341575
+    },
+    {
+      "pdf_file": "JEE Main 2024 (30 Jan Shift 2) Previous Year Paper with Answer Keys - MathonGo.pdf",
+      "status": "success",
+      "output_dir": "extraction_output\\JEE Main 2024 (30 Jan Shift 2) Previous Year Paper with Answer Keys - MathonGo",
+      "questions_extracted": 0,
+      "error": null,
+      "duration": 4.355323
+    },
+    {
+      "pdf_file": "JEE Main 2024 (30 Jan Shift 1) Previous Year Paper with Answer Keys - MathonGo.pdf",
+      "status": "success",
+      "output_dir": "extraction_output\\JEE Main 2024 (30 Jan Shift 1) Previous Year Paper with Answer Keys - MathonGo",
+      "questions_extracted": 0,
+      "error": null,
+      "duration": 6.707394
+    },
+    {
+      "pdf_file": "JEE Main 2025 (22 Jan Shift 1) Previous Year Paper with Answer Keys - MathonGo.pdf",
+      "status": "success",
+      "output_dir": "extraction_output\\JEE Main 2025 (22 Jan Shift 1) Previous Year Paper with Answer Keys - MathonGo",
+      "questions_extracted": 0,
+      "error": null,
+      "duration": 3.451182
+    },
+    {
+      "pdf_file": "JEE Main 2024 (31 Jan Shift 2) Previous Year Paper with Answer Keys - MathonGo.pdf",
+      "status": "success",
+      "output_dir": "extraction_output\\JEE Main 2024 (31 Jan Shift 2) Previous Year Paper with Answer Keys - MathonGo",
+      "questions_extracted": 0,
+      "error": null,
+      "duration": 5.49407
+    },
+    {
+      "pdf_file": "JEE Main 2025 (23 Jan Shift 1) Previous Year Paper with Answer Keys - MathonGo.pdf",
+      "status": "success",
+      "output_dir": "extraction_output\\JEE Main 2025 (23 Jan Shift 1) Previous Year Paper with Answer Keys - MathonGo",
+      "questions_extracted": 0,
+      "error": null,
+      "duration": 2.990428
+    },
+    {
+      "pdf_file": "JEE Main 2025 (22 Jan Shift 2) Previous Year Paper with Answer Keys - MathonGo.pdf",
+      "status": "success",
+      "output_dir": "extraction_output\\JEE Main 2025 (22 Jan Shift 2) Previous Year Paper with Answer Keys - MathonGo",
+      "questions_extracted": 0,
+      "error": null,
+      "duration": 5.029057
+    },
+    {
+      "pdf_file": "JEE Main 2025 (23 Jan Shift 2) Previous Year Paper with Answer Keys - MathonGo.pdf",
+      "status": "success",
+      "output_dir": "extraction_output\\JEE Main 2025 (23 Jan Shift 2) Previous Year Paper with Answer Keys - MathonGo",
+      "questions_extracted": 0,
+      "error": null,
+      "duration": 3.956744
+    },
+    {
+      "pdf_file": "JEE Main 2025 (24 Jan Shift 1) Previous Year Paper with Answer Keys - MathonGo.pdf",
+      "status": "success",
+      "output_dir": "extraction_output\\JEE Main 2025 (24 Jan Shift 1) Previous Year Paper with Answer Keys - MathonGo",
+      "questions_extracted": 0,
+      "error": null,
+      "duration": 4.260137
+    },
+    {
+      "pdf_file": "JEE Main 2025 (24 Jan Shift 2) Previous Year Paper with Answer Keys - MathonGo.pdf",
+      "status": "success",
+      "output_dir": "extraction_output\\JEE Main 2025 (24 Jan Shift 2) Previous Year Paper with Answer Keys - MathonGo",
+      "questions_extracted": 0,
+      "error": null,
+      "duration": 4.890288
+    },
+    {
+      "pdf_file": "JEE Main 2025 (28 Jan Shift 1) Previous Year Paper with Answer Keys - MathonGo.pdf",
+      "status": "success",
+      "output_dir": "extraction_output\\JEE Main 2025 (28 Jan Shift 1) Previous Year Paper with Answer Keys - MathonGo",
+      "questions_extracted": 0,
+      "error": null,
+      "duration": 4.672991
+    },
+    {
+      "pdf_file": "JEE Main 2025 (28 Jan Shift 2) Previous Year Paper with Answer Keys - MathonGo.pdf",
+      "status": "success",
+      "output_dir": "extraction_output\\JEE Main 2025 (28 Jan Shift 2) Previous Year Paper with Answer Keys - MathonGo",
+      "questions_extracted": 0,
+      "error": null,
+      "duration": 3.717588
+    },
+    {
+      "pdf_file": "JEE Main 2025 (29 Jan Shift 1) Previous Year Paper with Answer Keys - MathonGo.pdf",
+      "status": "success",
+      "output_dir": "extraction_output\\JEE Main 2025 (29 Jan Shift 1) Previous Year Paper with Answer Keys - MathonGo",
+      "questions_extracted": 0,
+      "error": null,
+      "duration": 3.182658
+    },
+    {
+      "pdf_file": "JEE Main 2025 (29 Jan Shift 2) Previous Year Paper with Answer Keys - MathonGo.pdf",
+      "status": "success",
+      "output_dir": "extraction_output\\JEE Main 2025 (29 Jan Shift 2) Previous Year Paper with Answer Keys - MathonGo",
+      "questions_extracted": 0,
+      "error": null,
+      "duration": 2.260962
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_1_q35",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 1",
+  "subject": "Chemistry",
+  "question_number": 35,
+  "question_type": "MCQ",
+  "question_text": "Methods used for purification of organic compounds are based on : impurity present.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) nature of compound and presence of impurity.",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) neither on nature of compound nor on the",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) nature of compound only.",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) presence of impurity only.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

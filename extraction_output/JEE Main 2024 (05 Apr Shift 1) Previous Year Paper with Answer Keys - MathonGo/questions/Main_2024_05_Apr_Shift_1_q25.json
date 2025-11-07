@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_1_q25",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 1",
+  "subject": "Physics",
+  "question_number": 25,
+  "question_type": "Numerical",
+  "question_text": "The electric field between the two parallel plates of a capacitor of initial value in when the plates are connected by a thin wire. The resistance of this wire is _____ . (Given, )",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "C",
+      "text": "capacitance drops to one third of its",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

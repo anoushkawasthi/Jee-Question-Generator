@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_2_q5",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 5,
+  "question_type": "MCQ",
+  "question_text": "1   kg is pushed up a surface inclined to horizontal at an angle of 60° 10   N parallel to the inclined surface as shown in figure. When the block is pushed up by 10   m surface, the work done against frictional force is : 𝑔= 10   m   s -2 5√3   J 5   J 5 × 10 3 J 10   J",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "along inclined",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "by a force of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

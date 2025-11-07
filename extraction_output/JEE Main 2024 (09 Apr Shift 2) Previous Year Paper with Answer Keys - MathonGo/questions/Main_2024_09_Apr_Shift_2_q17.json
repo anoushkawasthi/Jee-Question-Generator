@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_2_q17",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 17,
+  "question_type": "MCQ",
+  "question_text": ". After respectively. respectively.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) in the same direction with same speed.",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) in opposite directions with the same speed.",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) in opposite directions with speed in the ratio of",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) in opposite directions with speed in the ratio of",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A nucleus at rest disintegrates into two smaller nuclei with their masses in the ratio of",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "disintegration they will move :",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

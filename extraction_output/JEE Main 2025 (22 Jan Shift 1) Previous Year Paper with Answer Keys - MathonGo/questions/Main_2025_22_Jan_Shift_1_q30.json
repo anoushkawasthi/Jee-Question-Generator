@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_1_q30",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 30,
+  "question_type": "MCQ",
+  "question_text": "while that for the electron in third excited state is . The ratio of the de Broglie wavelengths of electron in the excited state to that in the ground state is",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 3",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 16",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 9",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 4",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "An electron in the ground state of the hydrogen atom has the orbital radius of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

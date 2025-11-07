@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_2_q83",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 2",
+  "subject": "Mathematics",
+  "question_number": 83,
+  "question_type": "MCQ",
+  "question_text": "Let 𝐴𝐵𝐶 𝐴 is at −1, 0,   ∠𝐴= 2𝜋 3 ,   𝐴𝐵= 𝐴𝐶 𝐵 is on the positive 𝑥- 𝐵𝐶= 4√3 𝐵𝐶 intersects the line 𝑦= 𝑥+ 3 𝛼, 𝛽, then 𝛽 4 𝛼 2 is:",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "at",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be an isosceles triangle in which",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

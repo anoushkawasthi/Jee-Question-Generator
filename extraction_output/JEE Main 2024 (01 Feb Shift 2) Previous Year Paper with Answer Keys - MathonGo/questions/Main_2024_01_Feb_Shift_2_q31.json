@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_2_q31",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 2",
+  "subject": "Mathematics",
+  "question_number": 31,
+  "question_type": "MCQ",
+  "question_text": "The number of radial node/s for 3p orbital is: 1 4 2 3",
+  "question_latex": "The number of radial $\\frac{node}{s}$ for 3p orbital is: 1 4 2 3",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

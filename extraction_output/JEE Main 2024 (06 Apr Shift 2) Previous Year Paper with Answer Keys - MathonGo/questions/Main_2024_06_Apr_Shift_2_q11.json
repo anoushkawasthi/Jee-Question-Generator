@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_2_q11",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 11,
+  "question_type": "MCQ",
+  "question_text": "The number of electrons flowing per second in the filament of a is :  Given JEE Main 2024 (06 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo 24.9 J 72.9 J 48 J 23.1 J T 70 K B T 35 K B T 7 2 RT 35RT P S Q 16 N R P S 1 N 6 N 12 N 4 N 110 W 220 V ( e = 1.6 × 10 −19 6.25 × 10 17 1.25 × 10 19 6.25 × 10 18 31.25 × 10 17 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "The number of electrons flowing per second in the filament of a is :  Given JEE Main 2024 (06 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo 24.9 J 72.9 J 48 J 23.1 J T 70 K B T 35 K B T 7 2 RT 35RT P S Q 16 N R P S 1 N 6 N 12 N 4 N 110 W 220 V ( e = 1.6 × 10 −19 6.25 × 10 17 1.25 × 10 19 6.25 × 10 18 31.25 × 10 17 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "bulb operating at",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "C)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

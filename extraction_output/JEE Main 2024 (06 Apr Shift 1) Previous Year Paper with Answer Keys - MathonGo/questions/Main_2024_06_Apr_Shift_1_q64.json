@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_1_q64",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 64,
+  "question_type": "MCQ",
+  "question_text": "Let a variable line of slope passing through the point intersect the coordinate axes at the points JEE Main 2024 (06 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo P CH 3 3 ′′ (i) Na/ ing NH 3 − → (ii) dil. KMnO 4 273 K P HX HX(aq) ⇌H + (aq) + X − (aq), Ka = 1.2 × 10 −5 [K a ] 0.03M HX 300 K ×10 −2 R = 0.083 Lbarmol −1 K −1 99.9% 90% 2 O 3 3 10 −2 KMnO 4 KMnO 4 A π A B 9.3 g α, β x 2 −(t 2 −5t + 6)x + 1 = 0, t ∈R a n = α n + β n a 2023 +a 2025 a 2024 −1/4 −1/4 −1/2 1/4 } A m > 0 (4, −9) A B A B Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "Let a variable line of slope passing through the point intersect the coordinate axes at the points JEE Main 2024 (06 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo P CH 3 3 ′′ (i) Na/ ing NH 3 − → (ii) dil. KMnO 4 273 K P HX HX(aq) ⇌H + (aq) + X − (aq), Ka = 1.2 × 10 −5 [K a ] 0.03M HX 300 K ×10 −2 R = 0.083 Lbarmol −1 K −1 99.9% 90% 2 O 3 3 10 −2 KMnO 4 KMnO 4 A π A B 9.3 g α, β x 2 −(t 2 −5t + 6)x + 1 = 0, t ∈R a n = α n + β n a 2023 +a 2025 a 2024 −$\\frac{1}{4}$ −$\\frac{1}{4}$ −$\\frac{1}{2}$ $\\frac{1}{4}$ } A m > 0 (4, −9) A B A B Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 30",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 25",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 15",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 10",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A = {n ∈[100, 700] ∩N : n",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "BM",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Cr",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

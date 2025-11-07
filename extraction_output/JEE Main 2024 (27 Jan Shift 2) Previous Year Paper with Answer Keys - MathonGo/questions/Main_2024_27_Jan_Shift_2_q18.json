@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_27_Jan_Shift_2_q18",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "27 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 18,
+  "question_type": "MCQ",
+  "question_text": "The atomic mass of 6 C 12 is 12 . 000000   u 6 C 13 is 13 . 003354   u . The required energy to remove a neutron from 6 C 13 , if mass of neutron is 1 . 008665   u , will be: 62 . 5MeV 6 . 25MeV 4 . 95MeV 49 . 5MeV",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and that of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

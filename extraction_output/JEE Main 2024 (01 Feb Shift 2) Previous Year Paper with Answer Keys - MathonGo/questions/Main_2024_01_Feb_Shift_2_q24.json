@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_2_q24",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 2",
+  "subject": "Mathematics",
+  "question_number": 24,
+  "question_type": "Numerical",
+  "question_text": "𝑚 is suspended from a spring of negligible mass and the system oscillates with a frequency 𝑓 1 . The frequency of oscillations if a mass 9𝑚 is suspended from the same spring is 𝑓 2 . The value of 𝑓 1 𝑓 2 is _____ .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A mass",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

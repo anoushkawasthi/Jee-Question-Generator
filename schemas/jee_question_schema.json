@@ -1,0 +1,214 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "JEE Question Paper Extraction Schema",
+  "type": "object",
+  "properties": {
+    "paper_metadata": {
+      "type": "object",
+      "properties": {
+        "exam_name": {
+          "type": "string",
+          "description": "Name of the exam (e.g., 'JEE Main 2024')"
+        },
+        "exam_date_shift": {
+          "type": "string",
+          "description": "Exam date and shift (e.g., '01 Feb Shift 1')"
+        },
+        "paper_id": {
+          "type": "string",
+          "description": "Unique identifier for the paper (pattern: {exam}_{date}_{shift})"
+        },
+        "total_questions": {
+          "type": "integer",
+          "description": "Total number of questions in the paper"
+        },
+        "extraction_timestamp": {
+          "type": "string",
+          "format": "date-time",
+          "description": "When the extraction occurred"
+        },
+        "extraction_method": {
+          "type": "string",
+          "enum": ["pdfplumber", "pymupdf", "nougat", "ocr"],
+          "description": "Method used for extraction"
+        }
+      },
+      "required": [
+        "exam_name",
+        "exam_date_shift",
+        "paper_id",
+        "total_questions",
+        "extraction_timestamp"
+      ]
+    },
+    "questions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "question_id": {
+            "type": "string",
+            "pattern": "^[^_]+_[^_]+_[^_]+_q\\d+$",
+            "description": "Unique question identifier (format: {exam}_{date}_{shift}_q{N})"
+          },
+          "question_number": {
+            "type": "integer",
+            "minimum": 1,
+            "description": "Question number in the paper (1-based indexing)"
+          },
+          "subject": {
+            "type": "string",
+            "enum": ["Mathematics", "Physics", "Chemistry"],
+            "description": "Subject of the question"
+          },
+          "question_type": {
+            "type": "string",
+            "enum": ["MCQ", "Numerical", "Match the Column", "Assertion-Reason"],
+            "description": "Type of question"
+          },
+          "question_text": {
+            "type": "string",
+            "description": "Plain text version of the question"
+          },
+          "question_latex": {
+            "type": ["string", "null"],
+            "description": "LaTeX formatted version of the question (optional if no mathematical notation)"
+          },
+          "question_images": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "Array of image filenames associated with this question (e.g., 'JEE_01Feb_Shift1_page2_img1.png')"
+          },
+          "chemical_smiles": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "Array of SMILES strings for chemical structures in this question"
+          },
+          "options": {
+            "type": "array",
+            "minItems": 2,
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "enum": ["A", "B", "C", "D"],
+                  "description": "Option identifier"
+                },
+                "text": {
+                  "type": "string",
+                  "description": "Plain text of the option"
+                },
+                "latex": {
+                  "type": ["string", "null"],
+                  "description": "LaTeX formatted version of the option"
+                }
+              },
+              "required": ["id", "text"]
+            },
+            "description": "Array of answer options"
+          },
+          "correct_answer": {
+            "type": ["string", "array"],
+            "description": "Correct answer(s) - string for MCQ, array for numerical range"
+          },
+          "difficulty": {
+            "type": ["string", "null"],
+            "enum": ["Easy", "Medium", "Hard", null],
+            "description": "Estimated difficulty level (optional)"
+          },
+          "concepts": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "Associated topics/concepts"
+          },
+          "extraction_confidence": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1,
+            "description": "Confidence score for extraction accuracy (0-1)"
+          },
+          "notes": {
+            "type": ["string", "null"],
+            "description": "Additional notes or warnings about extraction"
+          }
+        },
+        "required": [
+          "question_id",
+          "question_number",
+          "subject",
+          "question_type",
+          "question_text",
+          "options",
+          "correct_answer"
+        ]
+      },
+      "description": "Array of extracted questions"
+    },
+    "extraction_summary": {
+      "type": "object",
+      "properties": {
+        "total_pages": {
+          "type": "integer",
+          "description": "Total pages processed"
+        },
+        "pages_with_errors": {
+          "type": "array",
+          "items": {
+            "type": "integer"
+          },
+          "description": "Page numbers that encountered errors"
+        },
+        "images_extracted": {
+          "type": "integer",
+          "description": "Total number of images extracted"
+        },
+        "chemical_structures_detected": {
+          "type": "integer",
+          "description": "Number of chemical structures recognized"
+        },
+        "overall_confidence": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1,
+          "description": "Overall extraction confidence score"
+        },
+        "extraction_errors": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "page": {
+                "type": "integer"
+              },
+              "error_type": {
+                "type": "string"
+              },
+              "message": {
+                "type": "string"
+              }
+            }
+          },
+          "description": "Detailed error information"
+        }
+      },
+      "required": [
+        "total_pages",
+        "images_extracted",
+        "chemical_structures_detected",
+        "overall_confidence"
+      ]
+    }
+  },
+  "required": [
+    "paper_metadata",
+    "questions",
+    "extraction_summary"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_2_q87",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 2",
+  "subject": "Mathematics",
+  "question_number": 87,
+  "question_type": "Numerical",
+  "question_text": "Three points 𝑂0, 0,   𝑃𝑎, 𝑎 2 ,   𝑄−𝑏, 𝑏 2 ,   𝑎> 0,   𝑏> 0, 𝑦= 𝑥 2 . Let 𝑆 1 region bounded by the line 𝑃𝑄 𝑆 2 𝑂𝑃𝑄 . If the minimum value of 𝑆 1 𝑆 2 is 𝑚 𝑛 ,   gcd𝑚, 𝑛= 1, then 𝑚+ 𝑛 is equal to: JEE Main 2024 (01 Feb Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "Three points 𝑂0, 0,   𝑃𝑎, 𝑎 2 ,   𝑄−𝑏, 𝑏 2 ,   𝑎> 0,   𝑏> 0, 𝑦= 𝑥 2 . Let 𝑆 1 region bounded by the line 𝑃𝑄 𝑆 2 𝑂𝑃𝑄 . If the minimum value of 𝑆 1 𝑆 2 is 𝑚 𝑛 ,   gcd𝑚, 𝑛= 1, then 𝑚+ 𝑛 is equal to: JEE Main 2024 (01 Feb Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and the parabola, and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be the area of the triangle",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

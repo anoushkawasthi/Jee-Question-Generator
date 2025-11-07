@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_1_q73",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 73,
+  "question_type": "MCQ",
+  "question_text": "Let a rectangle of sides 2 and 4 be inscribed in another rectangle such that the vertices of the rectangle lie on the sides of the rectangle . Let  and  be the sides of the rectangle when its area is maximum. Then is equal to :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 72",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 60",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 64",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 80",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

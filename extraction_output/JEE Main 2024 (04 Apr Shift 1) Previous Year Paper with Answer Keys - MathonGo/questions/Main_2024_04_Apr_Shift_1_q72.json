@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_1_q72",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 72,
+  "question_type": "Numerical",
+  "question_text": "Let the sum of the maximum and the minimum values of the function , where . Then is equal to :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 195",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 201",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 217",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 182",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

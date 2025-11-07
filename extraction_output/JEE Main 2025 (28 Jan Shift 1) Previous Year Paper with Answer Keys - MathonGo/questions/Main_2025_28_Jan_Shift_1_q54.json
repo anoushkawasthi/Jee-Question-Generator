@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_1_q54",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 54,
+  "question_type": "MCQ",
+  "question_text": "followed by reflux under alkaline condition gives (\" R \"). The structure of (\" R \") is given below. The structure of (\" ) is 2025 (28 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo C K 2 2 O 7 KMnO 4 Γ − →I 2 S 2− →S Fe 2+ →Fe 3+ Γ − →IO 3 − S 2 O 3 2− →SO 4 2− P ′′",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A molecule (\" P \") on treatment with acid undergoes rearrangement and gives (\"Q\"). (\"Q\") on ozonolysis",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Cr",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

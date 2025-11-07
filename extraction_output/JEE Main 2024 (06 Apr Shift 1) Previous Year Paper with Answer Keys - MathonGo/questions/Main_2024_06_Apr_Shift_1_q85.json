@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_1_q85",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 85,
+  "question_type": "MCQ",
+  "question_text": "Let . Let such that the is an isosceles triangle with base . If the slopes of the lines , then is equal to _______",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be the lines passing through the point",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

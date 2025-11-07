@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_2_q35",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 35,
+  "question_type": "Assertion-Reason",
+  "question_text": "Given below are two statements. One is labelled as Assertion (A) and the other is labelled as Reason (R). is enough to determine the position and momentum at any time  for a simple harmonic motion with a given angular frequency . Reason (R): The . In the light of the above statements, choose the explanation of",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) (A) is false but (R) is true",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) (A) is true but (R) is false",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Both (A) and (R) are true but (R) is NOT the",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Both",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "are true and",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "correct explanation of (A)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

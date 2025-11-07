@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_27_Jan_Shift_2_q81",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "27 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 81,
+  "question_type": "Numerical",
+  "question_text": "Let the complex numbers α 1 ¯ α lie on the circles z - z 02 = 4 z - z 02 = 16 respectively, where z 0 = 1 + i . Then, the value of 100 | α| 2 is__________.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

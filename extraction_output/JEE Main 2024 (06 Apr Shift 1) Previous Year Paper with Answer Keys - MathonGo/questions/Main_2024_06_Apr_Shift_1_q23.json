@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_1_q23",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 1",
+  "subject": "Physics",
+  "question_number": 23,
+  "question_type": "Numerical",
+  "question_text": "to that of energy of big drop is . The value of  is __________",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A big drop is formed by coalescing 1000 small droplets of water. The ratio of surface energy of 1000 droplets",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

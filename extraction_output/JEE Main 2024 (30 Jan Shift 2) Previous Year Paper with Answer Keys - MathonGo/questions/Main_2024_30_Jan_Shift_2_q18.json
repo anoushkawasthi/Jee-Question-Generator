@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_2_q18",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 18,
+  "question_type": "MCQ",
+  "question_text": "In a nuclear fission reaction of an isotope of mass 𝑀 , three similar daughter nuclei of same mass are formed. The speed of a daughter nuclei in terms of mass defect 𝛥𝑀 will be : JEE Main 2024 (30 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN √ 2𝑐𝛥𝑀 𝑀 𝛥𝑀𝑐 2 3 𝑐√ 2𝛥𝑀 𝑀 𝑐√ 3𝛥𝑀 𝑀",
+  "question_latex": "In a nuclear fission reaction of an isotope of mass 𝑀 , three similar daughter nuclei of same mass are formed. The speed of a daughter nuclei in terms of mass defect 𝛥𝑀 will be : JEE Main 2024 (30 Jan Shift 2) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$ √ 2𝑐𝛥𝑀 𝑀 𝛥𝑀𝑐 2 3 𝑐√ 2𝛥𝑀 𝑀 𝑐√ 3𝛥𝑀 𝑀",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

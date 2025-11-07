@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_1_q84",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 84,
+  "question_type": "MCQ",
+  "question_text": "Let a conic  pass through the point , be any point on . Let the slope of the line touching the conic  only at a single point  be half the slope of the line joining the points  and . If the focal distance of the point on  is , then equals ______",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

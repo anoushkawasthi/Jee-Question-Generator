@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_2_q44",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 44,
+  "question_type": "MCQ",
+  "question_text": "Given below are two statements : Statement (I) : Fusion of with . Statement (II) : Manganate ion on electrolytic oxidation in alkaline medium gives",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Statement I is true but Statement II is false",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Both Statement I and Statement II are false",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Statement I is false but Statement II is true",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Both Statement I and Statement II are true",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and an oxidising agent gives",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "below :",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "dark green",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_2_q42",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 2",
+  "subject": "Chemistry",
+  "question_number": 42,
+  "question_type": "MCQ",
+  "question_text": "For the electro chemical cell is a spontaneous reaction (2) is a spontaneous reaction",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

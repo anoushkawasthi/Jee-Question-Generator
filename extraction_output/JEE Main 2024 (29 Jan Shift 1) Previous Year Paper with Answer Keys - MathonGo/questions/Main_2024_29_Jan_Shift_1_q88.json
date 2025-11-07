@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_29_Jan_Shift_1_q88",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 88,
+  "question_type": "MCQ",
+  "question_text": "The area (in sq. units) of the part of circle which is below the line is where is equal to",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "are coprime numbers. Then",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

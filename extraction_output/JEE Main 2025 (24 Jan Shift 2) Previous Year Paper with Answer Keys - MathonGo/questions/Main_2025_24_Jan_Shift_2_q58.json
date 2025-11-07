@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_2_q58",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 58,
+  "question_type": "MCQ",
+  "question_text": "For the reaction, 2025 (24 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo (O −O) (O = O) (O −O) → → → → → → → → → → → → −OCH 3 −NHCOCH 3 −SO 3 H E ∘ 2 O 2− 7 /Cr 3+ = 1.33 V E ∘ 2 /Cl (−) = 1.36 V E ∘ MnO − 4 /Mn 2+ = 1.51 V E ∘ 3+ /Cr = −0.74 V − MnO − 4 Mn 2+ H 2 ( g) + I 2 ( g) ⇌2HI( g)",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "Attainment of equillibrium is predicted correctly by :",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Cl",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

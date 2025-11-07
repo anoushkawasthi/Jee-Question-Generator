@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_2_q27",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 2",
+  "subject": "Physics",
+  "question_number": 27,
+  "question_type": "Numerical",
+  "question_text": "Two parallel long current carrying wire separated by a distance magnetic field at  to the magnetic field produced at  is . The value of  is _____",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "are shown in the figure. The ratio of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

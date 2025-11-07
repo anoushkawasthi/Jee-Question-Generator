@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_2_q18",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 18,
+  "question_type": "Numerical",
+  "question_text": "Let have infinitely many solutions. Then the value of is equal to :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 3080",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 560",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 3410",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 440",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be the values of m , for which the equations",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

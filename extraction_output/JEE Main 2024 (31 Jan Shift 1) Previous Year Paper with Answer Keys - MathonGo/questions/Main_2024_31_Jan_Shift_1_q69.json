@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_1_q69",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 69,
+  "question_type": "MCQ",
+  "question_text": "If 𝑓𝑥= 𝑥 3 2𝑥 2 + 1 1 + 3𝑥 3𝑥 2 + 2 2𝑥 𝑥 3 + 6 𝑥 3 −𝑥 4 𝑥 2 −2 for all 𝑥∈ℝ , then 2𝑓0 + 𝑓 ' 0 is equal to 48 24 42 18",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

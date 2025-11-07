@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_2_q24",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 24,
+  "question_type": "Numerical",
+  "question_text": "The focus of the parabola is the centre of the circle  of radius 5 . If the values of , for which , are , then is equal to",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "C passes through the point of intersection of the lines",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

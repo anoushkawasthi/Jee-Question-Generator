@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_27_Jan_Shift_2_q26",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "27 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 26,
+  "question_type": "MCQ",
+  "question_text": "Two charges of -4   μC +4   μC 𝐴( 1,   0,   4 )   m 𝐵( 2,   - 1,   5 )   m located in an electric field → 𝐸= 0 . 20 ^ i   V   cm -1 . The magnitude of the torque acting on the dipole is 8√𝛼× 10 -5 N   m , where 𝛼= _________.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_2_q37",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 2",
+  "subject": "Chemistry",
+  "question_number": 37,
+  "question_type": "MCQ",
+  "question_text": "interconvertible at room temperature. stereoisomers. JEE Main 2024 (06 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo 1.9 m 3.85 m 2.79 m 2.90 m K P K C (g) + 1 2 O 2( g) ⇌CO 2( g) 1 √RT (RT) 1/2 RT List - I List - II Reaction Type of redox reaction (A) N 2( g) + O 2( g) →2NO (g) (I) Decomposition (B) 2 Pb(NO 3 ) 2( s) →2PbO (s) + 4NO 2( g) + O 2( g) (II) Displacement (C) 2Na (s) + 2H 2 O (I) →2NaOH (aq. + H 2( g) (III) Disproportionation (D) 2NO 2( g ) + 2 − OH(aq. ) →NO − 2( ) + NO − 3( ) + H 2 O (l) (IV) Combination Sn 4+ , Sn 2+ , Pb 2+ , Tl 3+ , Pb 4+ , Tl + C Pb C Pb C pπ −pπ R f R f Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "interconvertible at room temperature. stereoisomers. JEE Main 2024 (06 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo 1.9 m 3.85 m 2.79 m 2.90 m K P K C (g) + 1 2 O 2( g) ⇌CO 2( g) 1 √RT (RT) $\\frac{1}{2}$ RT List - I List - II Reaction Type of redox reaction (A) N 2( g) + O 2( g) →2NO (g) (I) Decomposition (B) 2 Pb(NO 3 ) 2( s) →2PbO (s) + 4NO 2( g) + O 2( g) (II) Displacement (C) 2Na (s) + 2H 2 O (I) →2NaOH (aq. + H 2( g) (III) Disproportionation (D) 2NO 2( g ) + 2 − OH(aq. ) →NO − 2( ) + NO − 3( ) + H 2 O (l) (IV) Combination Sn 4+ , Sn 2+ , Pb 2+ , Tl 3+ , Pb 4+ , Tl + C Pb C Pb C pπ −pπ R f R f Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) cis-2-butene and trans-2-butene are not",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) cis-2-butene and trans-2-butene are",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) cis-2-butene has less dipole moment than trans-2-",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) trans-2-butene is more stable than cis-2-butene.",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "aq.",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "butene.",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "CO",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

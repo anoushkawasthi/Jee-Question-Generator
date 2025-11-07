@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_1_q60",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 1",
+  "subject": "Mathematics",
+  "question_number": 60,
+  "question_type": "MCQ",
+  "question_text": "The number of white coloured salts among the following is ....... 4 4 PO 4 4 2 E   PbSO 4 F   PbCrO 4 G   AgBr             H   PbI 2 I   CaC 2 O 4 J   Fe ( OH ) 2 3",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A   SrSO",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B   MgNH",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "COO",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "D   Mn ( OH )",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

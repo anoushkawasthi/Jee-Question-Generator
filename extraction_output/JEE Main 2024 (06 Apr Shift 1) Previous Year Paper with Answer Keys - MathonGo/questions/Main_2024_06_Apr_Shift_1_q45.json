@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_1_q45",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 1",
+  "subject": "Physics",
+  "question_number": 45,
+  "question_type": "MCQ",
+  "question_text": "he following complexes order of A, B, C and D in terms of wavenumber of light absorbed is :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) C  D  A  B",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) A  C  B  D",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) D  A  C  B",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

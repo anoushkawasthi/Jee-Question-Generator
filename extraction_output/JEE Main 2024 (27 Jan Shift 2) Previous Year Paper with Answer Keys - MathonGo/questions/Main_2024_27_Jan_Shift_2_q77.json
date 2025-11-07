@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2024_27_Jan_Shift_2_q77",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "27 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 77,
+  "question_type": "MCQ",
+  "question_text": "The position vectors of the vertices C of a triangle are 2 ^ i - 3 ^ j + 3 ^ k,   2 ^ i + 2 ^ j + 3 ^ k - ^ i + ^ j + 3 ^ k respectively. Let 𝑙 of ∠BAC where D is on the line segment , then 2𝑙 2 equals : 49 42 50 45",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "AD",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "BC",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "denotes the length of the angle bisector",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

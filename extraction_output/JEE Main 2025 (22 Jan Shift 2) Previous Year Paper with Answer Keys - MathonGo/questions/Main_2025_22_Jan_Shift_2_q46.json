@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_2_q46",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 46,
+  "question_type": "Numerical",
+  "question_text": ". When the electric field is switched off, the proton moves along a circular path of radius 2 cm . The magnitude of electric field is . The value of  is _______ Take the mass of the proton .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A proton is moving undeflected in a region of crossed electric and magnetic fields at a constant speed of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

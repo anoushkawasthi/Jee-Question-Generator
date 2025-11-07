@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_1_q5",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 5,
+  "question_type": "Numerical",
+  "question_text": "In the given arrangement of a doubly inclined plane two blocks of masses 𝑀 𝑚 of the plane and the blocks is 0 . 25 . The value of 𝑚 , for which 𝑀= 10   kg will move down with an 2   m   s -2 , is: (take 𝑔= 10   m   s -2 tan   37° = 3 4 ) 9   kg 4 . 5   kg 6 . 5   kg 2 . 25   kg",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "connected by a light string passing over an ideal pulley as shown. The coefficient of friction between the surface",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

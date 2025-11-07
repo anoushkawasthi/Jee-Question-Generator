@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_2_q43",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 43,
+  "question_type": "MCQ",
+  "question_text": "In a Young's double slit experiment, three polarizers are kept as shown in the figure. The transmission axes of to those of . An unpolarized light of wavelength  and intensity is incident on . The 2025 (24 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo Kq 2 0 a (4 −2√2) Kq 2 0 a (3 −√2) Kq 2 0 a (4√2 −2) Kq 2 0 a (3√2 −2) (λ) (λ 1 ) (λ 2 ) (λ 3 ) (λ 4 ) λ 4 < λ 3 < λ 2 < λ 1 λ 3 < λ 4 < λ 2 < λ 1 λ 4 < λ 3 < λ 1 < λ 2 λ 4 < λ 2 < λ 3 < λ 1 E p m E 2 = pc 2 + m 2 c 2 E 2 = p 2 c 2 + m 2 c 2 E 2 = pc 2 + m 2 c 4 E 2 = p 2 c 2 + m 2 c 4 40 ∘ C 24 ∘ C 16 ∘ C 14 3 ∘ C 42 3 ∘ C 28 3 ∘ C 56 3 ∘ C 3 4 4 3 5 2 2 5 P 1 P 2 P 3 45 ∘ P 1 P 2 λ I 0 P 1 P 2 intensity at a point after where the path difference between the light waves from is , is",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "covers both the slits with its transmission axis at",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_1_q41",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 41,
+  "question_type": "MCQ",
+  "question_text": "JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo A A B C A 3 −C ≡C − Na + , B = CH 3 −CH 2 −CH 2 −Br 3 −CH = CH 2 , 3 −CH 2 −CH 2 −Br 3 −CH 2 −CH 3 , 3 −C ≡CH 3 −C ≡C − Na + , B = CH 3 −CH 2 −CH 3 A B 3 3 3 2 2 2 2 2 2 2 2 3 Nd 3+ Eu 3+ La 3+ 4+ Nd 3+ 4+ Lu 3+ Eu 3+ Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo A A B C A 3 −C ≡C − Na + , B = CH 3 −CH 2 −CH 2 −Br 3 −CH = CH 2 , 3 −CH 2 −CH 2 −Br 3 −CH 2 −CH 3 , 3 −C ≡CH 3 −C ≡C − Na + , B = CH 3 −CH 2 −CH 3 A B 3 3 3 2 2 2 2 2 2 2 2 3 Nd 3+ Eu 3+ La 3+ 4+ Nd 3+ 4+ Lu 3+ Eu 3+ Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A −CrO",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B −CrO",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Ce",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "Diamagnetic Lanthanoid ions are:",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

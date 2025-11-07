@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_2_q4",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 4,
+  "question_type": "MCQ",
+  "question_text": "Let a line pass through two distinct points , and be parallel to the vector . If the is 5 , then the square of the area of is equal to :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 148",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 136",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 144",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 140",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "distance of the point Q from the point",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

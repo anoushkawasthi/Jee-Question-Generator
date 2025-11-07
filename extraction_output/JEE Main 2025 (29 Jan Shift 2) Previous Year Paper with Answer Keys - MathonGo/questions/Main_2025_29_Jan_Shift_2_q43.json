@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_2_q43",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 43,
+  "question_type": "MCQ",
+  "question_text": "Match List - I with List - II. List - I List - II (A) Magnetic induction (I) Ampere meter (B) Magnetic intensity (II) Weber (C) Magnetic flux (III) Gauss (D) Magnetic moment (IV) Ampere/meter",
+  "question_latex": "Match List - I with List - II. List - I List - II (A) Magnetic induction (I) Ampere meter (B) Magnetic intensity (II) Weber (C) Magnetic flux (III) Gauss (D) Magnetic moment (IV) $\\frac{Ampere}{meter}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) (A)-(I), (B)-(II), (C)-(III), (D)-(IV)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) (A)-(III), (B)-(IV), (C)-(I), (D)-(II)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) (A)-(III), (B)-(II), (C)-(I), (D)-(IV)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) (A)-(III), (B)-(IV), (C)-(II), (D)-(I)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

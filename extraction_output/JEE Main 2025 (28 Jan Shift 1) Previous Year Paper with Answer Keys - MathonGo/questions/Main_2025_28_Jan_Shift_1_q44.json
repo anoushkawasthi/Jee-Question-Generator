@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_1_q44",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 1",
+  "subject": "Chemistry",
+  "question_number": 44,
+  "question_type": "MCQ",
+  "question_text": "For a particular ideal gas which of the following graphs represents the variation of mean squared velocity of the gas molecules with temperature? 2025 (28 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo a b (σ) σ = σ 0 x σ 0 ( 2 3 b 2 ) ( a 2 , b 2 ) ( 1 3 b 2 ) ( 2 3 2 3",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "a,",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "b)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

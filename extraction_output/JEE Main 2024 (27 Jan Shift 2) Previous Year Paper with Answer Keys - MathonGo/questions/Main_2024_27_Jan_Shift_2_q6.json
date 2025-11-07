@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_27_Jan_Shift_2_q6",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "27 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 6,
+  "question_type": "Assertion-Reason",
+  "question_text": "Given below are two statements : one is labelled as Reason (R) . : The angular speed of the moon in its orbit about the earth is more than the angular speed of the earth in its orbit about the sun. Reason (R) : The moon takes less time to move around the earth than the time taken by the earth to move explanation of A.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) (A) is correct but (R) is not correct",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Both (A) and (R) are correct and (R) is the correct",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Both (A) and (R) are correct but (R) is not the",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) (A) is not correct but (R) is correct",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "around the sun.",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "correct explanation of A.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

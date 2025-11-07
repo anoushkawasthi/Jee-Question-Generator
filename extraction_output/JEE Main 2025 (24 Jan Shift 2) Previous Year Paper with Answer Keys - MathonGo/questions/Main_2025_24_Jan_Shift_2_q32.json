@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_2_q32",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 32,
+  "question_type": "Numerical",
+  "question_text": "In photoelectric effect, the stopping potential frequency is work function of metal ) (A) is linear. (B) The slope of (C) h line. (D) The value of electric charge of electron is not required to",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) (C) and (D) only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) (A), (C) and (E) only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) (A), (B) and (C) only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) (D) and (E) only",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Choose the correct answer from the options given below :",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "determine  using the",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_2_q31",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 31,
+  "question_type": "MCQ",
+  "question_text": "3 MgCO 3 weighed 2 .21 g is ignited to constant weight of 1 .152 g . The composition of the mixture is: (Given molar mass in g   mol −1 , 3 : 100,   MgCO 3 : 84 ) 1 .187 𝑔  𝐶𝑎𝐶𝑂 3 + 1 .023   𝑔  𝑀𝑔𝐶𝑂 3 1 .023   𝑔  𝐶𝑎𝐶𝑂 3 + 1 .023   𝑔  𝑀𝑔𝐶𝑂 3 1 .187   𝑔  𝐶𝑎𝐶𝑂 3 + 1 .187   𝑔  𝑀𝑔𝐶𝑂 3 1 .023   𝑔  𝐶𝑎𝐶𝑂 3 + 1 .187   𝑔  𝑀𝑔𝐶𝑂 3",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "CaCO",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

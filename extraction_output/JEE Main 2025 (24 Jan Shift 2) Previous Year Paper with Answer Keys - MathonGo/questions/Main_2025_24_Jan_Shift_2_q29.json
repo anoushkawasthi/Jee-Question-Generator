@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_2_q29",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 29,
+  "question_type": "MCQ",
+  "question_text": "Young's double slit inteference apparatus is immersed in a liquid of refractive index 1.44. It has slit separation of 1.5 mm . The slits are illuminated by a parallel beam of light whose wavelength in air is 690 nm . The fringe-width on a screen placed behind the plane of slits at a distance of 0.72 m , will be :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 0.23 mm",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 0.33 mm",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 0.63 mm",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 0.46 mm",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

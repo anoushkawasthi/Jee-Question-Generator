@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_2_q35",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 35,
+  "question_type": "MCQ",
+  "question_text": "in a regular manner. (B) Electronegativity decreases from  to",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) (A), (B) and (C) Only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) (C), (D) and (E) Only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) (C) and (D) Only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) (A) and (B) Only",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "bonds. (E) Carbon can",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "covalance due to presence of d orbitals. (D) Heavier elements do not form",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "down the group gradually. (C) Maximum covalance of  is 4 whereas other elements can expand their",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

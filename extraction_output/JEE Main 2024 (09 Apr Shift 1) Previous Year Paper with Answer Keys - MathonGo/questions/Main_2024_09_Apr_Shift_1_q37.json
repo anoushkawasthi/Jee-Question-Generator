@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_1_q37",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 37,
+  "question_type": "Numerical",
+  "question_text": "value : JEE Main 2024 (09 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo KMnO 4 & NaOH > > > > > > > > pK a (B) < (D) < (C) < (A) < (E) (D) < (E) < (C) < (B) < (A) (E) < (D) < ( C ) < ( B ) < ( A ) (E) < (D) < (B) < (A) < (C) Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "value : JEE Main 2024 (09 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo KMnO 4 & NaOH > > > > > > > > pK a (B) < (D) < (C) < (A) < (E) (D) < (E) < (C) < (B) < (A) (E) < (D) < ( C ) < ( B ) < ( A ) (E) < (D) < (B) < (A) < (C) Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Choose the correct answer from the options given below :",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_1_q78",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 78,
+  "question_type": "MCQ",
+  "question_text": "The distance of the point 𝑄( 0,   2,   – 2 ) form the line passing through the point 𝑃( 5,   – 4,   3 ) perpendicular to the lines → 𝑟= −3 ^ 𝑖+ 2 ^ 𝑘+ 𝜆2 ^ 𝑖+ 3 ^ 𝑗+ 5 ^ 𝑘,   𝜆∈ℝ → 𝑟= ^ 𝑖−2 ^ 𝑗+ ^ 𝑘+ 𝜇− ^ 𝑖+ 3 ^ 𝑗+ 2 ^ 𝑘,   𝜇∈ℝ is √86 √20 √54 √74",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_1_q68",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 68,
+  "question_type": "MCQ",
+  "question_text": "The large difference between the melting and boiling points of oxygen and sulphur may be explained on the",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Atomicity",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Electron gain enthalpy",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Electronegativity",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Atomic size",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "basis of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

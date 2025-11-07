@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_2_q49",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 2",
+  "subject": "Chemistry",
+  "question_number": 49,
+  "question_type": "MCQ",
+  "question_text": "D formed in above reaction is:",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Gluconic acid",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Succinic acid",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Oxalic acid",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Malonic acid",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "Acid",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_1_q60",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 60,
+  "question_type": "MCQ",
+  "question_text": "Which of the following acids is a vitamin?",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Adipic acid",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) Ascorbic acid",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Saccharic acid",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Aspartic acid",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

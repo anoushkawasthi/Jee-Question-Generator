@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_2_q9",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 9,
+  "question_type": "MCQ",
+  "question_text": "Let . If both the functions are onto and or , then is equal to : 2025 (28 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo ] 1 √2 −2 0 1 P = [ ], θ > 0 −sin θ sin θ T , C = P T B 10 P C m n gcd(m, n) = 1 m + n 127 258 65 2049 →a = α^i + β^j + γ^k → ^ i + ^ j − ^ k 16 11 (3^i + ^j −^k) 1 11 (−4^i −5^j −17^k) α 2 + β 2 + γ 2 26 18 23 16 xy √3 ^ i + ^ j, ^ i + √3 ^ j a ^ i + (1 −a) ^ j OA − → OB − → 9 √2 a 2 9/2 1 0 T r , T r+1 T r+2 (a + b) 12 p r q ( 4 √3 + 3 √4) 12 p + q 283 287 295 299 [x] x f(x) = sec −1 (2[x] + 1) (−∞, −1] ∪[0, ∞) (−∞, −1] ∪[1, ∞) (−∞, ∞) (−∞, ∞) −{0} 1 2 1 4 2 3 1 3 ∑ 13 r=1 { 1 sin( π 4 +(r−1) π 6 ) sin( π 4 + rπ 6 ) } = a√3 + b, a, b ∈Z a 2 + b 2 10 4 2 8 f g(x) = ∫ x 0 tf(t)dt g (x 3 ) = x 6 + x 7 ∑ 15 r=1 f (r 3 ) 270 340 320 310 f : [0, 3] → f(x) = 2x 3 −15x 2 + 36x + 7 g : [0, ∞) →B g(x) = x 2025 x 2025 +1 S = {x ∈Z : x ∈ A x ∈ n(S)",
+  "question_latex": "Let . If both the functions are onto and or , then is equal to : 2025 (28 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo ] 1 √2 −2 0 1 P = [ ], θ > 0 −sin θ sin θ T , C = P T B 10 P C m n gcd(m, n) = 1 m + n 127 258 65 2049 →a = α^i + β^j + γ^k → ^ i + ^ j − ^ k 16 11 (3^i + ^j −^k) 1 11 (−4^i −5^j −17^k) α 2 + β 2 + γ 2 26 18 23 16 xy √3 ^ i + ^ j, ^ i + √3 ^ j a ^ i + (1 −a) ^ j OA − → OB − → 9 √2 a 2 $\\frac{9}{2}$ 1 0 T r , T r+1 T r+2 (a + b) 12 p r q ( 4 √3 + 3 √4) 12 p + q 283 287 295 299 [x] x f(x) = sec −1 (2[x] + 1) (−∞, −1] ∪[0, ∞) (−∞, −1] ∪[1, ∞) (−∞, ∞) (−∞, ∞) −{0} 1 2 1 4 2 3 1 3 ∑ 13 r=1 { 1 sin( π 4 +(r−1) π 6 ) sin( π 4 + rπ 6 ) } = a√3 + b, a, b ∈Z a 2 + b 2 10 4 2 8 f g(x) = ∫ x 0 tf(t)dt g (x 3 ) = x 6 + x 7 ∑ 15 r=1 f (r 3 ) 270 340 320 310 f : [0, 3] → f(x) = 2x 3 −15x 2 + 36x + 7 g : [0, ∞) →B g(x) = x 2025 x 2025 +1 S = {x ∈Z : x ∈ A x ∈ n(S)",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A = [",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B}",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "cos θ",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

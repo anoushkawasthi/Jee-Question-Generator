@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_1_q35",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 35,
+  "question_type": "MCQ",
+  "question_text": "When the plane side of the lens is silver coated for complete reflection, the lens immersed in the liquid 2025 (24 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo |I A +I B | √2 √ I 2 A +I 2 B 2 √I 2 A + I 2 B √I 2 A +I 2 B 2 m r θ v 0 μ μ = v 2o +rg tan θ rg+v 2 o tan θ μ = v 2 0 −rg tan θ rg−v 2 0 tan θ μ = v 2 0 −rg tan θ rg+v 2 0 tan θ μ = v 2 o +rg tan θ rg−v 2 o tan θ 9% 3% 4.5% 2.5% →v = v 0 ^i (v 0 > 0) → E = −E o ^ k λ 0 λ 0 √1+ e 2 E0 2 t 2 m 2 v0 2 λ o √ 1 + e 2 E 2 0 t 2 m 2 v 2 o λ 0 √1− e2Eo2t2 m 2 v 2 o λ 0 0.01 0.04 0.40 0.1 F = α + βx 2 α = 1 N β 15 N/m 2 12 N/m 2 8 N/m 2 10 N/m 2 is",
+  "question_latex": "When the plane side of the lens is silver coated for complete reflection, the lens immersed in the liquid 2025 (24 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo |I A +I B | √2 √ I 2 A +I 2 B 2 √I 2 A + I 2 B √I 2 A +I 2 B 2 m r θ v 0 μ μ = v 2o +rg tan θ rg+v 2 o tan θ μ = v 2 0 −rg tan θ rg−v 2 0 tan θ μ = v 2 0 −rg tan θ rg+v 2 0 tan θ μ = v 2 o +rg tan θ rg−v 2 o tan θ 9% 3% 4.5% 2.5% →v = v 0 ^i (v 0 > 0) → E = −E o ^ k λ 0 λ 0 √1+ e 2 E0 2 t 2 m 2 v0 2 λ o √ 1 + e 2 E 2 0 t 2 m 2 v 2 o λ 0 √1− e2Eo2t2 m 2 v 2 o λ 0 0.01 0.04 0.40 0.1 F = α + βx 2 α = 1 N β 15 $\\frac{N}{m}$ 2 12 $\\frac{N}{m}$ 2 8 $\\frac{N}{m}$ 2 10 $\\frac{N}{m}$ 2 is",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 0.20 m",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 0.25 m",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 0.15 m",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 0.10 m",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A thin plano convex lens made of glass of refractive index 1.5 is immersed in a liquid of refractive index 1.2.",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "behaves like a concave mirror of focal length 0.2 m . The radius of curvature of the curved surface of the lens",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

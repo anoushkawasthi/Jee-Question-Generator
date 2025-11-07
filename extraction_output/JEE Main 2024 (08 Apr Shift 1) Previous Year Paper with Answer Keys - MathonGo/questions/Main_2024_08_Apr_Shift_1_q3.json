@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_1_q3",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 3,
+  "question_type": "Numerical",
+  "question_text": "long second hand and minute hand respectively. In 30 minutes duration the tip of second hand will travel  distance more than the tip of minute hand. The value of  in meter is nearly (Take ) :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 140.5",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 118.9",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 139.4",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 220.0",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A clock has",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

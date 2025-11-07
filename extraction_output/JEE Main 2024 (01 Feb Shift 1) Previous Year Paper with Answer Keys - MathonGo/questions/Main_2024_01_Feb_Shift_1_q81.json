@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_1_q81",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 1",
+  "subject": "Mathematics",
+  "question_number": 81,
+  "question_type": "MCQ",
+  "question_text": "Let 𝑃= 𝑧∈ℂ: 𝑧+ 2 −3𝑖≤1 𝑄= 𝑧∈ℂ: 𝑧1 + 𝑖+ ¯ 𝑧1 −𝑖≤−8 . Let in 𝑃∩𝑄, 𝑧−3 + 2𝑖 𝑧 1 𝑧 2 respectively. If 𝑧 1 2 + 2𝑧 2 = 𝛼+ 𝛽√2, where 𝛼, 𝛽 𝛼+ 𝛽 equals __________",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "are integers, then",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be maximum",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

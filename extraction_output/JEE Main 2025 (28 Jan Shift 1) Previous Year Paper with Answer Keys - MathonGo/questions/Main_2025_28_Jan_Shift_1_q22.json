@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2025_28_Jan_Shift_1_q22",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "28 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 22,
+  "question_type": "MCQ",
+  "question_text": "Let M denote the set of all real matrices of order . Let If , then  equals _______",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and let",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

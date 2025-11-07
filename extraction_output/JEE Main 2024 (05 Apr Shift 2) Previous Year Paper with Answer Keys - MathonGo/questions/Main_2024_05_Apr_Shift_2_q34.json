@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_2_q34",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 2",
+  "subject": "Chemistry",
+  "question_number": 34,
+  "question_type": "Assertion-Reason",
+  "question_text": "Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R). molecule have pyramidal shape with a lone pair of electrons on nitrogen atom. The resultant dipole moment of is greater than that of . Reason (R) : In , the orbital dipole due to lone pair is in the same direction as the resultant dipole moment of the explanation of (A) is NOT the is false",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Both (A) and (R) are true and (R) is the correct",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) (A) is false but (R) is true",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Both (A) and (R) are true but",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) (A) is true but",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "below :",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "correct explanation of (A)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

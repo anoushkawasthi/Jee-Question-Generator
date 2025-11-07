@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_27_Jan_Shift_1_q29",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "27 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 29,
+  "question_type": "Numerical",
+  "question_text": "Two immiscible liquids of refractive indices respectively are put in a beaker as shown in the figure. The height of each column is . A coin is placed at the bottom of the beaker. For near normal vision, the . The value of  is _______.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "apparent depth of the coin is",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

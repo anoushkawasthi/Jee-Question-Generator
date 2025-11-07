@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_2_q54",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 2",
+  "subject": "Chemistry",
+  "question_number": 54,
+  "question_type": "MCQ",
+  "question_text": "Which of the following graphs most appropriately represents a zero order reaction ? 2025 (23 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo K 2 2 O 7 [A] [ 2 SO 4 KOH − → −H 2 O H 2 SO 4 − → −H 2 O [A] [B] K 2 4 K 2 4 2 O 3 K 2 4 K 2 2 O 7 K 2 6 2 O 3",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B] + K",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Cr",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

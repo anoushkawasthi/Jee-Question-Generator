@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_1_q38",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 1",
+  "subject": "Chemistry",
+  "question_number": 38,
+  "question_type": "MCQ",
+  "question_text": "Number of  and  bonds present in ethylene molecule is respectively :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 4 and 1",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 5 and 2",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 3 and 1",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 5 and 1",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

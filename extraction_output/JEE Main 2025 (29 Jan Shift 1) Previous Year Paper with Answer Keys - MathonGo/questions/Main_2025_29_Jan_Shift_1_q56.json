@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_1_q56",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Chemistry",
+  "question_number": 56,
+  "question_type": "MCQ",
+  "question_text": "The steam volatile compounds among the following are : (A) (B) (C) (D)",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) (B) and (D) Only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) (A) and (C) Only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) (A), (B) and (C) Only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) (A) and (B) Only",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Choose the correct answer from the options given below :",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

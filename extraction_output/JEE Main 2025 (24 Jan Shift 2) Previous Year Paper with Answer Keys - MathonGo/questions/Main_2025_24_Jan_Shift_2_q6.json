@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_2_q6",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 6,
+  "question_type": "Numerical",
+  "question_text": "Let the points lie on or inside the triangle with sides . Then the product of the smallest and the largest values of  is equal to :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 44",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 22",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 33",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 55",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

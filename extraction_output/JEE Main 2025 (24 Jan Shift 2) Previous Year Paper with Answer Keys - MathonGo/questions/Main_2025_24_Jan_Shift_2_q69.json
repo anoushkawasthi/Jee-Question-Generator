@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_2_q69",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 69,
+  "question_type": "MCQ",
+  "question_text": "Which of the following mixing of 1 M base and 1 M acid leads to the largest increase in temperature? 2025 (24 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo 30 mLCH 3 45mLCH 3",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 30 mL HCl and 30 mL NaOH",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 50 mL HCl and 20 mL NaOH",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and 30 mL NaOH",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "COOHand25mLNaOH",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_2_q36",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 2",
+  "subject": "Chemistry",
+  "question_number": 36,
+  "question_type": "Numerical",
+  "question_text": "thin layer chromatographic plate. is an integral value. of a polar compound is smaller than that of a non-polar compound. polar compounds come down in column",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Organic compounds run faster than solvent in the",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Non-polar compounds are retained at top and",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "chromatography.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

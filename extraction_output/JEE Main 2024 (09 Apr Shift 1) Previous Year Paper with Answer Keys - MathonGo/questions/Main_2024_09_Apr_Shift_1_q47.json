@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_1_q47",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 1",
+  "subject": "Chemistry",
+  "question_number": 47,
+  "question_type": "Assertion-Reason",
+  "question_text": "Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R). reaction of occurs more readily than the reaction of . Reason (R) : The partially bonded unhybridized p-orbital that develops in the trigonal bipyramidal transition state is stabilized by conjugation with the phenyl ring. In the light of the above statements, choose the most JEE Main 2024 (09 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 0.05MCuSO 4 0.01MK 2 2 O 7 2 2 O 7 4 K 2 2 O 7 3 d 9 3 d 10 F − [3 (Ca 3 (PO 4 ) 2 ) ⋅Ca(OH) 2 ] [3 (Ca 3 (PO 4 ) 3 ) ⋅CaF 2 ] [3 (Ca 2 (PO 4 ) 2 ) ⋅Ca(OH) 2 ] [3 (Ca 3 (PO 4 ) 2 ) ⋅CaF 2 ] [Co(en) 2 2 ] + [Co(en) 2 2 ] + S N 2 C 6 H 5 2 S N 2 3 2 (A) Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R). reaction of occurs more readily than the reaction of . Reason (R) : The partially bonded unhybridized p-orbital that develops in the trigonal bipyramidal transition state is stabilized by conjugation with the phenyl ring. In the light of the above statements, choose the most JEE Main 2024 (09 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 0.05MCuSO 4 0.01MK 2 2 O 7 2 2 O 7 4 K 2 2 O 7 3 d 9 3 d 10 F − [3 (Ca 3 (PO 4 ) 2 ) ⋅Ca(OH) 2 ] [3 (Ca 3 (PO 4 ) 3 ) ⋅CaF 2 ] [3 (Ca 2 (PO 4 ) 2 ) ⋅Ca(OH) 2 ] [3 (Ca 3 (PO 4 ) 2 ) ⋅CaF 2 ] [Co(en) 2 2 ] + [Co(en) 2 2 ] + S N 2 C 6 H 5 2 S N 2 3 2 (A) Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) (A) is correct but (R) is not correct",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) (A) is not correct but (R) is correct",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Both (A) and (R) are correct but (R) is not the",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) Both (A) and (R) are correct and (R) is the",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "appropriate answer from the options given below :",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "Br",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "CH",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

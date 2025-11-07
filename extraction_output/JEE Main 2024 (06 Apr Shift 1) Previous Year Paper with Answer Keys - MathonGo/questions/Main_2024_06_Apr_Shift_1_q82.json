@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_06_Apr_Shift_1_q82",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "06 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 82,
+  "question_type": "MCQ",
+  "question_text": "Let the first term of a series be term , . If the sum of the first  terms of this series is , then  is equal to______ JEE Main 2024 (06 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo f(x) = { x 3 sin ( 1 x ), x ≠0 0 , x = 0 f ′′ ( 2 π ) = 24−π 2 2π f ′′ ( 2 π ) = 12−π 2 2π f ′′ (0) = 1 f ′′ (0) = 0 f(x) = x x , x > 0 (0, 1 e ] (0, ∞) [ 1 e , ∞)] V [ 1 e 2 , 1) ∫ π/4 0 2 x sin 2 x (cos 3 x+sin 3 x) 2 1/6 1/3 1/12 1/9 y = 3x, 2y = 27 −3x y = 3x −x√x A 10A y = y(x) (1 + x 2 ) + y = e tan −1 x y(1) = 0 y(0) 1 2 (e π/2 −1) 1 2 (1 −e π/2 ) 1 4 (1 −e π/2 ) 1 4 (e π/2 −1) y = y(x) (2x log e x) + 2y = 3 x log e x, x > 0 y (e −1 ) = 0 y(e) − 3 e − 3 2e − 2 3e − 2 e x−3 2 = y+15 −7 = z−9 5 x+1 2 = y−1 1 = z−9 −3 8√3 4√3 5√3 6√3 A B 60% A A 90% B p B 126p x 1 , x 2 , x 3 , x 4 4x 4 + 8x 3 −17x 2 −12x + 9 = 0 (4 + x 2 1 ) (4 + x 2 2 ) (4 + x 2 3 ) (4 + x 2 4 ) = 125 16 m m T 1 = 6 r th T r = 3T r−1 + 6 r , r = 2, 3 n n 1 5 (n 2 −12n + 39) (4 ⋅6 n −5 ⋅3 n + 1) n Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "Let the first term of a series be term , . If the sum of the first  terms of this series is , then  is equal to______ JEE Main 2024 (06 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo f(x) = { x 3 sin ( 1 x ), x ≠0 0 , x = 0 f ′′ ( 2 π ) = 24−π 2 2π f ′′ ( 2 π ) = 12−π 2 2π f ′′ (0) = 1 f ′′ (0) = 0 f(x) = x x , x > 0 (0, 1 e ] (0, ∞) [ 1 e , ∞)] V [ 1 e 2 , 1) ∫ $\\frac{π}{4}$ 0 2 x sin 2 x (cos 3 x+sin 3 x) 2 $\\frac{1}{6}$ $\\frac{1}{3}$ $\\frac{1}{12}$ $\\frac{1}{9}$ y = 3x, 2y = 27 −3x y = 3x −x√x A 10A y = y(x) (1 + x 2 ) + y = e tan −1 x y(1) = 0 y(0) 1 2 (e $\\frac{π}{2}$ −1) 1 2 (1 −e $\\frac{π}{2}$ ) 1 4 (1 −e $\\frac{π}{2}$ ) 1 4 (e $\\frac{π}{2}$ −1) y = y(x) (2x log e x) + 2y = 3 x log e x, x > 0 y (e −1 ) = 0 y(e) − 3 e − 3 2e − 2 3e − 2 e x−3 2 = y+15 −7 = z−9 5 x+1 2 = y−1 1 = z−9 −3 8√3 4√3 5√3 6√3 A B 60% A A 90% B p B 126p x 1 , x 2 , x 3 , x 4 4x 4 + 8x 3 −17x 2 −12x + 9 = 0 (4 + x 2 1 ) (4 + x 2 2 ) (4 + x 2 3 ) (4 + x 2 4 ) = 125 16 m m T 1 = 6 r th T r = 3T r−1 + 6 r , r = 2, 3 n n 1 5 (n 2 −12n + 39) (4 ⋅6 n −5 ⋅3 n + 1) n Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and its",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B.80%",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "cos",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "dx",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_1_q51",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 1",
+  "subject": "Physics",
+  "question_number": 51,
+  "question_type": "MCQ",
+  "question_text": "The de-Broglie's wavelength of an electron in the orbit is JEE Main 2024 (04 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo − NH 4 + − OH 4 th πa 0 ⋅(a 0 = ) Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "The de-Broglie's wavelength of an electron in the orbit is JEE Main 2024 (04 Apr Shift 1) Question Paper JEE Main Previous Year Paper MathonGo − NH 4 + − OH 4 th πa 0 ⋅(a 0 = ) Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "B",
+      "text": "Bohr's radius",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Cl",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

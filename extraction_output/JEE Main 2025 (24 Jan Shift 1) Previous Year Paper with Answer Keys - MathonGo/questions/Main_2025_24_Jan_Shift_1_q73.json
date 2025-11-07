@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_1_q73",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 1",
+  "subject": "Chemistry",
+  "question_number": 73,
+  "question_type": "MCQ",
+  "question_text": "was taken in a 1 L reaction vessel and allowed to undergo the following reaction at 500 K The total pressure at equilibrium was found to be 18.65 bar. Then, ______ [nearest integer] Assume to behave ideally under these conditions. Given:",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "B",
+      "text": "bar",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

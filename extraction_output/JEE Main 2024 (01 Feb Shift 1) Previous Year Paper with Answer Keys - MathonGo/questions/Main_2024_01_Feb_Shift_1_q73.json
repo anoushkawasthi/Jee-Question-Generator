@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_1_q73",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 1",
+  "subject": "Mathematics",
+  "question_number": 73,
+  "question_type": "MCQ",
+  "question_text": "Let 𝑓: 𝑅→𝑅 𝑓𝑥= 𝑎−𝑏cos2𝑥 𝑥 2 ; 𝑥< 0 𝑥 2 + 𝑐𝑥+ 2; 0 ≤𝑥≤1 2𝑥+ 1; 𝑥> 1 If 𝑓 is continuous everywhere in 𝑅 𝑚 is the number of points where 𝑓 is NOT differential then 𝑚  +   𝑎  +   𝑏  +   𝑐 equals: JEE Main 2024 (01 Feb Shift 1) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN 1 4 3 2",
+  "question_latex": "Let 𝑓: 𝑅→𝑅 𝑓𝑥= 𝑎−𝑏cos2𝑥 𝑥 2 ; 𝑥< 0 𝑥 2 + 𝑐𝑥+ 2; 0 ≤𝑥≤1 2𝑥+ 1; 𝑥> 1 If 𝑓 is continuous everywhere in 𝑅 𝑚 is the number of points where 𝑓 is NOT differential then 𝑚  +   𝑎  +   𝑏  +   𝑐 equals: JEE Main 2024 (01 Feb Shift 1) Question Paper JEE Main Previous Year Paper MathonGo Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$ 1 4 3 2",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be defined as",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

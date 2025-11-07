@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_05_Apr_Shift_1_q74",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "05 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 74,
+  "question_type": "MCQ",
+  "question_text": "For the function (I)  is increasing in . (II) is decreasing in .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) only (II) is true.",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) only (I) is true.",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) neither (I) nor (II) is true.",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) both (I) and (II) are true",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "Between the above two statements,",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "consider the following two statements :",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

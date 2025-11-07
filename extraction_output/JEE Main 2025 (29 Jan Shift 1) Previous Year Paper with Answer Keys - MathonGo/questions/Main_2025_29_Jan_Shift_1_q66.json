@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_1_q66",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 66,
+  "question_type": "MCQ",
+  "question_text": "force exerted by gravity on an object. (C) Volume is the amount of space occupied by a substance. (D) Temperatures below from the options given below :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) (A), (D) and (E) Only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) (C), (D) and (E) Only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) (A), (B) and (C) Only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) (B), (C) and (D) Only",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "are possible in Celsius scale, but in Kelvin scale negative temperature is not possible.",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Choose the correct statements. (A) Weight of a substance is the amount of matter present in it. (B) Mass is the",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

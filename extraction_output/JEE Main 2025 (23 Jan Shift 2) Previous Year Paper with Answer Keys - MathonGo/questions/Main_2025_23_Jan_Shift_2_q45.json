@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_2_q45",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 2",
+  "subject": "Physics",
+  "question_number": 45,
+  "question_type": "MCQ",
+  "question_text": "In photoelectric effect an em-wave is incident on a metal surface and electrons are ejected from the surface. If the work function of the metal is 2.14 eV and stopping potential is 2 V , what is the wavelength of the em- wave ? (Given hc where h is the Planck's constant and c is the speed of light in vaccum.) 2025 (23 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo −60 m/s −30 m/s +30 m/s +60 m/s (A) (A) (R) (R) (A) = 27 θ(t) = 5t 2 −8t θ(t) t t = 2 s 72MR 2 8MR 2 108MR 2 60MR 2 E(t) = α 3 e −βt β = 0.3 s −1 α t 1.2% 1.6% t = 5 s 6% 8.4% 11.6% 4% List - I List - II (A) Permeability of free space (I) [M L 2 T −2 ] (B) Magnetic field (II) [M T −2 A −1 ] (C) Magnetic moment (III) [M L T −2 A −2 ] (D) Torsional constant (IV) [L 2 = 1242eVnm",
+  "question_latex": "In photoelectric effect an em-wave is incident on a metal surface and electrons are ejected from the surface. If the work function of the metal is 2.14 eV and stopping potential is 2 V , what is the wavelength of the em- wave ? (Given hc where h is the Planck's constant and c is the speed of light in vaccum.) 2025 (23 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo −60 $\\frac{m}{s}$ −30 $\\frac{m}{s}$ +30 $\\frac{m}{s}$ +60 $\\frac{m}{s}$ (A) (A) (R) (R) (A) = 27 θ(t) = 5t 2 −8t θ(t) t t = 2 s 72MR 2 8MR 2 108MR 2 60MR 2 E(t) = α 3 e −βt β = 0.3 s −1 α t 1.2% 1.6% t = 5 s 6% 8.4% 11.6% 4% List - I List - II (A) Permeability of free space (I) [M L 2 T −2 ] (B) Magnetic field (II) [M T −2 A −1 ] (C) Magnetic moment (III) [M L T −2 A −2 ] (D) Torsional constant (IV) [L 2 = 1242eVnm",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 300 nm",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 400 nm",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 600 nm",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 200 nm",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A]",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

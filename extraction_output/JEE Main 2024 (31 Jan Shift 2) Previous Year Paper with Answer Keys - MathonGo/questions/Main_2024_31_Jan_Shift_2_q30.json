@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_31_Jan_Shift_2_q30",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "31 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 30,
+  "question_type": "MCQ",
+  "question_text": "𝐴 1 𝑉 1 . Another nucleus has mass number 𝐴 2 𝑉 2 . If relation between mass number is 𝐴 2 = 4𝐴 1 , then 𝑉 2 𝑉 1 = _______.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and volume",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

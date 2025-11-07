@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_1_q65",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 65,
+  "question_type": "MCQ",
+  "question_text": "with a pressure of 0.5 atm . Some of is converted into CO on addition of graphite. If total pressure at equilibrium is 0.8 atm , then Kp is :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 1.8 atm",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 0.3 atm",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 3 atm",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 0.18 atm",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A vessel at 1000 K contains",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

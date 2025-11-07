@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2024_27_Jan_Shift_1_q9",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "27 Jan Shift 1",
+  "subject": "Chemistry",
+  "question_number": 9,
+  "question_type": "MCQ",
+  "question_text": "The average kinetic energy of a monatomic molecule is JEE Main 2024 (27 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo S Y −Z S = 2t 2 ˆ j + 5 ˆ k t t = 1 s 16 m s −1 4 m s −1 x 9 m s −1 4 m s −1 y 12 m s −1 1. 5 m 400 m g = 10 m s −2 6. 0 5. 4 4. 8 4. 2 4 g 25 g 3 : 5 5 : 4 2 : 5 4 : 5 1000 kg 6 m s −1 200 kg m s −1 6 2 3 5 g g 4 2g g 2 4g 0. 08 kg 5°C 0. 17 kcal kg −1 °C −1 1 J = 4. 18 joule −1 318 J 298 J 284 J 142 J 0. 414 eV Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN (Use )",
+  "question_latex": "The average kinetic energy of a monatomic molecule is JEE Main 2024 (27 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo S Y −Z S = 2t 2 ˆ j + 5 ˆ k t t = 1 s 16 m s −1 4 m s −1 x 9 m s −1 4 m s −1 y 12 m s −1 1. 5 m 400 m g = 10 m s −2 6. 0 5. 4 4. 8 4. 2 4 g 25 g 3 : 5 5 : 4 2 : 5 4 : 5 1000 kg 6 m s −1 200 kg m s −1 6 2 3 5 g g 4 2g g 2 4g 0. 08 kg 5°C 0. 17 kcal kg −1 °C −1 1 J = 4. 18 joule −1 318 J 298 J 284 J 142 J 0. 414 eV Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$ (Use )",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "at temperature:",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "cal",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

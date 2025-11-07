@@ -1,0 +1,3347 @@
+{
+  "paper_metadata": {
+    "exam_name": "Main 2024",
+    "exam_date_shift": "30 Jan Shift 1",
+    "paper_id": "JEE Main 2024 (30 Jan Shift 1) Previous Year Paper with Answer Keys - MathonGo",
+    "total_questions": 81,
+    "extraction_timestamp": "2025-11-07T12:47:46.655559",
+    "extraction_method": "pymupdf"
+  },
+  "questions": [
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q1",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 1,
+      "question_type": "MCQ",
+      "question_text": "Match List-I with List-II.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) A-II, B-I, C-IV, D-III",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) A-I, B-II, C-III, D-IV",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) A-III, B-IV, C-II, D-I",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) A-IV, B-III, C-II, D-I",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q2",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Physics",
+      "question_number": 2,
+      "question_type": "MCQ",
+      "question_text": "projected with a velocity  making an angle of with the horizontal. The magnitude of is :",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) zero",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "angular momentum of the projectile about the point of projection when the particle is at its maximum height",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q3",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 3,
+      "question_type": "MCQ",
+      "question_text": "is:",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "acceleration of the block of mass",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q4",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 4,
+      "question_type": "MCQ",
+      "question_text": "of a frictionless track right. The speed of the particle when it reaches the point  is: Take .",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "as shown in figure. It is gently pushed towards",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q5",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Physics",
+      "question_number": 5,
+      "question_type": "MCQ",
+      "question_text": "is dropped from a height of from the ground. After hitting the ground, the . The impulse of force imparted by the ground to the body is given by: (given ) JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo List-I List-II I. [ML 2 T −2 ] Surface Tension II. [ML 2 T −1 ] III. [ML −1 T −1 ] Rotational kinetic energy IV. [ML 0 T −2 ] m u 30° h √3 16 mu 3 g √3 2 mu 2 g mu 3 √2g 2 kg g g 3 g 2 g 4 A B ( g = 10 m s −2 ) 20 m s −1 √10 m s −1 2 √ 10 m s −1 10 m s −1 100 g 10 m 5 m g = 9. 8 m s −2 4. 32 kg m s −1 43. 2 kg m s −1 23. 9 kg m s −1 2. 39 kg m s −1 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+      "question_latex": "is dropped from a height of from the ground. After hitting the ground, the . The impulse of force imparted by the ground to the body is given by: (given ) JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo List-I List-II I. [ML 2 T −2 ] Surface Tension II. [ML 2 T −1 ] III. [ML −1 T −1 ] Rotational kinetic energy IV. [ML 0 T −2 ] m u 30° h √3 16 mu 3 g √3 2 mu 2 g mu 3 √2g 2 kg g g 3 g 2 g 4 A B ( g = 10 m s −2 ) 20 m s −1 √10 m s −1 2 √ 10 m s −1 10 m s −1 100 g 10 m 5 m g = 9. 8 m s −2 4. 32 kg m s −1 43. 2 kg m s −1 23. 9 kg m s −1 2. 39 kg m s −1 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "ABC",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "B.",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "C.",
+          "latex": null
+        },
+        {
+          "id": "D",
+          "text": "D.",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q6",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 6,
+      "question_type": "MCQ",
+      "question_text": "The gravitational potential at a point above the surface of earth is to gravity at that point is . Assume that the mean radius of earth to be . The height of this point above the earth's surface is:",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and the acceleration due",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q7",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 7,
+      "question_type": "MCQ",
+      "question_text": "Young's modules of material of a wire of length  and cross-sectional area  is If the length of the wire is",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "D",
+          "text": "doubled and cross-sectional area is halved then Young's modules will be:",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q8",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 8,
+      "question_type": "MCQ",
+      "question_text": "?",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "At which temperature the r.m.s. velocity of a hydrogen molecule equal to that of an oxygen molecule at",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q9",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 9,
+      "question_type": "MCQ",
+      "question_text": "Two thermodynamical process are shown in the figure. The molar heat capacity for process  and  are . The molar heat capacity at constant pressure and constant volume are represented by ,",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and",
+          "latex": null
+        }
+      ],
+      "correct_answer": "A",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q10",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Physics",
+      "question_number": 10,
+      "question_type": "MCQ",
+      "question_text": "The electrostatic potential due to an electric dipole at a distance  varies as :",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q11",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 11,
+      "question_type": "MCQ",
+      "question_text": "is JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo −5. 12 × 10 7 J kg −1 6. 4 m s −2 6400 km 1600 km 540 km 1200 km 1000 km L A Y . Y 4 4Y Y 2Y 47°C 80 K −73 K 4 K 20 K A B C A C B C P C V C P > C B > C V C A = 0 C B = ∞ C P > C V > C A = C B C A > C P > C V r r 1 r 2 1 r 3 1 r V 0 4 V 2 mV 0. 5 V 12 mV Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+      "question_latex": "is JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo −5. 12 × 10 7 J kg −1 6. 4 m s −2 6400 km 1600 km 540 km 1200 km 1000 km L A Y . Y 4 4Y Y 2Y 47°C 80 K −73 K 4 K 20 K A B C A C B C P C V C P > C B > C V C A = 0 C B = ∞ C P > C V > C A = C B C A > C P > C V r r 1 r 2 1 r 3 1 r V 0 4 V 2 mV 0. 5 V 12 mV Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "A potential divider circuit is shown in figure. The output voltage",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q12",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 12,
+      "question_type": "MCQ",
+      "question_text": ". The toaster is connected to a supply. If the current flowing through it reaches , the temperature attained by toaster is around: (if )",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "at room temperature",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q13",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Physics",
+      "question_number": 13,
+      "question_type": "MCQ",
+      "question_text": "Two insulated circular loop radius  carrying a current of  in the anti clockwise direction as shown in figure. The magnitude of the magnetic induction at the centre will be:",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q14",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 14,
+      "question_type": "MCQ",
+      "question_text": "has a power factor of . If the source of emf is changed to , the new power factor of the circuit will be :",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "A series",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "circuit connected with an ac source",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q15",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 15,
+      "question_type": "MCQ",
+      "question_text": "Primary coil of a transformer is connected to . Primary and secondary turns of the transforms are respectively. Secondary coil of transformer is connected to two series resistances  as shown in figure. The output voltage is :",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q16",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Physics",
+      "question_number": 16,
+      "question_type": "MCQ",
+      "question_text": "The electric field of an electromagnetic wave in free space is represented as . The JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 60 Ω (27 °C) 220 V 2. 75 A α = 2 × 10 −4 ∘ C −1 694°C 1235°C 1694°C 1667°C A B a I √2μ 0 I a μ 0 I 2a μ 0 I √2a 2μ 0 I a LR E = (25 sin 1000t) V 1 √2 E = (20 sin 2000t) V 1 √2 1 √3 1 √5 1 √7 220 V 100 10 (V 0 ) 7 V 15 V 44 V 22 V → E = E 0 ˆ i → 0 ˆ j → E 0 C → 0 ˆ j → E 0 C Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+      "question_latex": "The electric field of an electromagnetic wave in free space is represented as . The JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 60 Ω (27 °C) 220 V 2. 75 A α = 2 × 10 −4 ∘ C −1 694°C 1235°C 1694°C 1667°C A B a I √2μ 0 I a μ 0 I 2a μ 0 I √2a 2μ 0 I a LR E = (25 sin 1000t) V 1 √2 E = (20 sin 2000t) V 1 √2 1 √3 1 √5 1 √7 220 V 100 10 (V 0 ) 7 V 15 V 44 V 22 V → E = E 0 ˆ i → 0 ˆ j → E 0 C → 0 ˆ j → E 0 C Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "AC",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "B =",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "cos(ωt + kz)ˆj",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q17",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Physics",
+      "question_number": 17,
+      "question_type": "MCQ",
+      "question_text": "The diffraction pattern of a light of wavelength is focused on the focal plane of a convex lens of focal length . The width of the secondary maxima will be :",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "D",
+          "text": "diffracting from a slit of width",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q18",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Physics",
+      "question_number": 18,
+      "question_type": "MCQ",
+      "question_text": "The work function of a substance is . The longest wavelength of light that can cause the emission of photoelectrons from this substance is approximately:",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q19",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Chemistry",
+      "question_number": 19,
+      "question_type": "MCQ",
+      "question_text": "The ratio of the magnitude of the kinetic energy to the potential energy of an electron in the excited state of a hydrogen atom is :",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q20",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 20,
+      "question_type": "MCQ",
+      "question_text": "is used as a voltage regulator as shown in the figure. The current through the Zener diode is",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "A Zener diode of breakdown voltage",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q21",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Physics",
+      "question_number": 21,
+      "question_type": "MCQ",
+      "question_text": "The displacement and the increase in the velocity of a moving particle in the time interval of  to , respectively. The distance travelled by the particle in is ___________ .",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "and",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q22",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Physics",
+      "question_number": 22,
+      "question_type": "MCQ",
+      "question_text": ", radius , rotating with angular velocity of perpendicular to the plane of rotation. An identical disc is kept gently over the rotating disc along the same",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "axis. The energy dissipated so that both the discs continue to rotate together without slipping is _________ .",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "Consider a disc of mass",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q23",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 23,
+      "question_type": "MCQ",
+      "question_text": "Each of three blocks shown in figure has a mass of . Each of the wire has cross- sectional area . Neglecting friction, the longitudinal strain on wire  is _____ . (Take ) JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 400 nm 0. 2 mm 100 1 st 2 mm 2 0. 02 mm 0. 2 mm 3. 0 eV 215 nm 414 nm 400 nm 200 nm 5 th 4 1 4 1 2 1 10 V 50 mA 0 30 mA 20 mA t (t + 1) s 125 m 50 m s −1 (t + 2) th s m 5 kg 2 m 10 rad s −1 J P, Q R 3 kg A B 0. 005 2 2 × 10 11 N m −2 B ×10 −4 g = 10 m s −2 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+      "question_latex": "Each of three blocks shown in figure has a mass of . Each of the wire has cross- sectional area . Neglecting friction, the longitudinal strain on wire  is _____ . (Take ) JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 400 nm 0. 2 mm 100 1 st 2 mm 2 0. 02 mm 0. 2 mm 3. 0 eV 215 nm 414 nm 400 nm 200 nm 5 th 4 1 4 1 2 1 10 V 50 mA 0 30 mA 20 mA t (t + 1) s 125 m 50 m s −1 (t + 2) th s m 5 kg 2 m 10 rad s −1 J P, Q R 3 kg A B 0. 005 2 2 × 10 11 N m −2 B ×10 −4 g = 10 m s −2 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "and Young's modulus",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "cm",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q24",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 24,
+      "question_type": "MCQ",
+      "question_text": "In a closed organ pipe, the frequency of fundamental note is . A certain amount of water is now poured in the organ pipe so that the fundamental frequency is increased to . If the organ pipe has a cross- sectional area of , the amount of water poured in the organ tube is ________ . (Take speed of sound in )",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "air is",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q25",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Physics",
+      "question_number": 25,
+      "question_type": "MCQ",
+      "question_text": "It is connected to another capacitor of capacitance . Then the loss of energy is , where  is _______.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "and potential",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q27",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Physics",
+      "question_number": 27,
+      "question_type": "Numerical",
+      "question_text": "each is rotating with an angular velocity of . The magnetic field of earth in that region is . The emf induced across the blades is . The value of  is _______.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "and angle of dip is",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q28",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Physics",
+      "question_number": 28,
+      "question_type": "MCQ",
+      "question_text": "The horizontal component of earth's magnetic field at a place is . A very long straight conductor in the direction from South east to North West is placed. The force per unit length experienced by the conductor is ________ .",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "C",
+          "text": "carrying current of",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q30",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 30,
+      "question_type": "MCQ",
+      "question_text": ". The maximum number of",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "allowed transitions to lower energy level is _______.",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q31",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Chemistry",
+      "question_number": 31,
+      "question_type": "MCQ",
+      "question_text": "Given below are two statements: Statement-I: The orbitals having same energy are called as degenerate orbitals. Statement-II: In hydrogen atom, orbitals are not degenerate orbitals.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) Statement-I is true but Statement-II is false",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) Both Statement-I and Statement-II are true.",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) Both Statement-I and Statement-II are false",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) Statement-I is false but Statement-II is true",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and",
+          "latex": null
+        }
+      ],
+      "correct_answer": "A",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q32",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 32,
+      "question_type": "Assertion-Reason",
+      "question_text": "Given below are the two statements: one is labeled as Assertion (A) and the other is labeled as Reason (R). JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 30 Hz 110 Hz 2 2 g 330 m s −1 C V E. 2C 2V x 3 E x E 1 8 V 2 Ω E 2 2 V 4 Ω E 2 V 3 80 1200 rpm 0. 5 G 30° Nπ × 10 −5 V N 3. 5 × 10 −5 T √2 A ×10 −6 N m −1 45 E n = −0. 85 eV 3p 3 d Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN to . However from to only a small increase in covalent radius is observed. Reason (R): covalent and ionic radii in a particular oxidation state increases down the group. explanation of (A)",
+      "question_latex": "Given below are the two statements: one is labeled as Assertion (A) and the other is labeled as Reason (R). JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 30 Hz 110 Hz 2 2 g 330 m s −1 C V E. 2C 2V x 3 E x E 1 8 V 2 Ω E 2 2 V 4 Ω E 2 V 3 80 1200 rpm 0. 5 G 30° Nπ × 10 −5 V N 3. 5 × 10 −5 T √2 A ×10 −6 N m −1 45 E n = −0. 85 eV 3p 3 d Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$ to . However from to only a small increase in covalent radius is observed. Reason (R): covalent and ionic radii in a particular oxidation state increases down the group. explanation of (A)",
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) (A) is false but (R) is true",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) Both (A) and (R) are true but (R) is not the",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) (A) is true but (R) is false",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) Both (A) and (R) are true and (R) is the correct",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "Assertion (A): There is a considerable increase in covalent radius from",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "correct explanation of (A)",
+          "latex": null
+        }
+      ],
+      "correct_answer": "A",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q33",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Chemistry",
+      "question_number": 33,
+      "question_type": "MCQ",
+      "question_text": "Match List - I with List-II List I (Molecule) List II (Shape) i. T-shape ii. See saw iii. iv. Square pyramidal",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) (A)-I, (B)-II, (C)-IV, (D)-III",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) (A) -II, (B)-I, (C)-III, (D)-IV",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) (A)-III, (B)-IV, (C)-I, (D)-II",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) (A)-IV, (B)-III, (C)-I, (D)-II",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "A.",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "Bent",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "C.",
+          "latex": null
+        },
+        {
+          "id": "D",
+          "text": "D.",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q34",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 34,
+      "question_type": "MCQ",
+      "question_text": "Structure of is:",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q35",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 35,
+      "question_type": "MCQ",
+      "question_text": "Example of vinylic halide is",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q36",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Chemistry",
+      "question_number": 36,
+      "question_type": "Assertion-Reason",
+      "question_text": "Given below are two statement one is labeled as Assertion (A) and the other is labeled as Reason (R). is an example of allyl halide Reason (R): Allyl halides are the compounds in which the halogen atom is attached to hybridised carbon JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo N P 5 H 2 O 3 SF 4 4 −Methylpent −2 −enal 2 = CH −CH 2 −Cl sp 2 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN explanation of (A)",
+      "question_latex": "Given below are two statement one is labeled as Assertion (A) and the other is labeled as Reason (R). is an example of allyl halide Reason (R): Allyl halides are the compounds in which the halogen atom is attached to hybridised carbon JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo N P 5 H 2 O 3 SF 4 4 −Methylpent −2 −enal 2 = CH −CH 2 −Cl sp 2 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$ explanation of (A)",
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) (A) is true but (R) is false",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) Both (A) and (R) are true but (R) is not the",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) (A) is false but (R) is true",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) Both (A) and (R) are true and (R) is the correct",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "As",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "BrF",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "correct explanation of",
+          "latex": null
+        }
+      ],
+      "correct_answer": "A",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q37",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Chemistry",
+      "question_number": 37,
+      "question_type": "MCQ",
+      "question_text": "Which of the following molecule/species is most stable?",
+      "question_latex": "Which of the following $\\frac{molecule}{species}$ is most stable?",
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q38",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 38,
+      "question_type": "MCQ",
+      "question_text": "",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "Compound  formed in the following reaction reacts with  gives the product . Find out  and",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q39",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Chemistry",
+      "question_number": 39,
+      "question_type": "MCQ",
+      "question_text": "In the given reactions identify the reagent  and reagent",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q40",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 40,
+      "question_type": "MCQ",
+      "question_text": "What happens to freezing point of benzene when small quantity of napthalene is added to benzene?",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) Increases",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) Remains unchanged",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) First decreases and then increases",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) Decreases",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q41",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 41,
+      "question_type": "MCQ",
+      "question_text": "JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo A A B C A 3 −C ≡C − Na + , B = CH 3 −CH 2 −CH 2 −Br 3 −CH = CH 2 , 3 −CH 2 −CH 2 −Br 3 −CH 2 −CH 3 , 3 −C ≡CH 3 −C ≡C − Na + , B = CH 3 −CH 2 −CH 3 A B 3 3 3 2 2 2 2 2 2 2 2 3 Nd 3+ Eu 3+ La 3+ 4+ Nd 3+ 4+ Lu 3+ Eu 3+ Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+      "question_latex": "JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo A A B C A 3 −C ≡C − Na + , B = CH 3 −CH 2 −CH 2 −Br 3 −CH = CH 2 , 3 −CH 2 −CH 2 −Br 3 −CH 2 −CH 3 , 3 −C ≡CH 3 −C ≡C − Na + , B = CH 3 −CH 2 −CH 3 A B 3 3 3 2 2 2 2 2 2 2 2 3 Nd 3+ Eu 3+ La 3+ 4+ Nd 3+ 4+ Lu 3+ Eu 3+ Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "A −CrO",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "B −CrO",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "Ce",
+          "latex": null
+        },
+        {
+          "id": "D",
+          "text": "Diamagnetic Lanthanoid ions are:",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q42",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 42,
+      "question_type": "MCQ",
+      "question_text": "Match List-I with List-II List I (Species) List II (Electronic distribution) i. ii. iii. . iv.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) (A)-I, (B)-II, (C)-III, (D)-IV",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) (A)-III, (B) - IV, (C) - I, (D)-II",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) (A)-IV, (B)-III, (C)-I, (D)-II",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) (A)-II, (B)-I, (C)-IV, (D)-III",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "A.",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "B.",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "Choose the correct answer from the options given below:",
+          "latex": null
+        },
+        {
+          "id": "D",
+          "text": "D.",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q43",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 43,
+      "question_type": "MCQ",
+      "question_text": "(A) is a chelating ligand. (B) Metallic aluminium is produced by electrolysis of aluminium oxide in presence of cryolite. (C) Cyanide ion is used as ligand for leaching of silver. (D) Phosphine act as a ligand in Wilkinson catalyst. (E) The stability constants of",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) (B), (C), (E) only",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) (C), (D), (E) only",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) (A), (B), (C) only",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) (A), (D), (E) only",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "are similar with EDTA complexes.",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "Choose the correct answer from the options given below:",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q44",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 44,
+      "question_type": "MCQ",
+      "question_text": "",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) Octahedral",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) Square Planar",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) Tetrahedral",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) Trigonal bipyramidal",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "Aluminium chloride in acidified aqueous solution forms an ion having geometry",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q45",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Chemistry",
+      "question_number": 45,
+      "question_type": "MCQ",
+      "question_text": "This reduction reaction is known as:",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) Rosenmund reduction",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) Wolff-Kishner reduction",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) Stephen reduction",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) Etard reduction",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q46",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 46,
+      "question_type": "MCQ",
+      "question_text": "Following is a confirmatory test for aromatic primary amines. Identify reagent (A) and (B) JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo +2 3d 8 Mn + 3d 3 4s 1 Ni +2 3d 4 V + 3d 5 4s 1 Ethane −1 , 2 −diamine 2+ Mg 2+ Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+      "question_latex": "Following is a confirmatory test for aromatic primary amines. Identify reagent (A) and (B) JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo +2 3d 8 Mn + 3d 3 4s 1 Ni +2 3d 4 V + 3d 5 4s 1 Ethane −1 , 2 −diamine 2+ Mg 2+ Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "Ca",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q47",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Chemistry",
+      "question_number": 47,
+      "question_type": "MCQ",
+      "question_text": "The final product , formed in the following multistep reaction sequence is:",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q48",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 48,
+      "question_type": "MCQ",
+      "question_text": "Given below are two statements: Statement-I: The gas liberated on warming a salt with dil , turns a piece of paper dipped in lead acetate into black, it is a confirmatory test for sulphide ion. Statement-II: In statement-I the colour of paper turns black because of formation of lead sulphite.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) Both Statement-I and Statement-II are false",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) Statement-I is false but Statement-II is true",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) Statement-I is true but Statement-II is false",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) Both Statement-I and Statement-II are true.",
+          "latex": null
+        }
+      ],
+      "correct_answer": "A",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q49",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 49,
+      "question_type": "MCQ",
+      "question_text": "The Lassiagne's extract is boiled with dil is soluble in is soluble in",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) Silver halides are soluble in",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "are decomposed by",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "before testing for halogens because,",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q50",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 50,
+      "question_type": "MCQ",
+      "question_text": "Sugar which does not give reddish brown precipitate with Fehling's reagent is: JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo A H 2 SO 4 HNO 3 HNO 3 HNO 3 2 S HNO 3 Na 2 S NaCN HNO 3 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+      "question_latex": "Sugar which does not give reddish brown precipitate with Fehling's reagent is: JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo A H 2 SO 4 HNO 3 HNO 3 HNO 3 2 S HNO 3 Na 2 S NaCN HNO 3 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) Sucrose",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) Lactose",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) Glucose",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) Maltose",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "Ag",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q51",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 51,
+      "question_type": "MCQ",
+      "question_text": "thick coating of silver is deposited on a plate of on plate are _______ . (At mass Ag Round off to the nearest integer.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "area. The number of silver atoms deposited",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q53",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 53,
+      "question_type": "MCQ",
+      "question_text": "The total number of molecular orbitals formed from",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "atomic orbitals of a diatomic molecule",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q54",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 54,
+      "question_type": "MCQ",
+      "question_text": "tracing the path",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "as shown in the diagram. The total work done in the process is _____ .",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q55",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 55,
+      "question_type": "MCQ",
+      "question_text": "The ions is ______.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "at which",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "begins to precipitate from a solution containing",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q58",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 58,
+      "question_type": "MCQ",
+      "question_text": "The mass of sodium acetate required to prepare of g.  Molar mass of is ) Round off to the nearest integer.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "aqueous solution is _____",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q59",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Chemistry",
+      "question_number": 59,
+      "question_type": "MCQ",
+      "question_text": "The rate of first order reaction is minutes and minutes after initiation. Half life of the reaction is ______ minutes. (Given",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "at",
+          "latex": null
+        }
+      ],
+      "correct_answer": "A",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q60",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Chemistry",
+      "question_number": 60,
+      "question_type": "MCQ",
+      "question_text": "The compound formed by the reaction of ethanal with semicarbazide contains _______ number of nitrogen",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "atoms.",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q61",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 61,
+      "question_type": "MCQ",
+      "question_text": "If , satisfies the equation , then is equal to :",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q62",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 62,
+      "question_type": "MCQ",
+      "question_text": "Let , then is : JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 0. 05 0. 05 m 2 ×10 23 = 108, g −3 ) n 2s 2p A J pH Mg(OH) 2 [ K sp = 1 × 10 −11 ] 0. 10M Mg 2+ 2 MnO − 4 + bI − + cH 2 O →xI 2 + yMnO 2 + zOH − z 3. 5 5 ×10 −1 (CH 3 250 mL 0. 35M ( 3 82. 02 g mol −1 0. 04 mol L −1 s −1 10 0. 03 mol L −1 s −1 20 log 2 = 0. 3010, log 3 = 0. 4771) z = x + iy, xy ≠0 z 2 + iz = 0 ¯ z 2 ∣ 9 1 4 1 4 S a n S 20 = 790 S 10 = 145 S 15 −S 5 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+      "question_latex": "Let , then is : JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 0. 05 0. 05 m 2 ×10 23 = 108, g −3 ) n 2s 2p A J pH Mg(OH) 2 [ K sp = 1 × 10 −11 ] 0. 10M Mg 2+ 2 MnO − 4 + bI − + cH 2 O →xI 2 + yMnO 2 + zOH − z 3. 5 5 ×10 −1 (CH 3 250 mL 0. 35M ( 3 82. 02 g mol −1 0. 04 mol L −1 s −1 10 0. 03 mol L −1 s −1 20 log 2 = 0. 3010, log 3 = 0. 4771) z = x + iy, xy ≠0 z 2 + iz = 0 ¯ z 2 ∣ 9 1 4 1 4 S a n S 20 = 790 S 10 = 145 S 15 −S 5 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "A →B →C →A",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "COONa",
+          "latex": null
+        },
+        {
+          "id": "D",
+          "text": "d = 7. 9",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q63",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 63,
+      "question_type": "MCQ",
+      "question_text": "If has exactly  solutions in the interval , then the roots of the equation",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "belong to :",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q64",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 64,
+      "question_type": "MCQ",
+      "question_text": "makes an angle of with the positive direction of -axis. If this line is rotated about  through an angle of in the clockwise direction, then its equation in the new position is",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "A line passing through the point",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q65",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 65,
+      "question_type": "MCQ",
+      "question_text": "If the circles intersect at exactly two distinct points, then",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q66",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 66,
+      "question_type": "MCQ",
+      "question_text": "The maximum area of a triangle whose one vertex is at where is :",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q67",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 67,
+      "question_type": "MCQ",
+      "question_text": "If the length of the minor axis of ellipse is equal to half of the distance between the foci, then the eccentricity of the ellipse is :",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q68",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 68,
+      "question_type": "MCQ",
+      "question_text": "Let , If , then is equal to :",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "be a differentiable function such that",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q69",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 69,
+      "question_type": "MCQ",
+      "question_text": "Let Then is equal to :",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "D",
+          "text": "denote the median of the following frequency distribution.",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q70",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 70,
+      "question_type": "MCQ",
+      "question_text": "If then is equal to ________. JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 395 390 405 410 2 sin 3 x + sin 2x cos x + 4 sin x −4 = 0 3 [0, nπ 2 ⌉, n ∈N x 2 + nx + (n −3) = 0 (0, ∞) (−∞, 0) (− √17 2 , √17 2 ) Z 30° x A 15° y √3−2 + x = 9 x √3−2 + y = 9 x √3+2 + y = 9 y √3+2 + x = 9 (x + 1) 2 + (y + 2) 2 = r 2 x 2 + y 2 −4x −4y + 4 = 0 5 < r < 9 0 < r < 7 3 < r < 7 1 2 < r < 7 (0, 0) y = −2x 2 + 54 (x, y) (−x, y) y > 0 88 122 92 108 √5 3 √3 2 1 √3 2 √5 f : [− π 2 , π 2 ] →R f(0) = 1 2 lim x→0 x ∫ x 0 f(t)dt e x2 −1 = α 8α 2 16 2 1 4 M 0 −4 4 −8 8 −12 12 −16 16 −20 Frequency 3 9 10 8 6 20M 416 104 52 208 f(x) = ∣ 2 cos 4 x 2 sin 4 x 3 + sin 2 2x 3 + 2 cos 4 x 2 sin 4 x sin 2 2x 2 cos 4 x 3 + 2 sin 4 x sin 2 2x ∣ 1 5 f ′ (0) Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+      "question_latex": "If then is equal to ________. JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 395 390 405 410 2 sin 3 x + sin 2x cos x + 4 sin x −4 = 0 3 [0, nπ 2 ⌉, n ∈N x 2 + nx + (n −3) = 0 (0, ∞) (−∞, 0) (− √17 2 , √17 2 ) Z 30° x A 15° y √3−2 + x = 9 x √3−2 + y = 9 x √3+2 + y = 9 y √3+2 + x = 9 (x + 1) 2 + (y + 2) 2 = r 2 x 2 + y 2 −4x −4y + 4 = 0 5 < r < 9 0 < r < 7 3 < r < 7 1 2 < r < 7 (0, 0) y = −2x 2 + 54 (x, y) (−x, y) y > 0 88 122 92 108 √5 3 √3 2 1 √3 2 √5 f : [− π 2 , π 2 ] →R f(0) = 1 2 lim x→0 x ∫ x 0 f(t)dt e x2 −1 = α 8α 2 16 2 1 4 M 0 −4 4 −8 8 −12 12 −16 16 −20 Frequency 3 9 10 8 6 20M 416 104 52 208 f(x) = ∣ 2 cos 4 x 2 sin 4 x 3 + sin 2 2x 3 + 2 cos 4 x 2 sin 4 x sin 2 2x 2 cos 4 x 3 + 2 sin 4 x sin 2 2x ∣ 1 5 f ′ (0) Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "A(9, 0)",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "Class",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q71",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 71,
+      "question_type": "MCQ",
+      "question_text": ", where",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) The system has unique solution if",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) The system is inconsistent if",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) The system has infinite number of solutions if",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) The system is consistent if",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "Consider the system of linear equation",
+          "latex": null
+        }
+      ],
+      "correct_answer": "A",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q72",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 72,
+      "question_type": "MCQ",
+      "question_text": "If the domain of the function is , then is equal to :",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q73",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 73,
+      "question_type": "Numerical",
+      "question_text": "Let . If a real valued function  is , then for atleast two  in for exactly one   in for no  in",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "be a non constant twice differentiable such that",
+          "latex": null
+        },
+        {
+          "id": "D",
+          "text": "defined as",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q74",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 74,
+      "question_type": "Numerical",
+      "question_text": "The value of is :",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q75",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 75,
+      "question_type": "MCQ",
+      "question_text": "The area (in square units) of the region bounded by the parabola .",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and the line",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q76",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 76,
+      "question_type": "MCQ",
+      "question_text": "Let such that . Then is equal to :",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "be the solution of the differential equation",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q77",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 77,
+      "question_type": "MCQ",
+      "question_text": "Let if the diagonal then the area of the parallelogram is equal to",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "be opposite vertices of a parallelogram",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q78",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 78,
+      "question_type": "MCQ",
+      "question_text": "Let . If , then the angle between  and  is equal to : JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 0 1 2 6 x + y + z = 4μ, x + 2y + 2λz = 10μ, x + 3y + 4λ 2 z = μ 2 + 15 λ, μ ∈R λ ≠ 1 2 μ ≠1, 15 λ = 1 2 μ ≠1 λ = 1 2 μ = 15 λ ≠ 1 2 f(x) = cos −1 ( 2−|x| 4 ) + (log e (3 −x)) −1 [−α, β) −{γ} α + β + γ 12 9 11 8 g : R →R g ′ ( 1 2 ) = g ′ ( 3 2 ) f f(x) = 1 2 [ g(x) + g(2 −x)] f ′′ (x) = 0 x (0, 2) f ′′ (x) = 0 x (0, 1) f ′′ (x) = 0 x (0, 1) f ′ ( 3 2 ) + f ′ ( 1 2 ) = 1 lim n→∞ ∑ n k=1 n 3 (n 2 +k 2 )(n 2 +3k 2 ) (2√3+3)π 24 13π 8(4 √ 3+3) 13(2√3−3)π 8 π 8(2√3+3) y 2 = 4(x −2) y = 2x −8 8 9 6 7 y = y(x) sec xdy + {2(1 −x) tan x + x(2 −x)}dx = 0 y(0) = 2 y(2) 2 2{1 −sin(2)} 2{sin(2) + 1} 1 ˆ i + 2 ˆ j + 3 ˆ k − → 1 2 √410 1 2 √474 1 2 √586 1 2 √306 →a = a i ˆi + a 2 ˆj + a 3 ˆk → 1 ˆ i + b 2 ˆ j + b 3 ˆ k →a = 1;→a ⋅ → ∣ → ∣ →c = 2(→a × → → b → b →c Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+      "question_latex": "Let . If , then the angle between  and  is equal to : JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo 0 1 2 6 x + y + z = 4μ, x + 2y + 2λz = 10μ, x + 3y + 4λ 2 z = μ 2 + 15 λ, μ ∈R λ ≠ 1 2 μ ≠1, 15 λ = 1 2 μ ≠1 λ = 1 2 μ = 15 λ ≠ 1 2 f(x) = cos −1 ( 2−|x| 4 ) + (log e (3 −x)) −1 [−α, β) −{γ} α + β + γ 12 9 11 8 g : R →R g ′ ( 1 2 ) = g ′ ( 3 2 ) f f(x) = 1 2 [ g(x) + g(2 −x)] f ′′ (x) = 0 x (0, 2) f ′′ (x) = 0 x (0, 1) f ′′ (x) = 0 x (0, 1) f ′ ( 3 2 ) + f ′ ( 1 2 ) = 1 lim n→∞ ∑ n k=1 n 3 (n 2 +k 2 )(n 2 +3k 2 ) (2√3+3)π 24 13π 8(4 √ 3+3) 13(2√3−3)π 8 π 8(2√3+3) y 2 = 4(x −2) y = 2x −8 8 9 6 7 y = y(x) sec xdy + {2(1 −x) tan x + x(2 −x)}dx = 0 y(0) = 2 y(2) 2 2{1 −sin(2)} 2{sin(2) + 1} 1 ˆ i + 2 ˆ j + 3 ˆ k − → 1 2 √410 1 2 √474 1 2 √586 1 2 √306 →a = a i ˆi + a 2 ˆj + a 3 ˆk → 1 ˆ i + b 2 ˆ j + b 3 ˆ k →a = 1;→a ⋅ → ∣ → ∣ →c = 2(→a × → → b → b →c Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "ABCD",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "b) −3",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "C(−3, 4, −2)",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q79",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 79,
+      "question_type": "MCQ",
+      "question_text": "Let on the line . then is equal to :",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "be the foot of perpendicular from the point",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q80",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 80,
+      "question_type": "MCQ",
+      "question_text": "Two integers . Then the probability that is :",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "are chosen with replacement from the set",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q81",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 81,
+      "question_type": "Numerical",
+      "question_text": "Let , where . If  assumes the minimum possible value, then is equal to :",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "B",
+          "text": "be roots of equation",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q84",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 84,
+      "question_type": "MCQ",
+      "question_text": "Let the latus rectum of the hyperbola subtend an angle of is equal to , where  and is equal to __________.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "are co-prime numbers, then",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q85",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 85,
+      "question_type": "MCQ",
+      "question_text": "students appeared in an examination of  subjects - Mathematics, Physics & Chemistry. It was found that all students passed in at least one of the subjects, students passed in Mathematics, students passed in Physics, students passed in Chemistry, at most students passed in both Mathematics and Physics, at most students passed in both Physics and Chemistry, at most students passed in both Mathematics and Chemistry. The maximum number of students passed in all the three subjects is _____.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "A group of",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q86",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 86,
+      "question_type": "MCQ",
+      "question_text": "Let such that is is least, then is equal to ______.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "and",
+          "latex": null
+        },
+        {
+          "id": "D",
+          "text": "denote the power set of . If the number of functions",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q89",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 89,
+      "question_type": "MCQ",
+      "question_text": "Let , . If is equal to __________.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "and  are coprime numbers, then",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "be the solution of the differential equation",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2024_30_Jan_Shift_1_q90",
+      "exam_name": "Main 2024",
+      "exam_date_shift": "30 Jan Shift 1",
+      "subject": "Mathematics",
+      "question_number": 90,
+      "question_type": "Numerical",
+      "question_text": "If is the shortest distance between the lines is the shortest distance between the lines , then the value of is : JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo −1 ( 2 √3 ) −1 (− 1 √3 ) −1 (− √3 2 ) −1 ( 2 3 ) (α, β, γ) (1, 2, 3) x+3 5 = y−1 2 = z+4 3 19(α + β + γ) 102 101 99 100 x y {0, 1, 2, 3, … . . , 10} |x −y| > 5 30 121 62 121 60 121 31 121 α, β ∈ x 2 −70x + λ = 0 λ 2 , λ 3 ∉ λ (√α−1+√β−1)(λ+35) |α−β| α = 1 2 + 4 2 + 8 2 + 13 2 + 19 2 + 26 2 + … … . 10 β = ∑ 10 n=1 n 4 4α −β = 55k + 40 k {7 ( 1 2 ) + 11 ( 1 6 ) } 824 x 2 9 − y 2 b 2 = 1 π 3 b 2 l m (1 + √n) l m l 2 + m 2 + n 2 40 3 20 25 16 11 15 15 P(A) A f : A →P(A) m n , m n ∈N m m + n f(x) = { 1 |x| , |x| ≥2 2 + 2b, |x| < 2 R 48(a + b) 9 ∫ 9 0 [√ 10x x+1 ] dx t t y = y(x) (1 −x 2 )dy = [xy + (x 3 + 2)√3(1 −x 2 )]dx −1 < x < 1, y(0) = 0 y( 1 2 ) = m n , m n m + n d 1 x + 1 = 2 y = −12 z, x = y + 2 = 6 z −6 d 2 x−1 2 = y+8 −7 = z−4 5 , x−1 2 = y−2 1 = z−6 −3 32 √ 3 d 1 d 2 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. (175) 22. (250) 23. 24. (400) 25. 26. (6) 27. (32) 28. (35) 29. (10) 30. (6) 31. 32. 33. 34. 35. 36. 37. 38. 39. 40. 41. 42. 43. 44. 45. 46. 47. 48. 49. 50. 51. (11) 52. (11) 53. (08) 54. (200) 55. (09) 56. (08) 57. (07) 58. (7) 59. (24) 60. (03) 61. 62. 63. 64. 65. 66. 67. 68. 69. 70. 71. 72. 73. 74. 75. 76. 77. 78. 79. 80. 81. (60) 82. (353) 83. (138) 84. (182) 85. (10) 86. (44) 87. (15) 88. (155) 89. (97) 90. (16) JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo",
+      "question_latex": "If is the shortest distance between the lines is the shortest distance between the lines , then the value of is : JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo −1 ( 2 √3 ) −1 (− 1 √3 ) −1 (− √3 2 ) −1 ( 2 3 ) (α, β, γ) (1, 2, 3) x+3 5 = y−1 2 = z+4 3 19(α + β + γ) 102 101 99 100 x y {0, 1, 2, 3, … . . , 10} |x −y| > 5 30 121 62 121 60 121 31 121 α, β ∈ x 2 −70x + λ = 0 λ 2 , λ 3 ∉ λ (√α−1+√β−1)(λ+35) |α−β| α = 1 2 + 4 2 + 8 2 + 13 2 + 19 2 + 26 2 + … … . 10 β = ∑ 10 n=1 n 4 4α −β = 55k + 40 k {7 ( 1 2 ) + 11 ( 1 6 ) } 824 x 2 9 − y 2 b 2 = 1 π 3 b 2 l m (1 + √n) l m l 2 + m 2 + n 2 40 3 20 25 16 11 15 15 P(A) A f : A →P(A) m n , m n ∈N m m + n f(x) = { 1 |x| , |x| ≥2 2 + 2b, |x| < 2 R 48(a + b) 9 ∫ 9 0 [√ 10x x+1 ] dx t t y = y(x) (1 −x 2 )dy = [xy + (x 3 + 2)√3(1 −x 2 )]dx −1 < x < 1, y(0) = 0 y( 1 2 ) = m n , m n m + n d 1 x + 1 = 2 y = −12 z, x = y + 2 = 6 z −6 d 2 x−1 2 = y+8 −7 = z−4 5 , x−1 2 = y−2 1 = z−6 −3 32 √ 3 d 1 d 2 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$ 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. (175) 22. (250) 23. 24. (400) 25. 26. (6) 27. (32) 28. (35) 29. (10) 30. (6) 31. 32. 33. 34. 35. 36. 37. 38. 39. 40. 41. 42. 43. 44. 45. 46. 47. 48. 49. 50. 51. (11) 52. (11) 53. (08) 54. (200) 55. (09) 56. (08) 57. (07) 58. (7) 59. (24) 60. (03) 61. 62. 63. 64. 65. 66. 67. 68. 69. 70. 71. 72. 73. 74. 75. 76. 77. 78. 79. 80. 81. (60) 82. (353) 83. (138) 84. (182) 85. (10) 86. (44) 87. (15) 88. (155) 89. (97) 90. (16) JEE Main 2024 (30 Jan Shift 1) Question Paper JEE Main Previous Year Paper MathonGo",
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "ANSWER KEYS",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "cos",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    }
+  ]
+}

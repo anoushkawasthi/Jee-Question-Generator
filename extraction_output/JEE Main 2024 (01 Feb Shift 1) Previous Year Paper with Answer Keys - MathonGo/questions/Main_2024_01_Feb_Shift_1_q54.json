@@ -1,0 +1,35 @@
+{
+  "question_id": "Main_2024_01_Feb_Shift_1_q54",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "01 Feb Shift 1",
+  "subject": "Mathematics",
+  "question_number": 54,
+  "question_type": "MCQ",
+  "question_text": "K a for 3 is 1 . 8 × 10 -5 K b for NH 4 OH is 1 . 8 × 10 -5 . The pH of ammonium acetate solution will",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "COOH",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

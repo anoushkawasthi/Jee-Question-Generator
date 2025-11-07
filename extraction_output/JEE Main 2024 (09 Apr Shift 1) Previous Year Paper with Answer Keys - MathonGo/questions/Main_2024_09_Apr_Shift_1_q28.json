@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_09_Apr_Shift_1_q28",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "09 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 28,
+  "question_type": "MCQ",
+  "question_text": "When a coil is connected across a . When it is connected across . The self inductance of the coil is ______ .  Take )",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "ac supply, it draws a current of",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "dc supply, it draws a current of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

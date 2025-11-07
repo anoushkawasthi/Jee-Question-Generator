@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_1_q50",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 1",
+  "subject": "Physics",
+  "question_number": 50,
+  "question_type": "MCQ",
+  "question_text": ". The work done by this force during a to is Joule (round off to the nearest integer)",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "acts on a particle in a plane",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "displacement from",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

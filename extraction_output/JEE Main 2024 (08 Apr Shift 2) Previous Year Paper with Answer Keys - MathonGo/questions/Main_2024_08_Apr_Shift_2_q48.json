@@ -1,0 +1,55 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_2_q48",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 2",
+  "subject": "Physics",
+  "question_number": 48,
+  "question_type": "MCQ",
+  "question_text": "Match List - I with List - II. JEE Main 2024 (08 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo MnO 2 KOH K 2 MnO 4 (A) [Cr(NH 3 ) 6 ] 3+ (I) 4.90 (B) [NiCl 4 ] 2− (II) 3.87 (C) [CoF 6 ] 3− (III) 0.0 (D) [Ni(CN) 4 ] 2− (IV) 2.83 List - I (Complex ion) List - II (Spin only magnetic moment in B.M.) S N 2 S N 1 NaOH C 2 H 5 OH C 6 H 5 OH C 6 H 5 2 OH (CH 3 ) 3 (Test) (Identification) (A) (I) Phenol VIARKS (B) (II) (C) Phthalein dye test R K (III) (D) Schiff's test (IV) Unsaturation Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+  "question_latex": "Match List - I with List - II. JEE Main 2024 (08 Apr Shift 2) Question Paper JEE Main Previous Year Paper MathonGo MnO 2 KOH K 2 MnO 4 (A) [Cr(NH 3 ) 6 ] 3+ (I) 4.90 (B) [NiCl 4 ] 2− (II) 3.87 (C) [CoF 6 ] 3− (III) 0.0 (D) [Ni(CN) 4 ] 2− (IV) 2.83 List - I (Complex ion) List - II (Spin only magnetic moment in B.M.) S N 2 S N 1 NaOH C 2 H 5 OH C 6 H 5 OH C 6 H 5 2 OH (CH 3 ) 3 (Test) (Identification) (A) (I) Phenol VIARKS (B) (II) (C) Phthalein dye test R K (III) (D) Schiff's test (IV) Unsaturation Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.$\\frac{com}{mWN}$",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) (A)-(IV), (B)-(III), (C)-(I), (D)-(II)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) (A)-(II), (B)-(III), (C)-(IV), (D)-(I)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) (A)-(IV), (B)-(I), (C)-(II), (D)-(III)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) (A)-(III), (B)-(I), (C)-(IV), (D)-(II)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "Alcoholic-OH group",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "Bayer's test MARKS",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Ceric ammonium nitrate test",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,3022 @@
+{
+  "paper_metadata": {
+    "exam_name": "Main 2025",
+    "exam_date_shift": "24 Jan Shift 2",
+    "paper_id": "JEE Main 2025 (24 Jan Shift 2) Previous Year Paper with Answer Keys - MathonGo",
+    "total_questions": 70,
+    "extraction_timestamp": "2025-11-07T12:47:56.355494",
+    "extraction_method": "pymupdf"
+  },
+  "questions": [
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q1",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 1,
+      "question_type": "MCQ",
+      "question_text": "Group A consists of 7 boys and 3 girls, while group B consists of 6 boys and 5 girls. The number of ways, 4 , is equal to :",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) 8750",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) 9100",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) 8925",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) 8575",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "boys and 4 girls can be invited for a picnic if 5 of them must be from group  and the remaining 3 from group",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q2",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 2,
+      "question_type": "MCQ",
+      "question_text": "If the system of equations has infinitely many solutions, then is equal to :",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) 13",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) 10",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) 12",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) 11",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q3",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 3,
+      "question_type": "MCQ",
+      "question_text": "Let . Then is equal to :",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) 4",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) 8",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) 6",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) 2",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q4",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 4,
+      "question_type": "MCQ",
+      "question_text": "The area of the region enclosed by the curves",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and -axis is:",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q5",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 5,
+      "question_type": "MCQ",
+      "question_text": "The equation of the chord, of the ellipse , whose mid-point is is :",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q6",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 6,
+      "question_type": "Numerical",
+      "question_text": "Let the points lie on or inside the triangle with sides . Then the product of the smallest and the largest values of  is equal to :",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) 44",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) 22",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) 33",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) 55",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q7",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 7,
+      "question_type": "MCQ",
+      "question_text": "Let , with . Then is equal to :",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) 39",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) 19",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) 29",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) 23",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "be a function which is differentiable at all points of its domain and satisfies the condition",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q8",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 8,
+      "question_type": "Numerical",
+      "question_text": "If , then the value of  is :",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) 6",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) 1",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q9",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 9,
+      "question_type": "MCQ",
+      "question_text": "Let function , is not continuous and not differentiable. Then is equal to :",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) 6",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) 8",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) 9",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) 7",
+          "latex": null
+        },
+        {
+          "id": "D",
+          "text": "denote the greatest integer function, and let m and n respectively be the numbers of the points, where the",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q10",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 10,
+      "question_type": "MCQ",
+      "question_text": "Let matrix. Then the probability is : 2025 (24 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo A B x + 2y −3z = 2 2x + λy + 5z = 5 14x + 3y + μz = 33 λ + μ π 2 } : log (2/π) | sin x| + log (2/π) | cos x| = 2} n(A ∪B) y = e x , y = |e x −1| y 1 −log e 2 log e 2 1 + log e 2 2 log e 2 −1 x 2 25 + y 2 16 = 1 (3, 1) 48x + 25y = 169 5x + 16y = 31 25x + 101y = 176 4x + 122y = 134 ( 11 2 , α) x + y = 11, x + 2y = 16 2x + 3y = 29 α f : (0, ∞) →R x 2 f ′ (x) = 2xf(x) + 3 f(1) = 4 2f(2) 7 = 5 + 1 7 (5 + α) + 1 7 2 (5 + 2α) + 1 7 3 (5 + 3α)+ ∞ α 6 7 1 7 [x] f(x) = [x] + |x −2|, −2 < x < 3 m + n ij ] E A P(E)",
+      "question_latex": "Let matrix. Then the probability is : 2025 (24 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo A B x + 2y −3z = 2 2x + λy + 5z = 5 14x + 3y + μz = 33 λ + μ π 2 } : log ($\\frac{2}{π}$) | sin x| + log ($\\frac{2}{π}$) | cos x| = 2} n(A ∪B) y = e x , y = |e x −1| y 1 −log e 2 log e 2 1 + log e 2 2 log e 2 −1 x 2 25 + y 2 16 = 1 (3, 1) 48x + 25y = 169 5x + 16y = 31 25x + 101y = 176 4x + 122y = 134 ( 11 2 , α) x + y = 11, x + 2y = 16 2x + 3y = 29 α f : (0, ∞) →R x 2 f ′ (x) = 2xf(x) + 3 f(1) = 4 2f(2) 7 = 5 + 1 7 (5 + α) + 1 7 2 (5 + 2α) + 1 7 3 (5 + 3α)+ ∞ α 6 7 1 7 [x] f(x) = [x] + |x −2|, −2 < x < 3 m + n ij ] E A P(E)",
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "A = [a",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "B = {x ⩾0 : √x(√x −4) −3|√x −2| + 6 = 0}",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q11",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 11,
+      "question_type": "MCQ",
+      "question_text": "Let the position vectors of three vertices of a triangle be . If the position vectors of the orthocenter and the circumcenter of the triangle are respectively, then is equal to :",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) 3",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) 4",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) 1",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) 6",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q12",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 12,
+      "question_type": "MCQ",
+      "question_text": "Let . Then the projection of on  is :",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q13",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 13,
+      "question_type": "MCQ",
+      "question_text": "",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) 1",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) 0",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) 2",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) 3",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q14",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 14,
+      "question_type": "MCQ",
+      "question_text": "",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q15",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 15,
+      "question_type": "MCQ",
+      "question_text": "",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) 525",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) 510",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) 515",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) 505",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q16",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 16,
+      "question_type": "MCQ",
+      "question_text": "Suppose A and B are the coefficients of terms respectively in the binomial expansion of . If , then n is equal to :",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) 22",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) 20",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) 21",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) 19",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q17",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 17,
+      "question_type": "MCQ",
+      "question_text": "Let is strictly increasing and (b, c) be the largest open interval, in which the function is strictly is equal to :",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) 420",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) 360",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) 160",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) 280",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "be the largest open interval in which the function",
+          "latex": null
+        },
+        {
+          "id": "D",
+          "text": "decreasing. Then",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q18",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 18,
+      "question_type": "MCQ",
+      "question_text": "For some , let . Then is equal to :",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) 16",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) 25",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) 9",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) 36",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q19",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 19,
+      "question_type": "MCQ",
+      "question_text": "If the equation of the parabola with vertex is , then is equal to : 2025 (24 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo 3 16 5 8 3 8 1 8 4→p + →q −3→r, −5→p + →q + 2→r 2 → p − → q + 2 → r →p+→q+→r 4 α→p + β→q + γ→r α + 2β + 5γ →a = 3^i −^j + 2^k, → → ^ i −2 ^ k) →c = → ^ k →c −2^j →a 2 √ 14 √14 3 √ 7 2 √ 7 The number of real solution(s) of the equation x 2 + 3x + 2 = min{|x −3|, |x + 2|} is : The function f : (−∞, ∞) →(−∞, 1), defined by f(x) = 2 x −2 −x 2 x +2 −x is : Neither one-one nor onto Onto but not one-one One-one but not onto In an arithmetic progression, if S 40 = 1030 S 12 = 57, then S 30 −S 10 is equal to : 30 th 12 th (1 + x) 2n−1 2 B (2, 3) f(x) = 2 log e (x −2) −x 2 + ax + 1 g(x) = (x −1) 3 (x + 2 −a) 2 100(a + b −c) f(x) = , x ≠0, lim x→0 f(x) = λ + μa + νb ∣ sin x x 1 b a 1 + sin x x b a 1 sin x x ∣ (λ + μ + ν) 2 V ( 3 2 , 3) x + 2y = 0 αx 2 + βy 2 −γxy −30x −60y + 225 = 0 α + β + γ",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) 7",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) 9",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) 8",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) 6",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "a +",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "b +",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q20",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 20,
+      "question_type": "MCQ",
+      "question_text": "If , then the expression is equal to :",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) 0",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q21",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 21,
+      "question_type": "MCQ",
+      "question_text": "Let P be the image of the point in the line Then the square of the area of is ________.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "and",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "be a point on .",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q22",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 22,
+      "question_type": "MCQ",
+      "question_text": "If , where  is the is equal to _______.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "C",
+          "text": "constant of integration, then",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q23",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 23,
+      "question_type": "MCQ",
+      "question_text": "Let . If , then is equal to ________.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "B",
+          "text": "be the solution of the differential equation",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q25",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 25,
+      "question_type": "MCQ",
+      "question_text": "Let respectively. Let their ecentricities be respectively. If the product of the lengths of their transverse axes is , then is equal to ________.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "and",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "be two hyperbolas having length of latus rectums",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q26",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 26,
+      "question_type": "MCQ",
+      "question_text": "Which of the following figure represents the relation between Celsius and Fahrenheit temperatures ? 2025 (24 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo α > β > γ > 0 −1 {β + (1+β 2 ) (α−β) } + cot −1 {γ + (1+γ 2 ) (β−γ) } + cot −1 {α + (1+α 2 ) (γ−α) } π π 2 −(α + β + γ) 3π Q(7, −2, 5) L : x−1 2 = y+1 3 = z 4 R(5, p, q) L △PQR ∫ 2x 2 +5x+9 √x 2 +x+1 2 + x + 1 + α√x 2 + x + 1 + β log e x + 1 2 + √x 2 + x + 1 + C ∣∣ C α + 2β y = y(x) 2 cos x = sin 2x −4y sin x, x ∈(0, π 2 ) y ( π 3 ) = 0 y ′ ( π 4 ) + y ( π 4 ) f : {1, 2, … , 100} →{0, 1} H 1 : x 2 a 2 − y 2 b 2 = 1 H 2 : − x 2 A 2 + y 2 B 2 = 1 15 √ 2 12 √ 5 e 1 = √ 5 2 e 2 100√10 25e 2 2",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "cot",
+          "latex": null
+        },
+        {
+          "id": "D",
+          "text": "dx",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q27",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 27,
+      "question_type": "MCQ",
+      "question_text": "The position vector of a moving body at any instant of time is given as . The magnitude is, , making an angle of with - ve , making an angle of with + ve X axis , making an angle of with + ve , making an angle of with - ve",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "axis",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q28",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 28,
+      "question_type": "MCQ",
+      "question_text": "The output of the circuit is low (zero) for : (A) (B) (C) (D) options given below :",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) (B), (C) and (D) only",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) (A), (B) and (C) only",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) (A), (C) and (D) only",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) (A), (B) and (D) only",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "Choose the correct answer from the",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q29",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Physics",
+      "question_number": 29,
+      "question_type": "MCQ",
+      "question_text": "Young's double slit inteference apparatus is immersed in a liquid of refractive index 1.44. It has slit separation of 1.5 mm . The slits are illuminated by a parallel beam of light whose wavelength in air is 690 nm . The fringe-width on a screen placed behind the plane of slits at a distance of 0.72 m , will be :",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) 0.23 mm",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) 0.33 mm",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) 0.63 mm",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) 0.46 mm",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q30",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 30,
+      "question_type": "MCQ",
+      "question_text": "The magnitude of heat exchanged by a system for the given cyclic process ABCA (as shown in figure) is (in SI unit) :",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) zero",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q31",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Physics",
+      "question_number": 31,
+      "question_type": "MCQ",
+      "question_text": "uniformly distributed across this cross-section. The plot of magnitude of magnetic field B with distance  from the centre of the wire is given by 2025 (24 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo →r = (5t 2 ^ i −5t ^ j)m t = 2 s 5 √ 15 m/s tan −1 4 Y 5 √ 15 m/s tan −1 4 5 √ 17 m/s tan −1 4 X 5 √ 17 m/s tan −1 4 Y X = 0, Y = 0 X = 0, Y = 1 X = 1, Y = 0 X = 1, Y = 1 5π 40π 10π a I r",
+      "question_latex": "uniformly distributed across this cross-section. The plot of magnitude of magnetic field B with distance  from the centre of the wire is given by 2025 (24 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo →r = (5t 2 ^ i −5t ^ j)m t = 2 s 5 √ 15 $\\frac{m}{s}$ tan −1 4 Y 5 √ 15 $\\frac{m}{s}$ tan −1 4 5 √ 17 $\\frac{m}{s}$ tan −1 4 X 5 √ 17 $\\frac{m}{s}$ tan −1 4 Y X = 0, Y = 0 X = 0, Y = 1 X = 1, Y = 0 X = 1, Y = 1 5π 40π 10π a I r",
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "A long straight wire of a circular cross-section with radius '  ' carries a steady current . The current I is",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q32",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Physics",
+      "question_number": 32,
+      "question_type": "Numerical",
+      "question_text": "In photoelectric effect, the stopping potential frequency is work function of metal ) (A) is linear. (B) The slope of (C) h line. (D) The value of electric charge of electron is not required to",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) (C) and (D) only",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) (A), (C) and (E) only",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) (A), (B) and (C) only",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) (D) and (E) only",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "Choose the correct answer from the options given below :",
+          "latex": null
+        },
+        {
+          "id": "D",
+          "text": "determine  using the",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q33",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 33,
+      "question_type": "MCQ",
+      "question_text": "the time taken to reach the bottom by the solid sphere and the hollow sphere be , respectively, then",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q34",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 34,
+      "question_type": "MCQ",
+      "question_text": ". The units) 2025 (24 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo (V 0 )v/s (ν) ϕ 0 V 0 v/sν V 0 v/sν = ϕ 0 h V 0 v/sν h V 0 v/sν h t 1 t 2 t 1 > t 2 t 1 = t 2 t 1 < t 2 t 1 = 2t 2 4 × 10 −8 C 9 × 10 −3 N 1 4πϵ o 9 × 10 9 inSI",
+      "question_latex": ". The units) 2025 (24 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo (V 0 )$\\frac{v}{s}$ (ν) ϕ 0 V 0 $\\frac{v}{sν}$ V 0 $\\frac{v}{sν}$ = ϕ 0 h V 0 $\\frac{v}{sν}$ h V 0 $\\frac{v}{sν}$ h t 1 t 2 t 1 > t 2 t 1 = t 2 t 1 < t 2 t 1 = 2t 2 4 × 10 −8 C 9 × 10 −3 N 1 4πϵ o 9 × 10 9 inSI",
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) 3 cm",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) 2 cm",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) 4 cm",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) 1 cm",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "as",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "charge and then removed to a distance such that the force of repulsion between them is",
+          "latex": null
+        },
+        {
+          "id": "D",
+          "text": "distance between them is (Take",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q35",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Physics",
+      "question_number": 35,
+      "question_type": "Numerical",
+      "question_text": "N equally spaced charges each of value q , are placed on a circle of radius R . The circle rotates about its axis with an angular velocity  as shown in the figure. A bigger Amperian loop B encloses the whole circle where , for the given Amperian loops is",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "as a smaller Amperian loop A encloses a small segment. The difference between enclosed currents,",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q36",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Physics",
+      "question_number": 36,
+      "question_type": "MCQ",
+      "question_text": "where . The kinetic energy",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "A particle oscillates along the -axis according to the law,",
+          "latex": null
+        }
+      ],
+      "correct_answer": "A",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q37",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 37,
+      "question_type": "MCQ",
+      "question_text": "is . The focal length of the lens in the 2025 (24 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo ω I A −I B 2π N qω N 2 2π qω N π qω N 2π qω x x(t) = x 0 sin 2 ( t 2 ) x 0 = 1 m (K) x 2 400 km 2",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) 1.8 cm",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) 0.9 cm",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) 2.8 cm",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) 2.5 cm",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and the area of the landscape photographed is",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "cm",
+          "latex": null
+        },
+        {
+          "id": "D",
+          "text": "drone camera is :",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q38",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 38,
+      "question_type": "MCQ",
+      "question_text": "",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q39",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Physics",
+      "question_number": 39,
+      "question_type": "MCQ",
+      "question_text": ": (A) Microwaves (B) Ultraviolet rays (C) Infrared rays (D) X-rays :",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "Arrange the following in the ascending order of wavelength",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "Choose the most appropriate answer from the options given below",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q40",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Physics",
+      "question_number": 40,
+      "question_type": "MCQ",
+      "question_text": "The energy  and momentum  of a moving body of mass",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "are related by some equation. Given that c",
+          "latex": null
+        }
+      ],
+      "correct_answer": "A",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q41",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 41,
+      "question_type": "MCQ",
+      "question_text": "The temperature of a body in air falls from to in 4 minutes. The temperature of the air is . The temperature of the body in the next 4 minutes will be:",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q42",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 42,
+      "question_type": "MCQ",
+      "question_text": "",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "A solid sphere is rolling without slipping on a horizontal plane. The ratio of the linear kinetic energy of the",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "centre of mass of the sphere and rotational kinetic energy is :",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q43",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Physics",
+      "question_number": 43,
+      "question_type": "MCQ",
+      "question_text": "In a Young's double slit experiment, three polarizers are kept as shown in the figure. The transmission axes of to those of . An unpolarized light of wavelength  and intensity is incident on . The 2025 (24 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo Kq 2 0 a (4 −2√2) Kq 2 0 a (3 −√2) Kq 2 0 a (4√2 −2) Kq 2 0 a (3√2 −2) (λ) (λ 1 ) (λ 2 ) (λ 3 ) (λ 4 ) λ 4 < λ 3 < λ 2 < λ 1 λ 3 < λ 4 < λ 2 < λ 1 λ 4 < λ 3 < λ 1 < λ 2 λ 4 < λ 2 < λ 3 < λ 1 E p m E 2 = pc 2 + m 2 c 2 E 2 = p 2 c 2 + m 2 c 2 E 2 = pc 2 + m 2 c 4 E 2 = p 2 c 2 + m 2 c 4 40 ∘ C 24 ∘ C 16 ∘ C 14 3 ∘ C 42 3 ∘ C 28 3 ∘ C 56 3 ∘ C 3 4 4 3 5 2 2 5 P 1 P 2 P 3 45 ∘ P 1 P 2 λ I 0 P 1 P 2 intensity at a point after where the path difference between the light waves from is , is",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "covers both the slits with its transmission axis at",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q44",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 44,
+      "question_type": "Assertion-Reason",
+      "question_text": "Given below are two statements. One is labelled as Assertion (A) and the other is labelled as Reason (R). temperature of the gas decreases. Reason (R): Free expansion of an ideal gas is an irreversible and an adiabatic is NOT the explanation of",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) Both",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) (A) is false but (R) is true",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) (A) is true but (R) is false",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) Both",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "are true and",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "correct explanation of",
+          "latex": null
+        }
+      ],
+      "correct_answer": "A",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q45",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Physics",
+      "question_number": 45,
+      "question_type": "Assertion-Reason",
+      "question_text": "Given below are two statements. One is labelled as Assertion (A) and the other is labelled as Reason (R). straight line path. Reason (R): The magnetic field in that region is along the direction of velocity of the explanation of",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) (A) is true but (R) is false",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) Both (A) and (R) are true but (R) is NOT the",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) Both",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) (A) is false but (R) is true",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "are true and",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "correct explanation of (A)",
+          "latex": null
+        }
+      ],
+      "correct_answer": "A",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q47",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 47,
+      "question_type": "MCQ",
+      "question_text": "rotations per second about the vertical axis passing through end of the string as shown. The tension in the string is ML.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "at the other end. The mass makes",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q49",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Physics",
+      "question_number": 49,
+      "question_type": "MCQ",
+      "question_text": "inside the solenoid with a time period of 75 ns . The number of turns per metre in the solenoid is -. [Take mass of electron , charge of electron ,",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "A tightly wound long solenoid carries a current of 1.5 A . An electron is executing uniform circular motion",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q50",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Physics",
+      "question_number": 50,
+      "question_type": "Numerical",
+      "question_text": "original value and mass remains unchanged, then the acceleration due to gravity on the surface of the earth is g.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Acceleration due to gravity on the surface of earth is '  '. If the diameter of earth is reduced to one third of its",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q51",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Chemistry",
+      "question_number": 51,
+      "question_type": "MCQ",
+      "question_text": "For hydrogen atom, the orbital/s with lowest energy is/are : (A) 4 s (B) (C) (D) (E)",
+      "question_latex": "For hydrogen atom, the $\\frac{orbital}{s}$ with lowest energy $\\frac{is}{are}$ : (A) 4 s (B) (C) (D) (E)",
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) (B), (C) and (D) only",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) (A) and (E) only",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) (A) only",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) (B) only",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "Choose the correct answer from the options given below :",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q52",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 52,
+      "question_type": "MCQ",
+      "question_text": "Match List - I with List - II.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) (A)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) (A)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) (A)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "Choose the correct answer from the options given below :",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q53",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Chemistry",
+      "question_number": 53,
+      "question_type": "MCQ",
+      "question_text": "Given below are two statements : Statement (I): Experimentally determined oxygen-oxygen bond lengths in the (double bond) but less than 2025 (24 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo L M ( 3 π ) … … 0.2% P × 10 5 Nm −2 2.15 × 10 9 Nm −2 … … … … m e = 9 × 10 −31 kg |q e | = 1.6 × 10 −19 C μ 0 = 4π × 10 −7 N A 2 , 1 ns = 10 −9 s] g … … 3p x 3 d x 2 −y 2 3 d z 2 4p z −(III), (B) −(I), (C) −(IV), (D) −(II) −(III), (B) −(I), (C) −(II), (D) −(IV) −(IV), (B) −(II), (C) −(III), (D) −(I) (A) −(II), (B) −(IV), (C) −(I), (D) −(III) O 3 O = O that of a single is solely responsible for the fact that the bond length in ozone is smaller than that of a double bond from the options given below :",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) Both Statement I and Statement II are false",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) Statement I is false but Statement II is true",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) Statement I is true but Statement II is false",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) Both Statement I and Statement II are true",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "are found to be same and the bond length is greater than that of a",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "but more than that of a single bond",
+          "latex": null
+        }
+      ],
+      "correct_answer": "A",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q54",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 54,
+      "question_type": "MCQ",
+      "question_text": "When Ethane-1,2-diamine is added progressively to an aqueous solution of Nickel (II) chloride, the sequence of colour change observed will be : Pale Blue Green Green Violet Pale Blue Violet Violet Green",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) Violet",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) Pale Blue",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) Green",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) Pale Blue",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "Blue",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q55",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Physics",
+      "question_number": 55,
+      "question_type": "MCQ",
+      "question_text": "Given below are two statements : Statement (I) : The first ionization energy of Pb is greater than that of Sn . Statement (II) : The first ionization energy of Ge is greater than that of Si .",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) Statement I is false but Statement II is true",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) Statement I is true but Statement II is false",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) Both Statement I and Statement II are true",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) Both Statement I and Statement II are false",
+          "latex": null
+        }
+      ],
+      "correct_answer": "A",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q56",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 56,
+      "question_type": "MCQ",
+      "question_text": "",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) (A) only",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) (A), (B) and (E) only",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) (A) and (C) only",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) (A), (C) and (D) only",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "are meta directing group. (D) Activating groups act as ortho - and para",
+          "latex": null
+        },
+        {
+          "id": "D",
+          "text": "directing groups. (E) Halides are activating groups. Choose the correct answer from the options given below :",
+          "latex": null
+        }
+      ],
+      "correct_answer": "A",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q57",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 57,
+      "question_type": "MCQ",
+      "question_text": "the strongest reducing agent is :",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) Cr",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "Based on the data given below :",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q58",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Chemistry",
+      "question_number": 58,
+      "question_type": "MCQ",
+      "question_text": "For the reaction, 2025 (24 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo (O −O) (O = O) (O −O) → → → → → → → → → → → → −OCH 3 −NHCOCH 3 −SO 3 H E ∘ 2 O 2− 7 /Cr 3+ = 1.33 V E ∘ 2 /Cl (−) = 1.36 V E ∘ MnO − 4 /Mn 2+ = 1.51 V E ∘ 3+ /Cr = −0.74 V − MnO − 4 Mn 2+ H 2 ( g) + I 2 ( g) ⇌2HI( g)",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "Attainment of equillibrium is predicted correctly by :",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "Cl",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q59",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Chemistry",
+      "question_number": 59,
+      "question_type": "Numerical",
+      "question_text": "Find the compound ' A ' from the following reaction sequences.",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) CoS",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) ZnS",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) NiS",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) MnS",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q60",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Chemistry",
+      "question_number": 60,
+      "question_type": "MCQ",
+      "question_text": "The elemental composition of a compound is . If the molar mass of the , the molecular formula of the compound is : [Given : The relative atomic mass of ]",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "compound is",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q61",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 61,
+      "question_type": "MCQ",
+      "question_text": "The conditions and consequence that favours the",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) weak field ligand, low spin complex",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) weak field ligand, high spin complex",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) strong field ligand, high spin complex",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) strong field ligand, low spin complex",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "configuration in a metal complex are",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q62",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Chemistry",
+      "question_number": 62,
+      "question_type": "MCQ",
+      "question_text": "In the given structure, number of sp and hybridized carbon atoms present respectively are : 2025 (24 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo A B yellow ppt − → KNO 2 ∣NH 4 OH − → 54.2%C, 9.2%H 36.6%O 132 g mol −1 C 4 H 9 O 3 C 6 H 12 O 6 C 4 H 8 O 2 C 6 H 12 O 3 t 2gg e g 1 sp 2",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) 3 and 6",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) 4 and 6",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "AcOH",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "C : H : O = 12 : 1 : 16",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q63",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 63,
+      "question_type": "MCQ",
+      "question_text": "Given below are two statements :",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) Both Statement I and Statement II are true",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) Statement I is false but Statement II is true",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) Statement I is true but Statement II is false",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) Both Statement I and Statement II are false",
+          "latex": null
+        }
+      ],
+      "correct_answer": "A",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q64",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 64,
+      "question_type": "MCQ",
+      "question_text": "",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) (A)-(III), (B)-(IV), (C)-(II), (D)-(I)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) (A)-(I), (B)-(III), (C)-(II), (D)-(IV)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) (A)-(III), (B)-(IV), (C)-(I), (D)-(II)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) (A)-(IV), (B)-(III), (C)-(I), (D)-(II)",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "Choose the correct answer from the options given below :",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q65",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Chemistry",
+      "question_number": 65,
+      "question_type": "MCQ",
+      "question_text": "The structure of the major product formed in the following reaction is : 2025 (24 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q66",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Chemistry",
+      "question_number": 66,
+      "question_type": "MCQ",
+      "question_text": "For reaction",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        }
+      ],
+      "correct_answer": "A",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q67",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Chemistry",
+      "question_number": 67,
+      "question_type": "Numerical",
+      "question_text": "The successive 5 ionisation energies of an element are , respectively. By using the above values predict the group in which the above element is present : 2025 (24 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo 2 ∣FeBr 3 , H 2 O(Δ), NaOH H 2 SO 4 , Ac 2 O, Br 2 , H 2 O(Δ), NaOH 2 O, Br 2 , H 2 O(Δ), NaOH 2 O, H 2 SO 4 , Br 2 , NaOH 800, 2427, 3658, 25024 32824 kJ/mol",
+      "question_latex": "The successive 5 ionisation energies of an element are , respectively. By using the above values predict the group in which the above element is present : 2025 (24 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo 2 ∣FeBr 3 , H 2 O(Δ), NaOH H 2 SO 4 , Ac 2 O, Br 2 , H 2 O(Δ), NaOH 2 O, Br 2 , H 2 O(Δ), NaOH 2 O, H 2 SO 4 , Br 2 , NaOH 800, 2427, 3658, 25024 32824 $\\frac{kJ}{mol}$",
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) Group 13",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) Group 14",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) Group 2",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) Group 4",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "Ac",
+          "latex": null
+        },
+        {
+          "id": "B",
+          "text": "Br",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q68",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 68,
+      "question_type": "MCQ",
+      "question_text": "",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1) (A)-(IV), (B)-(III), (C)-(II), (D)-(I)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2) (A)-(III), (B)-(IV), (C)-(II), (D)-(I)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) (A)-(III), (B)-(IV), (C)-(I), (D)-(II)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) (A)-(III), (B)-(I), (C)-(IV), (D)-(II)",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "Choose the correct answer from the options given below :",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q69",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 69,
+      "question_type": "MCQ",
+      "question_text": "Which of the following mixing of 1 M base and 1 M acid leads to the largest increase in temperature? 2025 (24 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo 30 mLCH 3 45mLCH 3",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3) 30 mL HCl and 30 mL NaOH",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4) 50 mL HCl and 20 mL NaOH",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "and 30 mL NaOH",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "COOHand25mLNaOH",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q70",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 70,
+      "question_type": "MCQ",
+      "question_text": "The heat of formation of is given by :",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q72",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Chemistry",
+      "question_number": 72,
+      "question_type": "MCQ",
+      "question_text": "The observed and normal molar masses of compound of ionisation of is %. (Nearest integer)",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "are 65.6 and 164 respectively. The percent degree",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q73",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Physics",
+      "question_number": 73,
+      "question_type": "MCQ",
+      "question_text": "respectively. The overall rate constant  is given by the expression . If the activation energies of the three steps are 60,30 and respectively, then the overall energy of activation in is . (Nearest integer)",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "and",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "Consider a complex reaction taking place in three steps with rate constants",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    },
+    {
+      "question_id": "Main_2025_24_Jan_Shift_2_q75",
+      "exam_name": "Main 2025",
+      "exam_date_shift": "24 Jan Shift 2",
+      "subject": "Mathematics",
+      "question_number": 75,
+      "question_type": "MCQ",
+      "question_text": "The hydrocarbon with molar mass 2025 (24 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo S( g) + 3 2 O 2 ( g) →SO 3 ( g) + 2xkcal SO 2 ( g) + 1 2 O 2 ( g) →SO 3 ( g) + ykcal SO 2 ( g) x + ykcal y −2xkcal 2x y kcal 2x + ykcal (AgBr) … … ×10 −1% 80 g mol −1 MX 2 MX 2 … … k 1 , k 2 k 3 k k = √ k 1 k 3 k 2 10 kJ mol −1 kJmol −1 … … … … (X) 80 g mol −1 90% … … 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. (957) 22. (16) 23. 24. (392) 25. (55) 26. 27. 28. 29. 30. 31. 32. 33. 34. 35. 36. 37. 38. 39. 40. 41. 42. 43. 44. 45. 46. (5) 47. (36) 48. (43) 49. (250) 50. (9) 51. 52. 53. 54. 55. 56. 57. 58. 59. 60. 61. 62. 63. 64. 65. 66. 67. 68. 69. 70. 71. (255) 72. (75) 73. (20) 74. 75. 2025 (24 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo",
+      "question_latex": null,
+      "question_images": [],
+      "chemical_smiles": [],
+      "options": [
+        {
+          "id": "1",
+          "text": "(1)",
+          "latex": null
+        },
+        {
+          "id": "2",
+          "text": "(2)",
+          "latex": null
+        },
+        {
+          "id": "3",
+          "text": "(3)",
+          "latex": null
+        },
+        {
+          "id": "4",
+          "text": "(4)",
+          "latex": null
+        },
+        {
+          "id": "A",
+          "text": "ANSWER KEYS",
+          "latex": null
+        },
+        {
+          "id": "C",
+          "text": "carbon has",
+          "latex": null
+        },
+        {
+          "id": "D",
+          "text": "degree of unsaturation.",
+          "latex": null
+        }
+      ],
+      "correct_answer": "1",
+      "ml_annotations": {
+        "difficulty": null,
+        "concepts": [],
+        "computable_solution": null
+      }
+    }
+  ]
+}

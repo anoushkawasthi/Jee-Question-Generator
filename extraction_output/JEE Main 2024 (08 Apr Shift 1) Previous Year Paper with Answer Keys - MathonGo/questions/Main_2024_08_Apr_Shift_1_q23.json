@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_08_Apr_Shift_1_q23",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "08 Apr Shift 1",
+  "subject": "Mathematics",
+  "question_number": 23,
+  "question_type": "MCQ",
+  "question_text": "liquid is , then diameter of the soap bubble is _____ . (if )",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and surface tension of soap solution is",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "balances excess pressure of a soap bubble of certain radius. If density of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_1_q57",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 1",
+  "subject": "Chemistry",
+  "question_number": 57,
+  "question_type": "Numerical",
+  "question_text": "temperature as shown below. Some details of the above reactions are listed below. If the overall rate constant of the above transformation is given as is , then the value of is (nearest integer)",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and the overall activation energy",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Consider the following transformation involving first order elementary reaction in each step at constant",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

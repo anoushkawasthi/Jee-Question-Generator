@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2025_23_Jan_Shift_2_q25",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "23 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 25,
+  "question_type": "MCQ",
+  "question_text": "Let with . Let . If , then is equal to . 2025 (23 Jan Shift 2) JEE Main 2025 January JEE Main Previous Year Paper MathonGo (a, 0), a > 0 y 2 = 4x (a, 0) x 2 + y 2 −10x + 9 = 0 x 2 + y 2 −6x + 5 = 0 x 2 + y 2 −4x + 3 = 0 x 2 + y 2 −8x + 7 = 0 (1 + x) p (1 −x) q x x 2 p 2 + q 2 {(x, y) : −1 ≤x ≤1, 0 ≤y ≤a + e |x| −e −x , a > 0} e 2 +8e+1 e a 8, 21, 34, 47, … , 320 3x 2 −px + q = 0 10 th 11 th 3 2 q −2p y 2 = 4x + 16 C λ 3x −y = 0 x + λy = 4 λ 1 λ 2 , λ 1 < λ 2 12λ 1 + 29λ 2 α, β x 2 −ax −b = 0 Im(α) < Im(β) P n = α n −β n P 3 = −5 √ 7i, P 4 = −3 √ 7i, P 5 = 11 √ 7i P 6 = 45 √ 7i α 4 + β 4 ∣∣",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be the roots of the equation",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

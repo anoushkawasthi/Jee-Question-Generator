@@ -1,0 +1,30 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_1_q74",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 74,
+  "question_type": "MCQ",
+  "question_text": "Some gas was kept in a sealed container at a pressure of 1 atm and at 273 K . This entire amount of gas was later passed through an aqueous solution of . The excess unreacted was later neutralized with 0.1 M of 40 mL HCl . If the volume of the sealed container of was , then  is ________ (nearest integer). [Given : The entire amount of reacted with exactly half the initial amount of present in the aqueous solution.] 2025 (22 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo Δ o [Fe(en) 3 ]Cl 3 K 4 [Fe(CN) 6 ] [Fe(NH 3 ) 6 ]Br 2 K 3 [Fe(SCN) 6 ] 10 −4 M NaCl 10 −4 M 10 −3 M NaCl 10 −2 M NaCl ) ≡( [NiCl 4 ] 2− [Ni(CO) 4 ] [NiCl 4 ] 2− : Ni II [Ni(CO) 4 ] : Ni II [NiCl 4 ] 2− Ni II [Ni(CO) 4 ] : Ni(0) [NiCl 4 ] 2− : Ni II [Ni(CO) 4 ] : Ni(0) [NiCl 4 ] 2− : Ni(0) [Ni(CO) 4 ] : Ni(0) SO 2 , BeCl 2 , CO 2 , N − 3 , NO 2 , F 2 O, XeF 2 , NO + 2 , I − 3 , O 3 B 191.48 kJ mol −1 10 20 50% B [R = 8.314 J K −1 mol −1 ] (A) gmol −1 2 2 2 2 2 x x 3 2 ( g) 2",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "A →",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Ca(OH)",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

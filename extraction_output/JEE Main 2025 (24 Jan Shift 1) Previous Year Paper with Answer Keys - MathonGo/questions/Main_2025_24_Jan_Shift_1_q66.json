@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_1_q66",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 1",
+  "subject": "Chemistry",
+  "question_number": 66,
+  "question_type": "MCQ",
+  "question_text": "Following are the four molecules \"P\", \"Q\", \"R\" and \"S\". Which one among the four molecules will react with",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) R",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) P",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Q",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) S",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "at the fastest rate?",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

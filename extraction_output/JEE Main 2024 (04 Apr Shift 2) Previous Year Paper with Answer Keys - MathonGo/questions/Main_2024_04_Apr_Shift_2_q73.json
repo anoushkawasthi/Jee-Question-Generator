@@ -1,0 +1,40 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_2_q73",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 73,
+  "question_type": "Numerical",
+  "question_text": "If the function is continuous at , then the value of is equal to",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 968",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 1152",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 746",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 1250",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_24_Jan_Shift_1_q60",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "24 Jan Shift 1",
+  "subject": "Chemistry",
+  "question_number": 60,
+  "question_type": "MCQ",
+  "question_text": "Which of the following ions is the strongest oxidizing agent? (Atomic Number of ) 2025 (24 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo < < < < < < < < < < < < ΔH ΔS ΔH ΔS ΔH (+ve) ΔS (−ve) ΔH ΔS MnO 2 KNO 3 K 3 MnO 4 K 4 [Mn(OH) 6 ] KMnO 4 K 2 MnO 4 N 2 O 5( g) →2NO 2( g) + 1 2 O 2( g) 50% 5/2 7/2 7/4 3 ) 5 3 3 (s) [Co(NH 3 ) 4 2 ] ⋅Cl ⋅NH 3 [Co(NH 3 ) 3 3 ] ⋅2NH 3 [Co(NH 3 ) 5 2 [Co(NH 3 ) 4 2 ⋅NH 3 Tb = 65, Lu = 71",
+  "question_latex": "Which of the following ions is the strongest oxidizing agent? (Atomic Number of ) 2025 (24 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo < < < < < < < < < < < < ΔH ΔS ΔH ΔS ΔH (+ve) ΔS (−ve) ΔH ΔS MnO 2 KNO 3 K 3 MnO 4 K 4 [Mn(OH) 6 ] KMnO 4 K 2 MnO 4 N 2 O 5( g) →2NO 2( g) + 1 2 O 2( g) 50% $\\frac{5}{2}$ $\\frac{7}{2}$ $\\frac{7}{4}$ 3 ) 5 3 3 (s) [Co(NH 3 ) 4 2 ] ⋅Cl ⋅NH 3 [Co(NH 3 ) 3 3 ] ⋅2NH 3 [Co(NH 3 ) 5 2 [Co(NH 3 ) 4 2 ⋅NH 3 Tb = 65, Lu = 71",
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "AgCl",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Ce = 58, Eu = 63,",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

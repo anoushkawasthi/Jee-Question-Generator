@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_22_Jan_Shift_2_q17",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "22 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 17,
+  "question_type": "Numerical",
+  "question_text": "Let . If m and M are the minimum and the maximum values of , then equals :",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) 24",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) 25",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) 17",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) 27",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "and",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "be the distinct roots of",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

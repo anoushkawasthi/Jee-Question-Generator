@@ -1,0 +1,25 @@
+{
+  "question_id": "Main_2024_04_Apr_Shift_2_q55",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "04 Apr Shift 2",
+  "subject": "Mathematics",
+  "question_number": 55,
+  "question_type": "MCQ",
+  "question_text": "of each of water and acetic acid are mixed. The freezing point of the solution will be . Consider the acetic acid does not dimerise in water, nor dissociates in water. ______ (nearest integer) [Given: Molar mass of water , acetic acid freezing point: , acetic acid ]",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "A",
+      "text": "acetic acid:",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "question_id": "Main_2024_27_Jan_Shift_2_q35",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "27 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 35,
+  "question_type": "MCQ",
+  "question_text": "60° to one-another",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) Ethane has infinite number of conformations",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) The dihedral angle in staggered conformation is",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) Eclipsed conformation is the most stable",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) The conformations of ethane are interconvertible",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "conformation.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

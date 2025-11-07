@@ -1,0 +1,60 @@
+{
+  "question_id": "Main_2024_29_Jan_Shift_2_q41",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 41,
+  "question_type": "MCQ",
+  "question_text": "? shows .",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) B, D only",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) B, C only",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) A, D only",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) C, D only",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "are called soft metals.",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B.",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Choose the most appropriate from the options given below:",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "D.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "A",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

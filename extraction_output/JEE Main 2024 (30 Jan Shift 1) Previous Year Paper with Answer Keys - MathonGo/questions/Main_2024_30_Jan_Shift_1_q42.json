@@ -1,0 +1,60 @@
+{
+  "question_id": "Main_2024_30_Jan_Shift_1_q42",
+  "exam_name": "Main 2024",
+  "exam_date_shift": "30 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 42,
+  "question_type": "MCQ",
+  "question_text": "Match List-I with List-II List I (Species) List II (Electronic distribution) i. ii. iii. . iv.",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) (A)-I, (B)-II, (C)-III, (D)-IV",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) (A)-III, (B) - IV, (C) - I, (D)-II",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) (A)-IV, (B)-III, (C)-I, (D)-II",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) (A)-II, (B)-I, (C)-IV, (D)-III",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "A.",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "B.",
+      "latex": null
+    },
+    {
+      "id": "C",
+      "text": "Choose the correct answer from the options given below:",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "D.",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

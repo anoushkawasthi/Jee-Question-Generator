@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_2_q70",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 2",
+  "subject": "Mathematics",
+  "question_number": 70,
+  "question_type": "MCQ",
+  "question_text": "If (diamond (graphite C (graphite)",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1) X=-Y+Z",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2) -X=Y+Z",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3) X=Y+Z",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4) X=Y-Z",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "at constant temperature. Then",
+      "latex": null
+    },
+    {
+      "id": "D",
+      "text": "diamond",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}

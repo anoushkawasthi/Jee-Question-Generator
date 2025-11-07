@@ -1,0 +1,50 @@
+{
+  "question_id": "Main_2025_29_Jan_Shift_1_q9",
+  "exam_name": "Main 2025",
+  "exam_date_shift": "29 Jan Shift 1",
+  "subject": "Mathematics",
+  "question_number": 9,
+  "question_type": "MCQ",
+  "question_text": "The integral is equal to : 2025 (29 Jan Shift 1) JEE Main 2025 January JEE Main Previous Year Paper MathonGo x 1 , x 2 , … , x 10 ∑ 10 i=1 (x i −2) = 30, ∑ 10 i=1 (x i −β) 2 = 98, β > 2 4 5 μ σ 2 2 (x 1 −1) + 4β 2 (x 2 −1) + 4β, … . , 2 (x 10 −1) + 4β βμ σ 2 11 th ( 9 x − 9 √x + 2) ( 2 x − 7 √x + 3) = 0 [0, π 2 ) xRy sec 2 x −tan 2 y = 1 (4, 3) x y A B (AB) 2 P →a = ^i + 2^j + ^k → ^ i + 7 ^ j + 3 ^ k. L 1 : → r = (− ^ i + 2 ^ j + ^ k) + λ → L 2 : → r = ( ^ j + ^ k) + μ → L 3 L 1 L 2 →a + → b L 3 (5, 17, 4) (2, 8, 5) (8, 26, 12) (−1, −1, 1) →a = 2^i −^j + 3^k, → ^ i −5 ^ j + ^ k →c →a ×→c =→c × → b (→a + →c) ⋅( → |→c| 2 80 ∫ π 4 0 ( sin θ+cos θ 9+16 sin 2θ )dθ 3 log e 4 4 log e 3 6 log e 4 2 log e 3",
+  "question_latex": null,
+  "question_images": [],
+  "chemical_smiles": [],
+  "options": [
+    {
+      "id": "1",
+      "text": "(1)",
+      "latex": null
+    },
+    {
+      "id": "2",
+      "text": "(2)",
+      "latex": null
+    },
+    {
+      "id": "3",
+      "text": "(3)",
+      "latex": null
+    },
+    {
+      "id": "4",
+      "text": "(4)",
+      "latex": null
+    },
+    {
+      "id": "A",
+      "text": "a, λ ∈R",
+      "latex": null
+    },
+    {
+      "id": "B",
+      "text": "b + →c) = 168",
+      "latex": null
+    }
+  ],
+  "correct_answer": "1",
+  "ml_annotations": {
+    "difficulty": null,
+    "concepts": [],
+    "computable_solution": null
+  }
+}
