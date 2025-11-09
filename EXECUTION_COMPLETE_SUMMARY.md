@@ -1,4 +1,5 @@
-# 🎉 EXTRACTION PIPELINE - EXECUTION SUMMARY
+r450-=  ASDFEGRHTJULI;OP[
+ ] - EXECUTION SUMMARY
 
 **Project**: JEE Question Generator
 **Date**: November 7, 2025
@@ -21,7 +22,7 @@ python extraction_main.py --batch data/raw_pdfs --output extraction_output --par
 | PDFs Processed | 30 |
 | Exam Years | 2024, 2025 |
 | Shifts per Paper | 2 (Shift 1 & 2) |
-| Total Extraction Files | 1,926+ JSON files |
+ Total Extraction Files | 1,926+ JSON files 
 | Estimated Questions | ~1,800 |
 | Estimated Coverage | 90% |
 
