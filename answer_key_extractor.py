@@ -37,17 +37,17 @@ class AnswerKeyExtractor:
     Answer Keys: (2) (3) (1) (2) ...
     """
     
-    # Pattern 1: "Q1. (2)" or "Q1 (2)"
-    PATTERN_Q_NUMBER = r'Q\s*(\d+)\s*[.)\-:]*\s*\(([1-4])\)'
+    # Pattern 1: "Q1. (2)" or "Q1 (2)" - captures any number in parens
+    PATTERN_Q_NUMBER = r'Q\s*(\d+)\s*[.)\-:]*\s*\((\d+)\)'
     
-    # Pattern 2: "1. (2)" - question number followed by answer
-    PATTERN_NUM_ONLY = r'(?:^|\n)\s*(\d+)\s*[.)\-:]*\s*\(([1-4])\)'
+    # Pattern 2: "1. (2)" - question number followed by answer in parens
+    PATTERN_NUM_ONLY = r'(?:^|\n)\s*(\d+)\s*[.)\-:]*\s*\((\d+)\)'
     
-    # Pattern 3: "1. 2" or "1. (2)" - answer after question number
+    # Pattern 3: "1. 2" or "1. (2)" - answer after question number (MCQ only)
     PATTERN_NUM_ANSWER = r'(?:^|\n)\s*(\d+)\s*[.)\-:]*\s*([1-4])\s*(?:\)|,|$)'
     
-    # Pattern 4: Continuous answer sequence at end
-    PATTERN_ANSWER_SEQUENCE = r'\(([1-4])\)'
+    # Pattern 4: Continuous answer sequence at end - captures any number
+    PATTERN_ANSWER_SEQUENCE = r'\((\d+)\)'
     
     def __init__(self):
         """Initialize patterns"""
@@ -99,7 +99,7 @@ class AnswerKeyExtractor:
         Combine all text blocks into a single string.
         
         Args:
-            text_blocks: List of text blocks
+            text_blocks: List of text blocks (supports multiple formats)
         
         Returns:
             Combined text string
@@ -113,7 +113,7 @@ class AnswerKeyExtractor:
                 # Structure: {'text': '...', 'coordinates': {...}, 'block_type': '...'}
                 text_content = text_obj.get('text', '')
             elif isinstance(text_obj, str):
-                # Simple string
+                # Simple string format (from PyMuPDF direct extraction)
                 text_content = text_obj
             else:
                 continue
@@ -234,9 +234,11 @@ class AnswerKeyExtractor:
             logger.warning("No answers provided for validation")
             return False
         
-        # Check all answers are 1-4
+        # Check all answers are valid numbers
         for q_num, answer in answers.items():
-            if answer not in ['1', '2', '3', '4']:
+            try:
+                int(answer)  # Just verify it's a valid number
+            except ValueError:
                 logger.warning(f"Invalid answer for Q{q_num}: '{answer}'")
                 return False
             

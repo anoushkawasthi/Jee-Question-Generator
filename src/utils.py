@@ -15,7 +15,7 @@ def extract_text_from_pdf(pdf_path):
     from the answer key (last page).
     
     Args:
-        pdf_path (str): The file path to the PDF.
+        pdf_path (str): The file path to the PDF. 
         
     Returns:
         tuple: (all_question_text, answer_key_text)

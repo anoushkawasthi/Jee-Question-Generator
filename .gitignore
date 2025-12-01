@@ -21,6 +21,8 @@ artifacts/
 # Data files (Never commit large data)
 data/
 
+raw_pdfs/
+
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 

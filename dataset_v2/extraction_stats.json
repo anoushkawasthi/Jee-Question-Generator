@@ -1,0 +1,278 @@
+{
+  "total_papers": 30,
+  "total_questions": 1410,
+  "mcq_count": 837,
+  "integer_count": 573,
+  "papers": [
+    {
+      "paper_id": "JEE Main 2024 (01 Feb Shift 1) Previous Year Paper with Answer Keys - MathonGo",
+      "year": 2024,
+      "date": "01 Feb",
+      "shift": 1,
+      "mcq": 52,
+      "integer": 20,
+      "total": 72
+    },
+    {
+      "paper_id": "JEE Main 2024 (01 Feb Shift 2) Previous Year Paper with Answer Keys - MathonGo",
+      "year": 2024,
+      "date": "01 Feb",
+      "shift": 2,
+      "mcq": 52,
+      "integer": 17,
+      "total": 69
+    },
+    {
+      "paper_id": "JEE Main 2024 (04 Apr Shift 1) Previous Year Paper with Answer Keys - MathonGo",
+      "year": 2024,
+      "date": "04 Apr",
+      "shift": 1,
+      "mcq": 30,
+      "integer": 19,
+      "total": 49
+    },
+    {
+      "paper_id": "JEE Main 2024 (04 Apr Shift 2) Previous Year Paper with Answer Keys - MathonGo",
+      "year": 2024,
+      "date": "04 Apr",
+      "shift": 2,
+      "mcq": 25,
+      "integer": 30,
+      "total": 55
+    },
+    {
+      "paper_id": "JEE Main 2024 (05 Apr Shift 1) Previous Year Paper with Answer Keys - MathonGo",
+      "year": 2024,
+      "date": "05 Apr",
+      "shift": 1,
+      "mcq": 29,
+      "integer": 26,
+      "total": 55
+    },
+    {
+      "paper_id": "JEE Main 2024 (05 Apr Shift 2) Previous Year Paper with Answer Keys - MathonGo",
+      "year": 2024,
+      "date": "05 Apr",
+      "shift": 2,
+      "mcq": 32,
+      "integer": 30,
+      "total": 62
+    },
+    {
+      "paper_id": "JEE Main 2024 (06 Apr Shift 1) Previous Year Paper with Answer Keys - MathonGo",
+      "year": 2024,
+      "date": "06 Apr",
+      "shift": 1,
+      "mcq": 27,
+      "integer": 30,
+      "total": 57
+    },
+    {
+      "paper_id": "JEE Main 2024 (06 Apr Shift 2) Previous Year Paper with Answer Keys - MathonGo",
+      "year": 2024,
+      "date": "06 Apr",
+      "shift": 2,
+      "mcq": 25,
+      "integer": 25,
+      "total": 50
+    },
+    {
+      "paper_id": "JEE Main 2024 (08 Apr Shift 1) Previous Year Paper with Answer Keys - MathonGo",
+      "year": 2024,
+      "date": "08 Apr",
+      "shift": 1,
+      "mcq": 28,
+      "integer": 28,
+      "total": 56
+    },
+    {
+      "paper_id": "JEE Main 2024 (08 Apr Shift 2) Previous Year Paper with Answer Keys - MathonGo",
+      "year": 2024,
+      "date": "08 Apr",
+      "shift": 2,
+      "mcq": 29,
+      "integer": 25,
+      "total": 54
+    },
+    {
+      "paper_id": "JEE Main 2024 (09 Apr Shift 1) Previous Year Paper with Answer Keys - MathonGo",
+      "year": 2024,
+      "date": "09 Apr",
+      "shift": 1,
+      "mcq": 24,
+      "integer": 25,
+      "total": 49
+    },
+    {
+      "paper_id": "JEE Main 2024 (09 Apr Shift 2) Previous Year Paper with Answer Keys - MathonGo",
+      "year": 2024,
+      "date": "09 Apr",
+      "shift": 2,
+      "mcq": 25,
+      "integer": 29,
+      "total": 54
+    },
+    {
+      "paper_id": "JEE Main 2024 (27 Jan Shift 1) Previous Year Paper with Answer Keys - MathonGo",
+      "year": 2024,
+      "date": "27 Jan",
+      "shift": 1,
+      "mcq": 17,
+      "integer": 14,
+      "total": 31
+    },
+    {
+      "paper_id": "JEE Main 2024 (27 Jan Shift 2) Previous Year Paper with Answer Keys - MathonGo",
+      "year": 2024,
+      "date": "27 Jan",
+      "shift": 2,
+      "mcq": 51,
+      "integer": 23,
+      "total": 74
+    },
+    {
+      "paper_id": "JEE Main 2024 (29 Jan Shift 1) Previous Year Paper with Answer Keys - MathonGo",
+      "year": 2024,
+      "date": "29 Jan",
+      "shift": 1,
+      "mcq": 11,
+      "integer": 12,
+      "total": 23
+    },
+    {
+      "paper_id": "JEE Main 2024 (29 Jan Shift 2) Previous Year Paper with Answer Keys - MathonGo",
+      "year": 2024,
+      "date": "29 Jan",
+      "shift": 2,
+      "mcq": 14,
+      "integer": 26,
+      "total": 40
+    },
+    {
+      "paper_id": "JEE Main 2024 (30 Jan Shift 1) Previous Year Paper with Answer Keys - MathonGo",
+      "year": 2024,
+      "date": "30 Jan",
+      "shift": 1,
+      "mcq": 14,
+      "integer": 25,
+      "total": 39
+    },
+    {
+      "paper_id": "JEE Main 2024 (30 Jan Shift 2) Previous Year Paper with Answer Keys - MathonGo",
+      "year": 2024,
+      "date": "30 Jan",
+      "shift": 2,
+      "mcq": 48,
+      "integer": 24,
+      "total": 72
+    },
+    {
+      "paper_id": "JEE Main 2024 (31 Jan Shift 1) Previous Year Paper with Answer Keys - MathonGo",
+      "year": 2024,
+      "date": "31 Jan",
+      "shift": 1,
+      "mcq": 56,
+      "integer": 24,
+      "total": 80
+    },
+    {
+      "paper_id": "JEE Main 2024 (31 Jan Shift 2) Previous Year Paper with Answer Keys - MathonGo",
+      "year": 2024,
+      "date": "31 Jan",
+      "shift": 2,
+      "mcq": 52,
+      "integer": 27,
+      "total": 79
+    },
+    {
+      "paper_id": "JEE Main 2025 (22 Jan Shift 1) Previous Year Paper with Answer Keys - MathonGo",
+      "year": 2025,
+      "date": "22 Jan",
+      "shift": 1,
+      "mcq": 22,
+      "integer": 14,
+      "total": 36
+    },
+    {
+      "paper_id": "JEE Main 2025 (22 Jan Shift 2) Previous Year Paper with Answer Keys - MathonGo",
+      "year": 2025,
+      "date": "22 Jan",
+      "shift": 2,
+      "mcq": 30,
+      "integer": 14,
+      "total": 44
+    },
+    {
+      "paper_id": "JEE Main 2025 (23 Jan Shift 1) Previous Year Paper with Answer Keys - MathonGo",
+      "year": 2025,
+      "date": "23 Jan",
+      "shift": 1,
+      "mcq": 0,
+      "integer": 0,
+      "total": 0
+    },
+    {
+      "paper_id": "JEE Main 2025 (23 Jan Shift 2) Previous Year Paper with Answer Keys - MathonGo",
+      "year": 2025,
+      "date": "23 Jan",
+      "shift": 2,
+      "mcq": 30,
+      "integer": 9,
+      "total": 39
+    },
+    {
+      "paper_id": "JEE Main 2025 (24 Jan Shift 1) Previous Year Paper with Answer Keys - MathonGo",
+      "year": 2025,
+      "date": "24 Jan",
+      "shift": 1,
+      "mcq": 13,
+      "integer": 15,
+      "total": 28
+    },
+    {
+      "paper_id": "JEE Main 2025 (24 Jan Shift 2) Previous Year Paper with Answer Keys - MathonGo",
+      "year": 2025,
+      "date": "24 Jan",
+      "shift": 2,
+      "mcq": 0,
+      "integer": 0,
+      "total": 0
+    },
+    {
+      "paper_id": "JEE Main 2025 (28 Jan Shift 1) Previous Year Paper with Answer Keys - MathonGo",
+      "year": 2025,
+      "date": "28 Jan",
+      "shift": 1,
+      "mcq": 23,
+      "integer": 13,
+      "total": 36
+    },
+    {
+      "paper_id": "JEE Main 2025 (28 Jan Shift 2) Previous Year Paper with Answer Keys - MathonGo",
+      "year": 2025,
+      "date": "28 Jan",
+      "shift": 2,
+      "mcq": 13,
+      "integer": 1,
+      "total": 14
+    },
+    {
+      "paper_id": "JEE Main 2025 (29 Jan Shift 1) Previous Year Paper with Answer Keys - MathonGo",
+      "year": 2025,
+      "date": "29 Jan",
+      "shift": 1,
+      "mcq": 31,
+      "integer": 14,
+      "total": 45
+    },
+    {
+      "paper_id": "JEE Main 2025 (29 Jan Shift 2) Previous Year Paper with Answer Keys - MathonGo",
+      "year": 2025,
+      "date": "29 Jan",
+      "shift": 2,
+      "mcq": 34,
+      "integer": 14,
+      "total": 48
+    }
+  ]
+}

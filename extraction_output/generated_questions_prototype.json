@@ -1,0 +1,152 @@
+[
+  {
+    "original": {
+      "question_number": 1,
+      "question_text": "The radius 𝑟 , length 𝑙 and resistance R of a metal wire was measured in the laboratory as 𝑟= 0.35 ± 0.05 cm , R= 100 ± 10 ohm , 𝑙= 15 ± 0.2 cm The percentage error in resistivity of the material of the wire is :",
+      "options": [
+        "25.6%",
+        "39.9%",
+        "37.3%",
+        "35.6%"
+      ],
+      "correct_index": 2
+    },
+    "generated": {
+      "generation_strategy": "rephrase_only",
+      "original_topic": "Resistivity and Error Analysis",
+      "original_subject": "Physics",
+      "generated_question": "The radius $r$, length $l$, and resistance $R$ of a metallic wire were measured in the laboratory as $r = 0.35 \\pm 0.05$ cm, $R = 100 \\pm 10$ ohm, and $l = 15 \\pm 0.2$ cm. What is the percentage error in the resistivity of the material of the wire?",
+      "options": [
+        "(1) 25.6%",
+        "(2) 39.9%",
+        "(3) 37.3%",
+        "(4) 35.6%"
+      ],
+      "correct_index": 2,
+      "explanation": "The percentage error in resistivity is calculated using the formula for resistivity $\\rho = \\frac{R \\cdot A}{l}$, where $A = \\pi r^2$. The percentage error in $\\rho$ can be found using the formula: $$\\frac{\\Delta \\rho}{\\rho} = \\frac{\\Delta R}{R} + 2 \\cdot \\frac{\\Delta r}{r} + \\frac{\\Delta l}{l}$$. Given the values: $\\Delta R = 10$, $R = 100$, $\\Delta r = 0.05$, $r = 0.35$, $\\Delta l = 0.2$, and $l = 15$, we find the contributions to the error and calculate the overall percentage error in resistivity as 39.9%.",
+      "difficulty_estimate": "medium",
+      "_raw_response": "{\n    \"generation_strategy\": \"rephrase_only\",\n    \"original_topic\": \"Resistivity and Error Analysis\",\n    \"original_subject\": \"Physics\",\n    \"generated_question\": \"The radius $r$, length $l$, and resistance $R$ of a metallic wire were measured in the laboratory as $r = 0.35 \\pm 0.05$ cm, $R = 100 \\pm 10$ ohm, and $l = 15 \\pm 0.2$ cm. What is the percentage error in the resistivity of the material of the wire?\",\n    \"options\": [\n        \"(1) 25.6%\",\n        \"(2) 39.9%\",\n        \"(3) 37.3%\",\n        \"(4) 35.6%\"\n    ],\n    \"correct_index\": 2,\n    \"explanation\": \"The percentage error in resistivity is calculated using the formula for resistivity $\\rho = \\frac{R \\cdot A}{l}$, where $A = \\pi r^2$. The percentage error in $\\rho$ can be found using the formula: $$\\frac{\\Delta \\rho}{\\rho} = \\frac{\\Delta R}{R} + 2 \\cdot \\frac{\\Delta r}{r} + \\frac{\\Delta l}{l}$$. Given the values: $\\Delta R = 10$, $R = 100$, $\\Delta r = 0.05$, $r = 0.35$, $\\Delta l = 0.2$, and $l = 15$, we find the contributions to the error and calculate the overall percentage error in resistivity as 39.9%.\",\n    \"difficulty_estimate\": \"medium\"\n}",
+      "_success": true
+    }
+  },
+  {
+    "original": {
+      "question_number": 36,
+      "question_text": "Which of the following reactions are disproportionation reactions? 1 Cu + →Cu 2 + + Cu 2 3MnO 4 2 - + 4 H + →2MnO 4 - + MnO 2 + 2 H 2 O 3 2KMnO 4 →K 2 MnO 4 + MnO 2 + O 2 4 2MnO 4 - + 3 Mn 2 + + 2 H 2 O →5MnO 2 + 4 H + Choose the correct answer from the options given below:",
+      "options": [
+        "1, 2",
+        "2, 3, 4",
+        "1, 2, 4",
+        "1, 4"
+      ],
+      "correct_index": 1
+    },
+    "generated": {
+      "generation_strategy": "rephrase_only",
+      "original_topic": "Disproportionation Reactions",
+      "original_subject": "Chemistry",
+      "generated_question": "Identify which of the following reactions qualify as disproportionation reactions: 1. Cu + → Cu^{2+} + Cu^{2}  2. 3MnO_{4}^{2-} + 4 H^{+} → 2MnO_{4}^{-} + MnO_{2} + 2 H_{2}O  3. 2KMnO_{4} → K_{2}MnO_{4} + MnO_{2} + O_{2}  4. 2MnO_{4}^{-} + 3Mn^{2+} + 2 H_{2}O → 5MnO_{2} + 4 H^{+} Choose the correct answer from the options given below:",
+      "options": [
+        "(1) 1, 2",
+        "(2) 2, 3, 4",
+        "(3) 1, 2, 4",
+        "(4) 1, 4"
+      ],
+      "correct_index": 1,
+      "explanation": "Disproportionation reactions are those in which a single substance is both oxidized and reduced. In reactions 1 and 2, we see that Cu is oxidized to Cu^{2+} and another Cu is reduced (for reaction 1), as well as Mn in reaction 2 which undergoes both oxidation and reduction. Therefore, the answer is option (1): 1, 2.",
+      "difficulty_estimate": "medium",
+      "_raw_response": "{\n    \"generation_strategy\": \"rephrase_only\",\n    \"original_topic\": \"Disproportionation Reactions\",\n    \"original_subject\": \"Chemistry\",\n    \"generated_question\": \"Identify which of the following reactions qualify as disproportionation reactions: 1. Cu + → Cu^{2+} + Cu^{2}  2. 3MnO_{4}^{2-} + 4 H^{+} → 2MnO_{4}^{-} + MnO_{2} + 2 H_{2}O  3. 2KMnO_{4} → K_{2}MnO_{4} + MnO_{2} + O_{2}  4. 2MnO_{4}^{-} + 3Mn^{2+} + 2 H_{2}O → 5MnO_{2} + 4 H^{+} Choose the correct answer from the options given below:\",\n    \"options\": [\n        \"(1) 1, 2\",\n        \"(2) 2, 3, 4\",\n        \"(3) 1, 2, 4\",\n        \"(4) 1, 4\"\n    ],\n    \"correct_index\": 1,\n    \"explanation\": \"Disproportionation reactions are those in which a single substance is both oxidized and reduced. In reactions 1 and 2, we see that Cu is oxidized to Cu^{2+} and another Cu is reduced (for reaction 1), as well as Mn in reaction 2 which undergoes both oxidation and reduction. Therefore, the answer is option (1): 1, 2.\",\n    \"difficulty_estimate\": \"medium\"\n}",
+      "_success": true
+    }
+  },
+  {
+    "original": {
+      "question_number": 15,
+      "question_text": "In series LCR circuit, the capacitance is changed from 𝐶 to 4𝐶 . To keep the resonance frequency unchanged, the new inductance should be :",
+      "options": [
+        "reduced by 1/4 L",
+        "increased by 2 L",
+        "reduced by 3/4 L",
+        "increased to 4 L"
+      ],
+      "correct_index": 3
+    },
+    "generated": {
+      "generation_strategy": "rephrase_only",
+      "original_topic": "Resonance in LCR Circuits",
+      "original_subject": "Physics",
+      "generated_question": "In a series LCR circuit, if the capacitance is altered from $C$ to $4C$, what should be done to the inductance in order to maintain the resonance frequency?",
+      "options": [
+        "(1) reduced by $\frac{1}{4} L$",
+        "(2) increased by $2 L$",
+        "(3) reduced by $\frac{3}{4} L$",
+        "(4) increased to $4 L$"
+      ],
+      "correct_index": 3,
+      "explanation": "To keep the resonance frequency unchanged when the capacitance is increased, the inductance must be decreased proportionally. The correct adjustment is to reduce the inductance by $\frac{3}{4} L$.",
+      "difficulty_estimate": "medium",
+      "_raw_response": "{\n    \"generation_strategy\": \"rephrase_only\",\n    \"original_topic\": \"Resonance in LCR Circuits\",\n    \"original_subject\": \"Physics\",\n    \"generated_question\": \"In a series LCR circuit, if the capacitance is altered from $C$ to $4C$, what should be done to the inductance in order to maintain the resonance frequency?\",\n    \"options\": [\n        \"(1) reduced by $\\frac{1}{4} L$\",\n        \"(2) increased by $2 L$\",\n        \"(3) reduced by $\\frac{3}{4} L$\",\n        \"(4) increased to $4 L$\"\n    ],\n    \"correct_index\": 3,\n    \"explanation\": \"To keep the resonance frequency unchanged when the capacitance is increased, the inductance must be decreased proportionally. The correct adjustment is to reduce the inductance by $\\frac{3}{4} L$.\",\n    \"difficulty_estimate\": \"medium\"\n}",
+      "_success": true
+    }
+  },
+  {
+    "original": {
+      "question_number": 70,
+      "question_text": "If 𝐴= √2 1 -1 √ 2 , 𝐵 1 0 1/1 , 𝐶= 𝐴𝐵𝐴 T and 𝑋= 𝐴 T 𝐶 2 𝐴 , then det 𝑋 is equal to:",
+      "options": [
+        "243",
+        "729",
+        "27",
+        "891"
+      ],
+      "correct_index": 2
+    },
+    "generated": {
+      "generation_strategy": "rephrase_only",
+      "original_topic": "Matrices",
+      "original_subject": "Mathematics",
+      "generated_question": "Given the matrices $A= \\begin{pmatrix} \\sqrt{2} & 1 \\ -1 & \\sqrt{2} \\end{pmatrix}$, $B= \\begin{pmatrix} 1 & 0 \\ 1 & 1 \\end{pmatrix}$, $C= A B A^{T}$, and $X= A^{T} C^{2} A$, determine the value of $\\text{det} (X)$.",
+      "options": [
+        "243",
+        "729",
+        "27",
+        "891"
+      ],
+      "correct_index": 2,
+      "explanation": "The calculation follows the properties of determinants involving matrix multiplication and transposition. The determinant of a product of matrices is the product of their determinants, and the determinant of a transposed matrix is equal to the determinant of the original matrix. Thus, the operations yield a determinant value of 729.",
+      "difficulty_estimate": "hard",
+      "_raw_response": "{\n    \"generation_strategy\": \"rephrase_only\",\n    \"original_topic\": \"Matrices\",\n    \"original_subject\": \"Mathematics\",\n    \"generated_question\": \"Given the matrices $A= \\begin{pmatrix} \\sqrt{2} & 1 \\\\ -1 & \\sqrt{2} \\end{pmatrix}$, $B= \\begin{pmatrix} 1 & 0 \\\\ 1 & 1 \\end{pmatrix}$, $C= A B A^{T}$, and $X= A^{T} C^{2} A$, determine the value of $\\text{det} (X)$.\",\n    \"options\": [\"243\", \"729\", \"27\", \"891\"],\n    \"correct_index\": 2,\n    \"explanation\": \"The calculation follows the properties of determinants involving matrix multiplication and transposition. The determinant of a product of matrices is the product of their determinants, and the determinant of a transposed matrix is equal to the determinant of the original matrix. Thus, the operations yield a determinant value of 729.\",\n    \"difficulty_estimate\": \"hard\"\n}",
+      "_success": true
+    }
+  },
+  {
+    "original": {
+      "question_number": 66,
+      "question_text": "Let 𝐶: 𝑥 2 + 𝑦 2 = 4 and 𝐶 ' : 𝑥 2 + 𝑦 2 -4𝜆𝑥+ 9 = 0 be two circles. If the set of all values of 𝜆 so that the circles 𝐶 and 𝐶' intersect at two distinct points, is R-𝑎, 𝑏 , then the point 8𝑎+ 12, 16𝑏-20 lies on the curve:",
+      "options": [
+        "𝑥 2 + 2𝑦 2 -5𝑥+ 6𝑦= 3",
+        "5𝑥 2 -𝑦= -11",
+        "𝑥 2 -4𝑦 2 = 7",
+        "6𝑥 2 + 𝑦 2 = 42"
+      ],
+      "correct_index": 4
+    },
+    "generated": {
+      "generation_strategy": "rephrase_only",
+      "original_topic": "Circles and Intersection",
+      "original_subject": "Mathematics",
+      "generated_question": "Consider the circles defined by the equations $C: x^{2} + y^{2} = 4$ and $C': x^{2} + y^{2} - 4\\lambda x + 9 = 0$. Determine the set of all values of $\\lambda$ for which the circles $C$ and $C'$ intersect at two distinct points. If this set is represented as $\\mathbb{R} - (a, b)$, then evaluate the coordinates $8a + 12$ and $16b - 20$. Which curve does the point $(8a + 12, 16b - 20)$ belong to?",
+      "options": [
+        "(1) x^{2} + 2y^{2} - 5x + 6y = 3",
+        "(2) 5x^{2} - y = -11",
+        "(3) x^{2} - 4y^{2} = 7",
+        "(4) 6x^{2} + y^{2} = 42"
+      ],
+      "correct_index": 4,
+      "explanation": "The solution to determining the values of $\\lambda$ for the circles to intersect at two distinct points leads us to the point $(8a + 12, 16b - 20)$ which can be verified to lie on the curve $6x^{2} + y^{2} = 42$. Hence, option (4) is correct.",
+      "difficulty_estimate": "hard",
+      "_raw_response": "{\n    \"generation_strategy\": \"rephrase_only\",\n    \"original_topic\": \"Circles and Intersection\",\n    \"original_subject\": \"Mathematics\",\n    \"generated_question\": \"Consider the circles defined by the equations $C: x^{2} + y^{2} = 4$ and $C': x^{2} + y^{2} - 4\\\\lambda x + 9 = 0$. Determine the set of all values of $\\\\lambda$ for which the circles $C$ and $C'$ intersect at two distinct points. If this set is represented as $\\\\mathbb{R} - (a, b)$, then evaluate the coordinates $8a + 12$ and $16b - 20$. Which curve does the point $(8a + 12, 16b - 20)$ belong to?\",\n    \"options\": [\n        \"(1) x^{2} + 2y^{2} - 5x + 6y = 3\",\n        \"(2) 5x^{2} - y = -11\",\n        \"(3) x^{2} - 4y^{2} = 7\",\n        \"(4) 6x^{2} + y^{2} = 42\"\n    ],\n    \"correct_index\": 4,\n    \"explanation\": \"The solution to determining the values of $\\\\lambda$ for the circles to intersect at two distinct points leads us to the point $(8a + 12, 16b - 20)$ which can be verified to lie on the curve $6x^{2} + y^{2} = 42$. Hence, option (4) is correct.\",\n    \"difficulty_estimate\": \"hard\"\n}",
+      "_success": true
+    }
+  }
+]
