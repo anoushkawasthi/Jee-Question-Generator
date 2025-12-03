@@ -1,0 +1,852 @@
+\documentclass[12pt,a4paper]{exam}
+
+% Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{enumitem}
+\usepackage{multicol}
+\usepackage{newunicodechar}
+
+% Unicode math character mappings
+\newunicodechar{𝜀}{$\varepsilon$}
+\newunicodechar{𝑃}{$P$}
+\newunicodechar{𝑉}{$V$}
+\newunicodechar{𝐾}{$K$}
+\newunicodechar{𝐴}{$A$}
+\newunicodechar{𝐵}{$B$}
+\newunicodechar{𝐶}{$C$}
+\newunicodechar{𝐷}{$D$}
+\newunicodechar{𝐸}{$E$}
+\newunicodechar{𝑇}{$T$}
+\newunicodechar{𝑅}{$R$}
+\newunicodechar{𝐼}{$I$}
+\newunicodechar{𝑁}{$N$}
+\newunicodechar{𝑀}{$M$}
+\newunicodechar{𝐿}{$L$}
+\newunicodechar{𝑎}{$a$}
+\newunicodechar{𝑏}{$b$}
+\newunicodechar{𝑐}{$c$}
+\newunicodechar{𝑑}{$d$}
+\newunicodechar{𝑒}{$e$}
+\newunicodechar{𝑓}{$f$}
+\newunicodechar{𝑔}{$g$}
+\newunicodechar{𝑛}{$n$}
+\newunicodechar{𝑚}{$m$}
+\newunicodechar{𝑟}{$r$}
+\newunicodechar{𝑠}{$s$}
+\newunicodechar{𝑡}{$t$}
+\newunicodechar{𝑥}{$x$}
+\newunicodechar{𝑦}{$y$}
+\newunicodechar{𝑧}{$z$}
+\newunicodechar{α}{$\alpha$}
+\newunicodechar{β}{$\beta$}
+\newunicodechar{γ}{$\gamma$}
+\newunicodechar{δ}{$\delta$}
+\newunicodechar{ε}{$\varepsilon$}
+\newunicodechar{θ}{$\theta$}
+\newunicodechar{λ}{$\lambda$}
+\newunicodechar{μ}{$\mu$}
+\newunicodechar{π}{$\pi$}
+\newunicodechar{ρ}{$\rho$}
+\newunicodechar{σ}{$\sigma$}
+\newunicodechar{τ}{$\tau$}
+\newunicodechar{φ}{$\varphi$}
+\newunicodechar{ω}{$\omega$}
+\newunicodechar{Ω}{$\Omega$}
+\newunicodechar{°}{$^\circ$}
+\newunicodechar{±}{$\pm$}
+\newunicodechar{×}{$\times$}
+\newunicodechar{÷}{$\div$}
+\newunicodechar{√}{$\sqrt{}$}
+\newunicodechar{∞}{$\infty$}
+\newunicodechar{≠}{$\neq$}
+\newunicodechar{≤}{$\leq$}
+\newunicodechar{≥}{$\geq$}
+\newunicodechar{→}{$\rightarrow$}
+\newunicodechar{←}{$\leftarrow$}
+\newunicodechar{↔}{$\leftrightarrow$}
+
+% Page geometry
+\geometry{
+    top=1.5cm,
+    bottom=2cm,
+    left=2cm,
+    right=2cm,
+    headheight=1.5cm
+}
+
+% Colors
+\definecolor{headerblue}{RGB}{0, 51, 102}
+\definecolor{sectiongreen}{RGB}{0, 102, 51}
+
+% Header/Footer using exam class commands
+\pagestyle{headandfoot}
+\firstpageheader{}{}{}
+\runningheader{\textsc{JEE Main Practice Paper}}{}{\textsc{Page \thepage}}
+\runningfooter{}{Generated: December 01, 2025}{}
+
+% Custom commands
+\newcommand{\sectiontitle}[1]{%
+    \vspace{1em}
+    \noindent\colorbox{headerblue}{\parbox{\dimexpr\textwidth-2\fboxsep}{%
+        \centering\color{white}\Large\bfseries #1
+    }}
+    \vspace{0.5em}
+}
+
+% Question format
+\renewcommand{\questionlabel}{\textbf{Q\thequestion.}}
+\renewcommand{\choicelabel}{(\thechoice)}
+
+% Hide answers in questions (they go in answer key)
+\noprintanswers
+
+\begin{document}
+
+% Title Page
+\begin{center}
+    {\Huge\bfseries\color{headerblue} JEE Main Practice Paper}\\[0.5em]
+    {\large Based on JEE Main Pattern}\\[1em]
+    {\normalsize Generated: December 01, 2025 | Difficulty: Easy}\\[0.5em]
+    \rule{\textwidth}{1pt}
+\end{center}
+
+\vspace{0.5em}
+\noindent\textbf{Instructions:}
+\begin{itemize}[nosep,leftmargin=*]
+    \item This paper contains 90 questions (30 per subject).
+    \item Each subject has 20 MCQs and 10 Integer Type questions.
+    \item MCQ: +4 for correct, -1 for incorrect.
+    \item Integer: +4 for correct, 0 for incorrect.
+    \item Time: 3 hours | Maximum Marks: 360
+\end{itemize}
+\rule{\textwidth}{0.5pt}
+
+
+\sectiontitle{Physics}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{0}
+\question
+A particle with charge $-q$ and mass $m$ travels in a circular path of radius $r$ around a straight line charge that has a linear density of $+\lambda$. The expression for the time period is given by: (Assume $k$ represents Coulomb's constant)
+\begin{choices}
+  \choice T^{2} = 4\pi^{2} \mathbb{R}^{2} \mathbb{M} \mathbb{K} \mathbb{E} \mathbb{F} 3
+  \choice T= 2\pi r $\sqrt{ \mathbb{M}$ $\frac{2}{k\lambda q}$ }
+  \choice T= $\frac{1}{2\pi r}$ $\sqrt{ \mathbb{M}$ $\frac{2}{k\lambda q}$ }
+  \choice T= $\frac{1}{2\pi}$ $\sqrt{2 \mathbb{K}$ \mathbb{E}} \mathbb{M}
+\end{choices}
+
+\question
+A coin is situated on a disc. The friction coefficient between the coin and the disc is $\mu$. If the distance from the center of the disc to the coin is $r$, the highest angular velocity that can be imparted to the disc without causing the coin to slip off is:
+\begin{choices}
+  \choice $\sqrt{\mu g}$
+  \choice $\sqrt{g \mu}$
+  \choice $\sqrt{\mu g r}$
+  \choice $\mu \sqrt{g r}$
+\end{choices}
+
+\question
+A beam of unpolarised light with an intensity of $I_{0}$ passes through a polaroid $A$ and subsequently through another polaroid $B$, which is positioned such that its principal plane forms an angle of $45^{\circ}$ with respect to that of $A$. What is the intensity of the light that emerges?
+\begin{choices}
+  \choice $\frac{I_{0}}{4}$
+  \choice $I_{0}$
+  \choice $\frac{I_{0}}{2}$
+  \choice $\frac{I_{0}}{8}$
+\end{choices}
+
+\question
+A proton traveling at a steady velocity enters a region of space where its velocity remains unchanged. If $\vec{E}$ and $\vec{B}$ denote the electric and magnetic fields respectively, then this region of space could potentially have:
+\begin{choices}
+  \choice (A), (B) and (C) only
+  \choice (A), (C) and (D) only
+  \choice (A), (B) and (D) only
+  \choice (B), (C) and (D) only
+\end{choices}
+
+\question
+What is the mass number of a nucleus that has a radius equal to half the radius of a nucleus with a mass number of 192?
+\begin{choices}
+  \choice 24
+  \choice 32
+  \choice 40
+  \choice 20
+\end{choices}
+
+\question
+The length of a simple pendulum was measured to be 20 cm with an accuracy of 2 mm. The duration for 50 oscillations was recorded as 40 seconds with a resolution of 1 second. Based on these measurements, the accuracy in determining the acceleration due to gravity is $N\\%$. What is the value of $N$?
+\begin{choices}
+  \choice 4
+  \choice 8
+  \choice 6
+  \choice 5
+\end{choices}
+
+\question
+An iron bar weighing 12 kg is positioned with one end resting on the ground and the other end supported by a man's shoulder. The rod is inclined at an angle of $60^{\circ}$ to the horizontal. The normal force exerted by the man on the bar is:
+\begin{choices}
+  \choice 6 kg - wt
+  \choice 12 kg - wt
+  \choice 3 kg - wt
+  \choice 6$\sqrt{3}$ kg - wt
+\end{choices}
+
+\question
+When a polaroid sheet is turned between two perpendicular polaroids, the intensity of the transmitted light will reach its peak at a rotation of:
+\begin{choices}
+  \choice 60^{\circ}
+  \choice 30^{\circ}
+  \choice 90^{\circ}
+  \choice 45^{\circ}
+\end{choices}
+
+\question
+In a straight co-axial cable, the inner conductor and the outer conductor carry equal currents flowing in opposite directions. The magnetic field is nonexistent:
+\begin{choices}
+  \choice outside the cable
+  \choice inside the outer conductor
+  \choice inside the inner conductor
+  \choice in between the two conductors
+\end{choices}
+
+\question
+An electric dipole is situated at a distance of 2 cm from an infinite plane sheet that possesses a positive charge density. Select the appropriate option from the choices below.
+\begin{choices}
+  \choice Potential energy and torque both are maximum.
+  \choice Torque on dipole is zero and net force is directed away from the sheet.
+  \choice Torque on dipole is zero and net force acts towards the sheet.
+  \choice Potential energy of dipole is minimum and torque is zero.
+\end{choices}
+
+\question
+Which pair of physical quantities does not share the same dimensions?
+\begin{choices}
+  \choice Pressure and Young's modulus
+  \choice Surface tension and impulse
+  \choice Torque and energy
+  \choice Angular momentum and Planck's constant
+\end{choices}
+
+\question
+If R is the radius of the earth and the acceleration due to gravity on the surface of earth is g= 9 \pi^{2} m s^{-2} , then the length of the second's pendulum at a height h= 3 R from the surface of earth will be:
+\begin{choices}
+  \choice 2/27 m
+  \choice 1/27 m
+  \choice 4/27 m
+  \choice 8/27 m
+\end{choices}
+
+\question
+10 divisions on the main scale of a Vernier calliper coincide with 12 divisions on the Vernier scale. If each division on the main scale is of 6 units, the least count of the instrument is:
+\begin{choices}
+  \choice 1/2
+  \choice 12/11
+  \choice 72/11
+  \choice 6/11
+\end{choices}
+
+\question
+The accurate form of Bernoulli's equation is (symbols are used in their standard context):
+\begin{choices}
+  \choice constant
+  \choice constant
+  \choice constant
+  \choice constant
+\end{choices}
+
+\question
+When light exits a convex lens with a light source positioned at its focal point, what is the shape of the light's wavefront?
+\begin{choices}
+  \choice both spherical and cylindrical
+  \choice plane
+  \choice spherical
+  \choice cylindrical
+\end{choices}
+
+\question
+Electromagnetic waves propagate through a medium at a speed of . The medium's relative permeability is 2.0. What is the relative permittivity of this medium?
+\begin{choices}
+  \choice 2
+  \choice 4
+  \choice 5
+  \choice 1
+\end{choices}
+
+\question
+What will be the percentage reduction in the brightness of the lamp if the current decreases by 20\%?
+\begin{choices}
+  \choice 46\%
+  \choice 26\%
+  \choice 36\%
+  \choice 56\%
+\end{choices}
+
+\question
+A small spherical ball of radius $r$, falling through a viscous medium of negligible density has terminal velocity $v$. Another ball of the same mass but of radius $2r$, falling through the same viscous medium will have terminal velocity:
+\begin{choices}
+  \choice $2v$
+  \choice $4v$
+  \choice $\frac{4}{3}v$
+  \choice $\frac{1}{2}v$
+\end{choices}
+
+\question
+If a satellite that is orbiting the Earth is situated 9 times closer to the Earth compared to the Moon, what is the satellite's rotational time period? The time period of the Moon is given in days, and the gravitational influence between the satellite and the Moon is disregarded.
+\begin{choices}
+  \choice 27 days
+  \choice 1 day
+  \choice 81 days
+  \choice 3 days
+\end{choices}
+
+\question
+Below are two statements, one referred to as Assertion (A) and the other as Reason (R). Assertion (A): In Young's double slit experiment, the fringes created by red light are closer together compared to those created by blue light. Reason (R): The width of the fringe is directly proportional to the wavelength of the light. Based on the statements provided, select the appropriate answer from the options listed below:
+\begin{choices}
+  \choice Both (A) and (R) are true but (R) is NOT the correct explanation of (A)
+  \choice (A) is true but (R) is false
+  \choice Both (A) and (R) are true and (R) is the correct explanation of (A)
+  \choice (A) is false but (R) is true
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{20}
+\question
+Two soap bubbles of radius 3 cm and 5 cm, respectively, are in contact with each other. The radius of curvature of the common surface, in cm, is \_\_\_\_\_\_ .
+
+\question
+A body falling under gravity covers two points A and B separated by 100 m in 3 s. The distance of upper point A from the starting point is \_\_\_\_\_ m. Use g = 10 m s\textasciicircum{}\{-2\}
+
+\question
+Two open organ pipes of specific lengths resonate at different harmonics. The frequency difference for the specified modes is \_\_\_\_\_\_\_ . (Velocity of sound in air)
+
+\question
+A liquid column of height $h$ balances the excess pressure of a soap bubble of radius $r$. If the density of the liquid is $\rho$ and the surface tension of the soap solution is $\gamma$, then the diameter of the soap bubble is given by the formula $d = 2r = \frac{2\rho gh}{\gamma}$. Calculate the diameter of the soap bubble if $h = 10 \, \text{m}$, $\rho = 1000 \, \text{kg m}^{-3}$, and $\gamma = 0.072 \, \text{N m}^{-1}$.
+
+\question
+A time varying potential difference is applied between the plates of a parallel plate capacitor of capacitance $C$. The dielectric constant of the medium between the capacitor plates is $K = 1$. It produces an instantaneous displacement current of $I_d = 0.25 \, \text{mA}$ in the intervening space between the capacitor plates. The magnitude of the rate of change of the potential difference will be _____ .
+
+\question
+A string is wrapped around the rim of a wheel of moment of inertia $I$ and radius $R$. The wheel is free to rotate about its axis. Initially, the wheel is at rest. The string is now pulled by a force of $F$. The angular velocity of the wheel after a time $t$ is $\omega$, where $\omega = \frac{F R}{I} t$.
+
+\question
+A sonometer wire of resonating length $L_{1}$ has a fundamental frequency of $f_{1}$ when kept under some tension. The resonating length of the wire with a fundamental frequency of $f_{2}$ under the same tension is given by the relationship $f_{1}L_{1} = f_{2}L_{2}$. If the fundamental frequency $f_{1}$ is 120 Hz and $f_{2}$ is 60 Hz, what is the resonating length $L_{2}$ of the wire?
+
+\question
+A nucleus has mass number $A_{1}$ and volume $V_{1}$. Another nucleus has mass number $A_{2}$ and volume $V_{2}$. If the relation between mass numbers is $A_{2} = 4A_{1}$, then what is the ratio of the volumes, $\frac{V_{2}}{V_{1}}$?
+
+\question
+A solid circular disc of mass 60 kg rolls along a horizontal floor so that its center of mass has a speed of 0.5 m s\textasciicircum{}\{-1\}. The absolute value of work done on the disc to stop it is \_\_\_\_\_\_ J.
+
+\end{questions}
+
+
+\sectiontitle{Chemistry}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{29}
+\question
+If the root mean square velocity of hydrogen molecule at a given temperature and pressure is 1.5 \, \text{km s}^{-1}, the root mean square velocity of oxygen at the same condition in \, \text{km s}^{-1} is:
+\begin{choices}
+  \choice 1.0
+  \choice 0.3
+  \choice 0.9
+  \choice 0.5
+\end{choices}
+
+\question
+The metal atom found in the complex MABXL (where A, B, X, and L represent unidentate ligands and is a metal) undergoes hybridization. The total number of geometrical isomers that the complex can display is:
+\begin{choices}
+  \choice 2
+  \choice 0
+  \choice 4
+  \choice 3
+\end{choices}
+
+\question
+The number of elements from the following list that do not belong to the lanthanoids is: Ce, Pr, Nd, Pm, Sm, Eu, Gd, Tb, Dy, Ho, Er, Tm, Yb, Lu, and La.
+\begin{choices}
+  \choice 3
+  \choice 4
+  \choice 1
+  \choice 5
+\end{choices}
+
+\question
+A quantity of ice with a certain mass and temperature is converted into vapor at a specific temperature through the addition of heat. The total work needed for this transformation is, (Consider, specific heat of ice, specific heat of water, specific heat of steam, latent heat of ice, and latent heat of steam)
+\begin{choices}
+  \choice 3043 J
+  \choice 3024 J
+  \choice 3003 J
+  \choice 3022 J
+\end{choices}
+
+\question
+A phenolic group can be detected through a positive result in which of the following tests?
+\begin{choices}
+  \choice Phthalein dye test
+  \choice Lucas test
+  \choice Tollen's test
+  \choice Carbylamine test
+\end{choices}
+
+\question
+Which of the following species cannot act as an oxidizing agent?
+\begin{choices}
+  \choice N\_\{3\}\textasciicircum{}\{-\}
+  \choice SO\_\{4\}\textasciicircum{}\{2-\}
+  \choice BrO\_\{3\}\textasciicircum{}\{-\}
+  \choice MnO\_\{4\}\textasciicircum{}\{-\}
+\end{choices}
+
+\question
+Which of the following groups are considered meta directing functional groups?
+\begin{choices}
+  \choice -CN, - NH\_\{2\}, - NHR, - OCH\_\{3\}
+  \choice -NO\_\{2\}, - NH\_\{2\}, - COOH, - COOR
+  \choice -NO\_\{2\}, - CHO, - SO\_\{3\}H, - COR
+  \choice -CN, - CHO, - NHCOCH\_\{3\}, - COOR
+\end{choices}
+
+\question
+For the reaction $A \, g \rightleftharpoons B \, g + C_{2} \, g$, what is the correct expression relating $K_{P}$, $\alpha$, and the equilibrium pressure $P$?
+\begin{choices}
+  \choice K_{P} = \alpha^{1/2} P^{1/2} + \alpha^{1/2}
+  \choice K_{P} = \alpha^{3/2} P^{1/2} + \alpha^{1/2}(1 - \alpha)
+  \choice K_{P} = \alpha^{1/2} P^{3/2} + \alpha^{3/2}
+  \choice K_{P} = \alpha^{1/2} P^{1/2} + \alpha^{3/2}
+\end{choices}
+
+\question
+Presented below are two statements: one is designated as Assertion (A) and the other as Reason (R).
+\begin{choices}
+  \choice (A) is false but (R) is true
+  \choice Both (A) and (R) are true but (R) is not the correct explanation of (A)
+  \choice (A) is true but (R) is false
+  \choice Both (A) and (R) are true and (R) is the correct explanation of (A)
+\end{choices}
+
+\question
+The following two statements are presented: Statement (I): The formation of Ce\textasciicircum{}\{4+\} in the Lanthanoids is favored due to its noble gas configuration. Statement (II): Ce\textasciicircum{}\{4+\} acts as a strong oxidizing agent, reverting to the more common +3 oxidation state. Based on the above statements, select the most suitable answer from the options provided below:
+\begin{choices}
+  \choice Statement I is false but Statement II is true
+  \choice Both Statement I and Statement II are true
+  \choice Statement I is true but Statement II is false
+  \choice Both Statement I and Statement II are false
+\end{choices}
+
+\question
+The scent of blossoms is attributed to the existence of certain steam volatile organic compounds known as essential oils. Typically, these compounds are insoluble in water at ambient temperature but can mix with water vapour in the gaseous state. An appropriate technique for extracting these oils from the flowers is:
+\begin{choices}
+  \choice crystallisation
+  \choice distillation under reduced pressure
+  \choice distillation
+  \choice steam distillation
+\end{choices}
+
+\question
+The following two statements are provided: Statement (I): The viscosity of gases is higher than that of liquids. Statement (II): The surface tension of a liquid is reduced in the presence of insoluble impurities. Based on these statements, select the most suitable answer from the options listed below:
+\begin{choices}
+  \choice Statement I is correct but statement II is incorrect
+  \choice Statement I is incorrect but Statement II is correct
+  \choice Both Statement I and Statement II are incorrect
+  \choice Both Statement I and Statement II are correct
+\end{choices}
+
+\question
+The metals utilized in the battery manufacturing sector include A. Fe, B. Mn, C. Ni, D. Cr, and E. Cd. Select the correct answer from the options provided below:
+\begin{choices}
+  \choice B, C and E only
+  \choice A, B, C, D and E
+  \choice A, B, C and D only
+  \choice B, D and E only
+\end{choices}
+
+\question
+The IUPAC designation for the hydrocarbon provided is:
+\begin{choices}
+  \choice 2-Ethyl-3,6-dimethylheptane
+  \choice 2,5,6-Trimethyloctane
+  \choice 3,4,7-Trimethyloctane
+  \choice 2-Ethyl-2,6-diethylheptane
+\end{choices}
+
+\question
+Below are two assertions: Assertion I: The nitration process of benzene consists of the following step - Assertion II: The application of a Lewis base facilitates the electrophilic substitution reaction of benzene. Based on the above assertions, select the most suitable answer from the options provided below:
+\begin{choices}
+  \choice Statement I is correct but Statement II is incorrect
+  \choice Statement I is incorrect but Statement II is correct
+  \choice Both Statement I and Statement II are correct
+  \choice Both Statement I and Statement II are incorrect
+\end{choices}
+
+\question
+Which of the following products is not generated when Lead Sulphide reacts with dilute nitric acid?
+\begin{choices}
+  \choice Nitric oxide
+  \choice Nitrous oxide
+  \choice Lead nitrate
+  \choice Sulphur
+\end{choices}
+
+\question
+The compound (C) formed in the reaction detailed below is: CH 3 - CH 2 - CH 2 - Br KOH alc $\\rightarrow$ ∆ A HBr $\\rightarrow$ B ∆ $\\rightarrow$ KOH aq C
+\begin{choices}
+  \choice Propan-1-ol
+  \choice Propene
+  \choice Propyne
+  \choice Propan-2-ol
+\end{choices}
+
+\question
+The type of sugar that does not produce a reddish brown precipitate when reacted with Fehling's reagent is:
+\begin{choices}
+  \choice Sucrose
+  \choice Lactose
+  \choice Glucose
+  \choice Maltose
+\end{choices}
+
+\question
+During the qualitative analysis for the precipitation of iron group (III), ammonium chloride is introduced prior to the addition of ammonium hydroxide in order to:
+\begin{choices}
+  \choice increase concentration of ions
+  \choice increase concentration of ions
+  \choice prevent interference by phosphate ions
+  \choice decrease concentration of ions
+\end{choices}
+
+\question
+Combustion of glucose produces carbon dioxide and water. The amount of oxygen (in g) required for the complete combustion of 180 g of glucose is : [Molar mass of glucose in g]
+\begin{choices}
+  \choice 720
+  \choice 960
+  \choice 540
+  \choice 480
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{49}
+\question
+Total number of essential amino acids among the given list of amino acids is how many? Arginine, Phenylalanine, Aspartic acid, Cysteine, Histidine, Valine, Proline.
+
+\question
+Consider the given reaction: 2H_{2} + O_{2} \rightarrow 2H_{2}O. The total number of oxygen atoms present per molecule of the product is _________.
+
+\question
+Quantitative analysis of an organic compound (X) shows the following \% composition: C: 64.46\%, H: 1.8\%, and Cl: 33.74\%. Calculate the empirical formula mass of the compound (Given molar mass in grams is \_\_\_\_\_\_\_\_\_\_).
+
+\question
+Consider the following sequence of reactions: A + B $\\rightarrow$ C; C + D $\\rightarrow$ E. If the molar mass of reactant A is 78 g/mol, reactant B is 76 g/mol, and reactant D is 32 g/mol, what is the molar mass of the product E formed in the final reaction?
+
+\question
+The overall count of accurate statements concerning nucleic acids is \_\_\_\_\_\_\_\_\_. A. RNA is considered the reservoir of genetic information. B. The DNA molecule replicates itself during cell division. C. DNA is responsible for protein synthesis within the cell. D. The instructions for the creation of specific proteins are encoded in DNA. E. Identical DNA strands are passed on to daughter cells.
+
+\question
+Vanillin compound obtained from vanilla beans, has total sum of oxygen atoms and electrons is \_\_\_\_\_\_
+
+\question
+The combustion of 1 mole of benzene ($C_{6}H_{6}$) is expressed as: $C_{6}H_{6} + \frac{15}{2}O_{2} \rightarrow 6CO_{2} + 3H_{2}O$. The standard enthalpy of combustion of benzene is -$x$ kJ/mol. Given: 1. The standard enthalpy of formation of $C_{6}H_{6}$ (graphite) is 82.9 kJ/mol. 2. The standard enthalpy of formation of $CO_{2}$ (graphite) is -393.5 kJ/mol. 3. The standard enthalpy of formation of $H_{2}O$ (liquid) is -285.8 kJ/mol. Calculate the standard enthalpy of combustion of benzene.
+
+\question
+The major product of the following reaction between ethene and bromine has a C=C bond.
+
+\question
+0.1 mole of compound 'S' will weigh \_\_\_\_\_\_\_ g. (Given molar mass in g/mol is 130 g/mol)
+
+\question
+A thick coating of silver is deposited on a plate with an area of 1 m$^{2}$. The number of silver atoms deposited on the plate is calculated using the mass of silver deposited, which is 11 g. Given that the atomic mass of silver (Ag) is approximately 107.87 g/mol, the number of silver atoms deposited on the plate is _______. (Round off to the nearest integer.)
+
+\end{questions}
+
+
+\sectiontitle{Mathematics}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{59}
+\question
+Let $f(x) = \frac{x + 5}{2x - \frac{1}{2}}$, $x \in [-5, 5]$. If $M$ and $m$ are the maximum and minimum values of $f$, respectively in $[-5, 5]$, then the value of $M - m$ is:
+\begin{choices}
+  \choice 700
+  \choice 492
+  \choice 708
+  \choice 208
+\end{choices}
+
+\question
+Two marbles are drawn in succession from a box containing 12 red, 24 white, 18 blue and 10 orange marbles, with replacement being made after each drawing. Then the probability, that first drawn marble is red and second drawn marble is white, is
+\begin{choices}
+  \choice 1/10
+  \choice 3/20
+  \choice 1/5
+  \choice 3/25
+\end{choices}
+
+\question
+Let $x = 4$ and $y = 2$. If $x^{2} + y^{2}$, then what is the value of $x^{2} + y^{2}$?
+\begin{choices}
+  \choice 36
+  \choice 16
+  \choice 1
+  \choice 49
+\end{choices}
+
+\question
+Let $N$ be the set of integers from 1 to 1000. Determine the number of elements in $N$ that are neither a multiple of 3 nor a multiple of 4.
+\begin{choices}
+  \choice 290
+  \choice 280
+  \choice 300
+  \choice 310
+\end{choices}
+
+\question
+Let $a$ be the first term and $d$ be the common difference of an arithmetic progression (A.P.). If for some integers $n$ and $m$, the $n^{th}$ term is given by $a_n = a + (n-1)d$ and the $m^{th}$ term is given by $a_m = a + (m-1)d$, then what is the value of the $n^{th}$ term when $a = 2$, $d = 4$, and $n = 32$?
+\begin{choices}
+  \choice 98
+  \choice 126
+  \choice 142
+  \choice 112
+\end{choices}
+
+\question
+If the set has elements $a = 4$ and $b = 8$, where $a < b$, then the value of $a + b$ is
+\begin{choices}
+  \choice 12
+  \choice 4
+  \choice 8
+  \choice 5
+\end{choices}
+
+\question
+Consider the system of linear equations $x$+ $y$+ $z$= 5, $x$+ 2$y$+ $\lambda$ 2 $z$= 9 and $x$+ 3$y$+ $\lambda$$z$= $\mu$ , where $\lambda$, $\mu$∈R . Then, which of the following statement is NOT correct ?
+\begin{choices}
+  \choice System has infinite number of solution if $\lambda$= 1 and $\mu$= 13
+  \choice System is inconsistent if $\lambda$= 1 and $\mu$$\neq$13
+  \choice System has unique solution if $\lambda$$\neq$1 and $\mu$$\neq$13
+  \choice System is consistent if $\lambda$$\neq$1 and $\mu$= 13
+\end{choices}
+
+\question
+Consider the region R which is enclosed by the lines $3x - y + 1 = 0$ and $x + 2y - 5 = 0$, and which includes the origin. Determine the complete set of values for $a$ such that the points $a^{2}$ and $a + 1$ are located within R.
+\begin{choices}
+  \choice ( - 3, - 1) \cup - $\frac{1}{3}$ , 1
+  \choice ( - 3, 0) \cup $\frac{1}{3}$ , 1
+  \choice ( - 3, 0) \cup $\frac{2}{3}$ , 1
+  \choice ( - 3, - 1) \cup $\frac{1}{3}$ , 1
+\end{choices}
+
+\question
+Let $x$ be such that $x + 10 = 61$ and $y = 2x - 1$. Then $y$ is equal to:
+\begin{choices}
+  \choice 73
+  \choice 62
+  \choice 51
+  \choice 54
+\end{choices}
+
+\question
+A bag contains 10 balls, whose colours are either white or black. 5 balls are drawn at random without replacement and it was found that 3 balls are white and 2 balls are black. The probability that the bag contains equal number of white and black balls is:
+\begin{choices}
+  \choice 3/14
+  \choice 3/11
+  \choice 1/7
+  \choice 1/5
+\end{choices}
+
+\question
+Let $\vec{A}$ and $\vec{B}$ be vectors such that $\vec{A} = 1200 \hat{i} + 300 \hat{j}$. If $\vec{B} = 400 \hat{i} + 800 \hat{j}$, then $|\vec{A} + \vec{B}|$ is equal to:
+\begin{choices}
+  \choice 1600
+  \choice 1620
+  \choice 1610
+  \choice 1590
+\end{choices}
+
+\question
+Among the two statements provided: Statement I: Let $A$ and $B$. Then the vector that fulfills the conditions $A$ and $B$ has a magnitude of $C$. Statement II: In a triangle, the sum of the interior angles is $180^{\circ}$.
+\begin{choices}
+  \choice Statement I is incorrect but Statement II is correct.
+  \choice Both Statement I and Statement II are correct.
+  \choice Statement I is correct but Statement II is incorrect.
+  \choice Both Statement I and Statement II are incorrect.
+\end{choices}
+
+\question
+Consider the image of the point $(1, 0, 7)$ on the line given by $x_{1} = y - 1 = z - 2$. Let this image be represented by the point $(\alpha, \beta, \gamma)$. Which of the following points lies on the line that passes through $(\alpha, \beta, \gamma)$ and forms angles of $\frac{2\pi}{3}$ and $\frac{3\pi}{4}$ with the y-axis and z-axis, respectively, while making an acute angle with the x-axis?
+\begin{choices}
+  \choice ( 1, - 2, 1 + $\sqrt{2}$ )
+  \choice ( 1, 2, 1 - $\sqrt{2}$ )
+  \choice ( 3, 4, 3 - 2$\sqrt{2}$ )
+  \choice ( 3, - 4, 3 + 2$\sqrt{2}$ )
+\end{choices}
+
+\question
+Given the function $f: (-\infty, -1) \to (a, b)$ defined by $f(x) = e^{x^{3}} - 3x + 1$, if this function is both one-to-one and onto, then the distance from the point $P(2b + 4, a + 2)$ to the line $x + e^{-3}y = 4$ is:
+\begin{choices}
+  \choice 2$\sqrt{1}$ + e 6
+  \choice 4$\sqrt{1}$ + e 6
+  \choice 3$\sqrt{1}$ + e 6
+  \choice $\sqrt{1}$ + e 6
+\end{choices}
+
+\question
+For $x$, the least value of $y$, for which $x$, $y$, and $x + 4$ are three consecutive terms of an A.P., is equal to:
+\begin{choices}
+  \choice 6
+  \choice 3
+  \choice 12
+  \choice 18
+\end{choices}
+
+\question
+If $x = 5$ and $y = 2$, then $x - 3y$ is equal to:
+\begin{choices}
+  \choice -1
+  \choice 0
+  \choice 1
+  \choice 2
+\end{choices}
+
+\question
+Consider $e_{1}$ as the eccentricity of the hyperbola $x^{2} \cdot 16 - y^{2} \cdot 9 = 1$ and $e_{2}$ as the eccentricity of the ellipse $x^{2} \cdot a^{2} + y^{2} \cdot b^{2} = 1$, where $a > b$, which intersects the foci of the hyperbola. If the product $e_{1} e_{2} = 1$, then the length of the chord of the ellipse that is parallel to the x-axis and passes through the point $(0, 2)$ is:
+\begin{choices}
+  \choice $4\sqrt{5}$
+  \choice $\frac{8\sqrt{5}}{3}$
+  \choice $\frac{10\sqrt{5}}{3}$
+  \choice $3\sqrt{5}$
+\end{choices}
+
+\question
+If the value of $x = 5$, where $x$ and $y$ are natural numbers and $y = 10$, then $x + y$ is equal to :
+\begin{choices}
+  \choice 15
+  \choice 20
+  \choice 25
+  \choice 30
+\end{choices}
+
+\question
+Let $x = 3$, where $C$ is the constant of integration. Then $y$ is equal to :
+\begin{choices}
+  \choice 9
+  \choice 6
+  \choice 2
+  \choice 5
+\end{choices}
+
+\question
+If the variance of the frequency distribution is 144, then the value of is $12$.
+\begin{choices}
+  \choice 12
+  \choice 10
+  \choice 9
+  \choice 11
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{79}
+\question
+Consider a function $f: \mathbb{R} \to \mathbb{R}$ defined by $f(x) = \frac{4x}{4x + 2}$ and let $M = f(1 - a) \int f(a) \sin(4) x (1 - x) \, dx$, $N = f(1 - a) \int f(a) \sin(4) x (1 - x) \, dx$; where $a \neq \frac{1}{2}$. If $\alpha M = \beta N$, where $\alpha, \beta \in \mathbb{N}$, then what is the minimum value of $\alpha^{2} + \beta^{2}$?
+
+\question
+Consider the function defined by $f(x) = 2^{x}$. If the composition of $f$ with itself, denoted as $f(f(x))$, is evaluated at $x = 5$, then the value of $f(f(5))$ is equal to ______.
+
+\question
+Let the set $S = \{1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20\}$. Then the sum of all the elements in the set is equal to _______.
+
+\question
+If $x = 4$, then $x^{3}$ is equal to ________
+
+\question
+Let $r_{1}$ and $r_{2}$ be the roots of the equation $x^{2} - 10x + 24 = 0$ such that $r_{1} + r_{2} = 10$ and $r_{1} r_{2} = 24$. Let $a$ and $b$ be integers not divisible by 2 and let $n$ be a natural number such that $n = a + b$. Then $n$ is equal to ___________.
+
+\question
+Let Q and R be the feet of perpendiculars from the point P(a, a, a) on the lines x = y, z = 1 and x = -y, z = -1 respectively. If ∠QPR is a right angle, then $12a^{2}$ is equal to ________.
+
+\question
+Let the area of the region be $A = \frac{p}{q}$, where $p$ and $q$ are coprime numbers. If the area is equal to 119, then $p + q$ is equal to ______.
+
+\question
+Let the region be enclosed by the parabola $y = 4 - x^{2}$ and the line $y = 0$. Then the maximum area of the rectangle inscribed in the region is __________.
+
+\question
+If the second, third and fourth terms in the expansion of $(a + b)^{n}$ are 135, 30 and 6, respectively, then $n$ is equal to _______
+
+\question
+What is the remainder when $x^{3} + 2x^{2} + 3x + 4$ is divided by $x + 1$?
+
+\end{questions}
+
+
+\newpage
+\sectiontitle{Answer Key}
+
+
+\textbf{Physics}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q1 & Q2 & Q3 & Q4 & Q5 & Q6 & Q7 & Q8 & Q9 & Q10 \\\hline
+(2) & (3) & (1) & (3) & (1) & (3) & (3) & (4) & (1) & (4) \\\hline
+Q11 & Q12 & Q13 & Q14 & Q15 & Q16 & Q17 & Q18 & Q19 & Q20 \\\hline
+(2) & (3) & (3) & (1) & (2) & (1) & (3) & (2) & (2) & (4) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|}
+\hline
+Q21 & Q22 & Q23 & Q24 & Q25 & Q26 & Q27 & Q28 & Q29 \\\hline
+4 & 45 & 740 & 7 & 100 & 100 & 60 & 4 & 6 \\\hline
+\end{tabular}\\[1em]
+
+
+\textbf{Chemistry}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q31 & Q32 & Q33 & Q34 & Q35 & Q36 & Q37 & Q38 & Q39 & Q40 \\\hline
+(2) & (1) & (1) & (1) & (1) & (1) & (3) & (2) & (2) & (2) \\\hline
+Q41 & Q42 & Q43 & Q44 & Q45 & Q46 & Q47 & Q48 & Q49 & Q50 \\\hline
+(3) & (2) & (1) & (2) & (1) & (2) & (4) & (1) & (4) & (2) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q51 & Q52 & Q53 & Q54 & Q55 & Q56 & Q57 & Q58 & Q59 & Q60 \\\hline
+4 & 1 & 1655 & 154 & 3 & 11 & -6535 & 5 & 13 & 11 \\\hline
+\end{tabular}\\[1em]
+
+
+\textbf{Mathematics}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q61 & Q62 & Q63 & Q64 & Q65 & Q66 & Q67 & Q68 & Q69 & Q70 \\\hline
+(3) & (2) & (2) & (3) & (2) & (1) & (3) & (2) & (3) & (1) \\\hline
+Q71 & Q72 & Q73 & Q74 & Q75 & Q76 & Q77 & Q78 & Q79 & Q80 \\\hline
+(1) & (1) & (3) & (1) & (1) & (1) & (3) & (1) & (1) & (1) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q81 & Q82 & Q83 & Q84 & Q85 & Q86 & Q87 & Q88 & Q89 & Q90 \\\hline
+5 & 1024 & 46 & 64 & 49 & 12 & 120 & 128 & 806 & 1 \\\hline
+\end{tabular}\\[1em]
+
+
+\end{document}

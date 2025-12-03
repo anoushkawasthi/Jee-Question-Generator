@@ -1,0 +1,855 @@
+\documentclass[12pt,a4paper]{exam}
+
+% Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{enumitem}
+\usepackage{multicol}
+\usepackage{newunicodechar}
+
+% Unicode math character mappings
+\newunicodechar{𝜀}{$\varepsilon$}
+\newunicodechar{𝑃}{$P$}
+\newunicodechar{𝑉}{$V$}
+\newunicodechar{𝐾}{$K$}
+\newunicodechar{𝐴}{$A$}
+\newunicodechar{𝐵}{$B$}
+\newunicodechar{𝐶}{$C$}
+\newunicodechar{𝐷}{$D$}
+\newunicodechar{𝐸}{$E$}
+\newunicodechar{𝑇}{$T$}
+\newunicodechar{𝑅}{$R$}
+\newunicodechar{𝐼}{$I$}
+\newunicodechar{𝑁}{$N$}
+\newunicodechar{𝑀}{$M$}
+\newunicodechar{𝐿}{$L$}
+\newunicodechar{𝑎}{$a$}
+\newunicodechar{𝑏}{$b$}
+\newunicodechar{𝑐}{$c$}
+\newunicodechar{𝑑}{$d$}
+\newunicodechar{𝑒}{$e$}
+\newunicodechar{𝑓}{$f$}
+\newunicodechar{𝑔}{$g$}
+\newunicodechar{𝑛}{$n$}
+\newunicodechar{𝑚}{$m$}
+\newunicodechar{𝑟}{$r$}
+\newunicodechar{𝑠}{$s$}
+\newunicodechar{𝑡}{$t$}
+\newunicodechar{𝑥}{$x$}
+\newunicodechar{𝑦}{$y$}
+\newunicodechar{𝑧}{$z$}
+\newunicodechar{α}{$\alpha$}
+\newunicodechar{β}{$\beta$}
+\newunicodechar{γ}{$\gamma$}
+\newunicodechar{δ}{$\delta$}
+\newunicodechar{ε}{$\varepsilon$}
+\newunicodechar{θ}{$\theta$}
+\newunicodechar{λ}{$\lambda$}
+\newunicodechar{μ}{$\mu$}
+\newunicodechar{π}{$\pi$}
+\newunicodechar{ρ}{$\rho$}
+\newunicodechar{σ}{$\sigma$}
+\newunicodechar{τ}{$\tau$}
+\newunicodechar{φ}{$\varphi$}
+\newunicodechar{ω}{$\omega$}
+\newunicodechar{Ω}{$\Omega$}
+\newunicodechar{°}{$^\circ$}
+\newunicodechar{±}{$\pm$}
+\newunicodechar{×}{$\times$}
+\newunicodechar{÷}{$\div$}
+\newunicodechar{√}{$\sqrt{}$}
+\newunicodechar{∞}{$\infty$}
+\newunicodechar{≠}{$\neq$}
+\newunicodechar{≤}{$\leq$}
+\newunicodechar{≥}{$\geq$}
+\newunicodechar{→}{$\rightarrow$}
+\newunicodechar{←}{$\leftarrow$}
+\newunicodechar{↔}{$\leftrightarrow$}
+
+% Page geometry
+\geometry{
+    top=1.5cm,
+    bottom=2cm,
+    left=2cm,
+    right=2cm,
+    headheight=1.5cm
+}
+
+% Colors
+\definecolor{headerblue}{RGB}{0, 51, 102}
+\definecolor{sectiongreen}{RGB}{0, 102, 51}
+
+% Header/Footer using exam class commands
+\pagestyle{headandfoot}
+\firstpageheader{}{}{}
+\runningheader{\textsc{JEE Main Practice Paper}}{}{\textsc{Page \thepage}}
+\runningfooter{}{Generated: December 01, 2025}{}
+
+% Custom commands
+\newcommand{\sectiontitle}[1]{%
+    \vspace{1em}
+    \noindent\colorbox{headerblue}{\parbox{\dimexpr\textwidth-2\fboxsep}{%
+        \centering\color{white}\Large\bfseries #1
+    }}
+    \vspace{0.5em}
+}
+
+% Question format
+\renewcommand{\questionlabel}{\textbf{Q\thequestion.}}
+\renewcommand{\choicelabel}{(\thechoice)}
+
+% Hide answers in questions (they go in answer key)
+\noprintanswers
+
+\begin{document}
+
+% Title Page
+\begin{center}
+    {\Huge\bfseries\color{headerblue} JEE Main Practice Paper}\\[0.5em]
+    {\large Based on JEE Main Pattern}\\[1em]
+    {\normalsize Generated: December 01, 2025 | Difficulty: Easy}\\[0.5em]
+    \rule{\textwidth}{1pt}
+\end{center}
+
+\vspace{0.5em}
+\noindent\textbf{Instructions:}
+\begin{itemize}[nosep,leftmargin=*]
+    \item This paper contains 90 questions (30 per subject).
+    \item Each subject has 20 MCQs and 10 Integer Type questions.
+    \item MCQ: +4 for correct, -1 for incorrect.
+    \item Integer: +4 for correct, 0 for incorrect.
+    \item Time: 3 hours | Maximum Marks: 360
+\end{itemize}
+\rule{\textwidth}{0.5pt}
+
+
+\sectiontitle{Physics}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{0}
+\question
+In a nuclear fission reaction of an isotope of mass M , three similar daughter nuclei of same mass are formed. The speed of a daughter nuclei in terms of mass defect $\Delta$M will be :
+\begin{choices}
+  \choice $\sqrt{}$ 2$c$$\Delta$M M
+  \choice $\Delta$M$c$ 2/3
+  \choice $c$$\sqrt{}$ 2$\Delta$M M
+  \choice $c$$\sqrt{}$ 3$\Delta$M M
+\end{choices}
+
+\question
+With rise in temperature, the Young's modulus of elasticity
+\begin{choices}
+  \choice changes erratically
+  \choice decreases
+  \choice increases
+  \choice remains unchanged
+\end{choices}
+
+\question
+A thin plano convex lens made of glass of refractive index 1.5 is immersed in a liquid of refractive index 1.2. When the plane side of the lens is silver coated for complete reflection, the lens immersed in the liquid 2025 (24 Jan Shift 1)
+\begin{choices}
+  \choice 0.20 m
+  \choice 0.25 m
+  \choice 0.15 m
+  \choice 0.10 m
+\end{choices}
+
+\question
+An electron in the ground state of the hydrogen atom has the orbital radius of while that for the electron in third excited state is . The ratio of the de Broglie wavelengths of electron in the excited state to that in the ground state is
+\begin{choices}
+  \choice 3
+  \choice 16
+  \choice 9
+  \choice 4
+\end{choices}
+
+\question
+An ideal gas goes from an initial state to final state. During the process, the pressure of gas increases linearly with temperature. A. The work done by gas during the process is zero. B. The heat added to gas is different from change in its internal energy. C. The volume of the gas is increased. D. The internal energy of the gas is increased. E. The process is isochoric (constant volume process) Choose the correct answer from the options given below:
+\begin{choices}
+  \choice E Only
+  \choice A, B, C, D Only
+  \choice A, D, E Only
+  \choice A, C Only
+\end{choices}
+
+\question
+The speed of sound in oxygen at S.T.P. will be approximately: (Given, R= 8.3 J K -1 , $\gamma$= 1.4)
+\begin{choices}
+  \choice 310 m s\textasciicircum{}-1
+  \choice 333 m s\textasciicircum{}-1
+  \choice 341 m s\textasciicircum{}-1
+  \choice 325 m s\textasciicircum{}-1
+\end{choices}
+
+\question
+The fundamental frequency of a closed organ pipe is equal to the first overtone frequency of an open organ pipe. If length of the open pipe is 60 cm , the length of the closed pipe will be :
+\begin{choices}
+  \choice 60 cm
+  \choice 45 cm
+  \choice 30 cm
+  \choice 15 cm
+\end{choices}
+
+\question
+When a polaroid sheet is rotated between two crossed polaroids then the transmitted light intensity will be maximum for a rotation of :
+\begin{choices}
+  \choice 60$^\circ$
+  \choice 30$^\circ$
+  \choice 90$^\circ$
+  \choice 45$^\circ$
+\end{choices}
+
+\question
+Light emerges out of a convex lens when a source of light kept at its focus. The shape of wavefront of the light is :
+\begin{choices}
+  \choice both spherical and cylindrical
+  \choice plane
+  \choice spherical
+  \choice cylindrical
+\end{choices}
+
+\question
+Given below are two statements : Statement I : In a vernier callipers, one vernier scale division is always smaller than one main scale division. Statement II : The vernier constant is given by one main scale division multiplied by the number of vernier scale divisions. In the light of the above statements, choose the correct answer from the options given below.
+\begin{choices}
+  \choice Statement I is true but Statement II is false
+  \choice Statement I is false but Statement II is true
+  \choice Both Statement I and Statement II are false
+  \choice Both Statement I and Statement II are true 2025 (22 Jan Shift 1)
+\end{choices}
+
+\question
+The energy released in the fusion of of hydrogen deep in the sun is and the energy released in the fission of of is . The ratio is approximately: (Consider the fusion reaction as , energy released in the fission reaction of is per fission nucleus and
+\begin{choices}
+  \choice 7.62
+  \choice 25.6
+  \choice 15.04
+  \choice 9.13
+\end{choices}
+
+\question
+The dimensional formula of angular impulse is :
+\begin{choices}
+  \choice [M L - 2 T - 1 ]
+  \choice [M L 2 T - 2 ]
+  \choice [M L T - 1 ]
+  \choice [M L 2 T - 1 ]
+\end{choices}
+
+\question
+The width of one of the two slits in Young's double slit experiment is d while that of the other slit is . If the ratio of the maximum to the minimum intensity in the interference pattern on the screen is then what is the value of ? (Assume that the field strength varies according to the slit width.)
+\begin{choices}
+  \choice 4
+  \choice 5
+  \choice 3
+  \choice 2
+\end{choices}
+
+\question
+A beam of unpolarised light of intensity $I$ 0 is passed through a polaroid $A$ and then through another polaroid $B$ which is oriented so that its principal plane makes an angle of 45$^\circ$ relative to that of $A$ . The intensity of emergent light is :
+\begin{choices}
+  \choice $I$ 0 4
+  \choice $I$ 0
+  \choice $I$ 0 2
+  \choice $I$ 0 8
+\end{choices}
+
+\question
+A thin prism with angle made of glass having refractive index 1.54 , is combined with another thin prism made of glass having refractive index 1.72 to get dispersion without deviation. The angle of the prism in degrees is
+\begin{choices}
+  \choice 3
+  \choice 16/3
+  \choice 4
+  \choice 1.5
+\end{choices}
+
+\question
+Two charges and are placed at and respectively. Given, , the electrostatic potential energy of the charge configuration is :
+\begin{choices}
+  \choice -1.8 J
+  \choice -2.0 J
+  \choice -1.5 J
+  \choice -1.2 J
+\end{choices}
+
+\question
+The minimum energy required by a hydrogen atom in ground state to emit radiation in Balmer series is nearly :
+\begin{choices}
+  \choice 1.5 eV
+  \choice 13.6 eV
+  \choice 1.9 eV
+  \choice 12.1 eV
+\end{choices}
+
+\question
+Three infinitely long wires with linear charge density are placed along the -axis and axis respectively. Which of the following denotes an equipotential surface?
+\begin{choices}
+  \choice constant
+  \choice constant
+  \choice constant
+  \choice constant
+\end{choices}
+
+\question
+10 divisions on the main scale of a Vernier calliper coincide with 11 divisions on the Vernier scale. If each division on the main scale is of 5 units, the least count of the instrument is :
+\begin{choices}
+  \choice 1/2
+  \choice 10/11
+  \choice 50/11
+  \choice 5/11
+\end{choices}
+
+\question
+The radius $r$ , length $l$ and resistance R of a metal wire was measured in the laboratory as $r$= 0.35 $\pm$ 0.05 cm , R= 100 $\pm$ 10 ohm , $l$= 15 $\pm$ 0.2 cm The percentage error in resistivity of the material of the wire is :
+\begin{choices}
+  \choice 25.6\%
+  \choice 39.9\%
+  \choice 37.3\%
+  \choice 35.6\%
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{20}
+\question
+The driver sitting inside a parked car is watching vehicles approaching from behind with the help of his side view mirror, which is a convex mirror with radius of curvature . Another car approaches him from behind with a uniform speed of . When the car is at a distance of 24 m from him, the magnitude of the acceleration of the image of the car in the side view mirror is ' a '. The value of 100 a is \_\_\_\_\_\_\_ .
+
+\question
+A current of 5 A exists in a square loop of side . Then the magnitude of the magnetic field at the centre of the square loop will be . where, value of p is \_\_\_\_\_ . Take .
+
+\question
+Equivalent resistance of the following network is \_\_\_\_\_\_\_\_ 𝛺 .
+
+\question
+A body falling under gravity covers two points A and B separated by 80 m in 2 s . The distance of upper point A from the starting point is \_\_\_\_\_ m . Use g = 10 m s\textasciicircum{}-2
+
+\question
+A liquid column of height balances excess pressure of a soap bubble of certain radius. If density of liquid is and surface tension of soap solution is , then diameter of the soap bubble is \_\_\_\_\_ . (if )
+
+\question
+A vernier callipers has 20 divisions on the vernier scale, which coincides with division on the main scale. The least count of the instrument is . One main scale division is equal to \_\_\_\_\_ .
+
+\question
+An electric field, passes through the surface of area having unit vector . The electric flux for that surface is \_\_\_\_\_\_ .
+
+\question
+The least count of a screw guage is 0.01 mm . If the pitch is increased by and number of divisions on the circular scale is reduced by , the new least count will be \_\_\_\_\_
+
+\question
+The refractive index of prism is and the ratio of the angle of minimum deviation to the angle of prism is one. The value of angle of prism is \_\_\_\_\_\_\_.
+
+\question
+A circular coil having 200 turns, area and carrying current is placed in a uniform magnetic field of 1 T. Initially the magnetic dipole moment was directed along . Amount of work, required to rotate the coil through from its initial orientation such that becomes perpendicular to , is \_\_\_\_\_\_ .
+
+\end{questions}
+
+
+\sectiontitle{Chemistry}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{30}
+\question
+Match List - I with List - II. Choose the correct answer from the options given below :
+\begin{choices}
+  \choice (A)-(IV), (B)-(II), (C)-(I), (D)-(III)
+  \choice (A)-(I), (B)-(II), (C)-(III), (D)-(IV)
+  \choice (A)-(III), (B)-(I), (C)-(IV), (D)-(II)
+  \choice (A)-(II), (B)-(IV), (C)-(III), (D)-(I)
+\end{choices}
+
+\question
+A species having carbon with sextet of electrons and can act as electrophile is called
+\begin{choices}
+  \choice carbon free radical
+  \choice carbanion
+  \choice carbocation
+  \choice pentavalent carbon
+\end{choices}
+
+\question
+In the above chemical reaction sequence " " and " " respectively are
+\begin{choices}
+  \choice and
+  \choice and
+  \choice and
+  \choice and
+\end{choices}
+
+\question
+Which of the following cannot function as an oxidising agent?
+\begin{choices}
+  \choice N 3 -
+  \choice SO 4 2 -
+  \choice BrO 3 -
+  \choice MnO 4 -
+\end{choices}
+
+\question
+The alkane from below having two secondary hydrogens is :
+\begin{choices}
+  \choice 4-Ethyl-3,4-dimethyloctane
+  \choice 2,2,3,3-Tetramethylpentane
+  \choice 2,2,4,5-Tetramethylheptane
+  \choice 2,2,4,4-Tetramethylhexane
+\end{choices}
+
+\question
+Two nucleotides are joined together by a linkage known as :
+\begin{choices}
+  \choice Phosphodiester linkage
+  \choice Glycosidic linkage
+  \choice Disulphide linkage
+  \choice Peptide linkage
+\end{choices}
+
+\question
+The emf of cell Tl is at . It could be increased by :
+\begin{choices}
+  \choice decreasing concentration of both and ions
+  \choice increasing concentration of ions
+  \choice increasing concentration of ions
+  \choice increasing concentration of both and ions
+\end{choices}
+
+\question
+The four quantum numbers for the electron in the outer most orbital of potassium (atomic no. 19 ) are
+\begin{choices}
+  \choice n = 4, l = 2, m = -1, s = + 1/2
+  \choice n = 4, l = 0, m = 0, s = + 1/2
+  \choice n = 3, l = 0, m = -1, s = + 1/2
+  \choice n = 2, l = 0, m = 0, s = + 1/2
+\end{choices}
+
+\question
+The metals that are employed in the battery industries are A. Fe, B. Mn, C. Ni, D. Cr, E. Cd Choose the correct answer from the options given below:
+\begin{choices}
+  \choice B, C and E only
+  \choice A, B, C, D and E
+  \choice A, B, C and D only
+  \choice B, D and E only
+\end{choices}
+
+\question
+IUPAC name of following hydrocarbon is :
+\begin{choices}
+  \choice 2-Ethyl-3,6-dimethylheptane
+  \choice 2,5,6-Trimethyloctane
+  \choice 3,4,7-Trimethyloctane
+  \choice 2-Ethyl-2,6-diethylheptane
+\end{choices}
+
+\question
+Integrated rate law equation for a first order gas phase reaction is given by (where $P$ $i$ is initial pressure and $P$ t is total pressure at time t )
+\begin{choices}
+  \choice $k$= 2.303 t $\times$ log $P$ $i$ 2$P$ $i$ - $P$ t
+  \choice $k$= 2.303 t $\times$ log 2$P$ $i$ 2$P$ $i$ - $P$ t
+  \choice $k$= 2.303 t $\times$ log 2$P$ $i$ - $P$ t $P$ $i$
+  \choice $k$= 2.303 t $\times$ $P$ $i$ 2$P$ $i$ - $P$ t
+\end{choices}
+
+\question
+Which among the following is incorrect statement?
+\begin{choices}
+  \choice Electromeric effect dominates over inductive effect
+  \choice The electromeric effect is, temporary effect
+  \choice Hydrogen ion shows negative electromeric effect
+  \choice The organic compound shows electromeric effect in the presence of the reagent only.
+\end{choices}
+
+\question
+The atomic mass of 6 C 12 is 12.000000 u and that of 6 C 13 is 13.003354 u . The required energy to remove a neutron from 6 C 13 , if mass of neutron is 1.008665 u , will be:
+\begin{choices}
+  \choice 62.5MeV
+  \choice 6.25MeV
+  \choice 4.95MeV
+  \choice 49.5MeV
+\end{choices}
+
+\question
+Sugar which does not give reddish brown precipitate with Fehling's reagent is:
+\begin{choices}
+  \choice Sucrose
+  \choice Lactose
+  \choice Glucose
+  \choice Maltose
+\end{choices}
+
+\question
+Which of the following statement is not true for radioactive decay?
+\begin{choices}
+  \choice Decay constant increases with increase in temperature.
+  \choice Amount of radioactive substance remained after three half lives is th of original amount.
+  \choice Decay constant does not depend upon temperature.
+  \choice Half life is times of .
+\end{choices}
+
+\question
+Match the LIST-I with LIST-II Choose the correct answer from the options given below:
+\begin{choices}
+  \choice A-II, B-III, C-I, D-IV
+  \choice A-III, B-IV, C-I, D-II
+  \choice A-IV, B-I, C-II, D-III
+  \choice A-II, B-III, C-IV, D-I
+\end{choices}
+
+\question
+IUPAC name of following compound is
+\begin{choices}
+  \choice 2 - Aminopentanenitrile
+  \choice 2 - Aminobutanenitrile
+  \choice 3 - Aminobutanenitrile
+  \choice 3 - Aminopropanenitrile
+\end{choices}
+
+\question
+Given below are two statements: Statement I : Nitration of benzene involves the following step - Statement II : Use of Lewis base promotes the electrophilic substitution of benzene. In the light of the above statements, choose the most appropriate answer from the options given below :
+\begin{choices}
+  \choice Statement I is correct but Statement II is incorrect
+  \choice Statement I is incorrect but Statement II is correct
+  \choice Both Statement I and Statement II are correct
+  \choice Both Statement I and Statement II are incorrect
+\end{choices}
+
+\question
+Given below are two statements: One is labelled as Assertion A and the other is labelled as Reason R. Assertion A : H 2 Te is more acidic than H 2 S . Reason R: Bond dissociation enthalpy of H 2 Te is lower than H 2 S . In the light of the above statements. Choose the most appropriate from the options given below.
+\begin{choices}
+  \choice Both A and R are true but R is NOT the correct explanation of A.
+  \choice Both A and R are true and R is the correct explanation of A.
+  \choice A is false but R is true.
+  \choice A is true but R is false.
+\end{choices}
+
+\question
+Match List - I with List - II. Choose the correct answer from the options given below :
+\begin{choices}
+  \choice (A)-(II), (B)-(III), (C)-(IV), (D)-(I)
+  \choice (A)-(II), (B)-(III), (C)-(I), (D)-(IV)
+  \choice (A)-(III), (B)-(II), (C)-(I), (D)-(IV)
+  \choice (A)-(III), (B)-(II), (C)-(IV), (D)-(I)
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{50}
+\question
+A solution containing of an electrolyte in of water boils at . The degree of ionization of the electrolyte is \_\_\_\_\_\_\_ . (nearest integer) [Given : Molar mass of (molal boiling point elevation const. of water) , boiling point of water ionises as
+
+\question
+Phthalimide is made to undergo following sequence of reactions. Total number of bonds present in product 'P' is/are \_\_\_\_\_\_
+
+\question
+Cyclohexene is \_\_\_\_\_\_\_\_\_ type of an organic compound.
+
+\question
+Number of moles of H + ions required by 1 mole of MnO 4 - to oxidise oxalate ion to CO 2 is \_\_\_\_\_\_.
+
+\question
+Number of metal ions characterized by flame test among the following is \_\_\_\_\_\_\_\_\_. Sr 2 + , Ba 2 + , Ca 2 + , Cu 2 + , Zn 2 + , Co 2 + , Fe 2 +
+
+\question
+The following data were obtained during the first order thermal decomposition of a gas A at constant volume: Ag $\rightarrow$2 Bg + Cg S. No Time/s Total pressure/(atm) 1.0 0.1 2.115 0.28 The rate constant of the reaction is _______ $\times$ $10^{-2}$ s^-1 (nearest integer)
+
+\question
+The maximum number of orbitals which can be identified with and is \_\_\_\_\_\_
+
+\question
+In the given TLC, the distance of spot A \& B are , from the bottom of TLC plate, respectively. value of is times more than . The value of is \_\_\_\_\_\_.
+
+\question
+Molality of solution (density ) is \_\_\_\_\_\_\_ . Round off your answer to the nearest integer.
+
+\question
+thick coating of silver is deposited on a plate of area. The number of silver atoms deposited on plate are \_\_\_\_\_\_\_ . (At mass Ag Round off to the nearest integer.
+
+\end{questions}
+
+
+\sectiontitle{Mathematics}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{60}
+\question
+For $\alpha$, $\beta$, $\gamma$$\neq$0 . If sin(-1) $\alpha$+ sin(-1) $\beta$+ sin(-1) $\gamma$= $\pi$ and $\alpha$+ $\beta$+ $\gamma$$\alpha$-$\gamma$+ $\beta$= 3$\alpha$$\beta$ , then $\gamma$ equal to
+\begin{choices}
+  \choice $\sqrt{}$3/2
+  \choice 1 $\sqrt{}$ 2
+  \choice $\sqrt{}$3 - 1 2$\sqrt{}$2
+  \choice $\sqrt{}$3
+\end{choices}
+
+\question
+Let a line pass through two distinct points and , and be parallel to the vector . If the distance of the point Q from the point is 5 , then the square of the area of is equal to :
+\begin{choices}
+  \choice 148
+  \choice 136
+  \choice 144
+  \choice 140
+\end{choices}
+
+\question
+If $a$= sin(-1) sin5 and $b$= cos^-1 cos5 , then $a$ 2 + $b$ 2 is equal to
+\begin{choices}
+  \choice 4$\pi$ 2 + 25
+  \choice 8$\pi$ 2 -40$\pi$+ 50
+  \choice 4$\pi$ 2 -20$\pi$+ 50
+  \choice 25
+\end{choices}
+
+\question
+Let . The number of points of local maxima of in interval is
+\begin{choices}
+  \choice 3
+  \choice 4
+  \choice 1
+  \choice 2
+\end{choices}
+
+\question
+For , the least value of , for which are three consecutive terms of an A.P., is equal to :
+\begin{choices}
+  \choice 8
+  \choice 4
+  \choice 10
+  \choice 16
+\end{choices}
+
+\question
+A variable line passes through the point and intersects the positive coordinate axes at the points and . The minimum area of the triangle , where is the origin, is :
+\begin{choices}
+  \choice 30
+  \choice 25
+  \choice 40
+  \choice 35
+\end{choices}
+
+\question
+If the line segment joining the points and subtends an angle at the origin, then the absolute value of the product of all possible values of is :
+\begin{choices}
+  \choice 6
+  \choice 8
+  \choice 2
+  \choice -4
+\end{choices}
+
+\question
+If , then equals
+\begin{choices}
+  \choice 64
+  \choice 196
+  \choice 144
+  \choice 100
+\end{choices}
+
+\question
+Let be the term of an A.P. If for some , and , then is equal to
+\begin{choices}
+  \choice 98
+  \choice 126
+  \choice 142
+  \choice 112
+\end{choices}
+
+\question
+Let , where is the constant of integration. Then is equal to :
+\begin{choices}
+  \choice 7
+  \choice 4
+  \choice 1
+  \choice 3
+\end{choices}
+
+\question
+Let and be a matrix such that . If and , then is equal to
+\begin{choices}
+  \choice 16
+  \choice 2
+  \choice 8
+  \choice 10
+\end{choices}
+
+\question
+If , then is equal to :
+\begin{choices}
+  \choice 4
+  \choice 1
+  \choice 3
+  \choice 2
+\end{choices}
+
+\question
+Let and . If is the unit vector in the direction of such that , then is equal to
+\begin{choices}
+  \choice 11
+  \choice 3
+  \choice 9
+  \choice 6
+\end{choices}
+
+\question
+If and , then is equal to:
+\begin{choices}
+  \choice 3
+  \choice 0
+  \choice 1
+  \choice 2
+\end{choices}
+
+\question
+Let e 1 be the eccentricity of the hyperbola x 2 16 - y 2 9 = 1 and e 2 be the eccentricity of the ellipse x 2 a 2 + y 2 b 2 = 1, a > b , which passes through the foci of the hyperbola. If e 1 e 2 = 1 , then the length of the chord of the ellipse parallel to the x -axis and passing through ( 0, 2 ) is :
+\begin{choices}
+  \choice 4$\sqrt{}$5
+  \choice 8$\sqrt{}$5/3
+  \choice 10$\sqrt{}$5/3
+  \choice 3$\sqrt{}$5
+\end{choices}
+
+\question
+Let $\alpha$ and $\beta$ be the roots of the equation $p$$x$ 2 + $q$$x$-$r$= 0 , where $p$$\neq$0 . If $p$, $q$ and $r$ be the consecutive terms of a non-constant G.P and 1 $\alpha$ + 1 $\beta$ = 3/4 , then the value of $\alpha$-$\beta$ 2 is:
+\begin{choices}
+  \choice 80/9
+  \choice 9
+  \choice 20/3
+  \choice 8
+\end{choices}
+
+\question
+The least value of n for which the number of integral terms in the Binomial expansion of is 183, is :
+\begin{choices}
+  \choice 2184
+  \choice 2196
+  \choice 2148
+  \choice 2172 2025 (29 Jan Shift 1)
+\end{choices}
+
+\question
+If the set has elements and , where , then the value of is
+\begin{choices}
+  \choice 12
+  \choice 4
+  \choice 8
+  \choice 5
+\end{choices}
+
+\question
+Let for some function and . Then is equal to
+\begin{choices}
+  \choice 1
+  \choice 3
+  \choice 6
+  \choice 2
+\end{choices}
+
+\question
+Let be such that and . Then is equal to:
+\begin{choices}
+  \choice 73
+  \choice 62
+  \choice 51
+  \choice 54
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{80}
+\question
+Let the first term of a series be and its term , . If the sum of the first terms of this series is , then is equal to\_\_\_\_\_\_
+
+\question
+Let be an Arithmetic Progression such that . Then is equal to \_\_\_\_\_\_\_
+
+\question
+Let denote the largest integer less than or equal to . If , where , then is equal to\_\_\_\_\_\_\_
+
+\question
+If and are the roots of the quadratic equation , then is equal to\_\_\_\_\_\_\_\_\_\_
+
+\question
+Let be a differentiable function such that . Then is equal to \_\_\_\_\_\_.
+
+\question
+If the sum of squares of all real values of $\alpha$ , for which the lines 2 x - y + 3 = 0, 6 x + 3 y + 1 = 0 and $\alpha$x + 2 y - 2 = 0 do not form a triangle is p , then the greatest integer less than or equal to p is ________.
+
+\question
+For , if , then is equal to\_\_\_\_\_
+
+\question
+If , and , where , then equal to \_\_\_\_\_\_
+
+\question
+Consider the circle and the parabola . If the set of all values of , for which three chords of the circle on three distinct lines passing through the point are bisected by the parabola is the interval , then is equal to \_\_\_\_\_\_\_\_
+
+\question
+If , where denotes the greatest integer function, then is equal to \_\_\_\_\_\_\_.
+
+\end{questions}
+
+
+\newpage
+\sectiontitle{Answer Key}
+
+
+\textbf{Physics}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q1 & Q2 & Q3 & Q4 & Q5 & Q6 & Q7 & Q8 & Q9 & Q10 \\\hline
+(3) & (2) & (4) & (4) & (3) & (1) & (4) & (4) & (2) & (3) \\\hline
+Q11 & Q12 & Q13 & Q14 & Q15 & Q16 & Q17 & Q18 & Q19 & Q20 \\\hline
+(1) & (4) & (2) & (1) & (1) & (1) & (4) & (3) & (4) & (2) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q21 & Q22 & Q23 & Q24 & Q25 & Q26 & Q27 & Q28 & Q29 & Q30 \\\hline
+8 & 8 & 1 & 45 & 7 & 2 & 12 & 35 & 60 & 5 \\\hline
+\end{tabular}\\[1em]
+
+
+\textbf{Chemistry}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q31 & Q32 & Q33 & Q34 & Q35 & Q36 & Q37 & Q38 & Q39 & Q40 \\\hline
+(3) & (3) & (2) & (1) & (2) & (1) & (2) & (2) & (1) & (2) \\\hline
+Q41 & Q42 & Q43 & Q44 & Q45 & Q46 & Q47 & Q48 & Q49 & Q50 \\\hline
+(1) & (3) & (3) & (1) & (1) & (4) & (3) & (1) & (2) & (1) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q51 & Q52 & Q53 & Q54 & Q55 & Q56 & Q57 & Q58 & Q59 & Q60 \\\hline
+5 & 8 & 4 & 8 & 4 & 2 & 4 & 15 & 815 & 11 \\\hline
+\end{tabular}\\[1em]
+
+
+\textbf{Mathematics}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q61 & Q62 & Q63 & Q64 & Q65 & Q66 & Q67 & Q68 & Q69 & Q70 \\\hline
+(1) & (2) & (2) & (4) & (3) & (1) & (4) & (4) & (2) & (2) \\\hline
+Q71 & Q72 & Q73 & Q74 & Q75 & Q76 & Q77 & Q78 & Q79 & Q80 \\\hline
+(4) & (4) & (1) & (2) & (3) & (1) & (1) & (1) & (1) & (3) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q81 & Q82 & Q83 & Q84 & Q85 & Q86 & Q87 & Q88 & Q89 & Q90 \\\hline
+6 & 11132 & 23 & 6 & 19 & 32 & 47 & 3660 & 80 & 12 \\\hline
+\end{tabular}\\[1em]
+
+
+\end{document}

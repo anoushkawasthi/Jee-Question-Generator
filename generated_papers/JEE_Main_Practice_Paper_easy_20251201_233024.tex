@@ -1,0 +1,840 @@
+\documentclass[12pt,a4paper]{exam}
+
+% Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{enumitem}
+\usepackage{multicol}
+\usepackage{newunicodechar}
+
+% Unicode math character mappings
+\newunicodechar{𝜀}{$\varepsilon$}
+\newunicodechar{𝑃}{$P$}
+\newunicodechar{𝑉}{$V$}
+\newunicodechar{𝐾}{$K$}
+\newunicodechar{𝐴}{$A$}
+\newunicodechar{𝐵}{$B$}
+\newunicodechar{𝐶}{$C$}
+\newunicodechar{𝐷}{$D$}
+\newunicodechar{𝐸}{$E$}
+\newunicodechar{𝑇}{$T$}
+\newunicodechar{𝑅}{$R$}
+\newunicodechar{𝐼}{$I$}
+\newunicodechar{𝑁}{$N$}
+\newunicodechar{𝑀}{$M$}
+\newunicodechar{𝐿}{$L$}
+\newunicodechar{𝑎}{$a$}
+\newunicodechar{𝑏}{$b$}
+\newunicodechar{𝑐}{$c$}
+\newunicodechar{𝑑}{$d$}
+\newunicodechar{𝑒}{$e$}
+\newunicodechar{𝑓}{$f$}
+\newunicodechar{𝑔}{$g$}
+\newunicodechar{𝑛}{$n$}
+\newunicodechar{𝑚}{$m$}
+\newunicodechar{𝑟}{$r$}
+\newunicodechar{𝑠}{$s$}
+\newunicodechar{𝑡}{$t$}
+\newunicodechar{𝑥}{$x$}
+\newunicodechar{𝑦}{$y$}
+\newunicodechar{𝑧}{$z$}
+\newunicodechar{α}{$\alpha$}
+\newunicodechar{β}{$\beta$}
+\newunicodechar{γ}{$\gamma$}
+\newunicodechar{δ}{$\delta$}
+\newunicodechar{ε}{$\varepsilon$}
+\newunicodechar{θ}{$\theta$}
+\newunicodechar{λ}{$\lambda$}
+\newunicodechar{μ}{$\mu$}
+\newunicodechar{π}{$\pi$}
+\newunicodechar{ρ}{$\rho$}
+\newunicodechar{σ}{$\sigma$}
+\newunicodechar{τ}{$\tau$}
+\newunicodechar{φ}{$\varphi$}
+\newunicodechar{ω}{$\omega$}
+\newunicodechar{Ω}{$\Omega$}
+\newunicodechar{°}{$^\circ$}
+\newunicodechar{±}{$\pm$}
+\newunicodechar{×}{$\times$}
+\newunicodechar{÷}{$\div$}
+\newunicodechar{√}{$\sqrt{}$}
+\newunicodechar{∞}{$\infty$}
+\newunicodechar{≠}{$\neq$}
+\newunicodechar{≤}{$\leq$}
+\newunicodechar{≥}{$\geq$}
+\newunicodechar{→}{$\rightarrow$}
+\newunicodechar{←}{$\leftarrow$}
+\newunicodechar{↔}{$\leftrightarrow$}
+
+% Page geometry
+\geometry{
+    top=1.5cm,
+    bottom=2cm,
+    left=2cm,
+    right=2cm,
+    headheight=1.5cm
+}
+
+% Colors
+\definecolor{headerblue}{RGB}{0, 51, 102}
+\definecolor{sectiongreen}{RGB}{0, 102, 51}
+
+% Header/Footer using exam class commands
+\pagestyle{headandfoot}
+\firstpageheader{}{}{}
+\runningheader{\textsc{JEE Main Practice Paper}}{}{\textsc{Page \thepage}}
+\runningfooter{}{Generated: December 01, 2025}{}
+
+% Custom commands
+\newcommand{\sectiontitle}[1]{%
+    \vspace{1em}
+    \noindent\colorbox{headerblue}{\parbox{\dimexpr\textwidth-2\fboxsep}{%
+        \centering\color{white}\Large\bfseries #1
+    }}
+    \vspace{0.5em}
+}
+
+% Question format
+\renewcommand{\questionlabel}{\textbf{Q\thequestion.}}
+\renewcommand{\choicelabel}{(\thechoice)}
+
+% Hide answers in questions (they go in answer key)
+\noprintanswers
+
+\begin{document}
+
+% Title Page
+\begin{center}
+    {\Huge\bfseries\color{headerblue} JEE Main Practice Paper}\\[0.5em]
+    {\large Based on JEE Main Pattern}\\[1em]
+    {\normalsize Generated: December 01, 2025 | Difficulty: Easy}\\[0.5em]
+    \rule{\textwidth}{1pt}
+\end{center}
+
+\vspace{0.5em}
+\noindent\textbf{Instructions:}
+\begin{itemize}[nosep,leftmargin=*]
+    \item This paper contains 90 questions (30 per subject).
+    \item Each subject has 20 MCQs and 10 Integer Type questions.
+    \item MCQ: +4 for correct, -1 for incorrect.
+    \item Integer: +4 for correct, 0 for incorrect.
+    \item Time: 3 hours | Maximum Marks: 360
+\end{itemize}
+\rule{\textwidth}{0.5pt}
+
+
+\sectiontitle{Physics}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{0}
+\question
+As the temperature increases, the Young's modulus of elasticity
+\begin{choices}
+  \choice changes erratically
+  \choice decreases
+  \choice increases
+  \choice remains unchanged
+\end{choices}
+
+\question
+If mass is written as $m$= $k$$c$ $P$ $G$ -1 / 2 ℎ 1 / 2 , then the value of $P$ will be : (Constants have their usual meaning with $k$ a dimensionless constant)
+\begin{choices}
+  \choice 1/2
+  \choice 1/3
+  \choice 2
+  \choice - 1/3
+\end{choices}
+
+\question
+A block of mass $m$ is placed on a surface having vertical cross section given by $y$= $x$ 2 4 . If coefficient of friction is 0.5 , the maximum height above the ground at which block can be placed without slipping is:
+\begin{choices}
+  \choice 1/4 m
+  \choice 1/2 m
+  \choice 1/6 m
+  \choice 1/3 m
+\end{choices}
+
+\question
+Conductivity of a photodiode starts changing only if the wavelength of incident light is less than 550 nm. The band gap of photodiode is found to be X 7 eV. The value of X is: (Given h = 6.6 \times 10^{-34} J s, e = 1.6 \times 10^{-19} C )
+\begin{choices}
+  \choice 14
+  \choice 10
+  \choice 12
+  \choice 20
+\end{choices}
+
+\question
+The dimensional formula of angular impulse is :
+\begin{choices}
+  \choice [M L - 2 T - 1 ]
+  \choice [M L 2 T - 2 ]
+  \choice [M L T - 1 ]
+  \choice [M L 2 T - 1 ]
+\end{choices}
+
+\question
+Below are two assertions: Assertion (I): The maximum force of static friction is influenced by the contact area and is not dependent on the materials involved. Assertion (II): The maximum force of kinetic friction does not rely on the contact area and is dependent on the materials. Based on the above assertions, select the most suitable response from the options provided below:
+\begin{choices}
+  \choice Statement I is correct but Statement II is incorrect
+  \choice Statement I is incorrect but Statement II is correct
+  \choice Both Statement I and Statement II are incorrect
+  \choice Both Statement I and Statement II are correct
+\end{choices}
+
+\question
+If a polaroid sheet is turned between two crossed polaroids, the intensity of the transmitted light will reach its peak for a rotation of:
+\begin{choices}
+  \choice 60^{\circ}
+  \choice 30^{\circ}
+  \choice 90^{\circ}
+  \choice 45^{\circ}
+\end{choices}
+
+\question
+The following two statements are provided: Statement-I: The equivalent electromotive force (emf) of two nonideal batteries arranged in parallel is less than either of their individual emfs. Statement-II: The equivalent internal resistance of two nonideal batteries connected in parallel is less than the internal resistance of either battery. Based on the above statements, select the correct answer from the options listed below.
+\begin{choices}
+  \choice Both Statement-I and Statement-II are false
+  \choice Statement-I is false but Statement-II is true
+  \choice Both Statement-I and Statement-II are true
+  \choice Statement-I is true but Statement-II is false
+\end{choices}
+
+\question
+A beam of unpolarised light with an intensity of $I_{0}$ passes through a polaroid $A$ and subsequently through another polaroid $B$, which is positioned such that its principal plane forms an angle of $45^{\circ}$ with respect to that of $A$. What is the intensity of the light that emerges?
+\begin{choices}
+  \choice $I_{0} \, 4$
+  \choice $I_{0}$
+  \choice $I_{0} \, 2$
+  \choice $I_{0} \, 8$
+\end{choices}
+
+\question
+A coil is placed perpendicular to a magnetic field of 6000 T. When the field is changed to 4000 T in 3 s, an induced emf of 30 V is produced in the coil. If the diameter of the coil is 0.03 m, then the number of turns in the coil is:
+\begin{choices}
+  \choice 15
+  \choice 60
+  \choice 45
+  \choice 75
+\end{choices}
+
+\question
+Two identical capacitors have same capacitance $C$ . One of them is charged to the potential $V$ and other to the potential 2$V$ . The negative ends of both are connected together. When the positive ends are also joined together, the decrease in energy of the combined system is :
+\begin{choices}
+  \choice 1 4 $C$$V$ 2
+  \choice 2$C$$V$ 2
+  \choice 1 2 $C$$V$ 2
+  \choice 3 4 $C$$V$ 2
+\end{choices}
+
+\question
+The quantity of spectral lines produced by atomic hydrogen when it occupies the energy level is
+\begin{choices}
+  \choice 3
+  \choice 1
+  \choice 6
+  \choice 0
+\end{choices}
+
+\question
+A current of 150 \mu A deflects the coil of a moving coil galvanometer through 45^{\circ} . The current to cause deflection through $\frac{\pi}{6}$ radian is
+\begin{choices}
+  \choice 25 \mu A
+  \choice 75 \mu A
+  \choice 50 \mu A
+  \choice 100 \mu A
+\end{choices}
+
+\question
+The refractive index of a prism with an apex angle $A$ is $\cot \frac{A}{2}$. What is the angle of minimum deviation?
+\begin{choices}
+  \choice $\delta_{m} = 180^{\circ} - A$
+  \choice $\delta_{m} = 180^{\circ} - 3A$
+  \choice $\delta_{m} = 180^{\circ} - 4A$
+  \choice $\delta_{m} = 180^{\circ} - 2A$
+\end{choices}
+
+\question
+A massless spring gets elongated by amount under a tension of 6 N. Its elongation is under the tension of 8 N. For the elongation of $x$, the tension in the spring will be,
+\begin{choices}
+  \choice 40 N
+  \choice 16 N
+  \choice 12 N
+  \choice 22 N
+\end{choices}
+
+\question
+A thin plano convex lens made of glass of refractive index 1.6 is immersed in a liquid of refractive index 1.3. When the plane side of the lens is silver coated for complete reflection, the lens immersed in the liquid.
+\begin{choices}
+  \choice 0.18 m
+  \choice 0.22 m
+  \choice 0.14 m
+  \choice 0.12 m
+\end{choices}
+
+\question
+In a study involving the photoelectric effect, the potential required to stop the emitted electrons, 
+\begin{choices}
+  \choice increases with increase in the intensity of the incident light
+  \choice decreases with increase in the intensity of the incident light
+  \choice increases with increase in the wavelength of the incident light
+  \choice is times the maximum kinetic energy of the emitted photoelectrons
+\end{choices}
+
+\question
+When light exits a convex lens due to a light source placed at its focus, what is the shape of the wavefront of the light?
+\begin{choices}
+  \choice both spherical and cylindrical
+  \choice plane
+  \choice spherical
+  \choice cylindrical
+\end{choices}
+
+\question
+The mass number of nucleus having radius equal to half of the radius of nucleus with mass number 256 is:
+\begin{choices}
+  \choice 32
+  \choice 64
+  \choice 80
+  \choice 48
+\end{choices}
+
+\question
+The accurate form of Bernoulli's equation is (where symbols retain their standard definitions):
+\begin{choices}
+  \choice constant
+  \choice constant
+  \choice constant
+  \choice constant
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{20}
+\question
+A particle is doing simple harmonic motion of amplitude $A = 6$ m and time period $T = 4$ s. The maximum velocity of the particle is _______.
+
+\question
+Two forces $F_{1}$ and $F_{2}$ are acting on a body. One force has magnitude thrice that of the other force, such that $F_{2} = 3F_{1}$. The resultant of the two forces is equal to the force of larger magnitude $F_{2}$. The angle between $F_{1}$ and $F_{2}$ is $\theta$. The value of $\theta$ is _____ degrees.
+
+\question
+A capacitor of capacitance $C_{1}$ and potential $V_{1}$ has energy $U_{1} = \frac{1}{2} C_{1} V_{1}^{2}$. It is connected to another capacitor of capacitance $C_{2}$ and potential $V_{2}$, which is initially uncharged. Then the loss of energy is $U_{loss} = \frac{1}{2} C_{1} V_{1}^{2} - \frac{1}{2} (C_{1} + C_{2}) V_{final}^{2}$, where $V_{final} = \frac{C_{1} V_{1}}{C_{1} + C_{2}}$.
+
+\question
+An electric field $\vec{E}$ passes through a surface of area $A$ with a unit vector $\hat{n}$. The electric flux $\Phi_E$ for that surface is given by the equation $\Phi_E = \vec{E} \cdot \hat{n} \cdot A$. If the magnitude of the electric field is $E = 12 \, \text{N/C}$ and the area is $A = 1 \, \text{m}^{2}$, what is the electric flux for that surface?
+
+\question
+A force displaces a body from position $A$ to position $B$. The work done by this force is calculated using the formula $W = F \cdot d \cdot \cos\theta$, where $F$ is the magnitude of the force, $d$ is the displacement, and $\theta$ is the angle between the force and the displacement direction. If the force applied is $10 \, \text{N}$, the displacement is $6 \, \text{m}$, and the angle $\theta$ is $0^{\circ}$, the work done by this force is ________.
+
+\question
+The displacement and the increase in the velocity of a moving particle in the time interval of $t_{0}$ to $t_{1}$ are $s$ and $v_{increase}$, respectively. The distance travelled by the particle in the time interval $t_{0}$ to $t_{1}$ is ___________.
+
+\question
+A square loop of sides is held normally in front of a point charge . The flux of the electric field through the shaded region is , where the value of p is \_\_\_\_\_.
+
+\question
+At room temperature, the resistance of a heating element is $R_{0} = 10 \, \Omega$. The temperature coefficient of the material is $\alpha = 0.004 \, \text{$^{\\circ}$C}^{-1}$. The temperature of the element, when its resistance is $R = 20 \, \Omega$, is _____ .
+
+\question
+The electric field between the two parallel plates of a capacitor of capacitance $C$ drops to one third of its initial value when the plates are connected by a thin wire. The resistance of this wire is calculated using the formula $R = \frac{V}{I}$, where $V$ is the voltage across the capacitor and $I$ is the current flowing through the wire. If the initial electric field is $E_{0}$ and the voltage is given by $V = E_{0}d$, where $d$ is the separation between the plates, the resistance of this wire is _____ . (Given, the initial electric field $E_{0}$ and the distance $d$ are known.)
+
+\question
+An alternating current at any instant is given by $I(t) = I_{max} \sin(\omega t + \phi)$, where $I_{max} = 10 \, A$, $\omega = 2\pi \, \text{rad/s}$, and $\phi = 0$. The value of the current is ________ A.
+
+\end{questions}
+
+
+\sectiontitle{Chemistry}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{30}
+\question
+The element that does not exhibit a variable oxidation state is:
+\begin{choices}
+  \choice Bromine
+  \choice Iodine
+  \choice Chlorine
+  \choice Fluorine
+\end{choices}
+
+\question
+How many radial nodes are present in the 3 p orbital?
+\begin{choices}
+  \choice 1
+  \choice 4
+  \choice 2
+  \choice 3
+\end{choices}
+
+\question
+Below are two assertions: Assertion I: $S_{8}$ solid undergoes a disproportionation reaction in alkaline conditions, resulting in the formation of $S^{2-}$ and $S_{2}O_{3}^{2-}$. Assertion II: $ClO_{4}^{-}$ can participate in a disproportionation reaction in acidic conditions. Based on the aforementioned assertions, select the most suitable response from the options listed below:
+\begin{choices}
+  \choice Statement I is correct but statement II is incorrect.
+  \choice Statement I is incorrect but statement II is correct
+  \choice Both statement I and statement II are incorrect
+  \choice Both statement I and statement II are correct
+\end{choices}
+
+\question
+Below are two statements: Statement I: The metallic radius of an element is $r_{metal}$ and the ionic radius of the same element is lesser than $r_{metal}$. Statement II: Ions are consistently smaller in size compared to their corresponding elements. Based on the above statements, select the correct answer from the options provided below:
+\begin{choices}
+  \choice Both Statement I and Statement II are false
+  \choice Statement I is incorrect but Statement II is true
+  \choice Both Statement I and Statement II are true
+  \choice Statement I is correct but Statement II is false
+\end{choices}
+
+\question
+What is the molarity of a solution of NaCl dissolved in water? (Given: Molar Mass and )
+\begin{choices}
+  \choice 2
+  \choice 20
+  \choice 4
+  \choice 0.2
+\end{choices}
+
+\question
+Associate List - I with List - II. Select the appropriate answer from the options provided below:
+\begin{choices}
+  \choice (A)-(I), (B)-(IV), (C)-(III), (D)-(II)
+  \choice (A)-(I), (B)-(II), (C)-(III), (D)-(IV)
+  \choice (A)-(III), (B)-(IV), (C)-(I), (D)-(II)
+  \choice (A)-(III), (B)-(II), (C)-(I), (D)-(IV)
+\end{choices}
+
+\question
+The substances A and B produced in the subsequent reactions are: CrO_{2}Cl_{2} + 4NaOH \rightarrow A + 2NaCl + 2H_{2}O \ A + 2HCl + 2H_{2}O_{2} \rightarrow B + 3H_{2}O
+\begin{choices}
+  \choice A = Na\_\{2\}CrO\_\{4\}, B = CrO\_\{5\}
+  \choice A = Na\_\{2\}Cr\_\{2\}O\_\{4\}, B = CrO\_\{4\}
+  \choice A = Na\_\{2\}Cr\_\{2\}O\_\{7\}, B = CrO\_\{3\}
+  \choice A = Na\_\{2\}Cr\_\{2\}O\_\{7\}, B = CrO\_\{5\}
+\end{choices}
+
+\question
+Determine the quantity of complexes from the following that possess an even count of unpaired electrons is [Given atomic numbers : ]
+\begin{choices}
+  \choice 2
+  \choice 1
+  \choice 4
+  \choice 5
+\end{choices}
+
+\question
+Which of the following statements is accurate? A. Glycerol is purified through vacuum distillation due to its decomposition at the standard boiling point. B. Aniline can be purified via steam distillation since it is miscible in water. C. Ethanol can be extracted from an ethanol-water mixture by azeotropic distillation because it forms an azeotrope. D. An organic compound is considered pure if the mixed melting point remains constant. Select the most suitable answer from the options provided below:
+\begin{choices}
+  \choice A, B, C only
+  \choice A, C, D only
+  \choice A, B, D only
+  \choice B, C, D only
+\end{choices}
+
+\question
+Determine the accurate conversions that occur during acidic hydrolysis from the following options: (A) starch produces galactose. (B) cane sugar yields equal amounts of glucose and fructose. (C) milk sugar results in glucose and galactose. (D) amylopectin 2025 (28 Jan Shift 2)
+\begin{choices}
+  \choice (A), (B) and (C) only
+  \choice (B), (C) and (E) only
+  \choice (C), (D) and (E) only
+  \choice (B), (C) and (D) only
+\end{choices}
+
+\question
+What are the four quantum numbers for the electron located in the outermost orbital of potassium (atomic number 19)?
+\begin{choices}
+  \choice n = 4, l = 2, m = -1, s = + $\frac{1}{2}$
+  \choice n = 4, l = 0, m = 0, s = + $\frac{1}{2}$
+  \choice n = 3, l = 0, m = -1, s = + $\frac{1}{2}$
+  \choice n = 2, l = 0, m = 0, s = + $\frac{1}{2}$
+\end{choices}
+
+\question
+Which of the following acids is classified as a vitamin?
+\begin{choices}
+  \choice Adipic acid
+  \choice Ascorbic acid
+  \choice Saccharic acid
+  \choice Aspartic acid
+\end{choices}
+
+\question
+Below are two statements: one is designated as Assertion A and the other as Reason R. Assertion A: $H_{2}Te$ is more acidic than $H_{2}S$. Reason R: The bond dissociation enthalpy of $H_{2}Te$ is lower than that of $H_{2}S$. Considering the statements above, select the most suitable option from those provided below.
+\begin{choices}
+  \choice Both A and R are true but R is NOT the correct explanation of A.
+  \choice Both A and R are true and R is the correct explanation of A.
+  \choice A is false but R is true.
+  \choice A is true but R is false.
+\end{choices}
+
+\question
+When Lead Sulphide reacts with dilute nitric acid, which of the following products is not generated?
+\begin{choices}
+  \choice Nitric oxide
+  \choice Nitrous oxide
+  \choice Lead nitrate
+  \choice Sulphur
+\end{choices}
+
+\question
+Below are two assertions regarding the X-ray spectra of elements: Assertion (I): A graph of (frequency of X-rays emitted) versus atomic mass forms a straight line. Assertion (II): A graph of (frequency of X-rays emitted) versus atomic number also forms a straight line. Based on these assertions, select the accurate answer from the options provided below:
+\begin{choices}
+  \choice Both Statement I and Statement II are true
+  \choice Statement I is false but Statement II is true
+  \choice Both Statement I and Statement II are false
+  \choice Statement I is true but Statement II is false
+\end{choices}
+
+\question
+The substances A and B produced in the reactions below are: CrO_{2}Cl_{2} + 4NaOH \rightarrow A + 2NaCl + 2H_{2}O \ A + 2HCl + 2H_{2}O_{2} \rightarrow B + 3H_{2}O
+\begin{choices}
+  \choice A = Na\_\{2\}CrO\_\{4\}, B = CrO\_\{5\}
+  \choice A = Na\_\{2\}Cr\_\{2\}O\_\{4\}, B = CrO\_\{4\}
+  \choice A = Na\_\{2\}Cr\_\{2\}O\_\{7\}, B = CrO\_\{3\}
+  \choice A = Na\_\{2\}Cr\_\{2\}O\_\{7\}, B = CrO\_\{5\}
+\end{choices}
+
+\question
+The widely recognized name for Benzene - 1, 2 - diol is -
+\begin{choices}
+  \choice catechol
+  \choice o-cresol
+  \choice quinol
+  \choice resorcinol
+\end{choices}
+
+\question
+A connection between two nucleotides is referred to as:
+\begin{choices}
+  \choice Phosphodiester linkage
+  \choice Glycosidic linkage
+  \choice Disulphide linkage
+  \choice Peptide linkage
+\end{choices}
+
+\question
+Which functional group exhibits a negative resonance effect?
+\begin{choices}
+  \choice -NH\_\{2\}
+  \choice -OH
+  \choice -COOH
+  \choice -OR
+\end{choices}
+
+\question
+During the process of creating Mohr's salt crystals, dil is incorporated into a blend of ferrous sulphate and ammonium sulphate prior to dissolving this combination in water. The purpose of adding dil here is to:
+\begin{choices}
+  \choice prevent the hydrolysis of ferrous sulphate
+  \choice prevent the hydrolysis of ammonium sulphate
+  \choice make the medium strongly acidic
+  \choice increase the rate of formation of crystals
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{50}
+\question
+A compound 'X' absorbs 2 moles of hydrogen and 'Y' upon oxidation with oxygen gives the compound 'Z'. The total number of bonds present in the compound 'X' is\_\_\_\_\_\_
+
+\question
+The number of tripeptides formed by three different amino acids using each amino acid once is \_\_\_\_\_\_\_.
+
+\question
+Among the species $\text{Fe}^{2+}$ and $\text{Fe}^{3+}$, the spin-only magnetic moment value of the species with least oxidising ability is ______ BM (Nearest integer). (Given atomic member is Iron)
+
+\question
+The number of oxygen atoms present in the chemical formula of fuming sulphuric acid, which is represented as H\_\{2\}S\{O\}\_\{7\}, is \_\_\_\_\_\_.
+
+\question
+Quantitative analysis of an organic compound (X) shows the following \% composition: C: 64.46\%, H: 1.8\%, and Cl: 33.74\%. Calculate the empirical formula mass of the compound. Given that the molar mass of the compound is 1655 g/mol, what is the empirical formula mass of the compound?
+
+\question
+The total number of species from the following list in which one unpaired electron is present, is _______. Consider the following species: A) $O_{2}$ B) $N_{2}$ C) $Cl$ D) $H_{2}$ E) $F_{2}$
+
+\question
+The number of ions from the following that have the ability to liberate hydrogen from a dilute acid is \_\_\_\_\_.
+
+\question
+Number of carbocations from the following structures that are not stabilized by hyperconjugation is \_\_\_\_\_\_\_. Consider the structures: (1) a primary carbocation, (2) a secondary carbocation, (3) a tertiary carbocation, (4) a vinyl carbocation, (5) a benzyl carbocation.
+
+\end{questions}
+
+
+\sectiontitle{Mathematics}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{58}
+\question
+If the domain of the function is , then is equal to :
+\begin{choices}
+  \choice 32
+  \choice 40
+  \choice 24
+  \choice 36
+\end{choices}
+
+\question
+If $x + 2 = 4$, then what is $x$ equal to?
+\begin{choices}
+  \choice 4
+  \choice 1
+  \choice 3
+  \choice 2
+\end{choices}
+
+\question
+If the function $f(x)$ is continuous at $x = 4$, then the value of $f(4)$ is equal to
+\begin{choices}
+  \choice 968
+  \choice 1152
+  \choice 746
+  \choice 1250
+\end{choices}
+
+\question
+Examine the two statements below: Statement I: For any two non-zero complex numbers, Statement II: If there are three distinct complex numbers and three positive real numbers such that, then between the two statements mentioned above,
+\begin{choices}
+  \choice Statement I is correct but Statement II is incorrect.
+  \choice both Statement I and Statement II are correct.
+  \choice both Statement I and Statement II are incorrect.
+  \choice Statement I is incorrect but Statement II is correct.
+\end{choices}
+
+\question
+If the set has elements $A = \{2, 4, 6, 8, 10\}$ and $B = \{1, 2, 3, 4, 5\}$, where the union of sets $A$ and $B$ is denoted as $A \cup B$, then the value of $|A \cup B|$ is
+\begin{choices}
+  \choice 12
+  \choice 4
+  \choice 8
+  \choice 5
+\end{choices}
+
+\question
+Let be the image of the point in the line . Then is equal to :
+\begin{choices}
+  \choice 18
+  \choice 22
+  \choice 16
+  \choice 20
+\end{choices}
+
+\question
+Let P be the set of seven digit numbers with sum of their digits equal to 12. If the numbers in P are formed by using the digits 1, 2 and 3 only, then the number of elements in the set is:
+\begin{choices}
+  \choice 194
+  \choice 185
+  \choice 178
+  \choice 180
+\end{choices}
+
+\question
+If the line segment joining the points $(2, 3)$ and $(4, 7)$ subtends an angle $\theta$ at the origin, then the absolute value of the product of all possible values of $\tan\theta$ is:
+\begin{choices}
+  \choice 6
+  \choice 8
+  \choice 2
+  \choice -4
+\end{choices}
+
+\question
+If the variance of the frequency distribution is 256, then the value of is $16$.
+\begin{choices}
+  \choice 16
+  \choice 15
+  \choice 14
+  \choice 13
+\end{choices}
+
+\question
+Consider a point in the -plane that is equidistant from three points and ( ). Let and . Then, evaluate the statements (S1): is an isosceles right-angled triangle, and (S2): the area of is ,
+\begin{choices}
+  \choice both are true
+  \choice only (S2) is true
+  \choice only (S1) is true
+  \choice both are false
+\end{choices}
+
+\question
+Consider the following two assertions: Assertion I: Let $\vec{a}$ and $\vec{b}$ be vectors. Then the vector that satisfies $\vec{a} + \vec{b} = \vec{c}$ and has a magnitude of $|\vec{c}|$ is of magnitude $|\vec{c}|$. Assertion II: In a triangle, the sum of the angles is $180^{\circ}$.
+\begin{choices}
+  \choice Statement I is incorrect but Statement II is correct.
+  \choice Both Statement I and Statement II are correct.
+  \choice Statement I is correct but Statement II is incorrect.
+  \choice Both Statement I and Statement II are incorrect.
+\end{choices}
+
+\question
+If $f$$x$= $x$ 3 2$x$ 2 + 1 1 + 3$x$ 3$x$ 2 + 2 2$x$ $x$ 3 + 6 $x$ 3 -$x$ 4 $x$ 2 -2 for all $x$∈ℝ , then 2$f$0 + $f$ ' 0 is equal to
+\begin{choices}
+  \choice 48
+  \choice 24
+  \choice 42
+  \choice 18
+\end{choices}
+
+\question
+Consider a certain function where . Then the value of is determined to be
+\begin{choices}
+  \choice 1
+  \choice 3
+  \choice 6
+  \choice 2
+\end{choices}
+
+\question
+Given that $a$ and $b$ are defined, what is the value of $c$?
+\begin{choices}
+  \choice 3
+  \choice 0
+  \choice 1
+  \choice 2
+\end{choices}
+
+\question
+If the minimum distance between the lines $x - \lambda - 2 = y - 2 = z - 1$ and $x - \sqrt{3} = y - 1 - 2 = z - 2$ is equal to 1, what is the total of all potential values of $\lambda$?
+\begin{choices}
+  \choice 0
+  \choice 2$\sqrt{3}$
+  \choice 3$\sqrt{3}$
+  \choice -2$\sqrt{3}$
+\end{choices}
+
+\question
+Let $f$$x$= 2$x$ 2 + 5$x$- 3, $x$∈R . If $m$ and $n$ denote the number of points where $f$ is not continuous and not differentiable respectively, then $m$+ $n$ is equal to:
+\begin{choices}
+  \choice 5
+  \choice 2
+  \choice 0
+  \choice 3
+\end{choices}
+
+\question
+Let the circles and touch each other externally at the point. If the point divides the line segment joining the centres of the circles and internally in the ratio $3:5$, then $x$ equals
+\begin{choices}
+  \choice 150
+  \choice 160
+  \choice 140
+  \choice 180
+\end{choices}
+
+\question
+For $x = 4$, the least value of $d$, for which $d$, $d + 4$, $d + 8$ are three consecutive terms of an A.P., is equal to:
+\begin{choices}
+  \choice 6
+  \choice 2
+  \choice 12
+  \choice 14
+\end{choices}
+
+\question
+The 20 th term from the end of the progression 30, 29 $\frac{1}{4}$, 28 $\frac{1}{2}$, 27 $\frac{3}{4}$, \ldots, -139 $\frac{1}{4}$ is :-
+\begin{choices}
+  \choice -128
+  \choice -120
+  \choice -125
+  \choice -110
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{77}
+\question
+Let A be a matrix such that for all nonzero matrices B. If A + B = C, and C is a scalar multiple of A, then the value of the determinant of A is \_\_\_\_\_.
+
+\question
+Consider a line passing through the points $(2, 3)$ and $(4, 7)$. If the mirror image of the point $(6, 5)$ in the line is $(x, y)$, then $x$ is equal to _______.
+
+\question
+If $r_{1}$ and $r_{2}$ are the roots of the quadratic equation $x^{2} - 8x + 15 = 0$, then $r_{1} + r_{2}$ is equal to__________
+
+\question
+Let $\vec{A}$ and $\vec{B}$ be vectors such that $\vec{A} = 5\hat{i} + 3\hat{j}$. If $\vec{B} = 4\hat{i} - 2\hat{j}$, then $\vec{A} \cdot \vec{B}$ is equal to _______
+
+\question
+If $x = 4$, then $x^{3}$ is equal to ________
+
+\question
+Let the observations be $x_{1}, x_{2}, x_{3}, x_{4}, x_{5}$. Let the mean be 18, the mean deviation about the mean be 4, and the variance of the 5 observations be $s^{2}$. Then the value of $s^{2}$ is equal to__________
+
+\question
+How many different combinations can result in a total of 16 when rolling a die four times?
+
+\question
+An arithmetic progression is written in the following way: If the first term is $a$ and the common difference is $d$, the sum of the first $n$ terms of the progression is given by the formula $S_n = \frac{n}{2} (2a + (n - 1)d)$. If the sum of all the terms of the row is 1505, what is the value of $n$ if $a = 5$ and $d = 10$?
+
+\question
+Let the set $S = \{1, 2, 3, \ldots, 10\}$. Then the sum of all elements in the set is equal to _______.
+
+\question
+If the range of the common ratio $r$ is $0 < r < 1$, then the sum of the infinite G.P., whose first term is 64 and the common ratio is $r$, is equal to________
+
+\end{questions}
+
+
+\newpage
+\sectiontitle{Answer Key}
+
+
+\textbf{Physics}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q1 & Q2 & Q3 & Q4 & Q5 & Q6 & Q7 & Q8 & Q9 & Q10 \\\hline
+(2) & (1) & (1) & (1) & (4) & (2) & (4) & (2) & (1) & (3) \\\hline
+Q11 & Q12 & Q13 & Q14 & Q15 & Q16 & Q17 & Q18 & Q19 & Q20 \\\hline
+(1) & (1) & (3) & (4) & (1) & (1) & (4) & (2) & (1) & (1) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q21 & Q22 & Q23 & Q24 & Q25 & Q26 & Q27 & Q28 & Q29 & Q30 \\\hline
+12 & 60 & 2 & 12 & 58 & 175 & 48 & 1027 & 4 & 8 \\\hline
+\end{tabular}\\[1em]
+
+
+\textbf{Chemistry}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q31 & Q32 & Q33 & Q34 & Q35 & Q36 & Q37 & Q38 & Q39 & Q40 \\\hline
+(4) & (1) & (1) & (4) & (1) & (4) & (1) & (1) & (2) & (2) \\\hline
+Q41 & Q42 & Q43 & Q44 & Q45 & Q46 & Q47 & Q48 & Q49 & Q50 \\\hline
+(2) & (2) & (2) & (2) & (3) & (1) & (1) & (1) & (3) & (1) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|}
+\hline
+Q51 & Q52 & Q53 & Q54 & Q55 & Q56 & Q57 & Q58 \\\hline
+27 & 6 & 0 & 7 & 1655 & 4 & 2 & 5 \\\hline
+\end{tabular}\\[1em]
+
+
+\textbf{Mathematics}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q61 & Q62 & Q63 & Q64 & Q65 & Q66 & Q67 & Q68 & Q69 & Q70 \\\hline
+(1) & (2) & (2) & (1) & (1) & (1) & (1) & (4) & (1) & (3) \\\hline
+Q71 & Q72 & Q73 & Q74 & Q75 & Q76 & Q77 & Q78 & Q79 \\\hline
+(1) & (3) & (1) & (2) & (2) & (4) & (1) & (1) & (3) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q80 & Q81 & Q82 & Q83 & Q84 & Q85 & Q86 & Q87 & Q88 & Q89 \\\hline
+44 & 6 & 6 & 30 & 64 & 33 & 125 & 100 & 46 & 96 \\\hline
+\end{tabular}\\[1em]
+
+
+\end{document}

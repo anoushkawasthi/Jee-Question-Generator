@@ -1,0 +1,843 @@
+\documentclass[12pt,a4paper]{exam}
+
+% Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{enumitem}
+\usepackage{multicol}
+\usepackage{newunicodechar}
+
+% Unicode math character mappings
+\newunicodechar{𝜀}{$\varepsilon$}
+\newunicodechar{𝑃}{$P$}
+\newunicodechar{𝑉}{$V$}
+\newunicodechar{𝐾}{$K$}
+\newunicodechar{𝐴}{$A$}
+\newunicodechar{𝐵}{$B$}
+\newunicodechar{𝐶}{$C$}
+\newunicodechar{𝐷}{$D$}
+\newunicodechar{𝐸}{$E$}
+\newunicodechar{𝑇}{$T$}
+\newunicodechar{𝑅}{$R$}
+\newunicodechar{𝐼}{$I$}
+\newunicodechar{𝑁}{$N$}
+\newunicodechar{𝑀}{$M$}
+\newunicodechar{𝐿}{$L$}
+\newunicodechar{𝑎}{$a$}
+\newunicodechar{𝑏}{$b$}
+\newunicodechar{𝑐}{$c$}
+\newunicodechar{𝑑}{$d$}
+\newunicodechar{𝑒}{$e$}
+\newunicodechar{𝑓}{$f$}
+\newunicodechar{𝑔}{$g$}
+\newunicodechar{𝑛}{$n$}
+\newunicodechar{𝑚}{$m$}
+\newunicodechar{𝑟}{$r$}
+\newunicodechar{𝑠}{$s$}
+\newunicodechar{𝑡}{$t$}
+\newunicodechar{𝑥}{$x$}
+\newunicodechar{𝑦}{$y$}
+\newunicodechar{𝑧}{$z$}
+\newunicodechar{α}{$\alpha$}
+\newunicodechar{β}{$\beta$}
+\newunicodechar{γ}{$\gamma$}
+\newunicodechar{δ}{$\delta$}
+\newunicodechar{ε}{$\varepsilon$}
+\newunicodechar{θ}{$\theta$}
+\newunicodechar{λ}{$\lambda$}
+\newunicodechar{μ}{$\mu$}
+\newunicodechar{π}{$\pi$}
+\newunicodechar{ρ}{$\rho$}
+\newunicodechar{σ}{$\sigma$}
+\newunicodechar{τ}{$\tau$}
+\newunicodechar{φ}{$\varphi$}
+\newunicodechar{ω}{$\omega$}
+\newunicodechar{Ω}{$\Omega$}
+\newunicodechar{°}{$^\circ$}
+\newunicodechar{±}{$\pm$}
+\newunicodechar{×}{$\times$}
+\newunicodechar{÷}{$\div$}
+\newunicodechar{√}{$\sqrt{}$}
+\newunicodechar{∞}{$\infty$}
+\newunicodechar{≠}{$\neq$}
+\newunicodechar{≤}{$\leq$}
+\newunicodechar{≥}{$\geq$}
+\newunicodechar{→}{$\rightarrow$}
+\newunicodechar{←}{$\leftarrow$}
+\newunicodechar{↔}{$\leftrightarrow$}
+
+% Page geometry
+\geometry{
+    top=1.5cm,
+    bottom=2cm,
+    left=2cm,
+    right=2cm,
+    headheight=1.5cm
+}
+
+% Colors
+\definecolor{headerblue}{RGB}{0, 51, 102}
+\definecolor{sectiongreen}{RGB}{0, 102, 51}
+
+% Header/Footer using exam class commands
+\pagestyle{headandfoot}
+\firstpageheader{}{}{}
+\runningheader{\textsc{JEE Main Practice Paper}}{}{\textsc{Page \thepage}}
+\runningfooter{}{Generated: December 01, 2025}{}
+
+% Custom commands
+\newcommand{\sectiontitle}[1]{%
+    \vspace{1em}
+    \noindent\colorbox{headerblue}{\parbox{\dimexpr\textwidth-2\fboxsep}{%
+        \centering\color{white}\Large\bfseries #1
+    }}
+    \vspace{0.5em}
+}
+
+% Question format
+\renewcommand{\questionlabel}{\textbf{Q\thequestion.}}
+\renewcommand{\choicelabel}{(\thechoice)}
+
+% Hide answers in questions (they go in answer key)
+\noprintanswers
+
+\begin{document}
+
+% Title Page
+\begin{center}
+    {\Huge\bfseries\color{headerblue} JEE Main Practice Paper}\\[0.5em]
+    {\large Based on JEE Main Pattern}\\[1em]
+    {\normalsize Generated: December 01, 2025 | Difficulty: Easy}\\[0.5em]
+    \rule{\textwidth}{1pt}
+\end{center}
+
+\vspace{0.5em}
+\noindent\textbf{Instructions:}
+\begin{itemize}[nosep,leftmargin=*]
+    \item This paper contains 90 questions (30 per subject).
+    \item Each subject has 20 MCQs and 10 Integer Type questions.
+    \item MCQ: +4 for correct, -1 for incorrect.
+    \item Integer: +4 for correct, 0 for incorrect.
+    \item Time: 3 hours | Maximum Marks: 360
+\end{itemize}
+\rule{\textwidth}{0.5pt}
+
+
+\sectiontitle{Physics}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{0}
+\question
+While measuring the diameter of a wire using a screw gauge, the following readings were noted. The main scale reading is$0.5 \, \text{mm}$and the circular scale reading is equal to 42 divisions. The pitch of the screw gauge is$1 \, \text{mm}$and it has 100 divisions on the circular scale. The diameter of the wire is calculated using the formula: Diameter = Main Scale Reading + (Circular Scale Reading / Total Divisions) * Pitch. The value of the diameter is:
+\begin{choices}
+  \choice 21
+  \choice 142
+  \choice 71
+  \choice 42
+\end{choices}
+
+\question
+As the temperature increases, the Young's modulus of elasticity
+\begin{choices}
+  \choice changes erratically
+  \choice decreases
+  \choice increases
+  \choice remains unchanged
+\end{choices}
+
+\question
+The equation representing a stationary wave is: Which of the following statements is NOT accurate:
+\begin{choices}
+  \choice The dimensions of is [T]
+  \choice The dimensions of is
+  \choice The dimensions of is [L]
+  \choice The dimensions of is [L]
+\end{choices}
+
+\question
+The principle of the Wheatstone bridge is utilized to determine the specific resistance$S_{1}$of a given wire, which has a length$L$and a radius$r$. If$X$represents the resistance of the wire, then the specific resistance is expressed as:$S_{1} = \frac{X}{\pi r^{2} L}$. If the length of the wire is increased to twice its original length, what will be the new value of the specific resistance?
+\begin{choices}
+  \choice $A \frac{1}{4}$
+  \choice $2 S_{1}$
+  \choice $A \frac{1}{2}$
+  \choice $A \frac{1}{1}$
+\end{choices}
+
+\question
+Which of the following statements is false regarding stopping potential?
+\begin{choices}
+  \choice It is$e$times the maximum kinetic energy of electrons emitted.
+  \choice It increases with increase in intensity of the incident light.
+  \choice It depends on the nature of emitter material.
+  \choice It depends upon frequency of the incident light.
+\end{choices}
+
+\question
+The radius$r$, length$l$and resistance$R$of a metal wire was measured in the laboratory as$r = 0.45 \pm 0.05$cm,$R = 120 \pm 12$ohm,$l = 18 \pm 0.3$cm. The percentage error in resistivity of the material of the wire is:
+\begin{choices}
+  \choice 30.0\%
+  \choice 42.1\%
+  \choice 38.5\%
+  \choice 36.4\%
+\end{choices}
+
+\question
+If 60 Vernier divisions are equal to 58 main scale divisions of a travelling microscope and one smallest reading of main scale is 0.6 mm the Vernier constant of travelling microscope is:
+\begin{choices}
+  \choice 0.1 mm
+  \choice 0.1 cm
+  \choice 0.01 cm
+  \choice 0.01 mm
+\end{choices}
+
+\question
+Light exits from a convex lens when a light source is positioned at its focal point. The configuration of the light's wavefront is:
+\begin{choices}
+  \choice both spherical and cylindrical
+  \choice plane
+  \choice spherical
+  \choice cylindrical
+\end{choices}
+
+\question
+An electric dipole is situated at a distance of 2 cm from an infinite plane sheet that possesses a positive charge density. Select the correct option from the choices below.
+\begin{choices}
+  \choice Potential energy and torque both are maximum.
+  \choice Torque on dipole is zero and net force is directed away from the sheet.
+  \choice Torque on dipole is zero and net force acts towards the sheet.
+  \choice Potential energy of dipole is minimum and torque is zero.
+\end{choices}
+
+\question
+What will be the percentage reduction in the lamp's brightness if the current decreases by 20\%?
+\begin{choices}
+  \choice 46\%
+  \choice 26\%
+  \choice 36\%
+  \choice 56\%
+\end{choices}
+
+\question
+In a nuclear fission process involving an isotope with mass$M$, three identical daughter nuclei of equal mass are produced. The velocity of a daughter nucleus in terms of the mass defect$\Delta M$will be:
+\begin{choices}
+  \choice $\sqrt{2} M M$
+  \choice $M \Delta M \frac{2}{3}$
+  \choice $M \sqrt{2} \Delta M M$
+  \choice $M \sqrt{3} \Delta M M$
+\end{choices}
+
+\question
+What is the mass number of a nucleus whose radius is half that of a nucleus with a mass number of 192?
+\begin{choices}
+  \choice 24
+  \choice 32
+  \choice 40
+  \choice 20
+\end{choices}
+
+\question
+If the total energy transferred to a surface in time t is$8.12 \times 10^{5}$J, then the magnitude of the total momentum delivered to this surface for complete absorption will be:
+\begin{choices}
+  \choice 3.10 $\times$ 10^{-3} kg m s^{-1}
+  \choice 2.70 $\times$ 10^{-3} kg m s^{-1}
+  \choice 1.95 $\times$ 10^{-3} kg m s^{-1}
+  \choice 4.85 $\times$ 10^{-3} kg m s^{-1}
+\end{choices}
+
+\question
+The accurate form of Bernoulli's equation is (the symbols are defined in the usual way):
+\begin{choices}
+  \choice constant
+  \choice constant
+  \choice constant
+  \choice constant
+\end{choices}
+
+\question
+A thin plano convex lens made of glass of refractive index 1.6 is immersed in a liquid of refractive index 1.3. When the plane side of the lens is silver coated for complete reflection, the lens immersed in the liquid.
+\begin{choices}
+  \choice 0.18 m
+  \choice 0.22 m
+  \choice 0.14 m
+  \choice 0.12 m
+\end{choices}
+
+\question
+The total kinetic energy of 1 mole of nitrogen at 30^{\circ}C is : [Use universal gas constant (R) = 8.31 J mol^{-1} K^{-1}]
+\begin{choices}
+  \choice 6996.0 J
+  \choice 6105.0 J
+  \choice 6412.5 J
+  \choice 5780.5 J
+\end{choices}
+
+\question
+Which of the following effects cannot be accounted for by the wave theory of light? 2025 (28 Jan Shift 2)
+\begin{choices}
+  \choice Compton effect
+  \choice Refraction of light
+  \choice Reflection of light
+  \choice Diffraction of light
+\end{choices}
+
+\question
+The minimum energy required by a hydrogen atom in ground state to emit radiation in Balmer series is nearly :
+\begin{choices}
+  \choice 1.6 eV
+  \choice 13.0 eV
+  \choice 2.0 eV
+  \choice 11.0 eV
+\end{choices}
+
+\question
+A beam of unpolarised light of intensity$I_{0} = 80 \, \text{W/m}^{2}$is passed through a polaroid$A$and then through another polaroid$B$which is oriented so that its principal plane makes an angle of$45^{\circ}$relative to that of$A$. The intensity of emergent light is:
+\begin{choices}
+  \choice $I_{0} \times \frac{1}{4}$
+  \choice $I_{0} \times \frac{1}{2}$
+  \choice $I_{0} \times \frac{1}{8}$
+  \choice $I_{0} \times \frac{3}{4}$
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{19}
+\question
+A force displaces a body from a position of 2 m to a position of 5 m. The work done by this force is \_\_\_\_\_\_\_\_.
+
+\question
+Three balls of masses$m_{1}$,$m_{2}$, and$m_{3}$respectively are arranged at the vertices of an equilateral triangle of side$a$. The moment of inertia of the system about an axis through the centroid and perpendicular to the plane of the triangle will be _______.
+
+\question
+A parallel beam of monochromatic light with a wavelength of$5000 \, \text{Å}$strikes a single narrow slit of width$0.001 \, \text{mm}$perpendicularly. The light is then focused by a convex lens onto a screen positioned at its focal plane. The angle of diffraction at which the first minima will occur is ______ (degrees).
+
+\question
+A solid circular disc of mass 60 kg rolls along a horizontal floor so that its center of mass has a speed of 0.5 m s\textasciicircum{}\{-1\}. The absolute value of work done on the disc to stop it is \_\_\_\_\_\_ J.
+
+\question
+The displacement of a particle executing Simple Harmonic Motion (SHM) is given by$x(t) = A \cos(\omega t + \phi)$, where$A$is the amplitude,$\omega$is the angular frequency, and$\phi$is the phase constant. The time period of motion is$T = \frac{2\pi}{\omega}$. The velocity of the particle at$t = 0$is ______.
+
+\question
+If Rydberg's constant is$R$, the longest wavelength of radiation in the Paschen series will be$\alpha \frac{1}{R}$, where$\alpha = 144$.
+
+\question
+Two soap bubbles of radius 3 cm and 5 cm, respectively, are in contact with each other. The radius of curvature of the common surface, in cm, is \_\_\_\_\_\_.
+
+\question
+An electric field$\vec{E}$passes through a surface of area$A$with a unit vector$\hat{n}$. The electric flux$\Phi_E$for that surface is given by the equation$\Phi_E = \vec{E} \cdot \hat{n} A$. If the electric field strength is$12 \, \text{N/C}$and the area is$1 \, \text{m}^{2}$, what is the electric flux for that surface?
+
+\question
+A body of mass$m$moving with a uniform speed$v$in a plane along the line at a distance$r$from the origin. The angular momentum$L$of the particle about the origin will be given by the expression$L = mvr$. What is the angular momentum of the particle about the origin if$m = 5 \, \text{kg}$,$v = 12 \, \text{m/s}$, and$r = 1 \, \text{m}$?
+
+\question
+A charge of$q = 2 \times 10^{-6} \, C$is moving with a velocity of$v = 3 \times 10^{5} \, m/s$along the positive$x$-axis under a magnetic field of strength$B = 0.5 \, T$. The force acting on the charge is given by$F = q v B \sin\theta$, where$\theta$is the angle between the velocity and the magnetic field direction. If the angle$\theta = 90^{\circ}$, the value of$F$is ______.
+
+\end{questions}
+
+
+\sectiontitle{Chemistry}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{29}
+\question
+Which of the following species is unable to act as an oxidizing agent?
+\begin{choices}
+  \choice N\_\{3\}\textasciicircum{}\{-\}
+  \choice SO\_\{4\}\textasciicircum{}\{2-\}
+  \choice BrO\_\{3\}\textasciicircum{}\{-\}
+  \choice MnO\_\{4\}\textasciicircum{}\{-\}
+\end{choices}
+
+\question
+The solubility of calcium phosphate (molecular mass,$M$) in water is$W$g per 100 mL at a temperature of 25^{\circ}C. The solubility product at this temperature will be approximately.
+\begin{choices}
+  \choice 10 7 W M 3
+  \choice 10 7 W M 5
+  \choice 10 3 W M 5
+  \choice 10 5 W M 5
+\end{choices}
+
+\question
+When phenol is reacted with chloroform in the presence of sodium hydroxide, which is then hydrolyzed in the presence of an acid, the resulting product is
+\begin{choices}
+  \choice Salicyclic acid
+  \choice Benzene-1,2-diol
+  \choice Benzene-1, 3-diol
+  \choice 2-Hydroxybenzaldehyde
+\end{choices}
+
+\question
+The method of purification that relies on the following physical change is:
+\begin{choices}
+  \choice Distillation
+  \choice Extraction
+  \choice Sublimation
+  \choice Crystallization
+\end{choices}
+
+\question
+Among the following solutions, the one that exhibits the greatest depression in freezing point or the lowest freezing point is
+\begin{choices}
+  \choice 180 g of acetic acid dissolved in 1 L of aqueous solution.
+  \choice 180 g of acetic acid dissolved in benzene
+  \choice 180 g of benzoic acid dissolved in benzene
+  \choice 180 g of glucose dissolved in water
+\end{choices}
+
+\question
+What is the IUPAC designation for the hydrocarbon provided below?
+\begin{choices}
+  \choice 2-Ethyl-3,6-dimethylheptane
+  \choice 2,5,6-Trimethyloctane
+  \choice 3,4,7-Trimethyloctane
+  \choice 2-Ethyl-2,6-diethylheptane
+\end{choices}
+
+\question
+The atomic mass of$^{12}_{6}C$is 12.000000 u, while that of$^{13}_{6}C$is 13.003354 u. The energy required to remove a neutron from$^{13}_{6}C$, given that the mass of a neutron is 1.008665 u, will be:
+\begin{choices}
+  \choice 62.5MeV
+  \choice 6.25MeV
+  \choice 4.95MeV
+  \choice 49.5MeV
+\end{choices}
+
+\question
+The translational degrees of freedom and rotational degrees of freedom of a diatomic molecule are: 
+\begin{choices}
+  \choice 3
+  \choice 2
+  \choice 1
+  \choice 0
+\end{choices}
+
+\question
+The characteristic that is consistent for molecules of all gases at a specific temperature is:
+\begin{choices}
+  \choice kinetic energy
+  \choice momentum
+  \choice mass
+  \choice speed
+\end{choices}
+
+\question
+Identify the four quantum numbers corresponding to the electron located in the outermost orbital of potassium (atomic number 19).
+\begin{choices}
+  \choice n = 4, l = 2, m = -1, s = + $\frac{1}{2}$
+  \choice n = 4, l = 0, m = 0, s = + $\frac{1}{2}$
+  \choice n = 3, l = 0, m = -1, s = + $\frac{1}{2}$
+  \choice n = 2, l = 0, m = 0, s = + $\frac{1}{2}$
+\end{choices}
+
+\question
+The following two statements are provided: Statement I: Aniline reacts with concentrated$H_{2}SO_{4}$and is subsequently heated at$453 - 473 \, K$to produce p-aminobenzene sulfonic acid, which exhibits a blood red color in the 'Lassaigne's test'. Statement II: In Friedel-Craft's alkylation and acylation processes, aniline forms a salt with the$AlCl_{3}$catalyst. Consequently, the nitrogen in aniline gains a positive charge and behaves as a deactivating group. Based on the statements above, select the correct answer from the options listed below:
+\begin{choices}
+  \choice Statement I is false but statement II is true
+  \choice Both statement I and statement II are false
+  \choice Statement I is true but statement II is false
+  \choice Both statement I and statement II are true
+\end{choices}
+
+\question
+The following two statements are presented: Statement (I): The fusion of a certain compound with an oxidizing agent results in a dark green product. Statement (II): The manganate ion undergoes electrolytic oxidation in an alkaline environment to produce the permanganate ion. Based on the statements above, select the accurate answer from the options provided below:
+\begin{choices}
+  \choice Statement I is true but Statement II is false
+  \choice Both Statement I and Statement II are false
+  \choice Statement I is false but Statement II is true
+  \choice Both Statement I and Statement II are true
+\end{choices}
+
+\question
+The yellow compound of lead chromate dissolves when treated with a hot solution. The resulting lead product is a:
+\begin{choices}
+  \choice Tetraanionic complex with coordination number six
+  \choice Neutral complex with coordination number four
+  \choice Dianionic complex with coordination number six
+  \choice Dianionic complex with coordination number four
+\end{choices}
+
+\question
+The quantity of moles of methane needed to generate after complete combustion is: (Given the molar mass of methane in)
+\begin{choices}
+  \choice 0.35
+  \choice 0.5
+  \choice 0.75
+  \choice 0.25
+\end{choices}
+
+\question
+Below are two assertions: Assertion (I): An aqueous solution of ammonium carbonate exhibits basic properties. Assertion (II): The acidic or basic characteristics of a salt solution derived from a weak acid and a weak base are influenced by the values of the acid and the base that form it. Based on the statements above, select the most suitable answer from the choices provided below:
+\begin{choices}
+  \choice Both Statement I and Statement II are correct
+  \choice Statement I is correct but Statement II is incorrect
+  \choice Both Statement I and Statement II are incorrect
+  \choice Statement I is incorrect but Statement II is correct
+\end{choices}
+
+\question
+Which of the following oxidation reactions are performed by both species in an acidic environment? A. B. C. D. E. Select the correct answer from the options provided below:
+\begin{choices}
+  \choice C, D and E Only
+  \choice B, C and D Only
+  \choice A, D and E Only
+  \choice A, B and C Only
+\end{choices}
+
+\question
+The accurate statement concerning the nucleophilic substitution reaction in a chiral alkyl halide is;
+\begin{choices}
+  \choice Retention occurs in reaction and inversion occurs in reaction.
+  \choice Racemisation occurs in reaction and retention occurs in reaction.
+  \choice Racemisation occurs in both and reactions.
+  \choice Racemisation occurs in reaction and inversion occurs in reaction.
+\end{choices}
+
+\question
+The element that does not exhibit a variable oxidation state is:
+\begin{choices}
+  \choice Bromine
+  \choice Iodine
+  \choice Chlorine
+  \choice Fluorine
+\end{choices}
+
+\question
+The scent of blossoms is attributed to the existence of certain steam volatile organic compounds known as essential oils. Typically, these compounds are insoluble in water at ambient temperature, yet they can mix with water vapor in the vapor phase. An appropriate technique for extracting these oils from the flowers is:
+\begin{choices}
+  \choice crystallisation
+  \choice distillation under reduced pressure
+  \choice distillation
+  \choice steam distillation
+\end{choices}
+
+\question
+Determine the quantity of complexes from the list below that possess an even count of unpaired electrons. [Provided atomic numbers: ]
+\begin{choices}
+  \choice 2
+  \choice 1
+  \choice 4
+  \choice 5
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{49}
+\question
+In the Claisen-Schmidt reaction to prepare dibenzalacetone using acetone, the amount of benzaldehyde required is \_\_\_\_\_\_ g. (Nearest integer)
+
+\question
+The number of species from the following in which the central atom uses sp\textasciicircum{}\{3\} hybrid orbitals in its bonding is \_\_\_\_\_\_\_\_\_. NH\_\{3\}, SO\_\{2\}, SiO\_\{2\}, BeCl\_\{2\}, CO\_\{2\}, H\_\{2\}O, CH\_\{4\}, BF\_\{3\}
+
+\question
+was taken in a 1 L reaction vessel and allowed to undergo the following reaction at 600 K. The total pressure at equilibrium was found to be 22.45 bar. Then, \_\_\_\_\_\_ [nearest integer] Assume to behave ideally under these conditions. Given: bar
+
+\question
+The total number of hydrogen atoms in product$A$and product$B$is__________.
+
+\question
+The molar mass of the water insoluble product formed from the fusion of chromite ore with sodium carbonate in the presence of air is \_\_\_\_\_\_\_.
+
+\question
+The total number of carbon atoms present in tyrosine, an amino acid, is \_\_\_\_\_\_\_. Tyrosine has the molecular formula C\_\{9\}H\_\{11\}N\_\{1\}O\_\{3\}.
+
+\question
+The number of oxygen atoms present in the chemical formula of fuming sulphuric acid, which is represented as$H_{2}S_{2}O_{7}$, is ______.
+
+\question
+A single Faraday of electric charge releases$x \times 10^{-1}$gram atoms of copper from copper sulfate, where$x$is______.
+
+\question
+The total count of essential amino acids from the provided list of amino acids is \_\_\_\_\_\_\_ Arginine, Phenylalanine, Aspartic acid, Cysteine, Histidine, Valine, Proline
+
+\question
+What is the total count of optical isomers present in the compound given below? \_\_\_\_\_\_\_\_
+
+\end{questions}
+
+
+\sectiontitle{Mathematics}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{59}
+\question
+If the domain of the function is$[0, 10]$, then$f(5)$is equal to:
+\begin{choices}
+  \choice 25
+  \choice 50
+  \choice 20
+  \choice 30
+\end{choices}
+
+\question
+Consider a point in the$-plane$that is equidistant from three points$A$and$B$and$C$. Let$D$and$E$be defined as well. Among the following statements, (S1): triangle$ABE$is an isosceles right angled triangle, and (S2): the area of triangle$ABE$is$A$.
+\begin{choices}
+  \choice both are true
+  \choice only (S2) is true
+  \choice only (S1) is true
+  \choice both are false
+\end{choices}
+
+\question
+Let \( a \) be the term of an A.P. If \( a_{5} = 98 \), and \( d = 14 \), then \( a_{10} \) is equal to
+\begin{choices}
+  \choice 126
+  \choice 112
+  \choice 140
+  \choice 154
+\end{choices}
+
+\question
+Let the area of the region enclosed by the curves be$A = 154$. Then$A$is equal to
+\begin{choices}
+  \choice 154
+  \choice 144
+  \choice 134
+  \choice 164
+\end{choices}
+
+\question
+If the value of$x$is$5$, where$x$and$y$are natural numbers and$y = 10$, then$x + y$is equal to :
+\begin{choices}
+  \choice 15
+  \choice 12
+  \choice 14
+  \choice 17
+\end{choices}
+
+\question
+Let$f(x) = x + 5 \cdot 2x - \frac{1}{2}$,$x \in [-5, 5]$. If$M$and$m$are the maximum and minimum values of$f$, respectively in$[-5, 5]$, then the value of$M - m$is:
+\begin{choices}
+  \choice 850
+  \choice 700
+  \choice 900
+  \choice 150
+\end{choices}
+
+\question
+If the set of equations possesses an infinite number of solutions, then it is equal to:
+\begin{choices}
+  \choice 51
+  \choice 45
+  \choice 47
+  \choice 49
+\end{choices}
+
+\question
+Consider the function$f(x) = 2x^{2} + 5x - 3$, where$x \in R$. If$m$and$n$represent the count of points at which$f$is neither continuous nor differentiable, what is the value of$m + n$?
+\begin{choices}
+  \choice 5
+  \choice 2
+  \choice 0
+  \choice 3
+\end{choices}
+
+\question
+Let the circles with centers at points$A$and$B$touch each other externally at the point$P$. If the point$P$divides the line segment joining the centers of the circles$A$and$B$internally in the ratio$m:n$, where$m = 1$and$n = 2$, then the length of the line segment$AB$equals
+\begin{choices}
+  \choice 125
+  \choice 130
+  \choice 110
+  \choice 145
+\end{choices}
+
+\question
+If x = 2 and y = 4, then what is the value of $\frac{y}{x}$ ?
+\begin{choices}
+  \choice 4
+  \choice 1
+  \choice 3
+  \choice 2
+\end{choices}
+
+\question
+Examine the matrix. Below are two assertions: Statement I: is the inverse of the matrix. Statement II: . Based on the aforementioned assertions, select the correct option from those provided below.
+\begin{choices}
+  \choice Statement I is false but Statement II is true
+  \choice Both Statement I and Statement II are false
+  \choice Statement I is true but Statement II is false
+  \choice Both Statement I and Statement II are true
+\end{choices}
+
+\question
+Consider the functions$f: R \to R$and$g: R \to R$defined as$f(x) = \begin{cases} \log_{e} x, \& x > 0 \ e^{-x}, \& x \leq 0 \end{cases}$and$g(x) = \begin{cases} x, \& x \geq 0 \ e^{x}, \& x < 0 \end{cases}$. Then, the composition$g \circ f: R \to R$is:
+\begin{choices}
+  \choice one-one but not onto
+  \choice neither one-one nor onto
+  \choice onto but not one-one
+  \choice both one-one and onto
+\end{choices}
+
+\question
+Given that the domain of the function is defined, what is the value of the function?
+\begin{choices}
+  \choice 100
+  \choice 95
+  \choice 97
+  \choice 98
+\end{choices}
+
+\question
+Consider the equation, where represents the constant of integration. Then the value of is:
+\begin{choices}
+  \choice 7
+  \choice 4
+  \choice 1
+  \choice 3
+\end{choices}
+
+\question
+If$\pi 3 \int_{0}^{\pi} \cos(4x) \, dx = a\pi + b\sqrt{3}$, where$a$and$b$are rational numbers, what is the value of$9a + 8b$?
+\begin{choices}
+  \choice 2
+  \choice 1
+  \choice 3
+  \choice 3/2
+\end{choices}
+
+\question
+Consider the function$g(x) = 3 f x^{3} + f(3 - x)$, where$f''(x) > 0$for all$x \in (0, 3)$. If$g$is decreasing on the interval$(0, \alpha)$and increasing on the interval$(\alpha, 3)$, then the value of$8\alpha$is
+\begin{choices}
+  \choice 24
+  \choice 0
+  \choice 18
+  \choice 20
+\end{choices}
+
+\question
+Evaluate the limit as$x$approaches 0 for the expression$\frac{e^{2\sin x} - 2\sin x - 1}{x^{2}}$.
+\begin{choices}
+  \choice is equal to -1
+  \choice does not exist
+  \choice is equal to 1
+  \choice is equal to 2
+\end{choices}
+
+\question
+How many critical points does the function possess?
+\begin{choices}
+  \choice 1
+  \choice 2
+  \choice 0
+  \choice 3
+\end{choices}
+
+\question
+If the variance of the frequency distribution is 225, then the value of is$15$
+\begin{choices}
+  \choice 15
+  \choice 14
+  \choice 16
+  \choice 13
+\end{choices}
+
+\question
+The result of the integral$\int_{0}^{1} (2x^{3} - 3x^{2} - x + 1) \, dx$is equal to:
+\begin{choices}
+  \choice 0
+  \choice 1
+  \choice 2
+  \choice -1
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{79}
+\question
+Consider the vertices$A(-2, -1)$,$B(1, 0)$,$C(\alpha, \beta)$, and$D(\gamma, \delta)$of a parallelogram$ABCD$. If point$C$satisfies the equation$2x - y = 5$and point$D$satisfies the equation$3x - 2y = 6$, what is the sum of$\alpha + \beta + \gamma + \delta$?
+
+\question
+Consider a line passing through the points$(2, 3)$and$(4, 7)$. If the mirror image of the point$(6, 5)$in the line is$(x, y)$, then$x$is equal to _______.
+
+\question
+If the function$f(x) = 3x + 2$is evaluated at$x = 155$, then the result is equal to ______.
+
+\question
+Let a, b, c be in an arithmetic progression of positive terms. Let a = 10 and c = 30. If b is the middle term, then b is equal to \_\_\_\_.
+
+\question
+Given that , and , where , what is equal to \_\_\_\_\_\_
+
+\question
+If$r_{1}$and$r_{2}$are the roots of the quadratic equation$x^{2} - 7x + 6 = 0$, then$r_{1} + r_{2}$is equal to__________
+
+\question
+If \( f(x) = \int (3x^{2} + 2) \, dx + C \), where \( C \) is the constant of integration, then the value of \( f(2) \) is __________.
+
+\question
+If the variance$\sigma^{2}$of the data$x_{i}$= 0, 1, 5, 6, 10, 12, 17$with frequencies$f_{i}$= 3, 2, 3, 2, 6, 3, 3$is$k$, then the value of$k$is$\lfloor k \rfloor${where$\lfloor . \rfloor$denotes the greatest integer function}.
+
+\question
+Let \( a \) be the first term and \( d \) be the common difference of an Arithmetic Progression (AP) such that the sum of the first \( n \) terms is \( S_n = $\frac{n}{2}$ (2a + (n-1)d) \). If the sum of the first 20 terms is 11132, then the common difference \( d \) is equal to _______
+
+\end{questions}
+
+
+\newpage
+\sectiontitle{Answer Key}
+
+
+\textbf{Physics}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q1 & Q2 & Q3 & Q4 & Q5 & Q6 & Q7 & Q8 & Q9 & Q10 \\\hline
+(3) & (2) & (1) & (4) & (2) & (2) & (1) & (2) & (4) & (3) \\\hline
+Q11 & Q12 & Q13 & Q14 & Q15 & Q16 & Q17 & Q18 & Q19 \\\hline
+(3) & (1) & (2) & (1) & (1) & (1) & (1) & (1) & (1) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q20 & Q21 & Q22 & Q23 & Q24 & Q25 & Q26 & Q27 & Q28 & Q29 \\\hline
+58 & 1 & 30 & 6 & 10 & 144 & 4 & 12 & 60 & 32 \\\hline
+\end{tabular}\\[1em]
+
+
+\textbf{Chemistry}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q31 & Q32 & Q33 & Q34 & Q35 & Q36 & Q37 & Q38 & Q39 & Q40 \\\hline
+(1) & (2) & (4) & (3) & (1) & (2) & (3) & (1) & (1) & (2) \\\hline
+Q41 & Q42 & Q43 & Q44 & Q45 & Q46 & Q47 & Q48 & Q49 & Q50 \\\hline
+(4) & (4) & (4) & (4) & (1) & (4) & (4) & (4) & (3) & (1) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q51 & Q52 & Q53 & Q54 & Q55 & Q56 & Q57 & Q58 & Q59 & Q60 \\\hline
+318 & 4 & 962 & 10 & 160 & 9 & 7 & 5 & 4 & 32 \\\hline
+\end{tabular}\\[1em]
+
+
+\textbf{Mathematics}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q61 & Q62 & Q63 & Q64 & Q65 & Q66 & Q67 & Q68 & Q69 & Q70 \\\hline
+(1) & (3) & (1) & (1) & (1) & (1) & (3) & (4) & (2) & (1) \\\hline
+Q71 & Q72 & Q73 & Q74 & Q75 & Q76 & Q77 & Q78 & Q79 & Q80 \\\hline
+(4) & (2) & (3) & (2) & (1) & (3) & (4) & (2) & (1) & (1) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|}
+\hline
+Q81 & Q82 & Q83 & Q84 & Q85 & Q86 & Q87 & Q88 & Q89 \\\hline
+32 & 6 & 465 & 20 & 3660 & 6 & 7 & 29 & 400 \\\hline
+\end{tabular}\\[1em]
+
+
+\end{document}

@@ -1,0 +1,855 @@
+\documentclass[12pt,a4paper]{exam}
+
+% Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{enumitem}
+\usepackage{multicol}
+\usepackage{newunicodechar}
+
+% Unicode math character mappings
+\newunicodechar{𝜀}{$\varepsilon$}
+\newunicodechar{𝑃}{$P$}
+\newunicodechar{𝑉}{$V$}
+\newunicodechar{𝐾}{$K$}
+\newunicodechar{𝐴}{$A$}
+\newunicodechar{𝐵}{$B$}
+\newunicodechar{𝐶}{$C$}
+\newunicodechar{𝐷}{$D$}
+\newunicodechar{𝐸}{$E$}
+\newunicodechar{𝑇}{$T$}
+\newunicodechar{𝑅}{$R$}
+\newunicodechar{𝐼}{$I$}
+\newunicodechar{𝑁}{$N$}
+\newunicodechar{𝑀}{$M$}
+\newunicodechar{𝐿}{$L$}
+\newunicodechar{𝑎}{$a$}
+\newunicodechar{𝑏}{$b$}
+\newunicodechar{𝑐}{$c$}
+\newunicodechar{𝑑}{$d$}
+\newunicodechar{𝑒}{$e$}
+\newunicodechar{𝑓}{$f$}
+\newunicodechar{𝑔}{$g$}
+\newunicodechar{𝑛}{$n$}
+\newunicodechar{𝑚}{$m$}
+\newunicodechar{𝑟}{$r$}
+\newunicodechar{𝑠}{$s$}
+\newunicodechar{𝑡}{$t$}
+\newunicodechar{𝑥}{$x$}
+\newunicodechar{𝑦}{$y$}
+\newunicodechar{𝑧}{$z$}
+\newunicodechar{α}{$\alpha$}
+\newunicodechar{β}{$\beta$}
+\newunicodechar{γ}{$\gamma$}
+\newunicodechar{δ}{$\delta$}
+\newunicodechar{ε}{$\varepsilon$}
+\newunicodechar{θ}{$\theta$}
+\newunicodechar{λ}{$\lambda$}
+\newunicodechar{μ}{$\mu$}
+\newunicodechar{π}{$\pi$}
+\newunicodechar{ρ}{$\rho$}
+\newunicodechar{σ}{$\sigma$}
+\newunicodechar{τ}{$\tau$}
+\newunicodechar{φ}{$\varphi$}
+\newunicodechar{ω}{$\omega$}
+\newunicodechar{Ω}{$\Omega$}
+\newunicodechar{°}{$^\circ$}
+\newunicodechar{±}{$\pm$}
+\newunicodechar{×}{$\times$}
+\newunicodechar{÷}{$\div$}
+\newunicodechar{√}{$\sqrt{}$}
+\newunicodechar{∞}{$\infty$}
+\newunicodechar{≠}{$\neq$}
+\newunicodechar{≤}{$\leq$}
+\newunicodechar{≥}{$\geq$}
+\newunicodechar{→}{$\rightarrow$}
+\newunicodechar{←}{$\leftarrow$}
+\newunicodechar{↔}{$\leftrightarrow$}
+
+% Page geometry
+\geometry{
+    top=1.5cm,
+    bottom=2cm,
+    left=2cm,
+    right=2cm,
+    headheight=1.5cm
+}
+
+% Colors
+\definecolor{headerblue}{RGB}{0, 51, 102}
+\definecolor{sectiongreen}{RGB}{0, 102, 51}
+
+% Header/Footer using exam class commands
+\pagestyle{headandfoot}
+\firstpageheader{}{}{}
+\runningheader{\textsc{JEE Main Practice Paper}}{}{\textsc{Page \thepage}}
+\runningfooter{}{Generated: December 01, 2025}{}
+
+% Custom commands
+\newcommand{\sectiontitle}[1]{%
+    \vspace{1em}
+    \noindent\colorbox{headerblue}{\parbox{\dimexpr\textwidth-2\fboxsep}{%
+        \centering\color{white}\Large\bfseries #1
+    }}
+    \vspace{0.5em}
+}
+
+% Question format
+\renewcommand{\questionlabel}{\textbf{Q\thequestion.}}
+\renewcommand{\choicelabel}{(\thechoice)}
+
+% Hide answers in questions (they go in answer key)
+\noprintanswers
+
+\begin{document}
+
+% Title Page
+\begin{center}
+    {\Huge\bfseries\color{headerblue} JEE Main Practice Paper}\\[0.5em]
+    {\large Based on JEE Main Pattern}\\[1em]
+    {\normalsize Generated: December 01, 2025 | Difficulty: Medium}\\[0.5em]
+    \rule{\textwidth}{1pt}
+\end{center}
+
+\vspace{0.5em}
+\noindent\textbf{Instructions:}
+\begin{itemize}[nosep,leftmargin=*]
+    \item This paper contains 90 questions (30 per subject).
+    \item Each subject has 20 MCQs and 10 Integer Type questions.
+    \item MCQ: +4 for correct, -1 for incorrect.
+    \item Integer: +4 for correct, 0 for incorrect.
+    \item Time: 3 hours | Maximum Marks: 360
+\end{itemize}
+\rule{\textwidth}{0.5pt}
+
+
+\sectiontitle{Physics}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{0}
+\question
+Given below are two statements : Statement (I) : It is impossible to specify simultaneously with arbitrary precision, both the linear momentum and the position of a particle. Statement (II) : If the uncertainty in the measurement of position and uncertainty in measurement of momentum are equal for an electron, then the uncertainty in the measurement of velocity is . In the light of the above statements, choose the correct answer from the options given below :
+\begin{choices}
+  \choice Statement I is false but Statement II is true
+  \choice Both Statement I and Statement II are false
+  \choice Both Statement I and Statement II are true
+  \choice Statement I is true but Statement II is false
+\end{choices}
+
+\question
+A proton moving with a constant velocity passes through a region of space without any change in its velocity. If and represent the electric and magnetic fields respectively, then the region of space may have : (A) ; (B) ; (C) ; (D) Choose the most appropriate answer from the options given below :
+\begin{choices}
+  \choice (A), (B) and (C) only
+  \choice (A), (C) and (D) only
+  \choice (A), (B) and (D) only
+  \choice (B), (C) and (D) only
+\end{choices}
+
+\question
+By what percentage will the illumination of the lamp decrease if the current drops by 20\% ?
+\begin{choices}
+  \choice 46\%
+  \choice 26\%
+  \choice 36\%
+  \choice 56\%
+\end{choices}
+
+\question
+A light source of wavelength illuminates a metal surface and electrons are ejected with maximum kinetic energy of 2 eV . If the same surface is illuminated by a light source of wavelength , then the maximum kinetic energy of ejected electrons will be (The work function of metal is 1 eV )
+\begin{choices}
+  \choice 3 eV
+  \choice 2 eV
+  \choice 6 eV
+  \choice 5 eV
+\end{choices}
+
+\question
+A transparent film of refractive index, 2.0 is coated on a glass slab of refractive index, 1.45. What is the minimum thickness of transparent film to be coated for the maximum transmission of Green light of wavelength 550 nm . [Assume that the light is incident nearly perpendicular to the glass surface.]
+\begin{choices}
+  \choice 137.5 nm
+  \choice 275 nm
+  \choice 94.8 nm
+  \choice 68.7 nm
+\end{choices}
+
+\question
+A uniform magnetic field of 2 $\times$ $10^{-3}$ T acts along positive Y-direction. A rectangular loop of sides 20 cm and 10 cm with current of 5 A is in Y-Z plane. The current is in anticlockwise sense with reference to negative X axis. Magnitude and direction of the torque is :
+\begin{choices}
+  \choice 2 $\times$ $10^{-4}$ N m along positive Z -direction
+  \choice 2 $\times$ $10^{-4}$ N m along negative Z-direction
+  \choice 2 $\times$ $10^{-4}$ N m along positive X-direction
+  \choice 2 $\times$ $10^{-4}$ N m along positive Y-direction
+\end{choices}
+
+\question
+A ball suspended by a thread swings in a vertical plane so that its magnitude of acceleration in the extreme position and lowest position are equal. The angle ( $\theta$ ) of thread deflection in the extreme position will be :
+\begin{choices}
+  \choice tan(-1) ( $\sqrt{}$2 )
+  \choice 2tan -11/2
+  \choice tan(-11)/2
+  \choice 2tan -1 1 $\sqrt{}$ 5
+\end{choices}
+
+\question
+Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A) : Emission of electrons in photoelectric effect can be suppressed by applying a sufficiently negative electron potential to the photoemissive substance. Reason (R) : A negative electric potential, which stops the emission of electrons from the surface of a photoemissive substance, varies linearly with frequency of incident radiation. In the light of the above statements, choose the most appropriate answer from the options given below :
+\begin{choices}
+  \choice (A) is false but (R) is true
+  \choice (A) is true but (R) is false
+  \choice Both and are true and is the correct explanation of
+  \choice Both and are true but is not the correct explanation of
+\end{choices}
+
+\question
+A train starting from rest first accelerates uniformly up to a speed of for time , then it moves with a constant speed for time . The average speed of the train for this duration of journey will be (in ) :
+\begin{choices}
+  \choice 40
+  \choice 80
+  \choice 30
+  \choice 70
+\end{choices}
+
+\question
+In the given electromagnetic wave , intensity of the associated light beam is (in : (Given )
+\begin{choices}
+  \choice 243
+  \choice 729
+  \choice 972
+  \choice 486
+\end{choices}
+
+\question
+The number of spectral lines emitted by atomic hydrogen that is in the energy level, is
+\begin{choices}
+  \choice 3
+  \choice 1
+  \choice 6
+  \choice 0
+\end{choices}
+
+\question
+A thin plano convex lens made of glass of refractive index 1.5 is immersed in a liquid of refractive index 1.2. When the plane side of the lens is silver coated for complete reflection, the lens immersed in the liquid 2025 (24 Jan Shift 1)
+\begin{choices}
+  \choice 0.20 m
+  \choice 0.25 m
+  \choice 0.15 m
+  \choice 0.10 m
+\end{choices}
+
+\question
+An alternating voltage $V$( t) = 220sin100$\pi$t volt is applied to a purely resistive load of 50 𝛺 . The time taken for the current to rise from half of the peak value to the peak value is:
+\begin{choices}
+  \choice 5 ms
+  \choice 3.3 ms
+  \choice 7.2 ms
+  \choice 2.2 ms
+\end{choices}
+
+\question
+A massless spring gets elongated by amount under a tension of 5 N . Its elongation is under the tension of 7 N . For the elongation of , the tension in the spring will be,
+\begin{choices}
+  \choice 39 N
+  \choice 15 N
+  \choice 11 N
+  \choice 20 N
+\end{choices}
+
+\question
+A cricket player catches a ball of mass 120 g moving with 25 m s\textasciicircum{}-1 speed. If the catching process is completed in 0.1 s then the magnitude of force exerted by the ball on the hand of player will be(in SI unit):
+\begin{choices}
+  \choice 24
+  \choice 12
+  \choice 25
+  \choice 30
+\end{choices}
+
+\question
+The mass number of nucleus having radius equal to half of the radius of nucleus with mass number 192 is:
+\begin{choices}
+  \choice 24
+  \choice 32
+  \choice 40
+  \choice 20
+\end{choices}
+
+\question
+The resistance per centimeter of a meter bridge wire is $r$ , with $X$ 𝛺 resistance in left gap. Balancing length from left end is at 40 cm with 25 𝛺 resistance in right gap. Now the wire is replaced by another wire of 2$r$ resistance per centimeter. The new balancing length for same settings will be at
+\begin{choices}
+  \choice 20 cm
+  \choice 10 cm
+  \choice 80 cm
+  \choice 40 cm
+\end{choices}
+
+\question
+A simple pendulum of length 1 m has a wooden bob of mass 1 kg . It is struck by a bullet of mass $10^{-2}$ kg moving with a speed of 2 x $10^{2}$ m s^-1 . The bullet gets embedded into the bob. The height to which the bob rises before swinging back is. (use g= 10 m s^-2 )
+\begin{choices}
+  \choice 0.30 m
+  \choice 0.20 m
+  \choice 0.35 m
+  \choice 0.40 m
+\end{choices}
+
+\question
+A particle moving in a circle of radius R with uniform speed takes time T to complete one revolution. If this particle is projected with the same speed at an angle $\theta$ to the horizontal, the maximum height attained by it is equal to 4 R . The angle of projection $\theta$ is then given by :
+\begin{choices}
+  \choice sin(-12) gT 2 $\pi$ 2 R 1/2
+  \choice sin(-1) $\pi$ 2 R 2 gT 2 1/2
+  \choice cos^-12 gT 2 $\pi$ 2 R 1/2
+  \choice cos^-1 $\pi$R 2 gT 2 1/2
+\end{choices}
+
+\question
+The dimensional formula of angular impulse is :
+\begin{choices}
+  \choice [M L - 2 T - 1 ]
+  \choice [M L 2 T - 2 ]
+  \choice [M L T - 1 ]
+  \choice [M L 2 T - 1 ]
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{20}
+\question
+A parallel beam of monochromatic light of wavelength 5000 o A is incident normally on a single narrow slit of width 0.001 mm . The light is focused by convex lens on screen, placed on its focal plane. The first minima will be formed for the angle of diffraction of \_\_\_\_\_\_ (degree).
+
+\question
+A square loop of edge length carrying current of is placed with its edges parallel to the axis. A magnetic field is passing through the plane and expressed as , where . The net magnetic force experienced by the loop is \_\_\_\_\_\_\_ .
+
+\question
+Two charges of -4 $\mu$C and +4 $\mu$C are placed at the points $A$( 1, 0, 4 ) m and $B$( 2, - 1, 5 ) m located in an electric field $\rightarrow$ $E$= 0.20 ^ i V cm^-1 . The magnitude of the torque acting on the dipole is 8$\sqrt{}$$\alpha$$\times$ $10^{-5}$ N m , where $\alpha$= _________.
+
+\question
+The identical spheres each of mass 2 M are placed at the corners of a right angled triangle with mutually perpendicular sides equal to 4 m each. Taking point of intersection of these two sides as origin, the magnitude of position vector of the centre of mass of the system is 4$\sqrt{}$2 $x$ , where the value of $x$ is ________.
+
+\question
+A cylinder is rolling down on an inclined plane of inclination . Its acceleration during rolling down will be , where \_\_\_\_\_\_\_(use ).
+
+\question
+A particle is projected at an angle of from horizontal at a speed of . The height traversed by the particle in the first second is and height traversed in the last second, before it reaches the maximum height, is . The ratio is \_\_\_\_\_\_\_\_\_ [Take, ]
+
+\question
+The least count of a screw guage is 0.01 mm . If the pitch is increased by and number of divisions on the circular scale is reduced by , the new least count will be \_\_\_\_\_
+
+\question
+The current in a conductor is expressed as $I$= 3 t 2 + 4 t 3 , where $I$ is in Ampere and t is in second. The amount of electric charge that flows through a section of the conductor during t= 1 s to t= 2 s is ____________ C .
+
+\question
+A proton is moving undeflected in a region of crossed electric and magnetic fields at a constant speed of . When the electric field is switched off, the proton moves along a circular path of radius 2 cm . The magnitude of electric field is . The value of is \_\_\_\_\_\_\_ Take the mass of the proton .
+
+\question
+A force displaces a body from to . Work done by this force is \_\_\_\_\_\_\_\_ .
+
+\end{questions}
+
+
+\sectiontitle{Chemistry}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{30}
+\question
+The interaction between bond and lone pair of electrons present on an adjacent atom is responsible for
+\begin{choices}
+  \choice Hyperconjugation
+  \choice Inductive effect
+  \choice Electromeric effect
+  \choice Resonance effect
+\end{choices}
+
+\question
+IUPAC name of following compound is
+\begin{choices}
+  \choice 2 - Aminopentanenitrile
+  \choice 2 - Aminobutanenitrile
+  \choice 3 - Aminobutanenitrile
+  \choice 3 - Aminopropanenitrile
+\end{choices}
+
+\question
+Acid D formed in above reaction is:
+\begin{choices}
+  \choice Gluconic acid
+  \choice Succinic acid
+  \choice Oxalic acid
+  \choice Malonic acid
+\end{choices}
+
+\question
+The functional group that shows negative resonance effect is:
+\begin{choices}
+  \choice -NH 2
+  \choice -OH
+  \choice -COOH
+  \choice -OR
+\end{choices}
+
+\question
+Integrated rate law equation for a first order gas phase reaction is given by (where $P$ $i$ is initial pressure and $P$ t is total pressure at time t )
+\begin{choices}
+  \choice $k$= 2.303 t $\times$ log $P$ $i$ 2$P$ $i$ - $P$ t
+  \choice $k$= 2.303 t $\times$ log 2$P$ $i$ 2$P$ $i$ - $P$ t
+  \choice $k$= 2.303 t $\times$ log 2$P$ $i$ - $P$ t $P$ $i$
+  \choice $k$= 2.303 t $\times$ $P$ $i$ 2$P$ $i$ - $P$ t
+\end{choices}
+
+\question
+A diatomic gas ( $\gamma$= 1.4 ) does 200 J of work when it is expanded isobarically. The heat given to the gas in the process is :
+\begin{choices}
+  \choice 850 J
+  \choice 800 J
+  \choice 600 J
+  \choice 700 J
+\end{choices}
+
+\question
+Given below are the atomic numbers of some group 14 elements. The atomic number of the element with lowest melting point is :
+\begin{choices}
+  \choice 6
+  \choice 82
+  \choice 14
+  \choice 50
+\end{choices}
+
+\question
+Given below are two statements I and II. Statement I: Dumas method is used for estimation of "Nitrogen" in an organic compound. Statement II: Dumas method involves the formation of ammonium sulphate by heating the organic compound with conc . In the light of the above statements, choose the correct answer from the options given below
+\begin{choices}
+  \choice Statement I is true but Statement II is false
+  \choice Both Statement I and Statement II are false
+  \choice Statement I is false but Statement II is true
+  \choice Both Statement I and Statement II are true
+\end{choices}
+
+\question
+Given below are two statement: Statements I : Bromination of phenol in solvent with low polarity such as or requires Lewis acid catalyst. Statements II : The Lewis acid catalyst polarises the bromine to generate . In the light of the above statements, choose the correct answer from the options given below :
+\begin{choices}
+  \choice Both Statement I and Statement II are true
+  \choice Statement I is true but Statement II is false
+  \choice Statement I is false but Statement II is true
+  \choice Both Statement I and Statement II are false
+\end{choices}
+
+\question
+The metal atom present in the complex MABXL (where A, B, X and L are unidentate ligands and is metal) involves hybridization. The number of geometrical isomers exhibited by the complex is:
+\begin{choices}
+  \choice 2
+  \choice 0
+  \choice 4
+  \choice 3
+\end{choices}
+
+\question
+The shape of carbocation is :
+\begin{choices}
+  \choice diagonal pyramidal
+  \choice trigonal planar
+  \choice tetrahedral
+  \choice diagonal
+\end{choices}
+
+\question
+The correct order of reactivity in electrophilic substitution reaction of the following compounds is:
+\begin{choices}
+  \choice B > C > A > D
+  \choice D > C > B > A
+  \choice A > B > C > D
+  \choice B > A > C > D
+\end{choices}
+
+\question
+Given below are two statements: Statement I : D-glucose pentaacetate reacts with 2, 4-dinitrophenylhydrazine Statement II : Starch, on heating with concentrated sulfuric acid at and 2-3 atmosphere pressure produces glucose. In the light of the above statements, choose the correct answer from the options given below 2025 (28 Jan Shift 1)
+\begin{choices}
+  \choice Statement I is false but Statement II is true
+  \choice Both Statement I and Statement II are false
+  \choice Both Statement I and Statement II are true
+  \choice Statement I is true but Statement II is false
+\end{choices}
+
+\question
+An amount of ice of mass and temperature is transformed to vapour of temperature by applying heat. The total amount of work required for this conversion is, (Take, specific heat of ice , specific heat of water , specific heat of steam , Latent heat of ice and Latent heat of steam )
+\begin{choices}
+  \choice 3043 J
+  \choice 3024 J
+  \choice 3003 J
+  \choice 3022 J
+\end{choices}
+
+\question
+Choose the correct statements from the following A. All group 16 elements form oxides of general formula $E$$O$ 2 and $E$$O$ 3 where $E$= $S$, $S$$e$, T$e$ and $P$$o$ . Both the types of oxides are acidic in nature. B. T$e$$O$ 2 is an oxidising agent while $S$$O$ 2 is reducing in nature. C. The reducing property decreases from $H$ 2 $S$ to $H$ 2 T$e$ down the group. D. The ozone molecule contains five lone pairs of electrons. Choose the correct answer from the options given below:
+\begin{choices}
+  \choice A and D only
+  \choice B and C only
+  \choice C and D only
+  \choice A and B only
+\end{choices}
+
+\question
+The equilibrium constant for the reaction is . The value of for the reaction given below is is :
+\begin{choices}
+  \choice 4.9
+  \choice 49
+  \choice 41.6
+  \choice 416
+\end{choices}
+
+\question
+Identity the incorrect pair from the following:
+\begin{choices}
+  \choice Photography - AgBr
+  \choice Polythene preparation - TiCl 4 , AlCH 33
+  \choice Haber process - Iron
+  \choice Wacker process - PtCl 2
+\end{choices}
+
+\question
+Evaluate the following statements related to group 14 elements for their correctness. (A) Covalent radius decreases down the group from to in a regular manner. (B) Electronegativity decreases from to down the group gradually. (C) Maximum covalance of is 4 whereas other elements can expand their covalance due to presence of d orbitals. (D) Heavier elements do not form bonds. (E) Carbon can exhibit negative oxidation states. Choose the correct answer from the options given below :
+\begin{choices}
+  \choice (A), (B) and (C) Only
+  \choice (C), (D) and (E) Only
+  \choice (C) and (D) Only
+  \choice (A) and (B) Only
+\end{choices}
+
+\question
+Which of the following statements are correct? A. Glycerol is purified by vacuum distillation because it decomposes at its normal boiling point. B. Aniline can be purified by steam distillation as aniline is miscible in water. C. Ethanol can be separated from ethanol water mixture by azeotropic distillation because it forms azeotrope. D. An organic compound is pure, if mixed M.P. is remained same. Choose the most appropriate answer from the options given below :
+\begin{choices}
+  \choice A, B, C only
+  \choice A, C, D only
+  \choice A, B, D only
+  \choice B, C, D only
+\end{choices}
+
+\question
+Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A): reaction of occurs more readily than the reaction of . Reason (R) : The partially bonded unhybridized p-orbital that develops in the trigonal bipyramidal transition state is stabilized by conjugation with the phenyl ring. In the light of the above statements, choose the most appropriate answer from the options given below :
+\begin{choices}
+  \choice (A) is correct but (R) is not correct
+  \choice (A) is not correct but (R) is correct
+  \choice Both (A) and (R) are correct but (R) is not the correct explanation of (A)
+  \choice Both (A) and (R) are correct and (R) is the correct explanation of
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{50}
+\question
+The number of neutrons present in the more abundant isotope of boron is ' '. Amorphous boron upon heating with air forms a product, in which the oxidation state of boron is ' '. The value of is \_\_\_\_\_\_\_
+
+\question
+The major product of the following reaction is . Number of oxygen atoms present in product ' ' is \_\_\_\_\_\_\_ (nearest integer)
+
+\question
+of ethanamine was subjected to reaction with followed by hydrolysis to liberate and . The generated was completely neutralised by 0.2 moles of is \_\_\_\_\_\_ g.
+
+\question
+In the reaction of potassium dichromate, potassium chloride and sulfuric acid (conc.), the oxidation state of the chromium in the product is + \_\_\_\_\_\_\_.
+
+\question
+An electron of hydrogen atom on an excited state is having energy . The maximum number of allowed transitions to lower energy level is \_\_\_\_\_\_\_.
+
+\question
+The molar mass of the water insoluble product formed from the fusion of chromite ore with in presence of is \_\_\_\_\_\_\_ .
+
+\question
+When equal volume of and are separately neutralised by excess volume of solution. and of heat is liberated respectively. The value of is \_\_\_\_\_\_\_
+
+\question
+The amount of electricity in Coulomb required for the oxidation of 1 mol of H 2 O to O 2 is ______ $\times$ 10 5 C .
+
+\question
+of pure aniline is treated with bromine water at room temperature to give a white precipitate of the product ' '. The mass of product ' ' obtaind is . The percentage yield is \_\_\_\_\_\_\_ .
+
+\question
+When and , then the temperature of vapour, at one atmosphere is \_\_\_\_\_\_ .
+
+\end{questions}
+
+
+\sectiontitle{Mathematics}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{60}
+\question
+The value of for which the integral , satisfies is
+\begin{choices}
+  \choice 14
+  \choice 8
+  \choice 10
+  \choice 7
+\end{choices}
+
+\question
+Let 3, $a$, $b$, $c$ be in $A$. $P$. and 3, $a$-1, $b$+ 1, $c$+ 9 be in $G$. $P$. Then, the arithmetic mean of $a$, $b$ and $c$ is:
+\begin{choices}
+  \choice -4
+  \choice -1
+  \choice 13
+  \choice 11
+\end{choices}
+
+\question
+If the value of is , where are natural numbers and , then is equal to :
+\begin{choices}
+  \choice 40
+  \choice 52
+  \choice 50
+  \choice 54
+\end{choices}
+
+\question
+If is a square matrix of order 3 such that and , then is equal to :
+\begin{choices}
+  \choice 2
+  \choice 3
+  \choice 6
+  \choice 4
+\end{choices}
+
+\question
+Let $f$: R- {0} $\rightarrow$R be a function satisfying $f$ $x$ $y$ = $f$( $x$) $f$( $y$) for all $x$, $y$, $f$( $y$) $\neq$0 . If $f$ ' (1) = 2024 , then
+\begin{choices}
+  \choice $x$$f$ ' $x$- 2024$f$$x$= 0
+  \choice $x$$f$ ' $x$+ 2024$f$$x$= 0
+  \choice $x$ ' ($x$) + $f$($x$) = 2024
+  \choice $x$$f$ ' ($x$) - 2023$f$($x$) = 0
+\end{choices}
+
+\question
+Let for all . Consider a function such that for all . Then the value of is :
+\begin{choices}
+  \choice 2
+  \choice 8
+  \choice 4
+  \choice 16
+\end{choices}
+
+\question
+Let for some function and . Then is equal to
+\begin{choices}
+  \choice 1
+  \choice 3
+  \choice 6
+  \choice 2
+\end{choices}
+
+\question
+Let and be two lines. Let be a line passing through the point and be perpendicular to both and . If intersects , then equals :
+\begin{choices}
+  \choice 20
+  \choice 18
+  \choice 25
+  \choice 16
+\end{choices}
+
+\question
+A coin is biased so that a head is twice as likely to occur as a tail. If the coin is tossed 3 times, then the probability of getting two tails and one head is-
+\begin{choices}
+  \choice 2/9
+  \choice 1/9
+  \choice 2/27
+  \choice 1/27
+\end{choices}
+
+\question
+Let be the greatest integer less than or equal to . Let be the set of all prime factors of 2310 and be the function . The number of one-to-one functions from to the range of is
+\begin{choices}
+  \choice 25
+  \choice 24
+  \choice 20
+  \choice 120
+\end{choices}
+
+\question
+Let be the term of an A.P. If for some , and , then is equal to
+\begin{choices}
+  \choice 98
+  \choice 126
+  \choice 142
+  \choice 112
+\end{choices}
+
+\question
+The sum of the series 1 1 -3 ⋅1 2 + 1 4 + 2 1 -3 ⋅2 2 + 2 4 + 3 1 -3 ⋅3 2 + 3 4 + . ... up to 10 terms is
+\begin{choices}
+  \choice 45 109
+  \choice - 45 109
+  \choice 55 109
+  \choice - 55 109
+\end{choices}
+
+\question
+Let . If , where is the identity matrix of order , then is equal to
+\begin{choices}
+  \choice -9
+  \choice -13
+  \choice -10
+  \choice -12
+\end{choices}
+
+\question
+If $\alpha$, $\beta$ are the roots of the equation, x 2 - x - 1 = 0 and S n = 2023$\alpha$ n + 2024$\beta$ n , then
+\begin{choices}
+  \choice 2 S 12 = S 11 + S 10
+  \choice S 12 = S 11 + S 10
+  \choice 2 S 11 = S 12 + S 10
+  \choice S 11 = S 10 + S 12
+\end{choices}
+
+\question
+Let be the hyperbola, whose eccentricity is and the length of the latus rectum is . Suppose the point lies on . If is the product of the focal distances of the point , then is equal to
+\begin{choices}
+  \choice 172
+  \choice 171
+  \choice 169
+  \choice 170
+\end{choices}
+
+\question
+The area of the region enclosed by the parabola $y$= 4$x$-$x$ 2 and 3$y$= $x$-4 2 is equal to
+\begin{choices}
+  \choice 32/9
+  \choice 4
+  \choice 6
+  \choice 14/3
+\end{choices}
+
+\question
+If the sum of the series is equal to 5 , then is equal to :
+\begin{choices}
+  \choice 10
+  \choice 5
+  \choice 15
+  \choice 20
+\end{choices}
+
+\question
+Let $S$= $z$∈$C$: $z$-1 = 1 and $\sqrt{}$2 -1$z$+ ¯ $z$- $i$$z$- ¯ $z$= 2$\sqrt{}$2 . Let $z$ 1 , $z$ 2 ∈$S$ be such that $z$ 1 = max $z$∈$s$ $z$ and $z$ 2 = min $z$∈$s$ $z$ . Then $\sqrt{}$2$z$ 1 -$z$ 2 2 equals:
+\begin{choices}
+  \choice 1
+  \choice 4
+  \choice 3
+  \choice 2
+\end{choices}
+
+\question
+If and , then is equal to:
+\begin{choices}
+  \choice 3
+  \choice 0
+  \choice 1
+  \choice 2
+\end{choices}
+
+\question
+If the domain of the function $f$$x$= log $e$ 2$x$+ 3 4$x$ 2 + $x$- 3 + cos^-12$x$- 1 $x$+ 2 is ( $\alpha$, $\beta$] , then the value of 5$\beta$- 4$\alpha$ is equal to
+\begin{choices}
+  \choice 10
+  \choice 12
+  \choice 11
+  \choice 9
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{80}
+\question
+Let $S$ $n$ be the sum to n-terms of an arithmetic progression 3, 7, 11, … … , if 40 < 6 $n$( $n$+ 1 ) $\sum$ $k$= 1 $n$ $S$ $k$ < 42 , then $n$ equals ____________.
+
+\question
+Consider a circle $x$- $\alpha$ 2 + $y$- $\beta$ 2 = 50 , where $\alpha$, $\beta$> 0 . If the circle touches the line $y$+ $x$= 0 at the point P , whose distance from the origin is 4$\sqrt{}$2 , then ( $\alpha$+ $\beta$) 2 is equal to _______.
+
+\question
+The number of symmetric relations defined on the set \{1, 2, 3, 4\} which are not reflexive is \_\_\_\_\_\_\_.
+
+\question
+If , then is equal to \_\_\_\_\_\_
+
+\question
+Let be a twice differentiable function. If for some and , then is equal to \_\_\_\_\_\_\_.
+
+\question
+If lim $x$$\rightarrow$0 $a$$x$ 2 $e$ $x$ -$b$log $e$ 1 + $x$+ $c$$x$$e$ -$x$ $x$ 2 sin$x$ = 1 , then 16$a$ 2 + $b$ 2 + $c$ 2 is equal to ______.
+
+\question
+Let and denote the outcome of three independent rolls of a fair tetrahedral die, whose four faces are marked . If the probability that has all real roots is , , then is equal to \_\_\_\_\_\_\_\_
+
+\question
+If , where denotes the greatest integer function, then is equal to \_\_\_\_\_\_\_.
+
+\question
+Let $A$-2, -1, $B$1, 0, $C$$\alpha$, $\beta$ and $D$$\gamma$, $\delta$ be the vertices of a parallelogram $A$$B$$C$$D$ . If the point $C$ lies on 2$x$-$y$= 5 and the point $D$ lies on 3$x$-2$y$= 6 , then the value of $\alpha$+ $\beta$+ $\gamma$+ $\delta$ is equal to ______.
+
+\question
+For , if , then is equal to\_\_\_\_\_
+
+\end{questions}
+
+
+\newpage
+\sectiontitle{Answer Key}
+
+
+\textbf{Physics}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q1 & Q2 & Q3 & Q4 & Q5 & Q6 & Q7 & Q8 & Q9 & Q10 \\\hline
+(3) & (3) & (3) & (4) & (1) & (2) & (2) & (4) & (4) & (4) \\\hline
+Q11 & Q12 & Q13 & Q14 & Q15 & Q16 & Q17 & Q18 & Q19 & Q20 \\\hline
+(3) & (4) & (2) & (3) & (4) & (1) & (4) & (2) & (1) & (4) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q21 & Q22 & Q23 & Q24 & Q25 & Q26 & Q27 & Q28 & Q29 & Q30 \\\hline
+30 & 160 & 2 & 3 & 10 & 5 & 35 & 22 & 2 & 58 \\\hline
+\end{tabular}\\[1em]
+
+
+\textbf{Chemistry}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q31 & Q32 & Q33 & Q34 & Q35 & Q36 & Q37 & Q38 & Q39 & Q40 \\\hline
+(4) & (3) & (2) & (3) & (1) & (4) & (4) & (1) & (3) & (2) \\\hline
+Q41 & Q42 & Q43 & Q44 & Q45 & Q46 & Q47 & Q48 & Q49 & Q50 \\\hline
+(2) & (4) & (1) & (1) & (4) & (4) & (4) & (2) & (2) & (4) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q51 & Q52 & Q53 & Q54 & Q55 & Q56 & Q57 & Q58 & Q59 & Q60 \\\hline
+2 & 2 & 9 & 6 & 6 & 160 & 2 & 2 & 80 & 400 \\\hline
+\end{tabular}\\[1em]
+
+
+\textbf{Mathematics}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q61 & Q62 & Q63 & Q64 & Q65 & Q66 & Q67 & Q68 & Q69 & Q70 \\\hline
+(4) & (4) & (2) & (4) & (1) & (4) & (1) & (3) & (1) & (4) \\\hline
+Q71 & Q72 & Q73 & Q74 & Q75 & Q76 & Q77 & Q78 & Q79 & Q80 \\\hline
+(2) & (4) & (2) & (2) & (2) & (3) & (2) & (4) & (2) & (2) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q81 & Q82 & Q83 & Q84 & Q85 & Q86 & Q87 & Q88 & Q89 & Q90 \\\hline
+9 & 100 & 960 & 465 & 112 & 81 & 19 & 12 & 32 & 47 \\\hline
+\end{tabular}\\[1em]
+
+
+\end{document}

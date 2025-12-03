@@ -1,0 +1,855 @@
+\documentclass[12pt,a4paper]{exam}
+
+% Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{enumitem}
+\usepackage{multicol}
+\usepackage{newunicodechar}
+
+% Unicode math character mappings
+\newunicodechar{𝜀}{$\varepsilon$}
+\newunicodechar{𝑃}{$P$}
+\newunicodechar{𝑉}{$V$}
+\newunicodechar{𝐾}{$K$}
+\newunicodechar{𝐴}{$A$}
+\newunicodechar{𝐵}{$B$}
+\newunicodechar{𝐶}{$C$}
+\newunicodechar{𝐷}{$D$}
+\newunicodechar{𝐸}{$E$}
+\newunicodechar{𝑇}{$T$}
+\newunicodechar{𝑅}{$R$}
+\newunicodechar{𝐼}{$I$}
+\newunicodechar{𝑁}{$N$}
+\newunicodechar{𝑀}{$M$}
+\newunicodechar{𝐿}{$L$}
+\newunicodechar{𝑎}{$a$}
+\newunicodechar{𝑏}{$b$}
+\newunicodechar{𝑐}{$c$}
+\newunicodechar{𝑑}{$d$}
+\newunicodechar{𝑒}{$e$}
+\newunicodechar{𝑓}{$f$}
+\newunicodechar{𝑔}{$g$}
+\newunicodechar{𝑛}{$n$}
+\newunicodechar{𝑚}{$m$}
+\newunicodechar{𝑟}{$r$}
+\newunicodechar{𝑠}{$s$}
+\newunicodechar{𝑡}{$t$}
+\newunicodechar{𝑥}{$x$}
+\newunicodechar{𝑦}{$y$}
+\newunicodechar{𝑧}{$z$}
+\newunicodechar{α}{$\alpha$}
+\newunicodechar{β}{$\beta$}
+\newunicodechar{γ}{$\gamma$}
+\newunicodechar{δ}{$\delta$}
+\newunicodechar{ε}{$\varepsilon$}
+\newunicodechar{θ}{$\theta$}
+\newunicodechar{λ}{$\lambda$}
+\newunicodechar{μ}{$\mu$}
+\newunicodechar{π}{$\pi$}
+\newunicodechar{ρ}{$\rho$}
+\newunicodechar{σ}{$\sigma$}
+\newunicodechar{τ}{$\tau$}
+\newunicodechar{φ}{$\varphi$}
+\newunicodechar{ω}{$\omega$}
+\newunicodechar{Ω}{$\Omega$}
+\newunicodechar{°}{$^\circ$}
+\newunicodechar{±}{$\pm$}
+\newunicodechar{×}{$\times$}
+\newunicodechar{÷}{$\div$}
+\newunicodechar{√}{$\sqrt{}$}
+\newunicodechar{∞}{$\infty$}
+\newunicodechar{≠}{$\neq$}
+\newunicodechar{≤}{$\leq$}
+\newunicodechar{≥}{$\geq$}
+\newunicodechar{→}{$\rightarrow$}
+\newunicodechar{←}{$\leftarrow$}
+\newunicodechar{↔}{$\leftrightarrow$}
+
+% Page geometry
+\geometry{
+    top=1.5cm,
+    bottom=2cm,
+    left=2cm,
+    right=2cm,
+    headheight=1.5cm
+}
+
+% Colors
+\definecolor{headerblue}{RGB}{0, 51, 102}
+\definecolor{sectiongreen}{RGB}{0, 102, 51}
+
+% Header/Footer using exam class commands
+\pagestyle{headandfoot}
+\firstpageheader{}{}{}
+\runningheader{\textsc{JEE Main Practice Paper}}{}{\textsc{Page \thepage}}
+\runningfooter{}{Generated: December 01, 2025}{}
+
+% Custom commands
+\newcommand{\sectiontitle}[1]{%
+    \vspace{1em}
+    \noindent\colorbox{headerblue}{\parbox{\dimexpr\textwidth-2\fboxsep}{%
+        \centering\color{white}\Large\bfseries #1
+    }}
+    \vspace{0.5em}
+}
+
+% Question format
+\renewcommand{\questionlabel}{\textbf{Q\thequestion.}}
+\renewcommand{\choicelabel}{(\thechoice)}
+
+% Hide answers in questions (they go in answer key)
+\noprintanswers
+
+\begin{document}
+
+% Title Page
+\begin{center}
+    {\Huge\bfseries\color{headerblue} JEE Main Practice Paper}\\[0.5em]
+    {\large Based on JEE Main Pattern}\\[1em]
+    {\normalsize Generated: December 01, 2025 | Difficulty: Medium}\\[0.5em]
+    \rule{\textwidth}{1pt}
+\end{center}
+
+\vspace{0.5em}
+\noindent\textbf{Instructions:}
+\begin{itemize}[nosep,leftmargin=*]
+    \item This paper contains 90 questions (30 per subject).
+    \item Each subject has 20 MCQs and 10 Integer Type questions.
+    \item MCQ: +4 for correct, -1 for incorrect.
+    \item Integer: +4 for correct, 0 for incorrect.
+    \item Time: 3 hours | Maximum Marks: 360
+\end{itemize}
+\rule{\textwidth}{0.5pt}
+
+
+\sectiontitle{Physics}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{0}
+\question
+A beam of unpolarised light of intensity 𝐼 0 is passed through a polaroid 𝐴 and then through another polaroid 𝐵 which is oriented so that its principal plane makes an angle of 45° relative to that of 𝐴 . The intensity of emergent light is :
+\begin{choices}
+  \choice 𝐼 0 4
+  \choice 𝐼 0
+  \choice 𝐼 0 2
+  \choice 𝐼 0 8
+\end{choices}
+
+\question
+The fundamental frequency of a closed organ pipe is equal to the first overtone frequency of an open organ pipe. If length of the open pipe is 60 cm , the length of the closed pipe will be :
+\begin{choices}
+  \choice 60 cm
+  \choice 45 cm
+  \choice 30 cm
+  \choice 15 cm
+\end{choices}
+
+\question
+An electron is projected with uniform velocity along the axis inside a current carrying long solenoid. Then :
+\begin{choices}
+  \choice the electron will continue to move with uniform velocity along the axis of the solenoid.
+  \choice the electron will be accelerated along the axis.
+  \choice the electron path will be circular about the axis.
+  \choice the electron will experience a force at to the axis and execute a helical path.
+\end{choices}
+
+\question
+A proton moving with a constant velocity passes through a region of space without any change in its velocity. If and represent the electric and magnetic fields respectively, then the region of space may have : (A) ; (B) ; (C) ; (D) Choose the most appropriate answer from the options given below :
+\begin{choices}
+  \choice (A), (B) and (C) only
+  \choice (A), (C) and (D) only
+  \choice (A), (B) and (D) only
+  \choice (B), (C) and (D) only
+\end{choices}
+
+\question
+Consider two physical quantities 𝐴 and 𝐵 related to each other as 𝐸= 𝐵-𝑥 2 𝐴t where 𝐸, 𝑥 and t have dimensions of energy, length and time respectively. The dimension of 𝐴𝐵 is
+\begin{choices}
+  \choice L -2 M 1 T 0
+  \choice L 2 M -1 T 1
+  \choice L -2 M -1 T 1
+  \choice L 0 M -1 T 1
+\end{choices}
+
+\question
+The equation of stationary wave is : Which of the following is NOT correct :
+\begin{choices}
+  \choice The dimensions of is [T]
+  \choice The dimensions of is
+  \choice The dimensions of is [L]
+  \choice The dimensions of is [L]
+\end{choices}
+
+\question
+A light string passing over a smooth light fixed pulley connects two blocks of masses 𝑚 1 and 𝑚 2 . If the acceleration of the system is g 8 , then the ratio of masses is
+\begin{choices}
+  \choice 9/7
+  \choice 8/1
+  \choice 4/3
+  \choice 5/3
+\end{choices}
+
+\question
+A particle of charge -𝑞 and mass 𝑚 moves in a circle of radius 𝑟 around an infinitely long line charge of linear density +𝜆 . Then time period will be given as: (Consider 𝑘 as Coulomb's constant)
+\begin{choices}
+  \choice T 2 = 4π 2 𝑚 2𝑘𝜆𝑞 𝑟 3
+  \choice T= 2π𝑟√ 𝑚 2𝑘𝜆𝑞
+  \choice T= 1 2π𝑟 √ 𝑚 2𝑘𝜆𝑞
+  \choice T= 1 2π √ 2𝑘𝜆𝑞 𝑚
+\end{choices}
+
+\question
+An object of mass ' m ' is projected from origin in a vertical plane at an angle with the x axis with an initial velocity . The magnitude and direction of the angular momentum of the object with respect to origin, when it reaches at the maximum height, will be [ g is acceleration due to gravity]
+\begin{choices}
+  \choice along negative -axis
+  \choice along positive -axis
+  \choice along negative -axis
+  \choice along positive -axis
+\end{choices}
+
+\question
+A transparent film of refractive index, 2.0 is coated on a glass slab of refractive index, 1.45. What is the minimum thickness of transparent film to be coated for the maximum transmission of Green light of wavelength 550 nm . [Assume that the light is incident nearly perpendicular to the glass surface.]
+\begin{choices}
+  \choice 137.5 nm
+  \choice 275 nm
+  \choice 94.8 nm
+  \choice 68.7 nm
+\end{choices}
+
+\question
+In a photoelectric effect experiment a light of frequency 1.5 times the threshold frequency is made to fall on the surface of photosensitive material. Now if the frequency is halved and intensity is doubled, the number of photo electrons emitted will be:
+\begin{choices}
+  \choice Doubled
+  \choice Quadrupled
+  \choice Zero
+  \choice Halved
+\end{choices}
+
+\question
+Projectiles 𝐴 and 𝐵 are thrown at angles of 45° and 60° with vertical respectively from top of a 400 m high tower. If their times of flight are same, the ratio of their speeds of projection 𝑣 𝐴 : 𝑣 𝐵 is:
+\begin{choices}
+  \choice 1: √3
+  \choice √2: 1
+  \choice 1: 2
+  \choice 1: √2
+\end{choices}
+
+\question
+When a potential difference 𝑉 is applied across a wire of resistance R , it dissipates energy at a rate 𝑊. If the wire is cut into two halves and these halves are connected mutually parallel across the same supply, the energy dissipation rate will become:
+\begin{choices}
+  \choice 1 4 W
+  \choice 1 2 W
+  \choice 2 W
+  \choice 4 W
+\end{choices}
+
+\question
+In a nuclear fission reaction of an isotope of mass M , three similar daughter nuclei of same mass are formed. The speed of a daughter nuclei in terms of mass defect 𝛥M will be :
+\begin{choices}
+  \choice √ 2𝑐𝛥M M
+  \choice 𝛥M𝑐 2/3
+  \choice 𝑐√ 2𝛥M M
+  \choice 𝑐√ 3𝛥M M
+\end{choices}
+
+\question
+The number of spectral lines emitted by atomic hydrogen that is in the energy level, is
+\begin{choices}
+  \choice 3
+  \choice 1
+  \choice 6
+  \choice 0
+\end{choices}
+
+\question
+The mass number of nucleus having radius equal to half of the radius of nucleus with mass number 192 is:
+\begin{choices}
+  \choice 24
+  \choice 32
+  \choice 40
+  \choice 20
+\end{choices}
+
+\question
+In finding out refractive index of glass slab the following observations were made through travelling microscope 50 vernier scale division divisions on main scale in each For mark on paper
+\begin{choices}
+  \choice 1.52
+  \choice 1.35
+  \choice 1.42
+  \choice 1.24
+\end{choices}
+
+\question
+The radius 𝑟 , length 𝑙 and resistance R of a metal wire was measured in the laboratory as 𝑟= 0.35 ± 0.05 cm , R= 100 ± 10 ohm , 𝑙= 15 ± 0.2 cm The percentage error in resistivity of the material of the wire is :
+\begin{choices}
+  \choice 25.6\%
+  \choice 39.9\%
+  \choice 37.3\%
+  \choice 35.6\%
+\end{choices}
+
+\question
+With rise in temperature, the Young's modulus of elasticity
+\begin{choices}
+  \choice changes erratically
+  \choice decreases
+  \choice increases
+  \choice remains unchanged
+\end{choices}
+
+\question
+A monochromatic light of wavelength 6000 o A is incident on the single slit of width 0.01 mm . If the diffraction pattern is formed at the focus of the convex lens of focal length 20 cm , the linear width of the central maximum is :
+\begin{choices}
+  \choice 60 mm
+  \choice 24 mm
+  \choice 120 mm
+  \choice 12 mm
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{20}
+\question
+Two soap bubbles of radius 2 cm and 4 cm , respectively, are in contact with each other. The radius of curvature of the common surface, in cm , is \_\_\_\_\_\_ .
+
+\question
+Two charges of -4 μC and +4 μC are placed at the points 𝐴( 1, 0, 4 ) m and 𝐵( 2, - 1, 5 ) m located in an electric field → 𝐸= 0.20 \textasciicircum{} i V cm\textasciicircum{}-1 . The magnitude of the torque acting on the dipole is 8√𝛼× 10\textasciicircum{}-5 N m , where 𝛼= \_\_\_\_\_\_\_\_\_.
+
+\question
+Let be the image of the point in the line . Then is equal to\_\_\_\_\_\_\_
+
+\question
+An air bubble of radius 1.0 mm is observed at a depth of 20 cm below the free surface of a liquid having surface tension and density . The difference between pressure inside the bubble and atmospheric pressure is \_\_\_\_\_ . (Take )
+
+\question
+A nucleus has mass number 𝐴 1 and volume 𝑉 1 . Another nucleus has mass number 𝐴 2 and volume 𝑉 2 . If relation between mass number is 𝐴 2 = 4𝐴 1 , then 𝑉 2 𝑉 1 = \_\_\_\_\_\_\_.
+
+\question
+In a closed organ pipe, the frequency of fundamental note is . A certain amount of water is now poured in the organ pipe so that the fundamental frequency is increased to . If the organ pipe has a cross- sectional area of , the amount of water poured in the organ tube is \_\_\_\_\_\_\_\_ . (Take speed of sound in air is )
+
+\question
+The fractional compression of water at the depth of 2.5 km below the sea level is \_\_\_\_\_\_ . Given, the Bulk modulus of water , density of water , acceleration due to gravity .
+
+\question
+The maximum height reached by a projectile is . If the initial velocity is halved, the new maximum height of the projectile is \_\_\_\_\_ .
+
+\question
+The disintegration energy for the nuclear fission of is \_\_\_\_\_\_ . Given atomic masses of , Value of
+
+\question
+The position, velocity and acceleration of a particle executing simple harmonic motion are found to have magnitudes of and at a certain instant. The amplitude of the motion is where is \_\_\_\_\_\_\_\_
+
+\end{questions}
+
+
+\sectiontitle{Chemistry}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{30}
+\question
+Which of the following reactions are disproportionation reactions? 1 Cu + →Cu 2 + + Cu 2 3MnO 4 2 - + 4 H + →2MnO 4 - + MnO 2 + 2 H 2 O 3 2KMnO 4 →K 2 MnO 4 + MnO 2 + O 2 4 2MnO 4 - + 3 Mn 2 + + 2 H 2 O →5MnO 2 + 4 H + Choose the correct answer from the options given below:
+\begin{choices}
+  \choice 1, 2
+  \choice 2, 3, 4
+  \choice 1, 2, 4
+  \choice 1, 4
+\end{choices}
+
+\question
+An amount of ice of mass and temperature is transformed to vapour of temperature by applying heat. The total amount of work required for this conversion is, (Take, specific heat of ice , specific heat of water , specific heat of steam , Latent heat of ice and Latent heat of steam )
+\begin{choices}
+  \choice 3043 J
+  \choice 3024 J
+  \choice 3003 J
+  \choice 3022 J
+\end{choices}
+
+\question
+IUPAC name of following hydrocarbon is :
+\begin{choices}
+  \choice 2-Ethyl-3,6-dimethylheptane
+  \choice 2,5,6-Trimethyloctane
+  \choice 3,4,7-Trimethyloctane
+  \choice 2-Ethyl-2,6-diethylheptane
+\end{choices}
+
+\question
+The ascending acidity order of the following H atoms is
+\begin{choices}
+  \choice C < D < B < A
+  \choice A < B < C < D
+  \choice A < B < D < C
+  \choice D < C < B < A
+\end{choices}
+
+\question
+The equilibrium is shifted to the right in :
+\begin{choices}
+  \choice an acidic medium
+  \choice a basic medium
+  \choice a neutral medium
+  \choice a weakly acidic medium
+\end{choices}
+
+\question
+Number of complexes from the following with even number of unpaired " " electrons is [Given atomic numbers : ]
+\begin{choices}
+  \choice 2
+  \choice 1
+  \choice 4
+  \choice 5
+\end{choices}
+
+\question
+Given below are two statements I and II. Statement I: Dumas method is used for estimation of "Nitrogen" in an organic compound. Statement II: Dumas method involves the formation of ammonium sulphate by heating the organic compound with conc . In the light of the above statements, choose the correct answer from the options given below
+\begin{choices}
+  \choice Statement I is true but Statement II is false
+  \choice Both Statement I and Statement II are false
+  \choice Statement I is false but Statement II is true
+  \choice Both Statement I and Statement II are true
+\end{choices}
+
+\question
+Phenolic group can be identified by a positive:
+\begin{choices}
+  \choice Phthalein dye test
+  \choice Lucas test
+  \choice Tollen’s test
+  \choice Carbylamine test
+\end{choices}
+
+\question
+Total number of nucleophiles from the following is :
+\begin{choices}
+  \choice 7
+  \choice 4
+  \choice 6
+  \choice 5
+\end{choices}
+
+\question
+IUPAC name of following compound is
+\begin{choices}
+  \choice 2 – Aminopentanenitrile
+  \choice 2 – Aminobutanenitrile
+  \choice 3 – Aminobutanenitrile
+  \choice 3 – Aminopropanenitrile
+\end{choices}
+
+\question
+Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A): reaction of occurs more readily than the reaction of . Reason (R) : The partially bonded unhybridized p-orbital that develops in the trigonal bipyramidal transition state is stabilized by conjugation with the phenyl ring. In the light of the above statements, choose the most appropriate answer from the options given below :
+\begin{choices}
+  \choice (A) is correct but (R) is not correct
+  \choice (A) is not correct but (R) is correct
+  \choice Both (A) and (R) are correct but (R) is not the correct explanation of (A)
+  \choice Both (A) and (R) are correct and (R) is the correct explanation of
+\end{choices}
+
+\question
+The -Helix and - Pleated sheet structures of protein are associated with its :
+\begin{choices}
+  \choice tertiary structure
+  \choice quaternary structure
+  \choice secondary structure
+  \choice primary structure 2025 (23 Jan Shift 2)
+\end{choices}
+
+\question
+Lassaigne's test is used for detection of:
+\begin{choices}
+  \choice Nitrogen and Sulphur only
+  \choice Nitrogen, Sulphur and Phosphorous Only
+  \choice Phosphorous and halogens only
+  \choice Nitrogen, Sulphur, and halogens
+\end{choices}
+
+\question
+The atomic mass of 6 C 12 is 12.000000 u and that of 6 C 13 is 13.003354 u . The required energy to remove a neutron from 6 C 13 , if mass of neutron is 1.008665 u , will be:
+\begin{choices}
+  \choice 62.5MeV
+  \choice 6.25MeV
+  \choice 4.95MeV
+  \choice 49.5MeV
+\end{choices}
+
+\question
+Product 'A' Consider the above reactions, identify product and product .
+\begin{choices}
+  \choice -Propanol -Propanol
+  \choice -Propanol
+  \choice -Propanol -Propanol
+  \choice -Propanol
+\end{choices}
+
+\question
+Given below are two statements : one is labelled as Assertion A and the other is labelled as Reason R: Assertion A: The first ionisation enthalpy decreases across a period. Reason R: The increasing nuclear charge outweighs the shielding across the period. In the light of the above statements, choose the most appropriate from the options given below:
+\begin{choices}
+  \choice Both A and R are true and R is the correct explanation of A
+  \choice A is true but R is false
+  \choice A is false but R is true
+  \choice Both A and R are true but R is NOT the correct explanation of A
+\end{choices}
+
+\question
+The incorrect statements regarding enzymes are : (A) Enzymes are biocatalysts. (B) Enzymes are non-specific and can catalyse different kinds of reactions. (C) Most Enzymes are globular proteins. (D) Enzyme - oxidase catalyses the hydrolysis of maltose into glucose. Choose the correct answer from the option given below :
+\begin{choices}
+  \choice (B), (C) and (D)
+  \choice (B) and (D)
+  \choice (A), (B) and (C)
+  \choice (B) and (C)
+\end{choices}
+
+\question
+Which of the following statement is not true for radioactive decay?
+\begin{choices}
+  \choice Decay constant increases with increase in temperature.
+  \choice Amount of radioactive substance remained after three half lives is th of original amount.
+  \choice Decay constant does not depend upon temperature.
+  \choice Half life is times of .
+\end{choices}
+
+\question
+Choose the correct Statements from the following: (A) is a chelating ligand. (B) Metallic aluminium is produced by electrolysis of aluminium oxide in presence of cryolite. (C) Cyanide ion is used as ligand for leaching of silver. (D) Phosphine act as a ligand in Wilkinson catalyst. (E) The stability constants of and are similar with EDTA complexes. Choose the correct answer from the options given below:
+\begin{choices}
+  \choice (B), (C), (E) only
+  \choice (C), (D), (E) only
+  \choice (A), (B), (C) only
+  \choice (A), (D), (E) only
+\end{choices}
+
+\question
+The correct IUPAC name of is :
+\begin{choices}
+  \choice dibromodi(trimethylphosphine)platinum(II)
+  \choice bis(trimethylphosphine)dibromoplatinum(II)
+  \choice dibromobis(trimethylphosphine)platinum(II)
+  \choice bis[bromo(trimethylphosphine)]platinum(II)
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{50}
+\question
+A transition metal ' ' among and has the highest second ionisation enthalpy. The spin- only magnetic moment value of ion is \_\_\_\_\_\_\_. (Near integer) (Given atomic number )
+
+\question
+If of oxalic acid is required to neutralise of solution, the amount of in of given solution is\_\_\_\_\_\_\_g.
+
+\question
+When 81.0 g of aluminium is allowed to react with 128.0 g of oxygen gas, the mass of aluminium oxide produced in grams is\_\_\_\_\_\_\_ - (Nearest integer) Given : Molar mass of Al is Molar mass of O is
+
+\question
+The formation enthalpies, for and are 220.0 and , respectively, at 298.15 K , and for is at the same temperature. The average bond enthalpy of the bond in water at 298.15 K is \_\_\_\_\_\_\_\_\_\_ (nearest integer).
+
+\question
+An ideal gas, , is expanded adiabatically against a constant pressure of 1 atm untill it doubles in volume. If the initial temperature and pressure is and , respectively then the final temperature is \_\_\_\_\_\_\_ (nearest integer). [ is the molar heat capacity at constant volume]
+
+\question
+of each of water and acetic acid are mixed. The freezing point of the solution will be . Consider the acetic acid does not dimerise in water, nor dissociates in water. \_\_\_\_\_\_ (nearest integer) [Given: Molar mass of water , acetic acid acetic acid: freezing point: , acetic acid ]
+
+\question
+Vanillin compound obtained from vanilla beans, has total sum of oxygen atoms and electrons is \_\_\_\_\_\_
+
+\question
+An octahedral complex with the formula upon reaction with excess of solution gives 2 moles of . Consider the oxidation state of in the complex is ' '. The value of " " is \_\_\_\_\_\_
+
+\question
+Number of colourless lanthanoid ions among the following is \_\_\_\_\_\_\_\_
+
+\question
+The molarity of 1 L orthophosphoric acid H 3 PO 4 having 70\% purity by weight (specific gravity 1.54 g cm\textasciicircum{}-3 ) is \_\_\_\_\_\_ M . (Molar mass of H 3 PO 4 = 98 g mol -1 )
+
+\end{questions}
+
+
+\sectiontitle{Mathematics}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{60}
+\question
+If all the words with or without meaning made using all the letters of the word "NAGPUR" are arranged as in a dictionary, then the word at position in this arrangement is :
+\begin{choices}
+  \choice NRAGUP
+  \choice NRAPUG
+  \choice NRAPGU
+  \choice NRAGPU
+\end{choices}
+
+\question
+If the system of equations has infinitely many solutions, then is equal to :
+\begin{choices}
+  \choice 51
+  \choice 45
+  \choice 47
+  \choice 49
+\end{choices}
+
+\question
+The area of the region enclosed by the parabola 𝑦= 4𝑥-𝑥 2 and 3𝑦= 𝑥-4 2 is equal to
+\begin{choices}
+  \choice 32/9
+  \choice 4
+  \choice 6
+  \choice 14/3
+\end{choices}
+
+\question
+Let 𝑓: →R→0, ∞ be strictly increasing function such that lim 𝑥→∞ 𝑓7𝑥 𝑓𝑥 = 1 . Then, the value of lim 𝑥→∞ 𝑓5𝑥 𝑓𝑥 -1 is equal to
+\begin{choices}
+  \choice 4
+  \choice 0
+  \choice 7/5
+  \choice 1
+\end{choices}
+
+\question
+Let 𝑓𝑥= 2𝑥 2 + 5𝑥- 3, 𝑥∈R . If 𝑚 and 𝑛 denote the number of points where 𝑓 is not continuous and not differentiable respectively, then 𝑚+ 𝑛 is equal to:
+\begin{choices}
+  \choice 5
+  \choice 2
+  \choice 0
+  \choice 3
+\end{choices}
+
+\question
+For 𝛼, 𝛽, 𝛾≠0 . If sin(-1) 𝛼+ sin(-1) 𝛽+ sin(-1) 𝛾= π and 𝛼+ 𝛽+ 𝛾𝛼-𝛾+ 𝛽= 3𝛼𝛽 , then 𝛾 equal to
+\begin{choices}
+  \choice √3/2
+  \choice 1 √ 2
+  \choice √3 - 1 2√2
+  \choice √3
+\end{choices}
+
+\question
+If the domain of the function is , then is equal to :
+\begin{choices}
+  \choice 32
+  \choice 40
+  \choice 24
+  \choice 36
+\end{choices}
+
+\question
+Consider an A. P. of positive integers, whose sum of the first three terms is 54 and the sum of the first twenty terms lies between 1600 and 1800. Then its term is :
+\begin{choices}
+  \choice 90
+  \choice 84
+  \choice 122
+  \choice 108
+\end{choices}
+
+\question
+The solution curve of the differential equation 𝑦 𝑑𝑥 𝑑𝑦 = 𝑥log 𝑒 𝑥- log 𝑒 𝑦+ 1, 𝑥> 0, 𝑦> 0 passing through the point ( 𝑒, 1 ) is
+\begin{choices}
+  \choice log 𝑒 𝑦 𝑥 = 𝑥
+  \choice log 𝑒 𝑦 𝑥 = 𝑦 2
+  \choice log 𝑒 𝑥 𝑦 = 𝑦
+  \choice 2log 𝑒 𝑥 𝑦 = 𝑦+ 1
+\end{choices}
+
+\question
+For the function , between the following two statements (S1) for only one value of in . (S2) is decreasing in and increasing in .
+\begin{choices}
+  \choice Both (S1) and (S2) are correct.
+  \choice Both (S1) and (S2) are incorrect.
+  \choice Only (S2) is correct.
+  \choice Only (S1) is correct.
+\end{choices}
+
+\question
+Let is neither a multiple of 3 nor a multiple of 4 . Then the number of elements in is
+\begin{choices}
+  \choice 290
+  \choice 280
+  \choice 300
+  \choice 310
+\end{choices}
+
+\question
+60 words can be made using all the letters of the word BHBJO, with or without meaning. If these words are written as in a dictionary, then the word is :
+\begin{choices}
+  \choice JBBOH
+  \choice OBBJH
+  \choice OBBHJ
+  \choice HBBJO
+\end{choices}
+
+\question
+If , then equals
+\begin{choices}
+  \choice 64
+  \choice 196
+  \choice 144
+  \choice 100
+\end{choices}
+
+\question
+Let 𝑓: R→R be defined as 𝑓𝑥= 𝑎-𝑏cos2𝑥 𝑥 2 ; 𝑥< 0 𝑥 2 + 𝑐𝑥+ 2; 0 ≤𝑥≤1 2𝑥+ 1; 𝑥> 1 If 𝑓 is continuous everywhere in R and 𝑚 is the number of points where 𝑓 is NOT differential then 𝑚 + 𝑎 + 𝑏 + 𝑐 equals:
+\begin{choices}
+  \choice 1
+  \choice 4
+  \choice 3
+  \choice 2
+\end{choices}
+
+\question
+Let the mean and the variance of 6 observation 𝑎, 𝑏, 68, 44, 48, 60 be 55 and 194 , respectively if 𝑎> 𝑏 , then 𝑎+ 3𝑏 is
+\begin{choices}
+  \choice 200
+  \choice 190
+  \choice 180
+  \choice 210
+\end{choices}
+
+\question
+Let , where is the constant of integration. If , then equals :
+\begin{choices}
+  \choice 48
+  \choice 55
+  \choice 62
+  \choice 47
+\end{choices}
+
+\question
+Let and . If , then is equal to:
+\begin{choices}
+  \choice 36
+  \choice 16
+  \choice 1
+  \choice 49
+\end{choices}
+
+\question
+Let the circles and touch each other externally at the point . If the point divides the line segment joining the centres of the circles and internally in the ratio , then equals
+\begin{choices}
+  \choice 125
+  \choice 130
+  \choice 110
+  \choice 145
+\end{choices}
+
+\question
+Let and . Then the total number of one-one maps , such that , is :
+\begin{choices}
+  \choice 480
+  \choice 240
+  \choice 120
+  \choice 180
+\end{choices}
+
+\question
+Let be the term of an A.P. If for some , and , then is equal to
+\begin{choices}
+  \choice 98
+  \choice 126
+  \choice 142
+  \choice 112
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{80}
+\question
+If the integral 525 π 2 ∫ 0 sin2𝑥 cos(11) 2 𝑥1 + cos(5) 2 𝑥 1 2 𝑑𝑥 is equal to 𝑛√2 -64 , then 𝑛 is equal to \_\_\_\_\_\_\_\_
+
+\question
+The number of elements in the set 𝑆= 𝑥, 𝑦, 𝑧: 𝑥, 𝑦, 𝑧∈𝑍, 𝑥+ 2𝑦+ 3𝑧= 42, 𝑥, 𝑦, 𝑧≥0 equals \_\_\_\_\_\_\_\_
+
+\question
+Let be , using only the principal values of the inverse trigonometric functions. Then is equal to \_\_\_\_\_\_\_\_
+
+\question
+The number of real solutions of the equation is\_\_\_\_\_\_\_\_\_
+
+\question
+An arithmetic progression is written in the following way The sum of all the terms of the row is\_\_\_\_\_\_\_
+
+\question
+The number of integers, between 100 and 1000 having the sum of their digits equals to 14 , is \_\_\_\_\_\_\_\_\_
+
+\question
+For , if , then is equal to\_\_\_\_\_
+
+\question
+Consider two circles 𝐶 1 : 𝑥 2 + 𝑦 2 = 25 and 𝐶 2 : ( 𝑥- 𝛼) 2 + 𝑦 2 = 16 , where 𝛼∈( 5, 9 ) . Let the angle between the two radii (one to each circle) drawn from one of the intersection points of C 1 and C 2 be sin(-1)√63 8 . If the length of common chord of 𝐶 1 and 𝐶 2 is 𝛽 , then the value of ( 𝛼𝛽) 2 equals \_\_\_\_\_\_\_\_\_.
+
+\question
+Let be an Arithmetic Progression such that . Then is equal to \_\_\_\_\_\_\_
+
+\question
+Let be the point and be the foot of the perpendicular drawn from the point on the line passing through the points and . Then the length of the line segment is equal to \_\_\_\_\_\_\_\_
+
+\end{questions}
+
+
+\newpage
+\sectiontitle{Answer Key}
+
+
+\textbf{Physics}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q1 & Q2 & Q3 & Q4 & Q5 & Q6 & Q7 & Q8 & Q9 & Q10 \\\hline
+(1) & (4) & (1) & (3) & (2) & (1) & (1) & (2) & (3) & (1) \\\hline
+Q11 & Q12 & Q13 & Q14 & Q15 & Q16 & Q17 & Q18 & Q19 & Q20 \\\hline
+(3) & (4) & (4) & (3) & (3) & (1) & (3) & (2) & (2) & (2) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q21 & Q22 & Q23 & Q24 & Q25 & Q26 & Q27 & Q28 & Q29 & Q30 \\\hline
+4 & 2 & 11 & 2190 & 4 & 400 & 1 & 16 & 208 & 17 \\\hline
+\end{tabular}\\[1em]
+
+
+\textbf{Chemistry}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q31 & Q32 & Q33 & Q34 & Q35 & Q36 & Q37 & Q38 & Q39 & Q40 \\\hline
+(1) & (1) & (2) & (1) & (2) & (1) & (1) & (1) & (4) & (3) \\\hline
+Q41 & Q42 & Q43 & Q44 & Q45 & Q46 & Q47 & Q48 & Q49 & Q50 \\\hline
+(4) & (3) & (4) & (3) & (3) & (3) & (2) & (1) & (3) & (3) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q51 & Q52 & Q53 & Q54 & Q55 & Q56 & Q57 & Q58 & Q59 & Q60 \\\hline
+6 & 4 & 153 & 466 & 274 & 31 & 11 & 2 & 2 & 11 \\\hline
+\end{tabular}\\[1em]
+
+
+\textbf{Mathematics}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q61 & Q62 & Q63 & Q64 & Q65 & Q66 & Q67 & Q68 & Q69 & Q70 \\\hline
+(3) & (3) & (3) & (2) & (4) & (1) & (1) & (1) & (3) & (4) \\\hline
+Q71 & Q72 & Q73 & Q74 & Q75 & Q76 & Q77 & Q78 & Q79 & Q80 \\\hline
+(3) & (2) & (4) & (4) & (3) & (2) & (2) & (2) & (2) & (2) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q81 & Q82 & Q83 & Q84 & Q85 & Q86 & Q87 & Q88 & Q89 & Q90 \\\hline
+176 & 169 & 32 & 3 & 1505 & 70 & 47 & 1575 & 11132 & 13 \\\hline
+\end{tabular}\\[1em]
+
+
+\end{document}

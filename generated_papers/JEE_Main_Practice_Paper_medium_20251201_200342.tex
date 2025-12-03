@@ -1,0 +1,855 @@
+\documentclass[12pt,a4paper]{exam}
+
+% Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{enumitem}
+\usepackage{multicol}
+\usepackage{newunicodechar}
+
+% Unicode math character mappings
+\newunicodechar{𝜀}{$\varepsilon$}
+\newunicodechar{𝑃}{$P$}
+\newunicodechar{𝑉}{$V$}
+\newunicodechar{𝐾}{$K$}
+\newunicodechar{𝐴}{$A$}
+\newunicodechar{𝐵}{$B$}
+\newunicodechar{𝐶}{$C$}
+\newunicodechar{𝐷}{$D$}
+\newunicodechar{𝐸}{$E$}
+\newunicodechar{𝑇}{$T$}
+\newunicodechar{𝑅}{$R$}
+\newunicodechar{𝐼}{$I$}
+\newunicodechar{𝑁}{$N$}
+\newunicodechar{𝑀}{$M$}
+\newunicodechar{𝐿}{$L$}
+\newunicodechar{𝑎}{$a$}
+\newunicodechar{𝑏}{$b$}
+\newunicodechar{𝑐}{$c$}
+\newunicodechar{𝑑}{$d$}
+\newunicodechar{𝑒}{$e$}
+\newunicodechar{𝑓}{$f$}
+\newunicodechar{𝑔}{$g$}
+\newunicodechar{𝑛}{$n$}
+\newunicodechar{𝑚}{$m$}
+\newunicodechar{𝑟}{$r$}
+\newunicodechar{𝑠}{$s$}
+\newunicodechar{𝑡}{$t$}
+\newunicodechar{𝑥}{$x$}
+\newunicodechar{𝑦}{$y$}
+\newunicodechar{𝑧}{$z$}
+\newunicodechar{α}{$\alpha$}
+\newunicodechar{β}{$\beta$}
+\newunicodechar{γ}{$\gamma$}
+\newunicodechar{δ}{$\delta$}
+\newunicodechar{ε}{$\varepsilon$}
+\newunicodechar{θ}{$\theta$}
+\newunicodechar{λ}{$\lambda$}
+\newunicodechar{μ}{$\mu$}
+\newunicodechar{π}{$\pi$}
+\newunicodechar{ρ}{$\rho$}
+\newunicodechar{σ}{$\sigma$}
+\newunicodechar{τ}{$\tau$}
+\newunicodechar{φ}{$\varphi$}
+\newunicodechar{ω}{$\omega$}
+\newunicodechar{Ω}{$\Omega$}
+\newunicodechar{°}{$^\circ$}
+\newunicodechar{±}{$\pm$}
+\newunicodechar{×}{$\times$}
+\newunicodechar{÷}{$\div$}
+\newunicodechar{√}{$\sqrt{}$}
+\newunicodechar{∞}{$\infty$}
+\newunicodechar{≠}{$\neq$}
+\newunicodechar{≤}{$\leq$}
+\newunicodechar{≥}{$\geq$}
+\newunicodechar{→}{$\rightarrow$}
+\newunicodechar{←}{$\leftarrow$}
+\newunicodechar{↔}{$\leftrightarrow$}
+
+% Page geometry
+\geometry{
+    top=1.5cm,
+    bottom=2cm,
+    left=2cm,
+    right=2cm,
+    headheight=1.5cm
+}
+
+% Colors
+\definecolor{headerblue}{RGB}{0, 51, 102}
+\definecolor{sectiongreen}{RGB}{0, 102, 51}
+
+% Header/Footer using exam class commands
+\pagestyle{headandfoot}
+\firstpageheader{}{}{}
+\runningheader{\textsc{JEE Main Practice Paper}}{}{\textsc{Page \thepage}}
+\runningfooter{}{Generated: December 01, 2025}{}
+
+% Custom commands
+\newcommand{\sectiontitle}[1]{%
+    \vspace{1em}
+    \noindent\colorbox{headerblue}{\parbox{\dimexpr\textwidth-2\fboxsep}{%
+        \centering\color{white}\Large\bfseries #1
+    }}
+    \vspace{0.5em}
+}
+
+% Question format
+\renewcommand{\questionlabel}{\textbf{Q\thequestion.}}
+\renewcommand{\choicelabel}{(\thechoice)}
+
+% Hide answers in questions (they go in answer key)
+\noprintanswers
+
+\begin{document}
+
+% Title Page
+\begin{center}
+    {\Huge\bfseries\color{headerblue} JEE Main Practice Paper}\\[0.5em]
+    {\large Based on JEE Main Pattern}\\[1em]
+    {\normalsize Generated: December 01, 2025 | Difficulty: Medium}\\[0.5em]
+    \rule{\textwidth}{1pt}
+\end{center}
+
+\vspace{0.5em}
+\noindent\textbf{Instructions:}
+\begin{itemize}[nosep,leftmargin=*]
+    \item This paper contains 90 questions (30 per subject).
+    \item Each subject has 20 MCQs and 10 Integer Type questions.
+    \item MCQ: +4 for correct, -1 for incorrect.
+    \item Integer: +4 for correct, 0 for incorrect.
+    \item Time: 3 hours | Maximum Marks: 360
+\end{itemize}
+\rule{\textwidth}{0.5pt}
+
+
+\sectiontitle{Physics}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{0}
+\question
+If 50 Vernier divisions are equal to 49 main scale divisions of a travelling microscope and one smallest reading of main scale is 0.5 mm the Vernier constant of travelling microscope is:
+\begin{choices}
+  \choice 0.1 mm
+  \choice 0.1 cm
+  \choice 0.01 cm
+  \choice 0.01 mm
+\end{choices}
+
+\question
+The radius 𝑟 , length 𝑙 and resistance R of a metal wire was measured in the laboratory as 𝑟= 0.35 ± 0.05 cm , R= 100 ± 10 ohm , 𝑙= 15 ± 0.2 cm The percentage error in resistivity of the material of the wire is :
+\begin{choices}
+  \choice 25.6\%
+  \choice 39.9\%
+  \choice 37.3\%
+  \choice 35.6\%
+\end{choices}
+
+\question
+A galvanometer has a resistance of 50 𝛺 and it allows maximum current of 5 mA . It can be converted into voltmeter to measure upto 100 V by connecting in series a resistor of resistance.
+\begin{choices}
+  \choice 5975 𝛺
+  \choice 20050 𝛺
+  \choice 19950 𝛺
+  \choice 19500 𝛺
+\end{choices}
+
+\question
+10 divisions on the main scale of a Vernier calliper coincide with 11 divisions on the Vernier scale. If each division on the main scale is of 5 units, the least count of the instrument is :
+\begin{choices}
+  \choice 1/2
+  \choice 10/11
+  \choice 50/11
+  \choice 5/11
+\end{choices}
+
+\question
+A coil is placed perpendicular to a magnetic field of 5000 T . When the field is changed to 3000 T in 2 s , an induced emf of 22 V is produced in the coil. If the diameter of the coil is 0.02 m , then the number of turns in the coil is:
+\begin{choices}
+  \choice 7
+  \choice 70
+  \choice 35
+  \choice 140
+\end{choices}
+
+\question
+The pressure and volume of an ideal gas are related as 𝑃𝑉 3 2 = 𝐾 (Constant). The work done when the gas is taken from state 𝐴𝑃 1 , 𝑉 1 , T 1 to state 𝐵𝑃 2 , 𝑉 2 , T 2 is :
+\begin{choices}
+  \choice 2 ( 𝑃 1 𝑉 1 - 𝑃 2 𝑉 2 )
+  \choice 2 ( 𝑃 2 𝑉 2 - 𝑃 1 𝑉 1 )
+  \choice 2√𝑃 1 𝑉 1 -√𝑃 2 𝑉 2
+  \choice 2𝑃 2 √𝑉 2 -𝑃 1 √𝑉 1
+\end{choices}
+
+\question
+A clock has long second hand and minute hand respectively. In 30 minutes duration the tip of second hand will travel distance more than the tip of minute hand. The value of in meter is nearly (Take ) :
+\begin{choices}
+  \choice 140.5
+  \choice 118.9
+  \choice 139.4
+  \choice 220.0
+\end{choices}
+
+\question
+A particle of charge -𝑞 and mass 𝑚 moves in a circle of radius 𝑟 around an infinitely long line charge of linear density +𝜆 . Then time period will be given as: (Consider 𝑘 as Coulomb's constant)
+\begin{choices}
+  \choice T 2 = 4π 2 𝑚 2𝑘𝜆𝑞 𝑟 3
+  \choice T= 2π𝑟√ 𝑚 2𝑘𝜆𝑞
+  \choice T= 1 2π𝑟 √ 𝑚 2𝑘𝜆𝑞
+  \choice T= 1 2π √ 2𝑘𝜆𝑞 𝑚
+\end{choices}
+
+\question
+The resistance per centimeter of a meter bridge wire is 𝑟 , with 𝑋 𝛺 resistance in left gap. Balancing length from left end is at 40 cm with 25 𝛺 resistance in right gap. Now the wire is replaced by another wire of 2𝑟 resistance per centimeter. The new balancing length for same settings will be at
+\begin{choices}
+  \choice 20 cm
+  \choice 10 cm
+  \choice 80 cm
+  \choice 40 cm
+\end{choices}
+
+\question
+A nucleus at rest disintegrates into two smaller nuclei with their masses in the ratio of . After disintegration they will move :
+\begin{choices}
+  \choice in the same direction with same speed.
+  \choice in opposite directions with the same speed.
+  \choice in opposite directions with speed in the ratio of respectively.
+  \choice in opposite directions with speed in the ratio of respectively.
+\end{choices}
+
+\question
+Given below are two statements. One is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A) : Knowing initial position and initial momentum is enough to determine the position and momentum at any time for a simple harmonic motion with a given angular frequency . Reason (R): The amplitude and phase can be expressed in terms of and . In the light of the above statements, choose the correct answer from the options given below :
+\begin{choices}
+  \choice (A) is false but (R) is true
+  \choice (A) is true but (R) is false
+  \choice Both (A) and (R) are true but (R) is NOT the correct explanation of (A)
+  \choice Both and are true and is the correct explanation of
+\end{choices}
+
+\question
+Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason(R) Assertion (A) : Work done by electric field on moving a positive charge on an equipotential surface is always zero. Reason (R) : Electric lines of forces are always perpendicular to equipotential surfaces. In the light of the above statements, choose the most appropriate answer from the options given below :
+\begin{choices}
+  \choice Both (A) and (R) are correct but (R) is not the correct explanation of (A)
+  \choice (A) is correct but (R) is not correct
+  \choice (A) is not correct but (R) is correct
+  \choice Both (A) and (R) are correct and (R) is the correct explanation of (A)
+\end{choices}
+
+\question
+The dimensional formula of angular impulse is :
+\begin{choices}
+  \choice [M L – 2 T – 1 ]
+  \choice [M L 2 T – 2 ]
+  \choice [M L T – 1 ]
+  \choice [M L 2 T – 1 ]
+\end{choices}
+
+\question
+A thin plano convex lens made of glass of refractive index 1.5 is immersed in a liquid of refractive index 1.2. When the plane side of the lens is silver coated for complete reflection, the lens immersed in the liquid 2025 (24 Jan Shift 1)
+\begin{choices}
+  \choice 0.20 m
+  \choice 0.25 m
+  \choice 0.15 m
+  \choice 0.10 m
+\end{choices}
+
+\question
+If the total energy transferred to a surface in time t is 6.48 x 10\textasciicircum{}5 J , then the magnitude of the total momentum delivered to this surface for complete absorption will be :
+\begin{choices}
+  \choice 2.46 × 10\textasciicircum{}-3 kg m s\textasciicircum{}-1
+  \choice 2.16 × 10\textasciicircum{}-3 kg m s\textasciicircum{}-1
+  \choice 1.58 × 10\textasciicircum{}-3 kg m s\textasciicircum{}-1
+  \choice 4.32 × 10\textasciicircum{}-3 kg m s\textasciicircum{}-1
+\end{choices}
+
+\question
+If R is the radius of the earth and the acceleration due to gravity on the surface of earth is g= π 2 m s\textasciicircum{}-2 , then the length of the second's pendulum at a height ℎ= 2 R from the surface of earth will be:
+\begin{choices}
+  \choice 2/9 m
+  \choice 1/9 m
+  \choice 4/9 m
+  \choice 8/9 m
+\end{choices}
+
+\question
+Escape velocity of a body from earth is 11.2 km s\textasciicircum{}-1 . If the radius of a planet be one-third the radius of earth and mass be one-sixth that of earth, the escape velocity from the plate is:
+\begin{choices}
+  \choice 11.2 km s\textasciicircum{}-1
+  \choice 8.4 km s\textasciicircum{}-1
+  \choice 4.2 km s\textasciicircum{}-1
+  \choice 7.9 km s\textasciicircum{}-1
+\end{choices}
+
+\question
+A light planet is revolving around a massive star in a circular orbit of radius R with a period of revolution T. If the force of attraction between planet and star is proportional to R -3 / 2 then choose the correct option :
+\begin{choices}
+  \choice T 2 ∝R 5 / 2
+  \choice T 2 ∝R 7 / 2
+  \choice T 2 ∝R 3 / 2
+  \choice T 2 ∝R 3
+\end{choices}
+
+\question
+If the percentage errors in measuring the length and the diameter of a wire are 0.1\% each. The percentage error in measuring its resistance will be:
+\begin{choices}
+  \choice 0.2\%
+  \choice 0.3\%
+  \choice 0.1\%
+  \choice 0.144\%
+\end{choices}
+
+\question
+The minimum energy required by a hydrogen atom in ground state to emit radiation in Balmer series is nearly :
+\begin{choices}
+  \choice 1.5 eV
+  \choice 13.6 eV
+  \choice 1.9 eV
+  \choice 12.1 eV
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{20}
+\question
+A simple pendulum is placed at a place where its distance from the earth's surface is equal to the radius of the earth. If the length of the string is 4 m , then the time period of small oscillations will be \_\_\_\_\_\_\_\_\_ s . [ take g= π 2 m s\textasciicircum{}-2 ]
+
+\question
+A circular coil having 200 turns, area and carrying current is placed in a uniform magnetic field of 1 T. Initially the magnetic dipole moment was directed along . Amount of work, required to rotate the coil through from its initial orientation such that becomes perpendicular to , is \_\_\_\_\_\_ .
+
+\question
+A time varying potential difference is applied between the plates of a parallel plate capacitor of capacitance . The dielectric constant of the medium between the capacitor plates is 1 . It produces an instantaneous displacement current of 0.25 mA in the intervening space between the capacitor plates, the magnitude of the rate of change of the potential difference will be \_\_\_\_\_ .
+
+\question
+A particle is doing simple harmonic motion of amplitude and time period . The maximum velocity of the particle is \_\_\_\_\_\_\_ .
+
+\question
+A nucleus has mass number 𝐴 1 and volume 𝑉 1 . Another nucleus has mass number 𝐴 2 and volume 𝑉 2 . If relation between mass number is 𝐴 2 = 4𝐴 1 , then 𝑉 2 𝑉 1 = \_\_\_\_\_\_\_.
+
+\question
+The identical spheres each of mass 2 M are placed at the corners of a right angled triangle with mutually perpendicular sides equal to 4 m each. Taking point of intersection of these two sides as origin, the magnitude of position vector of the centre of mass of the system is 4√2 𝑥 , where the value of 𝑥 is \_\_\_\_\_\_\_\_.
+
+\question
+An elastic spring under tension of has a length . Its length is under tension . For its length , the value of tension will be\_\_\_\_\_\_ .
+
+\question
+Two cars and are moving on a road in the same direction. Accleration of car increases linearly with time whereas car moves with a constant accleration. Both cars cross each other at time , for the first time. The maximum possible number of crossing(s) (including the crossing at is \_\_\_\_\_\_\_\_.
+
+\question
+The refractive index of prism is and the ratio of the angle of minimum deviation to the angle of prism is one. The value of angle of prism is \_\_\_\_\_\_\_.
+
+\question
+Resistance of a wire at and is found to be and respectively. The temperature in Kelvin scale is \_\_\_\_\_\_\_\_\_
+
+\end{questions}
+
+
+\sectiontitle{Chemistry}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{30}
+\question
+The incorrect statements regarding geometrical isomerism are : (A) Propene shows geometrical isomerism. (B) Trans isomer has identical atoms/groups on the opposite sides of the double bond. (C) Cis-but-2-ene has higher dipole moment than trans-but-2-ene. (D) 2-methylbut-2-ene shows two geometrical isomers. (E) Trans-isomer has lower melting point than cis isomer. Choose the correct answer from the options given below :
+\begin{choices}
+  \choice (A) and (E) Only
+  \choice (A), (D) and (E) Only
+  \choice (B) and (C) Only
+  \choice (C), (D) and (E) Only
+\end{choices}
+
+\question
+Given below are two statements about X-ray spectra of elements : Statement (I) : A plot of ( frequency of -rays emitted) vs atomic mass is a straight line. Statement (II) : A plot of frequency of -rays emitted) vs atomic number is a straight line. In the light of the above statements, choose the correct answer from the options given below :
+\begin{choices}
+  \choice Both Statement I and Statement II are true
+  \choice Statement I is false but Statement II is true
+  \choice Both Statement I and Statement II are false
+  \choice Statement I is true but Statement II is false
+\end{choices}
+
+\question
+Match List - I with List - II.
+\begin{choices}
+  \choice (A)-(II), (B)-(I), (C)-(IV), (D)-(III)
+  \choice (A)-(I), (B)-(III), (C)-(IV), (D)-(II)
+  \choice (A)-(III), (B)-(I), (C)-(II), (D)-(IV)
+  \choice (A)-(III), (B)-(I), (C)-(IV), (D)-(II)
+\end{choices}
+
+\question
+Given below are two statements : Statement I : and both exhibit hybridisation. Statement II : Both and exhibit hybridisation. In the light of the above statements, choose the correct answer from the options given below :
+\begin{choices}
+  \choice Statement I is true but Statement II is false
+  \choice Statement I is false but Statement II is true
+  \choice Both Statement I and Statement II are true
+  \choice Both Statement I and Statement II are false
+\end{choices}
+
+\question
+Given below are two statements: Statement (I) : Aminobenzene and aniline are same organic compounds. Statement (II) : Aminobenzene and aniline are different organic compounds. In the light of the above statements, choose the most appropriate answer from the options given below:
+\begin{choices}
+  \choice Both Statement I and Statement II are correct
+  \choice Statement I is correct but Statement II is incorrect
+  \choice Statement I is incorrect but Statement II is correct
+  \choice Both Statement I and Statement II are incorrect
+\end{choices}
+
+\question
+Match List I with List II LIST – I (Complex ion) LIST – II (Electronic Configuration A. 𝐶𝑟𝐻 2 𝑂 6 3 + I. t 2 g 2 𝑒 g0 B. 𝐹𝑒𝐻 2 𝑂 6 3 + II. t 2 g 3 𝑒 g0 C. 𝑁𝑖𝐻 2 𝑂 6 2 + III. t 2 g 3 𝑒 g2 D. 𝑉𝐻 2 𝑂 6 3 + IV. t 2 g 6 𝑒 g2 Choose the correct answer from the options given below :
+\begin{choices}
+  \choice A-III, B-II, C-IV, D-I
+  \choice A-IV, B-I, C-II, D-III
+  \choice A-IV, B-III, C-I, D-II
+  \choice A-II, B-III, C-IV, D-I
+\end{choices}
+
+\question
+Identify correct statements from below: A. The chromate ion is square planar.
+\begin{choices}
+  \choice B, C, D only
+  \choice A, D, E only
+  \choice A, B, C only
+  \choice B, D, E only
+\end{choices}
+
+\question
+The number of unpaired d-electrons in is
+\begin{choices}
+  \choice 2
+  \choice 1
+  \choice 0
+  \choice 4
+\end{choices}
+
+\question
+Two moles of a monoatomic gas is mixed with six moles of a diatomic gas. The molar specific heat of the mixture at constant volume is :
+\begin{choices}
+  \choice 9/4 R
+  \choice 7/4 R
+  \choice 3/2 R
+  \choice 5/2 R
+\end{choices}
+
+\question
+A sample of CaCO 3 and MgCO 3 weighed 2.21 g is ignited to constant weight of 1.152 g . The composition of the mixture is: (Given molar mass in g mol -1 , CaCO 3 : 100, MgCO 3 : 84 )
+\begin{choices}
+  \choice 1.187 g 𝐶𝑎𝐶𝑂 3 + 1.023 g Mg𝐶𝑂 3
+  \choice 1.023 g 𝐶𝑎𝐶𝑂 3 + 1.023 g Mg𝐶𝑂 3
+  \choice 1.187 g 𝐶𝑎𝐶𝑂 3 + 1.187 g Mg𝐶𝑂 3
+  \choice 1.023 g 𝐶𝑎𝐶𝑂 3 + 1.187 g Mg𝐶𝑂 3
+\end{choices}
+
+\question
+Which of the following gives a positive test with ninhydrin?
+\begin{choices}
+  \choice Starch
+  \choice Egg albumin
+  \choice Polyvinyl chloride
+  \choice Cellulose
+\end{choices}
+
+\question
+Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A): reaction of occurs more readily than the reaction of . Reason (R) : The partially bonded unhybridized p-orbital that develops in the trigonal bipyramidal transition state is stabilized by conjugation with the phenyl ring. In the light of the above statements, choose the most appropriate answer from the options given below :
+\begin{choices}
+  \choice (A) is correct but (R) is not correct
+  \choice (A) is not correct but (R) is correct
+  \choice Both (A) and (R) are correct but (R) is not the correct explanation of (A)
+  \choice Both (A) and (R) are correct and (R) is the correct explanation of
+\end{choices}
+
+\question
+Match the Compounds (List - I) with the appropriate Catalyst/Reagents (List - II) for their reduction into corresponding amines. Choose the correct answer from the options given below :
+\begin{choices}
+  \choice (A)-(II), (B)-(I), (C)-(III), (D)-(IV)
+  \choice (A)-(III), (B)-(II), (C)-(IV), (D)-(I)
+  \choice (A)-(II), (B)-(IV), (C)-(III), (D)-(I)
+  \choice (A)-(III), (B)-(IV), (C)-(II), (D)-(I)
+\end{choices}
+
+\question
+The equilibrium is shifted to the right in :
+\begin{choices}
+  \choice an acidic medium
+  \choice a basic medium
+  \choice a neutral medium
+  \choice a weakly acidic medium
+\end{choices}
+
+\question
+An amount of ice of mass and temperature is transformed to vapour of temperature by applying heat. The total amount of work required for this conversion is, (Take, specific heat of ice , specific heat of water , specific heat of steam , Latent heat of ice and Latent heat of steam )
+\begin{choices}
+  \choice 3043 J
+  \choice 3024 J
+  \choice 3003 J
+  \choice 3022 J
+\end{choices}
+
+\question
+Number of complexes from the following with even number of unpaired " " electrons is [Given atomic numbers : ]
+\begin{choices}
+  \choice 2
+  \choice 1
+  \choice 4
+  \choice 5
+\end{choices}
+
+\question
+The emf of cell Tl is at . It could be increased by :
+\begin{choices}
+  \choice decreasing concentration of both and ions
+  \choice increasing concentration of ions
+  \choice increasing concentration of ions
+  \choice increasing concentration of both and ions
+\end{choices}
+
+\question
+Which of the following acids is a vitamin?
+\begin{choices}
+  \choice Adipic acid
+  \choice Ascorbic acid
+  \choice Saccharic acid
+  \choice Aspartic acid
+\end{choices}
+
+\question
+Match List - I with List - II. Choose the correct answer from the options given below :
+\begin{choices}
+  \choice (A)-(II), (B)-(III), (C)-(IV), (D)-(I)
+  \choice (A)-(II), (B)-(III), (C)-(I), (D)-(IV)
+  \choice (A)-(III), (B)-(II), (C)-(I), (D)-(IV)
+  \choice (A)-(III), (B)-(II), (C)-(IV), (D)-(I)
+\end{choices}
+
+\question
+Solubility of calcium phosphate (molecular mass, M ) in water is W g per 100 mL at 25°C . Its solubility product at 25°C will be approximately.
+\begin{choices}
+  \choice 10 7 W M 3
+  \choice 10 7 W M 5
+  \choice 10 3 W M 5
+  \choice 10 5 W M 5
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{50}
+\question
+r = kA for a reaction, 50\% of A is decomposed in 120 minutes. The time taken for 90\% decomposition of A is \_\_\_\_\_\_ minutes.
+
+\question
+was taken in a 1 L reaction vessel and allowed to undergo the following reaction at 500 K The total pressure at equilibrium was found to be 18.65 bar. Then, \_\_\_\_\_\_ [nearest integer] Assume to behave ideally under these conditions. Given: bar
+
+\question
+Total number of aromatic compounds among the following compounds is \_\_\_\_\_\_.
+
+\question
+Number of compounds from the following with zero dipole moment is \_\_\_\_\_\_
+
+\question
+Vanillin compound obtained from vanilla beans, has total sum of oxygen atoms and electrons is \_\_\_\_\_\_
+
+\question
+The number of neutrons present in the more abundant isotope of boron is ' '. Amorphous boron upon heating with air forms a product, in which the oxidation state of boron is ' '. The value of is \_\_\_\_\_\_\_
+
+\question
+If the above equation is balanced with integer coefficients, the value of is \_\_\_\_\_\_\_\_.
+
+\question
+Consider the following reaction, the rate expression of which is given below The reaction is initiated by taking concentration of and each. If the rate constant is , then the time taken for to become is \_\_\_\_\_\_ sec. (nearest integer)
+
+\question
+The number of the correct reaction(s) among the following is \_\_\_\_\_\_
+
+\question
+For hydrogen atom, energy of an electron in first excited state is . of the same electron of hydrogen atom is . Value of is \_\_\_\_\_\_ . (Nearest integer)
+
+\end{questions}
+
+
+\sectiontitle{Mathematics}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{60}
+\question
+Let 𝑓𝑥= 2𝑥 2 + 5𝑥- 3, 𝑥∈R . If 𝑚 and 𝑛 denote the number of points where 𝑓 is not continuous and not differentiable respectively, then 𝑚+ 𝑛 is equal to:
+\begin{choices}
+  \choice 5
+  \choice 2
+  \choice 0
+  \choice 3
+\end{choices}
+
+\question
+Let g𝑥 be a linear function and 𝑓𝑥= g𝑥, 𝑥≤0 1 + 𝑥 2 + 𝑥 1 𝑥 , 𝑥> 0 , is continuous at 𝑥= 0 . If 𝑓 ' 1 = 𝑓-1 , then the value of g3 is
+\begin{choices}
+  \choice 1 3 log 𝑒 4 9𝑒 1/3
+  \choice 1 3 log 𝑒 4 9 + 1
+  \choice log 𝑒 4 9 -1
+  \choice log 𝑒 4 9𝑒 1/3
+\end{choices}
+
+\question
+Consider the line passing through the points and . The distance of the point from the line along the line is equal to
+\begin{choices}
+  \choice 6
+  \choice 5
+  \choice 4
+  \choice 3
+\end{choices}
+
+\question
+Let L 1 : → 𝑟= \textasciicircum{} 𝑖- \textasciicircum{} 𝑗+ 2 \textasciicircum{} 𝑘+ 𝜆 \textasciicircum{} 𝑖- \textasciicircum{} 𝑗+ 2 \textasciicircum{} 𝑘, 𝜆∈R , L 2 : → 𝑟= \textasciicircum{} 𝑗- \textasciicircum{} 𝑘+ 𝜇3 \textasciicircum{} 𝑖+ \textasciicircum{} 𝑗+ 𝑝 \textasciicircum{} 𝑘, 𝜇∈R and L 3 : → 𝑟= 𝛿(𝑙 \textasciicircum{} 𝑖+ 𝑚 \textasciicircum{} 𝑗+ 𝑛 \textasciicircum{} 𝑘), 𝛿∈R be three lines such that L 1 is perpendicular to L 2 and L 3 is perpendicular to both L 1 and L 2 . Then the point which lies on L 3 is
+\begin{choices}
+  \choice ( - 1, 7, 4 )
+  \choice ( - 1, - 7, 4 )
+  \choice ( 1, 7, - 4 )
+  \choice ( 1, - 7, 4 )
+\end{choices}
+
+\question
+The value of for which the integral , satisfies is
+\begin{choices}
+  \choice 14
+  \choice 8
+  \choice 10
+  \choice 7
+\end{choices}
+
+\question
+Let 𝑃 be a point on the hyperbola H: 𝑥 2 9 - 𝑦 2 4 = 1 , in the first quadrant such that the area of triangle formed by 𝑃 and the two foci of H is 2√13 . Then, the square of the distance of 𝑃 from the origin is
+\begin{choices}
+  \choice 18
+  \choice 26
+  \choice 22
+  \choice 20
+\end{choices}
+
+\question
+The remainder, when is divided by 23 , is equal to :
+\begin{choices}
+  \choice 6
+  \choice 17
+  \choice 9
+  \choice 14
+\end{choices}
+
+\question
+Suppose that the number of terms in an A.P. is . If the sum of all odd terms of the A.P. is 40 , the sum of all even terms is 55 and the last term of the A.P. exceeds the first term by 27, then k is equal to :
+\begin{choices}
+  \choice 6
+  \choice 5
+  \choice 8
+  \choice 4
+\end{choices}
+
+\question
+Let . Define a relation on as : Statement I : is an equivalence relation. Statement II : For some , the set represents a line parallel to . In the light of the above statements, choose the correct answer from the options given below :
+\begin{choices}
+  \choice Both Statement I and Statement II are false
+  \choice Statement I is true but Statement II is false
+  \choice Both Statement I and Statement II are true
+  \choice Statement I is false but Statement II is true
+\end{choices}
+
+\question
+Let for some function and . Then is equal to
+\begin{choices}
+  \choice 1
+  \choice 3
+  \choice 6
+  \choice 2
+\end{choices}
+
+\question
+A ray of light coming from the point gets reflected from the point on the -axis and then passes through the point . If the point is such that PQRS is a parallelogram, then is equal to :
+\begin{choices}
+  \choice 70
+  \choice 80
+  \choice 60
+  \choice 90
+\end{choices}
+
+\question
+Let and . Then is equal to :
+\begin{choices}
+  \choice 1
+  \choice 6
+  \choice 4
+  \choice 2
+\end{choices}
+
+\question
+For 0 < 𝑐< 𝑏< 𝑎 , let ( 𝑎+ 𝑏– 2𝑐) 𝑥 2 + ( 𝑏+ 𝑐– 2𝑎) 𝑥+ ( 𝑐+ 𝑎– 2𝑏) = 0 and 𝛼≠1 be one of its root. Then, among the two statements (I) If 𝛼∈-1, 0 , then 𝑏 cannot be the geometric mean of 𝑎 and 𝑐 . (II) If 𝛼∈0, 1 , then 𝑏 may be the geometric mean of 𝑎 and 𝑐 .
+\begin{choices}
+  \choice Both (I) and (II) are true
+  \choice Neither (I) nor (II) is true
+  \choice Only (II) is true
+  \choice Only (I) is true
+\end{choices}
+
+\question
+Consider the function defined by . Consider the statements (I) The curve intersects the -axis exactly at one point (II) The curve intersects the -axis at Then
+\begin{choices}
+  \choice Only (II) is correct
+  \choice Both (I) and (II) are incorrect
+  \choice Only (I) is correct
+  \choice Both (I) and (II) are correct
+\end{choices}
+
+\question
+Two marbles are drawn in succession from a box containing 10 red, 30 white, 20 blue and 15 orange marbles, with replacement being made after each drawing. Then the probability, that first drawn marble is red and second drawn marble is white, is
+\begin{choices}
+  \choice 2/25
+  \choice 4/25
+  \choice 2/3
+  \choice 4/75
+\end{choices}
+
+\question
+Let the area of the region enclosed by the curves and be . Then is equal to
+\begin{choices}
+  \choice 172
+  \choice 162
+  \choice 154
+  \choice 184
+\end{choices}
+
+\question
+Let the area enclosed between the curves and be . If are integers, then the value of equals.
+\begin{choices}
+  \choice 27
+  \choice 33
+  \choice 15
+  \choice 18
+\end{choices}
+
+\question
+Let 𝑓, g: 0, ∞→R be two functions defined by 𝑓𝑥= ∫ -𝑥 𝑥 t-t 2 𝑒 -t 2 𝑑t and g𝑥= ∫ 0 𝑥 2 t 1 2 𝑒 -t 2 𝑑t . Then the value of 9𝑓√log 𝑒 9 + g√log 𝑒 9 is equal to
+\begin{choices}
+  \choice 6
+  \choice 9
+  \choice 8
+  \choice 10
+\end{choices}
+
+\question
+Let R be the interior region between the lines 3 x - y + 1 = 0 and x + 2 y - 5 = 0 containing the origin. The set of all values of 𝑎 , for which the points a 2 , a + 1 lie in R , is :
+\begin{choices}
+  \choice ( - 3, - 1) ∪- 1/3 , 1
+  \choice ( - 3, 0) ∪ 1/3 , 1
+  \choice ( - 3, 0) ∪ 2/3 , 1
+  \choice ( - 3, - 1) ∪ 1/3 , 1
+\end{choices}
+
+\question
+Let and be a matrix such that . If and , then is equal to
+\begin{choices}
+  \choice 16
+  \choice 2
+  \choice 8
+  \choice 10
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{80}
+\question
+Let be the solution of the differential equation , . If and are coprime numbers, then is equal to \_\_\_\_\_\_\_\_\_\_.
+
+\question
+The number of real solutions of the equation \(x\left(x^2+3|x|+5|x-1|+6|x-2|\right)=0\) is ______.
+
+\question
+If and are the roots of the quadratic equation , then is equal to\_\_\_\_\_\_\_\_\_\_
+
+\question
+If , then is equal to \_\_\_\_\_\_
+
+\question
+If the coefficient of 𝑥 30 in the expansion of 1 + 1 𝑥 6 1 + 𝑥 27 1 -𝑥 38 ; 𝑥≠0 is 𝛼 , then 𝛼 equals \_\_\_\_\_\_\_\_\_.
+
+\question
+Let be the projection vector of , on the vector . If , then the area of the parallelogram formed by the vectors and is \_\_\_\_\_\_\_\_
+
+\question
+Let and , where is the origin. If is the parallelogram with adjacent sides and , then is equal to \_\_\_\_\_
+
+\question
+Let be a thrice differentiable function such that and . Then, the minimum number of zeros of is \_\_\_\_\_\_\_
+
+\question
+Consider a circle 𝑥- 𝛼 2 + 𝑦- 𝛽 2 = 50 , where 𝛼, 𝛽> 0 . If the circle touches the line 𝑦+ 𝑥= 0 at the point P , whose distance from the origin is 4√2 , then ( 𝛼+ 𝛽) 2 is equal to \_\_\_\_\_\_\_.
+
+\question
+In a triangle and . If , where , then is equal to\_\_\_\_\_\_\_\_
+
+\end{questions}
+
+
+\newpage
+\sectiontitle{Answer Key}
+
+
+\textbf{Physics}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q1 & Q2 & Q3 & Q4 & Q5 & Q6 & Q7 & Q8 & Q9 & Q10 \\\hline
+(4) & (2) & (3) & (4) & (2) & (1) & (3) & (2) & (4) & (4) \\\hline
+Q11 & Q12 & Q13 & Q14 & Q15 & Q16 & Q17 & Q18 & Q19 & Q20 \\\hline
+(4) & (4) & (4) & (4) & (2) & (2) & (4) & (1) & (2) & (4) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q21 & Q22 & Q23 & Q24 & Q25 & Q26 & Q27 & Q28 & Q29 & Q30 \\\hline
+8 & 5 & 100 & 12 & 4 & 3 & 5 & 3 & 60 & 748 \\\hline
+\end{tabular}\\[1em]
+
+
+\textbf{Chemistry}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q31 & Q32 & Q33 & Q34 & Q35 & Q36 & Q37 & Q38 & Q39 & Q40 \\\hline
+(2) & (3) & (4) & (4) & (2) & (4) & (4) & (3) & (1) & (1) \\\hline
+Q41 & Q42 & Q43 & Q44 & Q45 & Q46 & Q47 & Q48 & Q49 & Q50 \\\hline
+(2) & (4) & (4) & (2) & (1) & (1) & (2) & (2) & (1) & (2) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q51 & Q52 & Q53 & Q54 & Q55 & Q56 & Q57 & Q58 & Q59 & Q60 \\\hline
+399 & 962 & 1 & 6 & 11 & 2 & 8 & 50 & 1 & 34 \\\hline
+\end{tabular}\\[1em]
+
+
+\textbf{Mathematics}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q61 & Q62 & Q63 & Q64 & Q65 & Q66 & Q67 & Q68 & Q69 & Q70 \\\hline
+(4) & (4) & (4) & (1) & (4) & (3) & (4) & (2) & (2) & (1) \\\hline
+Q71 & Q72 & Q73 & Q74 & Q75 & Q76 & Q77 & Q78 & Q79 & Q80 \\\hline
+(1) & (4) & (1) & (4) & (4) & (2) & (2) & (3) & (2) & (4) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q81 & Q82 & Q83 & Q84 & Q85 & Q86 & Q87 & Q88 & Q89 & Q90 \\\hline
+97 & 1 & 6 & 465 & 678 & 16 & 4 & 5 & 100 & 39 \\\hline
+\end{tabular}\\[1em]
+
+
+\end{document}

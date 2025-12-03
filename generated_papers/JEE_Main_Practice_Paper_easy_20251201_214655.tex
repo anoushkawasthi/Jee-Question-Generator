@@ -1,0 +1,855 @@
+\documentclass[12pt,a4paper]{exam}
+
+% Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{enumitem}
+\usepackage{multicol}
+\usepackage{newunicodechar}
+
+% Unicode math character mappings
+\newunicodechar{𝜀}{$\varepsilon$}
+\newunicodechar{𝑃}{$P$}
+\newunicodechar{𝑉}{$V$}
+\newunicodechar{𝐾}{$K$}
+\newunicodechar{𝐴}{$A$}
+\newunicodechar{𝐵}{$B$}
+\newunicodechar{𝐶}{$C$}
+\newunicodechar{𝐷}{$D$}
+\newunicodechar{𝐸}{$E$}
+\newunicodechar{𝑇}{$T$}
+\newunicodechar{𝑅}{$R$}
+\newunicodechar{𝐼}{$I$}
+\newunicodechar{𝑁}{$N$}
+\newunicodechar{𝑀}{$M$}
+\newunicodechar{𝐿}{$L$}
+\newunicodechar{𝑎}{$a$}
+\newunicodechar{𝑏}{$b$}
+\newunicodechar{𝑐}{$c$}
+\newunicodechar{𝑑}{$d$}
+\newunicodechar{𝑒}{$e$}
+\newunicodechar{𝑓}{$f$}
+\newunicodechar{𝑔}{$g$}
+\newunicodechar{𝑛}{$n$}
+\newunicodechar{𝑚}{$m$}
+\newunicodechar{𝑟}{$r$}
+\newunicodechar{𝑠}{$s$}
+\newunicodechar{𝑡}{$t$}
+\newunicodechar{𝑥}{$x$}
+\newunicodechar{𝑦}{$y$}
+\newunicodechar{𝑧}{$z$}
+\newunicodechar{α}{$\alpha$}
+\newunicodechar{β}{$\beta$}
+\newunicodechar{γ}{$\gamma$}
+\newunicodechar{δ}{$\delta$}
+\newunicodechar{ε}{$\varepsilon$}
+\newunicodechar{θ}{$\theta$}
+\newunicodechar{λ}{$\lambda$}
+\newunicodechar{μ}{$\mu$}
+\newunicodechar{π}{$\pi$}
+\newunicodechar{ρ}{$\rho$}
+\newunicodechar{σ}{$\sigma$}
+\newunicodechar{τ}{$\tau$}
+\newunicodechar{φ}{$\varphi$}
+\newunicodechar{ω}{$\omega$}
+\newunicodechar{Ω}{$\Omega$}
+\newunicodechar{°}{$^\circ$}
+\newunicodechar{±}{$\pm$}
+\newunicodechar{×}{$\times$}
+\newunicodechar{÷}{$\div$}
+\newunicodechar{√}{$\sqrt{}$}
+\newunicodechar{∞}{$\infty$}
+\newunicodechar{≠}{$\neq$}
+\newunicodechar{≤}{$\leq$}
+\newunicodechar{≥}{$\geq$}
+\newunicodechar{→}{$\rightarrow$}
+\newunicodechar{←}{$\leftarrow$}
+\newunicodechar{↔}{$\leftrightarrow$}
+
+% Page geometry
+\geometry{
+    top=1.5cm,
+    bottom=2cm,
+    left=2cm,
+    right=2cm,
+    headheight=1.5cm
+}
+
+% Colors
+\definecolor{headerblue}{RGB}{0, 51, 102}
+\definecolor{sectiongreen}{RGB}{0, 102, 51}
+
+% Header/Footer using exam class commands
+\pagestyle{headandfoot}
+\firstpageheader{}{}{}
+\runningheader{\textsc{JEE Main Practice Paper}}{}{\textsc{Page \thepage}}
+\runningfooter{}{Generated: December 01, 2025}{}
+
+% Custom commands
+\newcommand{\sectiontitle}[1]{%
+    \vspace{1em}
+    \noindent\colorbox{headerblue}{\parbox{\dimexpr\textwidth-2\fboxsep}{%
+        \centering\color{white}\Large\bfseries #1
+    }}
+    \vspace{0.5em}
+}
+
+% Question format
+\renewcommand{\questionlabel}{\textbf{Q\thequestion.}}
+\renewcommand{\choicelabel}{(\thechoice)}
+
+% Hide answers in questions (they go in answer key)
+\noprintanswers
+
+\begin{document}
+
+% Title Page
+\begin{center}
+    {\Huge\bfseries\color{headerblue} JEE Main Practice Paper}\\[0.5em]
+    {\large Based on JEE Main Pattern}\\[1em]
+    {\normalsize Generated: December 01, 2025 | Difficulty: Easy}\\[0.5em]
+    \rule{\textwidth}{1pt}
+\end{center}
+
+\vspace{0.5em}
+\noindent\textbf{Instructions:}
+\begin{itemize}[nosep,leftmargin=*]
+    \item This paper contains 90 questions (30 per subject).
+    \item Each subject has 20 MCQs and 10 Integer Type questions.
+    \item MCQ: +4 for correct, -1 for incorrect.
+    \item Integer: +4 for correct, 0 for incorrect.
+    \item Time: 3 hours | Maximum Marks: 360
+\end{itemize}
+\rule{\textwidth}{0.5pt}
+
+
+\sectiontitle{Physics}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{0}
+\question
+The refractive index of a prism with apex angle $A$ is $c$$o$t $A$ 2 . The angle of minimum deviation is :
+\begin{choices}
+  \choice $\delta$ $m$ = 180$^\circ$ - $A$
+  \choice $\delta$ $m$ = 180$^\circ$ - 3$A$
+  \choice $\delta$ $m$ = 180$^\circ$ - 4$A$
+  \choice $\delta$ $m$ = 180$^\circ$ - 2$A$
+\end{choices}
+
+\question
+The mass number of nucleus having radius equal to half of the radius of nucleus with mass number 192 is:
+\begin{choices}
+  \choice 24
+  \choice 32
+  \choice 40
+  \choice 20
+\end{choices}
+
+\question
+A particle of charge -$q$ and mass $m$ moves in a circle of radius $r$ around an infinitely long line charge of linear density +$\lambda$ . Then time period will be given as: (Consider $k$ as Coulomb's constant)
+\begin{choices}
+  \choice T 2 = 4$\pi$ 2 $m$ 2$k$$\lambda$$q$ $r$ 3
+  \choice T= 2$\pi$$r$$\sqrt{}$ $m$ 2$k$$\lambda$$q$
+  \choice T= 1 2$\pi$$r$ $\sqrt{}$ $m$ 2$k$$\lambda$$q$
+  \choice T= 1 2$\pi$ $\sqrt{}$ 2$k$$\lambda$$q$ $m$
+\end{choices}
+
+\question
+By what percentage will the illumination of the lamp decrease if the current drops by 20\% ?
+\begin{choices}
+  \choice 46\%
+  \choice 26\%
+  \choice 36\%
+  \choice 56\%
+\end{choices}
+
+\question
+A heavy iron bar of weight 12 kg is having its one end on the ground and the other on the shoulder of a man. The rod makes an angle 60$^\circ$ with the horizontal, the normal force applied by the man on bar is:
+\begin{choices}
+  \choice 6 kg - wt
+  \choice 12 kg - wt
+  \choice 3 kg - wt
+  \choice 6$\sqrt{}$3 kg - wt
+\end{choices}
+
+\question
+The total kinetic energy of 1 mole of oxygen at 27$^\circ$C is : [Use universal gas constant (R) = 8.31 J mol -1 K -1 ]
+\begin{choices}
+  \choice 6845.5 J
+  \choice 5942.0 J
+  \choice 6232.5 J
+  \choice 5670.5 J
+\end{choices}
+
+\question
+An object is placed in a medium of refractive index 3 . An electromagnetic wave of intensity 6 x $10^{8}$ W m^-2 falls normally on the object and it is absorbed completely. The radiation pressure on the object would be (speed of light in free space = 3 x $10^{8}$ m s^-1 ):
+\begin{choices}
+  \choice 36 N m\textasciicircum{}-2
+  \choice 18 N m\textasciicircum{}-2
+  \choice 6 N m\textasciicircum{}-2
+  \choice 2 N m\textasciicircum{}-2
+\end{choices}
+
+\question
+The work functions of cesium (Cs) and lithium (Li) metals are 1.9 eV and 2.5 eV , respectively. If we incident a light of wavelength 550 nm on these two metal surfaces, then photo-electric effect is possible for the case of
+\begin{choices}
+  \choice Both Cs and Li
+  \choice Neither Cs nor Li
+  \choice Cs only
+  \choice Li only
+\end{choices}
+
+\question
+With rise in temperature, the Young's modulus of elasticity
+\begin{choices}
+  \choice changes erratically
+  \choice decreases
+  \choice increases
+  \choice remains unchanged
+\end{choices}
+
+\question
+Two point charges and , constituting an electric dipole, are placed at and in a uniform electric field of strength . The work done on the dipole in rotating it from the equilibrium through is :
+\begin{choices}
+  \choice 18.4 mJ
+  \choice 14.4 mJ
+  \choice 12.4 mJ
+  \choice 16.4 mJ
+\end{choices}
+
+\question
+A proton moving with a constant velocity passes through a region of space without any change in its velocity. If and represent the electric and magnetic fields respectively, then the region of space may have : (A) ; (B) ; (C) ; (D) Choose the most appropriate answer from the options given below :
+\begin{choices}
+  \choice (A), (B) and (C) only
+  \choice (A), (C) and (D) only
+  \choice (A), (B) and (D) only
+  \choice (B), (C) and (D) only
+\end{choices}
+
+\question
+10 divisions on the main scale of a Vernier calliper coincide with 11 divisions on the Vernier scale. If each division on the main scale is of 5 units, the least count of the instrument is :
+\begin{choices}
+  \choice 1/2
+  \choice 10/11
+  \choice 50/11
+  \choice 5/11
+\end{choices}
+
+\question
+The measured value of the length of a simple pendulum is 20 cm with 2 mm accuracy. The time for 50 oscillations was measured to be 40 seconds with 1 second resolution. From these measurements, the accuracy in the measurement of acceleration due to gravity is $N$\% . The value of $N$ is:
+\begin{choices}
+  \choice 4
+  \choice 8
+  \choice 6
+  \choice 5
+\end{choices}
+
+\question
+Given below are two statements : Statement I : In a vernier callipers, one vernier scale division is always smaller than one main scale division. Statement II : The vernier constant is given by one main scale division multiplied by the number of vernier scale divisions. In the light of the above statements, choose the correct answer from the options given below.
+\begin{choices}
+  \choice Statement I is true but Statement II is false
+  \choice Statement I is false but Statement II is true
+  \choice Both Statement I and Statement II are false
+  \choice Both Statement I and Statement II are true 2025 (22 Jan Shift 1)
+\end{choices}
+
+\question
+A galvanometer having a coil of resistance need 20 mA of current for full-scale deflection. If a maximum current of 3 A is to be measured using this galvanometer, the resistance of the shunt to be added to the galvanometer should be , where is Options
+\begin{choices}
+  \choice 596
+  \choice 149
+  \choice 298
+  \choice 447
+\end{choices}
+
+\question
+Two identical capacitors have same capacitance $C$ . One of them is charged to the potential $V$ and other to the potential 2$V$ . The negative ends of both are connected together. When the positive ends are also joined together, the decrease in energy of the combined system is :
+\begin{choices}
+  \choice 1 4 $C$$V$ 2
+  \choice 2$C$$V$ 2
+  \choice 1 2 $C$$V$ 2
+  \choice 3 4 $C$$V$ 2
+\end{choices}
+
+\question
+The minimum energy required by a hydrogen atom in ground state to emit radiation in Balmer series is nearly :
+\begin{choices}
+  \choice 1.5 eV
+  \choice 13.6 eV
+  \choice 1.9 eV
+  \choice 12.1 eV
+\end{choices}
+
+\question
+Given below are two statements: Statement I: Most of the mass of the atom and all its positive charge are concentrated in a tiny nucleus and the electrons revolve around it, is Rutherford's model. Statement II: An atom is a spherical cloud of positive charges with electrons embedded in it, is a special case of Rutherford's model. In the light of the above statements, choose the most appropriate from the options given below.
+\begin{choices}
+  \choice Both statement I and statement II are false
+  \choice Statement I is false but statement II is true
+  \choice Statement I is true but statement II is false
+  \choice Both statement I and statement II are true
+\end{choices}
+
+\question
+The number of spectral lines emitted by atomic hydrogen that is in the energy level, is
+\begin{choices}
+  \choice 3
+  \choice 1
+  \choice 6
+  \choice 0
+\end{choices}
+
+\question
+Correct Bernoulli's equation is (symbols have their usual meaning) :
+\begin{choices}
+  \choice constant
+  \choice constant
+  \choice constant
+  \choice constant
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{20}
+\question
+A simple pendulum is placed at a place where its distance from the earth's surface is equal to the radius of the earth. If the length of the string is 4 m , then the time period of small oscillations will be _________ s . [ take g= $\pi$ 2 m s^-2 ]
+
+\question
+Two planets, and are orbiting a common star in circular orbits of radii and , respectively, with . The planet is times more massive than planet . The ratio of angular momentum of planet to that of planet is closest to integer \_\_\_\_\_\_\_\_.
+
+\question
+A vernier callipers has 20 divisions on the vernier scale, which coincides with division on the main scale. The least count of the instrument is . One main scale division is equal to \_\_\_\_\_ .
+
+\question
+An electron with kinetic energy enters a region of uniform magnetic field of 3 perpendicular to its direction. An electric field is applied perpendicular to the direction of velocity and magnetic field. The value of , so that electron moves along the same path, is \_\_\_\_\_\_\_ . Given, mass of electron , electric charge
+
+\question
+A nucleus has mass number $A$ 1 and volume $V$ 1 . Another nucleus has mass number $A$ 2 and volume $V$ 2 . If relation between mass number is $A$ 2 = 4$A$ 1 , then $V$ 2 $V$ 1 = _______.
+
+\question
+A solid circular disc of mass 50 kg rolls along a horizontal floor so that its center of mass has a speed of 0.4 m s\textasciicircum{}-1 . The absolute value of work done on the disc to stop it is \_\_\_\_\_\_ J .
+
+\question
+An electric field, passes through the surface of area having unit vector . The electric flux for that surface is \_\_\_\_\_\_ .
+
+\question
+A regular polygon of 6 sides is formed by bending a wire of length 4 $\pi$ meter. If an electric current of 4$\pi$$\sqrt{}$3 A is flowing through the sides of the polygon, the magnetic field at the centre of the polygon would be $x$$\times$ $10^{-7}$ T . The value of $x$ is ______.
+
+\question
+The moment of inertia of a solid disc rotating along its diameter is 2.5 times higher than the moment of inertia of a ring rotating in similar way. The moment of inertia of a solid sphere which has same radius as the disc and rotating in similar way, is times higher than the moment of inertia of the given ring. Here, $\mathrm{n}=_________ Consider all the bodies have equal masses.
+
+\question
+A closed organ pipe 150 cm long gives 7 beats per second with an open organ pipe of length 350 cm , both vibrating in fundamental mode. The velocity of sound is \_\_\_\_\_\_ m s\textasciicircum{}-1 .
+
+\end{questions}
+
+
+\sectiontitle{Chemistry}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{30}
+\question
+gas will be evolved as a product of electrolysis of : (A) an aqueous solution of using silver electrodes. (B) an aqueous solution of using platinum electrodes. (C) a dilute solution of using platinum electrodes. (D) a high concentration solution of using platinum electrodes. Choose the correct answer from the options given below :
+\begin{choices}
+  \choice (A) and (C) only
+  \choice (B) and (C) only
+  \choice (A) and (D) only
+  \choice (B) and (D) only
+\end{choices}
+
+\question
+The product (C) in the below mentioned reaction is: CH 3 - CH 2 - CH 2 - Br KOH alc $\rightarrow$ ∆ A HBr $\rightarrow$ B ∆ $\rightarrow$ KOH aq C
+\begin{choices}
+  \choice Propan-1-ol
+  \choice Propene
+  \choice Propyne
+  \choice Propan-2-ol
+\end{choices}
+
+\question
+Identify correct statements : (A) Primary amines do not give diazonium salts when treated with in acidic condition. (B) Aliphatic and aromatic primary amines on heating with and ethanolic KOH form 2025 (28 Jan Shift 2)
+\begin{choices}
+  \choice (A) and (B) only
+  \choice (D) and (E) only
+  \choice (B) and (D) only
+  \choice (B) and (C) only
+\end{choices}
+
+\question
+An amount of ice of mass and temperature is transformed to vapour of temperature by applying heat. The total amount of work required for this conversion is, (Take, specific heat of ice , specific heat of water , specific heat of steam , Latent heat of ice and Latent heat of steam )
+\begin{choices}
+  \choice 3043 J
+  \choice 3024 J
+  \choice 3003 J
+  \choice 3022 J
+\end{choices}
+
+\question
+The correct statements from the following are : (A) The decreasing order of atomic radii of group 13 elements is In . (B) Down the group 13 electronegativity decreases from top to bottom. (C) dissolves in dil. and liberates but conc. renders passive by forming a protective oxide layer
+\begin{choices}
+  \choice (A), (C) and (E) only
+  \choice (A) and (C) only
+  \choice (C) and (E) only
+  \choice (A), (B), (C) and (E) only
+\end{choices}
+
+\question
+Combustion of glucose produces and water. The amount of oxygen (in g) required for the complete combustion of of glucose is : [Molar mass of glucose in ]
+\begin{choices}
+  \choice 480
+  \choice 800
+  \choice 960
+  \choice 32
+\end{choices}
+
+\question
+Number of and bonds present in ethylene molecule is respectively :
+\begin{choices}
+  \choice 4 and 1
+  \choice 5 and 2
+  \choice 3 and 1
+  \choice 5 and 1
+\end{choices}
+
+\question
+The number of moles of methane required to produce after complete combustion is : (Given molar mass of methane in )
+\begin{choices}
+  \choice 0.35
+  \choice 0.5
+  \choice 0.75
+  \choice 0.25
+\end{choices}
+
+\question
+Given below are two statements: Statement (I) : SiO 2 and GeO 2 are acidic while SnO and PbO are amphoteric in nature. Statement (II) : Allotropic forms of carbon are due to property of catenation and p$\pi$ - d$\pi$ bond formation. In the light of the above statements, choose the most appropriate answer from the options given below:
+\begin{choices}
+  \choice Both Statement I and Statement II are false
+  \choice Both Statement I and Statement II are true
+  \choice Statement I is true but Statement II is false
+  \choice Statement I is true but Statement II is true
+\end{choices}
+
+\question
+The incorrect statement about Glucose is :
+\begin{choices}
+  \choice Glucose is soluble in water because of having aldehyde functional group
+  \choice Glucose remains in multiple isomeric form in its aqueous solution
+  \choice Glucose is one of the monomer unit in sucrose
+  \choice Glucose is an aldohexose
+\end{choices}
+
+\question
+The functional group that shows negative resonance effect is:
+\begin{choices}
+  \choice -NH 2
+  \choice -OH
+  \choice -COOH
+  \choice -OR
+\end{choices}
+
+\question
+Integrated rate law equation for a first order gas phase reaction is given by (where $P$ $i$ is initial pressure and $P$ t is total pressure at time t )
+\begin{choices}
+  \choice $k$= 2.303 t $\times$ log $P$ $i$ 2$P$ $i$ - $P$ t
+  \choice $k$= 2.303 t $\times$ log 2$P$ $i$ 2$P$ $i$ - $P$ t
+  \choice $k$= 2.303 t $\times$ log 2$P$ $i$ - $P$ t $P$ $i$
+  \choice $k$= 2.303 t $\times$ $P$ $i$ 2$P$ $i$ - $P$ t
+\end{choices}
+
+\question
+Methods used for purification of organic compounds are based on :
+\begin{choices}
+  \choice nature of compound and presence of impurity.
+  \choice neither on nature of compound nor on the impurity present.
+  \choice nature of compound only.
+  \choice presence of impurity only.
+\end{choices}
+
+\question
+Which of the following gives a positive test with ninhydrin?
+\begin{choices}
+  \choice Starch
+  \choice Egg albumin
+  \choice Polyvinyl chloride
+  \choice Cellulose
+\end{choices}
+
+\question
+Match List - I with List - II. Choose the correct answer from the options given below :
+\begin{choices}
+  \choice (A)-(I), (B)-(IV), (C)-(III), (D)-(II)
+  \choice (A)-(I), (B)-(II), (C)-(III), (D)-(IV)
+  \choice (A)-(III), (B)-(IV), (C)-(I), (D)-(II)
+  \choice (A)-(III), (B)-(II), (C)-(I), (D)-(IV)
+\end{choices}
+
+\question
+The maximum covalency of a non-metallic group 15 element ' E ' with weakest bond is :
+\begin{choices}
+  \choice 4
+  \choice 6
+  \choice 3
+  \choice 5
+\end{choices}
+
+\question
+Match the LIST-I with LIST-II Choose the correct answer from the options given below:
+\begin{choices}
+  \choice A-II, B-III, C-I, D-IV
+  \choice A-III, B-IV, C-I, D-II
+  \choice A-IV, B-I, C-II, D-III
+  \choice A-II, B-III, C-IV, D-I
+\end{choices}
+
+\question
+IUPAC name of following compound is
+\begin{choices}
+  \choice 2 - Aminopentanenitrile
+  \choice 2 - Aminobutanenitrile
+  \choice 3 - Aminobutanenitrile
+  \choice 3 - Aminopropanenitrile
+\end{choices}
+
+\question
+Ice and water are placed in a closed container at a pressure of 1 atm and temperature 273.15 K . If pressure of the system is increased 2 times, keeping temperature constant, then identify correct observation from following
+\begin{choices}
+  \choice Volume of system increases .
+  \choice The solid phase (ice) disappears completely.
+  \choice Liquid phase disappears completely.
+  \choice The amount of ice decreases.
+\end{choices}
+
+\question
+The number of element from the following that do not belong to lanthanoids is and
+\begin{choices}
+  \choice 3
+  \choice 4
+  \choice 1
+  \choice 5
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{50}
+\question
+thick coating of silver is deposited on a plate of area. The number of silver atoms deposited on plate are \_\_\_\_\_\_\_ . (At mass Ag Round off to the nearest integer.
+
+\question
+The heat of combustion of solid benzoic acid at constant volume is at . The heat of combustion at constant pressure is , the value of is \_\_\_\_\_\_\_.
+
+\question
+Vanillin compound obtained from vanilla beans, has total sum of oxygen atoms and electrons is \_\_\_\_\_\_
+
+\question
+Time required for completion of 99.9\% of first order reaction is \_\_\_\_\_\_\_\_ times of half life (t 1 / 2 ) of the reaction
+
+\question
+Number of metal ions characterized by flame test among the following is \_\_\_\_\_\_\_\_\_. Sr 2 + , Ba 2 + , Ca 2 + , Cu 2 + , Zn 2 + , Co 2 + , Fe 2 +
+
+\question
+The total number of species from the following in which one unpaired electron is present, is \_\_\_\_\_\_\_
+
+\question
+Number of isomeric products formed by monochlorination of 2 -methylbutane in presence of sunlight is \_\_\_\_\_\_\_.
+
+\question
+In the reaction of potassium dichromate, potassium chloride and sulfuric acid (conc.), the oxidation state of the chromium in the product is + \_\_\_\_\_\_\_.
+
+\question
+In the Claisen-Schmidt reaction to prepare, dibenzalacetone from 5.3 g of benzaldehyde, a total of 3.51 g of product was obtained. The percentage yield in this reaction was \_\_\_\_\_\_ \%.
+
+\question
+A star has helium composition. It starts to convert three into one via triple alpha process as . The mass of the star is and it generates energy at the rate of . The rate of converting these to is , where is \_\_\_\_\_\_\_\_\_ [ Take, mass of , mass of ]
+
+\end{questions}
+
+
+\sectiontitle{Mathematics}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{60}
+\question
+Let $a$ be the sum of all coefficients in the expansion of ( 1 - 2$x$+ 2$x$ 2 ) 2023 ( 3 - 4$x$ 2 + 2$x$ 3 ) 2024 and $b$= lim $x$$\rightarrow$0 $\int$ 0 $x$ log1 + t t 2024 + 1 $d$t $x$ 2 . If the equations $c$$x$ 2 + $d$$x$+ $e$= 0 and 2$b$$x$ 2 + $a$$x$+ 4 = 0 have a common root, where $c$, $d$, $e$∈R , then $d$ : $c$ : $e$ equals
+\begin{choices}
+  \choice 2 : 1 : 4
+  \choice 4 : 1 : 4
+  \choice 1 : 2 : 4
+  \choice 1 : 1 : 4
+\end{choices}
+
+\question
+Consider 10 observation $x$ 1 , $x$ 2 , . .. $x$ 10 , such that $\sum$ $i$= 1 10 $x$ $i$ -$\alpha$= 2 and $\sum$ $i$= 1 10 $x$ $i$ -$\beta$ 2 = 40 , where $\alpha$, $\beta$ are positive integers. Let the mean and the variance of the observations be 6 5 and 84 25 respectively. The $\beta$ $\alpha$ is equal to:
+\begin{choices}
+  \choice 2
+  \choice 3/2
+  \choice 5/2
+  \choice 1
+\end{choices}
+
+\question
+Let L 1 : $\rightarrow$ $r$= ^ $i$- ^ $j$+ 2 ^ $k$+ $\lambda$ ^ $i$- ^ $j$+ 2 ^ $k$, $\lambda$∈R , L 2 : $\rightarrow$ $r$= ^ $j$- ^ $k$+ $\mu$3 ^ $i$+ ^ $j$+ $p$ ^ $k$, $\mu$∈R and L 3 : $\rightarrow$ $r$= $\delta$($l$ ^ $i$+ $m$ ^ $j$+ $n$ ^ $k$), $\delta$∈R be three lines such that L 1 is perpendicular to L 2 and L 3 is perpendicular to both L 1 and L 2 . Then the point which lies on L 3 is
+\begin{choices}
+  \choice ( - 1, 7, 4 )
+  \choice ( - 1, - 7, 4 )
+  \choice ( 1, 7, - 4 )
+  \choice ( 1, - 7, 4 )
+\end{choices}
+
+\question
+If and , then is equal to:
+\begin{choices}
+  \choice 3
+  \choice 0
+  \choice 1
+  \choice 2
+\end{choices}
+
+\question
+If the variance of the frequency distribution is 160, then the value of is
+\begin{choices}
+  \choice 7
+  \choice 8
+  \choice 5
+  \choice 6
+\end{choices}
+
+\question
+If the set has elements and , where , then the value of is
+\begin{choices}
+  \choice 12
+  \choice 4
+  \choice 8
+  \choice 5
+\end{choices}
+
+\question
+Let be a real valued function. If and are respectively the minimum and the maximum values of , then is equal to
+\begin{choices}
+  \choice 42
+  \choice 38
+  \choice 24
+  \choice 44
+\end{choices}
+
+\question
+If the value of is , where are natural numbers and , then is equal to :
+\begin{choices}
+  \choice 40
+  \choice 52
+  \choice 50
+  \choice 54
+\end{choices}
+
+\question
+60 words can be made using all the letters of the word BHBJO, with or without meaning. If these words are written as in a dictionary, then the word is :
+\begin{choices}
+  \choice JBBOH
+  \choice OBBJH
+  \choice OBBHJ
+  \choice HBBJO
+\end{choices}
+
+\question
+The area of the region enclosed by the parabola $y$= 4$x$-$x$ 2 and 3$y$= $x$-4 2 is equal to
+\begin{choices}
+  \choice 32/9
+  \choice 4
+  \choice 6
+  \choice 14/3
+\end{choices}
+
+\question
+Let be the term of an A.P. If for some , and , then is equal to
+\begin{choices}
+  \choice 98
+  \choice 126
+  \choice 142
+  \choice 112
+\end{choices}
+
+\question
+Let , where is the constant of integration. Then is equal to :
+\begin{choices}
+  \choice 7
+  \choice 4
+  \choice 1
+  \choice 3
+\end{choices}
+
+\question
+Suppose that the number of terms in an A.P. is . If the sum of all odd terms of the A.P. is 40 , the sum of all even terms is 55 and the last term of the A.P. exceeds the first term by 27, then k is equal to :
+\begin{choices}
+  \choice 6
+  \choice 5
+  \choice 8
+  \choice 4
+\end{choices}
+
+\question
+Let and . Then is equal to :
+\begin{choices}
+  \choice 1
+  \choice 6
+  \choice 4
+  \choice 2
+\end{choices}
+
+\question
+Let be the image of the point in the line . Then is equal to :
+\begin{choices}
+  \choice 16
+  \choice 20
+  \choice 14
+  \choice 18
+\end{choices}
+
+\question
+lim $x$$\rightarrow$0 $e$ 2sin$x$ - 2sin$x$- 1 $x$ 2
+\begin{choices}
+  \choice is equal to -1
+  \choice does not exist
+  \choice is equal to 1
+  \choice is equal to 2
+\end{choices}
+
+\question
+The function
+\begin{choices}
+  \choice decreases in and increases in
+  \choice decreases in
+  \choice decreases in and increases in
+  \choice increases in
+\end{choices}
+
+\question
+Let for some function and . Then is equal to
+\begin{choices}
+  \choice 1
+  \choice 3
+  \choice 6
+  \choice 2
+\end{choices}
+
+\question
+If , where , then is equal to
+\begin{choices}
+  \choice 108
+  \choice 109
+  \choice 18
+  \choice 19
+\end{choices}
+
+\question
+The values of $\alpha$ , for which 1 3 2 $\alpha$+ 3 2 1 1 3 $\alpha$+ 1 3 2$\alpha$+ 3 3$\alpha$+ 1 0 = 0 , lie in the interval
+\begin{choices}
+  \choice ( - 2, 1 )
+  \choice ( - 3, 0 )
+  \choice - 3/2 , 3/2
+  \choice ( 0, 3 )
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{80}
+\question
+If the area of the region ( x, y ) : 0 $\leq$y $\leq$min2 x, 6 x - x 2 is A , then 12 A is equal to _______.
+
+\question
+Let $f$: ℝ$\rightarrow$ℝ be a function defined by $f$$x$= 4 $x$ 4 $x$ + 2 and M= $f$1 -$a$ $\int$ $f$$a$ $x$sin 4 $x$1 -$x$$d$$x$ , $N$= $f$1 -$a$ $\int$ $f$$a$ sin(4) $x$1 -$x$$d$$x$; $a$$\neq$ 1 2 . If $\alpha$M= $\beta$$N$, $\alpha$, $\beta$∈ℕ , then the least value of $\alpha$ 2 + $\beta$ 2 is equal to ______
+
+\question
+An arithmetic progression is written in the following way The sum of all the terms of the row is\_\_\_\_\_\_\_
+
+\question
+Let the positive integers be written in the form : If the row contains exactly numbers for every natural number , then the row in which the number 5310 will be, is \_\_\_\_\_\_\_
+
+\question
+Let 3, 7, 11, 15, . . , 403 and 2, 5, 8, 11, . . . , 404 be two arithmetic progressions. Then the sum, of the common terms in them, is equal to\_\_\_\_\_\_\_\_\_
+
+\question
+If the function is differentiable on , then is equal to \_\_\_\_\_\_\_.
+
+\question
+If and are the roots of the quadratic equation , then is equal to\_\_\_\_\_\_\_\_\_\_
+
+\question
+Let denote the largest integer less than or equal to . If , where , then is equal to\_\_\_\_\_\_\_
+
+\question
+If , then is equal to \_\_\_\_\_\_\_\_
+
+\question
+Let , where . Then is equal to \_\_\_\_\_\_.
+
+\end{questions}
+
+
+\newpage
+\sectiontitle{Answer Key}
+
+
+\textbf{Physics}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q1 & Q2 & Q3 & Q4 & Q5 & Q6 & Q7 & Q8 & Q9 & Q10 \\\hline
+(4) & (1) & (2) & (3) & (3) & (3) & (3) & (3) & (2) & (2) \\\hline
+Q11 & Q12 & Q13 & Q14 & Q15 & Q16 & Q17 & Q18 & Q19 & Q20 \\\hline
+(3) & (4) & (3) & (3) & (2) & (1) & (4) & (3) & (3) & (2) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q21 & Q22 & Q23 & Q24 & Q25 & Q26 & Q27 & Q28 & Q29 & Q30 \\\hline
+8 & 8 & 2 & 4 & 4 & 6 & 12 & 72 & 4 & 294 \\\hline
+\end{tabular}\\[1em]
+
+
+\textbf{Chemistry}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q31 & Q32 & Q33 & Q34 & Q35 & Q36 & Q37 & Q38 & Q39 & Q40 \\\hline
+(2) & (4) & (3) & (1) & (3) & (3) & (4) & (4) & (3) & (1) \\\hline
+Q41 & Q42 & Q43 & Q44 & Q45 & Q46 & Q47 & Q48 & Q49 & Q50 \\\hline
+(3) & (1) & (1) & (2) & (4) & (1) & (4) & (3) & (2) & (3) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q51 & Q52 & Q53 & Q54 & Q55 & Q56 & Q57 & Q58 & Q59 & Q60 \\\hline
+11 & 150 & 11 & 10 & 4 & 4 & 6 & 6 & 60 & 15 \\\hline
+\end{tabular}\\[1em]
+
+
+\textbf{Mathematics}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q61 & Q62 & Q63 & Q64 & Q65 & Q66 & Q67 & Q68 & Q69 & Q70 \\\hline
+(4) & (1) & (1) & (2) & (1) & (1) & (1) & (2) & (2) & (3) \\\hline
+Q71 & Q72 & Q73 & Q74 & Q75 & Q76 & Q77 & Q78 & Q79 & Q80 \\\hline
+(2) & (2) & (2) & (4) & (3) & (4) & (2) & (1) & (2) & (2) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q81 & Q82 & Q83 & Q84 & Q85 & Q86 & Q87 & Q88 & Q89 & Q90 \\\hline
+304 & 5 & 1505 & 103 & 6699 & 15 & 6 & 23 & 64 & 2 \\\hline
+\end{tabular}\\[1em]
+
+
+\end{document}

@@ -1,0 +1,846 @@
+\documentclass[12pt,a4paper]{exam}
+
+% Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{enumitem}
+\usepackage{multicol}
+\usepackage{newunicodechar}
+
+% Unicode math character mappings
+\newunicodechar{𝜀}{$\varepsilon$}
+\newunicodechar{𝑃}{$P$}
+\newunicodechar{𝑉}{$V$}
+\newunicodechar{𝐾}{$K$}
+\newunicodechar{𝐴}{$A$}
+\newunicodechar{𝐵}{$B$}
+\newunicodechar{𝐶}{$C$}
+\newunicodechar{𝐷}{$D$}
+\newunicodechar{𝐸}{$E$}
+\newunicodechar{𝑇}{$T$}
+\newunicodechar{𝑅}{$R$}
+\newunicodechar{𝐼}{$I$}
+\newunicodechar{𝑁}{$N$}
+\newunicodechar{𝑀}{$M$}
+\newunicodechar{𝐿}{$L$}
+\newunicodechar{𝑎}{$a$}
+\newunicodechar{𝑏}{$b$}
+\newunicodechar{𝑐}{$c$}
+\newunicodechar{𝑑}{$d$}
+\newunicodechar{𝑒}{$e$}
+\newunicodechar{𝑓}{$f$}
+\newunicodechar{𝑔}{$g$}
+\newunicodechar{𝑛}{$n$}
+\newunicodechar{𝑚}{$m$}
+\newunicodechar{𝑟}{$r$}
+\newunicodechar{𝑠}{$s$}
+\newunicodechar{𝑡}{$t$}
+\newunicodechar{𝑥}{$x$}
+\newunicodechar{𝑦}{$y$}
+\newunicodechar{𝑧}{$z$}
+\newunicodechar{α}{$\alpha$}
+\newunicodechar{β}{$\beta$}
+\newunicodechar{γ}{$\gamma$}
+\newunicodechar{δ}{$\delta$}
+\newunicodechar{ε}{$\varepsilon$}
+\newunicodechar{θ}{$\theta$}
+\newunicodechar{λ}{$\lambda$}
+\newunicodechar{μ}{$\mu$}
+\newunicodechar{π}{$\pi$}
+\newunicodechar{ρ}{$\rho$}
+\newunicodechar{σ}{$\sigma$}
+\newunicodechar{τ}{$\tau$}
+\newunicodechar{φ}{$\varphi$}
+\newunicodechar{ω}{$\omega$}
+\newunicodechar{Ω}{$\Omega$}
+\newunicodechar{°}{$^\circ$}
+\newunicodechar{±}{$\pm$}
+\newunicodechar{×}{$\times$}
+\newunicodechar{÷}{$\div$}
+\newunicodechar{√}{$\sqrt{}$}
+\newunicodechar{∞}{$\infty$}
+\newunicodechar{≠}{$\neq$}
+\newunicodechar{≤}{$\leq$}
+\newunicodechar{≥}{$\geq$}
+\newunicodechar{→}{$\rightarrow$}
+\newunicodechar{←}{$\leftarrow$}
+\newunicodechar{↔}{$\leftrightarrow$}
+
+% Page geometry
+\geometry{
+    top=1.5cm,
+    bottom=2cm,
+    left=2cm,
+    right=2cm,
+    headheight=1.5cm
+}
+
+% Colors
+\definecolor{headerblue}{RGB}{0, 51, 102}
+\definecolor{sectiongreen}{RGB}{0, 102, 51}
+
+% Header/Footer using exam class commands
+\pagestyle{headandfoot}
+\firstpageheader{}{}{}
+\runningheader{\textsc{JEE Main Practice Paper}}{}{\textsc{Page \thepage}}
+\runningfooter{}{Generated: December 01, 2025}{}
+
+% Custom commands
+\newcommand{\sectiontitle}[1]{%
+    \vspace{1em}
+    \noindent\colorbox{headerblue}{\parbox{\dimexpr\textwidth-2\fboxsep}{%
+        \centering\color{white}\Large\bfseries #1
+    }}
+    \vspace{0.5em}
+}
+
+% Question format
+\renewcommand{\questionlabel}{\textbf{Q\thequestion.}}
+\renewcommand{\choicelabel}{(\thechoice)}
+
+% Hide answers in questions (they go in answer key)
+\noprintanswers
+
+\begin{document}
+
+% Title Page
+\begin{center}
+    {\Huge\bfseries\color{headerblue} JEE Main Practice Paper}\\[0.5em]
+    {\large Based on JEE Main Pattern}\\[1em]
+    {\normalsize Generated: December 01, 2025 | Difficulty: Medium}\\[0.5em]
+    \rule{\textwidth}{1pt}
+\end{center}
+
+\vspace{0.5em}
+\noindent\textbf{Instructions:}
+\begin{itemize}[nosep,leftmargin=*]
+    \item This paper contains 90 questions (30 per subject).
+    \item Each subject has 20 MCQs and 10 Integer Type questions.
+    \item MCQ: +4 for correct, -1 for incorrect.
+    \item Integer: +4 for correct, 0 for incorrect.
+    \item Time: 3 hours | Maximum Marks: 360
+\end{itemize}
+\rule{\textwidth}{0.5pt}
+
+
+\sectiontitle{Physics}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{0}
+\question
+The accurate form of Bernoulli's equation is (the symbols represent their standard meanings):
+\begin{choices}
+  \choice constant
+  \choice constant
+  \choice constant
+  \choice constant
+\end{choices}
+
+\question
+A mass ' m ' is launched from the origin into a vertical plane at an angle to the x-axis with an initial velocity. When the object reaches its maximum height, the magnitude and direction of its angular momentum relative to the origin will be [ g denotes the acceleration due to gravity]
+\begin{choices}
+  \choice along negative -axis
+  \choice along positive -axis
+  \choice along negative -axis
+  \choice along positive -axis
+\end{choices}
+
+\question
+What is the threshold frequency of a metal that has a work function of 6.63 eV?
+\begin{choices}
+  \choice 16 x 10\textasciicircum{}15 Hz
+  \choice 16 x 10\textasciicircum{}12 Hz
+  \choice 1.6 x 10\textasciicircum{}12 Hz
+  \choice 1.6 x 10\textasciicircum{}15 Hz
+\end{choices}
+
+\question
+In a straight co-axial cable, if the inner and outer conductors carry equal currents flowing in opposite directions, the magnetic field will be nonexistent:
+\begin{choices}
+  \choice outside the cable
+  \choice inside the outer conductor
+  \choice inside the inner conductor
+  \choice in between the two conductors
+\end{choices}
+
+\question
+A proton traveling at a uniform speed traverses a certain area without altering its speed. If \(\vec{E}\) and \(\vec{B}\) denote the electric and magnetic fields respectively, then this area might possess: 
+\begin{choices}
+  \choice (A), (B) and (C) only
+  \choice (A), (C) and (D) only
+  \choice (A), (B) and (D) only
+  \choice (B), (C) and (D) only
+\end{choices}
+
+\question
+The following two statements are provided: Statement I: In vernier callipers, a division on the vernier scale is always less than a division on the main scale. Statement II: The vernier constant is calculated by multiplying one main scale division by the number of divisions on the vernier scale. Based on these statements, select the accurate answer from the options listed below.
+\begin{choices}
+  \choice Statement I is true but Statement II is false
+  \choice Statement I is false but Statement II is true
+  \choice Both Statement I and Statement II are false
+  \choice Both Statement I and Statement II are true 2025 (22 Jan Shift 1)
+\end{choices}
+
+\question
+For an ideal gas, the relationship between pressure and volume is expressed as 𝑃𝑉^{\frac{3}{2}} = 𝐾 (Constant). What is the work performed when the gas transitions from state 𝐴(𝑃_1, 𝑉_1, T_1) to state 𝐵(𝑃_2, 𝑉_2, T_2)?
+\begin{choices}
+  \choice 2 ( \ud835\udc43 1 \ud835\udc49 1 - \ud835\udc43 2 \ud835\udc49 2 )
+  \choice 2 ( \ud835\udc43 2 \ud835\udc49 2 - \ud835\udc43 1 \ud835\udc49 1 )
+  \choice 2\u221a\ud835\udc43 1 \ud835\udc49 1 -\u221a\ud835\udc43 2 \ud835\udc49 2
+  \choice 2\ud835\udc43 2 \u221a\ud835\udc49 2 -\ud835\udc43 1 \u221a\ud835\udc49 1
+\end{choices}
+
+\question
+A uniform magnetic field of 3 × 10\textasciicircum{}-3 T acts along positive Y-direction. A rectangular loop of sides 25 cm and 15 cm with current of 6 A is in Y-Z plane. The current is in anticlockwise sense with reference to negative X axis. Magnitude and direction of the torque is :
+\begin{choices}
+  \choice 3 \u00d7 10^-4 N m along positive Z \u2013direction
+  \choice 3 \u00d7 10^-4 N m along negative Z-direction
+  \choice 3 \u00d7 10^-4 N m along positive X-direction
+  \choice 3 \u00d7 10^-4 N m along positive Y-direction
+\end{choices}
+
+\question
+12 divisions on the main scale of a Vernier calliper coincide with 14 divisions on the Vernier scale. If each division on the main scale is of 6 units, the least count of the instrument is :
+\begin{choices}
+  \choice 6/14
+  \choice 12/14
+  \choice 72/14
+  \choice 6/7
+\end{choices}
+
+\question
+The maximum percentage error in the measurement of density of a wire is [Given, mass of wire 2.5 kg, radius of wire 0.4 cm, length of wire 1.8 m]
+\begin{choices}
+  \choice 6
+  \choice 4
+  \choice 8
+  \choice 5
+\end{choices}
+
+\question
+A simple pendulum of length 1.5 m has a wooden bob of mass 1.5 kg. It is struck by a bullet of mass 0.015 kg moving with a speed of 150 m s\textasciicircum{}-1. The bullet gets embedded into the bob. The height to which the bob rises before swinging back is. (use g= 10 m s\textasciicircum{}-2)
+\begin{choices}
+  \choice 0.45 m
+  \choice 0.25 m
+  \choice 0.30 m
+  \choice 0.50 m
+\end{choices}
+
+\question
+Associate the items in List-I with those in List-II: Select the correct response from the options provided below:
+\begin{choices}
+  \choice (A)-(IV), (B)-(I), (C)-(III), (D)-(II)
+  \choice (A)-(I), (B)-(III), (C)-(II), (D)-(IV)
+  \choice (A)-(III), (B)-(IV), (C)- (I), (D)-(II)
+  \choice (A)-(III), (B)-(I), (C)-(IV), (D)-(II)
+\end{choices}
+
+\question
+Force between two point charges 𝑞 1 and 𝑞 2 placed in vacuum at 𝑟 = 4 cm apart is 𝐹. Force between them when placed in a medium having dielectric 𝐾= 6 at 𝑟 = 6 cm apart will be:
+\begin{choices}
+  \choice \ud835\udc39 12
+  \choice 6\ud835\udc39
+  \choice \ud835\udc39 4
+  \choice 24\ud835\udc39
+\end{choices}
+
+\question
+Below are two statements: one is referred to as Assertion (A) and the other as Reason (R). Assertion (A): To ascertain the position and momentum at any given moment for simple harmonic motion with a specified angular frequency, it suffices to know the initial position and initial momentum. Reason (R): The amplitude and phase can be represented in terms of  and . Based on the above statements, select the correct answer from the following options:
+\begin{choices}
+  \choice (A) is false but (R) is true
+  \choice (A) is true but (R) is false
+  \choice Both (A) and (R) are true but (R) is NOT the correct explanation of (A)
+  \choice Both and are true and is the correct explanation of
+\end{choices}
+
+\question
+A capacitor and a bulb are arranged in series with an AC power source. Subsequently, a dielectric material is introduced between the capacitor's plates. What happens to the brightness of the bulb?
+\begin{choices}
+  \choice increases
+  \choice decreases
+  \choice remains same
+  \choice becomes zero
+\end{choices}
+
+\question
+In a plane electromagnetic wave, the electric field varies sinusoidally with a frequency of 5 x 10\textasciicircum{}10 Hz and an amplitude of 50 V m – 1. What is the total average energy density of the electromagnetic field of this wave? [Use 𝜀 0 = 8.85 × 10 – 12 C 2 N\textasciicircum{}-1 m\textasciicircum{}-2]
+\begin{choices}
+  \choice 1.106 \u00d7 10 \u2013 8 J m \u2013 3
+  \choice 4.425 \u00d7 10 \u2013 8 J m \u2013 3
+  \choice 2.212 \u00d7 10 \u2013 8 J m \u2013 3
+  \choice 2.212 \u00d7 10 \u2013 10 J m \u2013 3
+\end{choices}
+
+\question
+A heavy iron bar of weight 18 kg is having its one end on the ground and the other on the shoulder of a man. The rod makes an angle 60° with the horizontal, the normal force applied by the man on bar is:
+\begin{choices}
+  \choice 9 kg - wt
+  \choice 18 kg - wt
+  \choice 4.5 kg - wt
+  \choice 9\u221a3 kg - wt
+\end{choices}
+
+\question
+As the temperature increases, how does the Young's modulus of elasticity behave?
+\begin{choices}
+  \choice changes erratically
+  \choice decreases
+  \choice increases
+  \choice remains unchanged
+\end{choices}
+
+\question
+Two point charges +3 \mu C and -3 \mu C, constituting an electric dipole, are placed at 0.2 m and 0.4 m in a uniform electric field of strength 40 N/C. The work done on the dipole in rotating it from the equilibrium through 90^{\circ} is :
+\begin{choices}
+  \choice 18.4 mJ
+  \choice 16.4 mJ
+  \choice 14.4 mJ
+  \choice 12.4 mJ
+\end{choices}
+
+\question
+A transparent film of refractive index, 1.8 is coated on a glass slab of refractive index, 1.55. What is the minimum thickness of transparent film to be coated for the maximum transmission of Green light of wavelength 520 nm. [Assume that the light is incident nearly perpendicular to the glass surface.]
+\begin{choices}
+  \choice 104 nm
+  \choice 208 nm
+  \choice 130 nm
+  \choice 78 nm
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{20}
+\question
+A double slit interference experiment performed with a light of wavelength 660 nm forms an interference fringe pattern on a screen with 10 th bright fringe having its centre at a distance of 12 mm from the central maximum. Distance of the centre of the same 10 th bright fringe from the central maximum when the source of light is replaced by another source of wavelength 720 nm would be \_\_\_\_\_\_\_\_\_ mm.
+
+\question
+The depth below the surface of sea to which a rubber ball be taken so as to decrease its volume by 0.02\% is \_\_\_\_\_ m. (Take density of sea water = 10\textasciicircum{}3 kg m\textasciicircum{}-3, Bulk modulus of rubber = 8 x 10\textasciicircum{}8 N m\textasciicircum{}-2, and g= 9.8 m s\textasciicircum{}-2)
+
+\question
+An electric field of strength E passes through a surface of area A having a unit vector n. The electric flux \( \Phi_E \) for that surface is given by the formula \( \Phi_E = E \cdot A \cdot n \). If the electric field strength is 12 N/C, the area is 1 m², and the angle between the electric field and the normal to the surface is 0 degrees, what is the electric flux for that surface?
+
+\question
+A hypothetical electromagnetic wave is shown below. The frequency of the wave is measured to be approximately 5 x 10\textasciicircum{}14 Hz, which is in the visible spectrum. What is the frequency of the wave in Hz, rounded to the nearest integer?
+
+\question
+Two identical charged spheres are suspended by strings of equal lengths. The string make an angle of 45° with each other. When suspended in a liquid of density 0.9 g cm\textasciicircum{}-3, the angle remains same. If density of material of the sphere is 1.8 g cm\textasciicircum{}-3, the dielectric constant of the liquid is \_\_\_\_\_ tan45° = 1
+
+\question
+What is the frequency of the de-Broglie wave of an electron in Bohr's first orbit of a hydrogen atom, calculated using the formula \( f = \frac{E}{h} \) where \( E \) is the energy of the electron and \( h \) is Planck's constant? Provide the answer to the nearest integer.
+
+\question
+A simple pendulum is placed at a place where its distance from the earth's surface is equal to the radius of the earth. If the length of the string is 5 m, then the time period of small oscillations will be \_\_\_\_\_\_\_\_\_ s. [ take g= 10 m s\textasciicircum{}-2 ]
+
+\question
+A horizontal straight wire long extending from east to west falling freely at right angles to the horizontal component of the earth's magnetic field. The instantaneous value of emf induced in the wire when its velocity is 4 m/s is \_\_\_\_\_\_\_.
+
+\question
+Three capacitors of capacitances C1 = 4 µF, C2 = 6 µF, and C3 = 8 µF are connected in parallel to a supply of voltage V = 12 V. The energy stored in the above combination is E. When these capacitors are connected in series to the same supply, the stored energy is E\_series. The value of E\_series is \_\_\_\_\_.
+
+\question
+A nucleus has mass number 𝐴 1 = 12 and volume 𝑉 1 . Another nucleus has mass number 𝐴 2 = 4𝐴 1 = 48, then 𝑉 2 𝑉 1 = \_\_\_\_\_\_\_.
+
+\end{questions}
+
+
+\sectiontitle{Chemistry}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{30}
+\question
+Which structure has the highest to lowest relative stability?
+\begin{choices}
+  \choice I > II > III
+  \choice II > I > III
+  \choice I = II = III
+  \choice III > II > I
+\end{choices}
+
+\question
+A mixture of CaCO 3 and MgCO 3 with a total mass of 2.21 g was heated until a stable mass of 1.152 g was achieved. What is the composition of this mixture? (Molar masses are given in g mol -1: CaCO 3 : 100, MgCO 3 : 84)
+\begin{choices}
+  \choice 1.187 g \ud835\udc36\ud835\udc4e\ud835\udc36\ud835\udc42 3 + 1.023 g Mg\ud835\udc36\ud835\udc42 3
+  \choice 1.023 g \ud835\udc36\ud835\udc4e\ud835\udc36\ud835\udc42 3 + 1.023 g Mg\ud835\udc36\ud835\udc42 3
+  \choice 1.187 g \ud835\udc36\ud835\udc4e\ud835\udc36\ud835\udc42 3 + 1.187 g Mg\ud835\udc36\ud835\udc42 3
+  \choice 1.023 g \ud835\udc36\ud835\udc4e\ud835\udc36\ud835\udc42 3 + 1.187 g Mg\ud835\udc36\ud835\udc42 3
+\end{choices}
+
+\question
+The density of a ' ' solution with a concentration of ' ' molar is , whereas the solution's concentration in terms of molality is . What is then ? (Given: The molar mass of is )
+\begin{choices}
+  \choice 3.5
+  \choice 3.8
+  \choice 2.8
+  \choice 3.0
+\end{choices}
+
+\question
+The techniques employed for the purification of organic substances rely on:
+\begin{choices}
+  \choice nature of compound and presence of impurity.
+  \choice neither on nature of compound nor on the impurity present.
+  \choice nature of compound only.
+  \choice presence of impurity only.
+\end{choices}
+
+\question
+Among the four molecules labeled as 'P', 'Q', 'R', and 'S', which molecule will undergo a reaction at the highest speed?
+\begin{choices}
+  \choice R
+  \choice P
+  \choice Q
+  \choice S
+\end{choices}
+
+\question
+Listed below are the atomic numbers for several group 14 elements. Which element has the lowest melting point based on its atomic number?
+\begin{choices}
+  \choice 6
+  \choice 82
+  \choice 14
+  \choice 50
+\end{choices}
+
+\question
+Below are two statements: one is referred to as Assertion (A) and the other as Reason (R). Assertion (A): the reaction of occurs more readily than the reaction of . Reason (R): The partially bonded unhybridized p-orbital that forms in the trigonal bipyramidal transition state is stabilized through conjugation with the phenyl ring. Based on the statements provided, select the most suitable answer from the options listed below:
+\begin{choices}
+  \choice (A) is correct but (R) is not correct
+  \choice (A) is not correct but (R) is correct
+  \choice Both (A) and (R) are correct but (R) is not the correct explanation of (A)
+  \choice Both (A) and (R) are correct and (R) is the correct explanation of
+\end{choices}
+
+\question
+Which purification technique utilizes the principle of 'Adsorption'?
+\begin{choices}
+  \choice Extraction
+  \choice Chromatography
+  \choice Distillation
+  \choice Sublimation
+\end{choices}
+
+\question
+The following statements pertain to specific thermodynamic properties: (A) Internal energy, volume (V), and mass (M) are classified as extensive variables. (B) Pressure (P), temperature (T), and density ( ) are categorized as intensive variables. (C) Volume (V), temperature (T), and density ( ) are extensive variables. (D) Mass (M), temperature (T), and internal energy are regarded as intensive variables. Select the correct response from the options provided below:
+\begin{choices}
+  \choice (B) and (C) Only
+  \choice (C) and (D) Only
+  \choice (D) and (A) Only
+  \choice (A) and (B) Only
+\end{choices}
+
+\question
+A certain mass of ice at a given temperature is converted into vapor at a specified temperature by the addition of heat. The total work needed for this process is, (Consider, specific heat of ice, specific heat of water, specific heat of steam, Latent heat of ice and Latent heat of steam)
+\begin{choices}
+  \choice 3043 J
+  \choice 3024 J
+  \choice 3003 J
+  \choice 3022 J
+\end{choices}
+
+\question
+The following two statements are presented: Statement (I): reactions are termed 'stereospecific', which means they yield solely one stereo-isomer as the product. Statement (II): reactions typically lead to the production of racemic mixtures. Based on the statements above, select the correct option from those provided below:
+\begin{choices}
+  \choice Both Statement I and Statement II are false
+  \choice Statement I is false but Statement II is true
+  \choice Statement I is true but Statement II is false
+  \choice Both Statement I and Statement II are true
+\end{choices}
+
+\question
+For a non-metallic element ' E ' from group 15 that has the least strong bond, what is the highest covalency it can achieve?
+\begin{choices}
+  \choice 4
+  \choice 6
+  \choice 3
+  \choice 5
+\end{choices}
+
+\question
+The equation for the integrated rate law for a first order reaction occurring in the gas phase is expressed as (where 𝑃 𝑖 denotes the initial pressure and 𝑃 t represents the total pressure at time t)
+\begin{choices}
+  \choice \ud835\udc58= 2.303 t \u00d7 log \ud835\udc43 \ud835\udc56 2\ud835\udc43 \ud835\udc56 - \ud835\udc43 t
+  \choice \ud835\udc58= 2.303 t \u00d7 log 2\ud835\udc43 \ud835\udc56 2\ud835\udc43 \ud835\udc56 - \ud835\udc43 t
+  \choice \ud835\udc58= 2.303 t \u00d7 log 2\ud835\udc43 \ud835\udc56 - \ud835\udc43 t \ud835\udc43 \ud835\udc56
+  \choice \ud835\udc58= 2.303 t \u00d7 \ud835\udc43 \ud835\udc56 2\ud835\udc43 \ud835\udc56 - \ud835\udc43 t
+\end{choices}
+
+\question
+Below are two statements, one termed Assertion (A) and the other termed Reason (R). Assertion (A): is a representation of an allyl halide. Reason (R): Allyl halides refer to compounds where the halogen atom is bonded to a hybridized carbon atom.
+\begin{choices}
+  \choice (A) is true but (R) is false
+  \choice Both (A) and (R) are true but (R) is not the correct explanation of
+  \choice (A) is false but (R) is true
+  \choice Both (A) and (R) are true and (R) is the correct explanation of (A)
+\end{choices}
+
+\question
+What type of protein structure stays unchanged after the coagulation of egg white when boiled?
+\begin{choices}
+  \choice Primary
+  \choice Tertiary
+  \choice Secondary
+  \choice Quaternary
+\end{choices}
+
+\question
+Below are two statements: Statement I: One mole of propyne reacts with an excess of sodium to produce half a mole of gas. Statement II: Four grams of propyne reacts to produce gas that occupies 224 mL at STP. Based on the aforementioned statements, select the most suitable answer from the options provided below:
+\begin{choices}
+  \choice Statement I is incorrect but Statement II is correct
+  \choice Both Statement I and Statement II are correct
+  \choice Statement I is correct but Statement II is incorrect
+  \choice Both Statement I and Statement II are incorrect 2025 (22 Jan Shift 1)
+\end{choices}
+
+\question
+Below are two assertions: Assertion I: The metallic radius of is and the ionic radius of is smaller than . Assertion II: Ions are consistently smaller in size than their respective elements. Based on these assertions, select the accurate answer from the options provided below:
+\begin{choices}
+  \choice Both Statement I and Statement II are false
+  \choice Statement I is incorrect but Statement II is true
+  \choice Both Statement I and Statement II are true
+  \choice Statement I is correct but Statement II is false
+\end{choices}
+
+\question
+A vessel at 1100 K contains with a pressure of 0.6 atm. Some of is converted into CO on addition of graphite. If total pressure at equilibrium is 0.9 atm, then Kp is:
+\begin{choices}
+  \choice 2.2 atm
+  \choice 0.4 atm
+  \choice 3.2 atm
+  \choice 0.24 atm
+\end{choices}
+
+\question
+Below are two assertions: Assertion I: The bromination of phenol in a solvent with low polarity, such as or, necessitates a Lewis acid catalyst. Assertion II: The Lewis acid catalyst facilitates the polarization of bromine to produce . Considering the above assertions, select the appropriate answer from the options provided below:
+\begin{choices}
+  \choice Both Statement I and Statement II are true
+  \choice Statement I is true but Statement II is false
+  \choice Statement I is false but Statement II is true
+  \choice Both Statement I and Statement II are false
+\end{choices}
+
+\question
+The atomic mass of 6 C 12 is 12.000000 u and that of 6 C 14 is 14.003242 u. The required energy to remove a neutron from 6 C 14, if mass of neutron is 1.008665 u, will be:
+\begin{choices}
+  \choice 62.5MeV
+  \choice 6.25MeV
+  \choice 5.12MeV
+  \choice 49.5MeV
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{50}
+\question
+The number of molecules/ions that show linear geometry among the following is \_\_\_\_\_\_\_\_. Consider the following: A) BeCl2 B) CO2 C) H2O D) CCl4 E) N2 F) ClF3
+
+\question
+Niobium (Nb) and ruthenium (Ru) have 4 and 8 number of electrons in their respective 4d orbitals. The value of the difference in electrons between them is \_\_\_\_\_\_.
+
+\question
+On a thin layer chromatographic plate, an organic compound moved by a distance of 3 cm, while the solvent front moved by a distance of 21 cm. The retardation factor (Rf) of the organic compound is calculated using the formula Rf = (distance moved by the compound) / (distance moved by the solvent). Therefore, the retardation factor of the organic compound is \_\_\_\_\_\_\_\_\_\_\_\_\_.
+
+\question
+The molar mass of the water insoluble product formed from the fusion of chromite ore with sodium carbonate in the presence of air is \_\_\_\_\_\_\_.
+
+\question
+If the combustion reaction of octane (C8H18) is balanced with integer coefficients, the value of the coefficient for O2 is \_\_\_\_\_\_\_\_. The balanced equation for the combustion of octane is: C8H18 + O2 → CO2 + H2O.
+
+\question
+A first row transition metal with the highest enthalpy of atomisation is Chromium (Cr), which upon reaction with oxygen at high temperature forms oxides of formula CrO3 and CrO. The 'spin-only' magnetic moment value of the amphoteric oxide (CrO) from the above oxides is \_\_\_\_\_\_ (near integer) (Given atomic number: 24)
+
+\question
+The concentration of a salt solution at which the salt begins to precipitate from a solution containing ions is known as the solubility product (Ksp). If the Ksp of a certain salt is 9, what is the concentration at which it begins to precipitate?
+
+\question
+If 100 g of water and 100 g of acetic acid are mixed, the freezing point of the solution will be approximately X °C. Consider that acetic acid does not dimerize in water, nor dissociates in water. Calculate X (nearest integer). [Given: Molar mass of water: 18 g/mol, Molar mass of acetic acid: 60 g/mol, Freezing point of acetic acid: 16.6 °C]
+
+\question
+In the Claisen-Schmidt reaction to prepare, dibenzalacetone from 6.8 g of benzaldehyde, a total of 4.25 g of product was obtained. The percentage yield in this reaction was \_\_\_\_\_\_ \%.
+
+\question
+In the given compound, butanoic acid (C4H8O2), the number of carbon atoms is \_\_\_\_\_\_\_.
+
+\end{questions}
+
+
+\sectiontitle{Mathematics}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{60}
+\question
+The number of triangles whose vertices are at the vertices of a regular octagon but none of whose sides is a side of the octagon is
+\begin{choices}
+  \choice 48
+  \choice 32
+  \choice 24
+  \choice 40
+\end{choices}
+
+\question
+If the domain of the function is , then is equal to :
+\begin{choices}
+  \choice 40
+  \choice 28
+  \choice 36
+  \choice 42
+\end{choices}
+
+\question
+Suppose 32 - 𝑝, 𝑝, 80 - 𝛼, 𝛼 are the coefficient of four consecutive terms in the expansion of ( 1 + 𝑥) 𝑛 . Then the value of 2𝛼 - 3𝑝 equals
+\begin{choices}
+  \choice 8
+  \choice 10
+  \choice 6
+  \choice 4
+\end{choices}
+
+\question
+The sum of the series 1 1 -3 ⋅1 2 + 1 4 + 2 1 -3 ⋅2 2 + 2 4 + 3 1 -3 ⋅3 2 + 3 4 + . ... up to 10 terms is
+\begin{choices}
+  \choice 50 109
+  \choice - 50 109
+  \choice 60 109
+  \choice - 60 109
+\end{choices}
+
+\question
+Let 𝐴( 𝛼, 0 ) and 𝐵( 0, 𝛽) be the points on the line 5𝑥+ 7𝑦= 50 . Let the point 𝑃 divide the line segment 𝐴𝐵 internally in the ratio 7: 3 . Let 3𝑥- 25 = 0 be a directrix of the ellipse 𝐸: 𝑥 2 𝑎 2 + 𝑦 2 𝑏 2 = 1 and the corresponding focus be 𝑆 . If from 𝑆 , the perpendicular on the 𝑥- axis passes through 𝑃 , then the length of the latus rectum of 𝐸 is equal to
+\begin{choices}
+  \choice 25/3
+  \choice 32/9
+  \choice 25/9
+  \choice 32/5
+\end{choices}
+
+\question
+If the value of x is equal to the sum of the squares of two natural numbers a and b, where a = 4 and b = 6, then x is equal to:
+\begin{choices}
+  \choice 40
+  \choice 52
+  \choice 50
+  \choice 54
+\end{choices}
+
+\question
+The frequency distribution of the age of students in a class of 42 students is given below. If the mean deviation about the median is 1.5, then is equal to :
+\begin{choices}
+  \choice 45
+  \choice 43
+  \choice 48
+  \choice 46
+\end{choices}
+
+\question
+Suppose there exists a function defined by where . If the function is continuous at , what is the value of ?
+\begin{choices}
+  \choice 3
+  \choice 12
+  \choice 48
+  \choice 6
+\end{choices}
+
+\question
+Assume that and . Given that , what is the value of ?
+\begin{choices}
+  \choice 36
+  \choice 16
+  \choice 1
+  \choice 49
+\end{choices}
+
+\question
+Consider the area of the region as A. Therefore, 6 A is equivalent to:
+\begin{choices}
+  \choice 16
+  \choice 12
+  \choice 14
+  \choice 18
+\end{choices}
+
+\question
+Consider the function 𝑓: R→R defined by 𝑓𝑥= 𝑎-𝑏cos2𝑥 for 𝑥 < 0, 𝑥 2 + 𝑐𝑥+ 2 for 0 ≤𝑥≤1, and 2𝑥+ 1 for 𝑥 > 1. If the function 𝑓 is continuous at all points in R and 𝑚 represents the count of points where 𝑓 is not differentiable, what is the sum of 𝑚 + 𝑎 + 𝑏 + 𝑐?
+\begin{choices}
+  \choice 1
+  \choice 4
+  \choice 3
+  \choice 2
+\end{choices}
+
+\question
+If the variance of the frequency distribution is 225, then the value of is
+\begin{choices}
+  \choice 6
+  \choice 9
+  \choice 7
+  \choice 8
+\end{choices}
+
+\question
+Let \( m = 12 \) and \( n = 8 \). Then the number of many-one functions such that \( m \to n \) is equal to:
+\begin{choices}
+  \choice 139
+  \choice 127
+  \choice 151
+  \choice 145
+\end{choices}
+
+\question
+The value of the integral π 6 ∫ 0 𝑥𝑑𝑥 sin(5) 3𝑥 + cos(5) 3𝑥 equals:
+\begin{choices}
+  \choice √2π 3/12
+  \choice √2π 3/24
+  \choice √2π 3/48
+  \choice √2π 3/36
+\end{choices}
+
+\question
+Consider the term of an A.P. If for certain values of , and , then what is the value of ?
+\begin{choices}
+  \choice 98
+  \choice 126
+  \choice 142
+  \choice 112
+\end{choices}
+
+\question
+The 20 th term from the end of the progression 25, 24 1/4 , 23 1/2 , 22 3/4 , … , - 134 1/4 is :-
+\begin{choices}
+  \choice -123
+  \choice -125
+  \choice -120
+  \choice -130
+\end{choices}
+
+\question
+If all the words with or without meaning made using all the letters of the word "NAGPUR" are arranged as in a dictionary, then the word at position in this arrangement is :
+\begin{choices}
+  \choice NRAGUP
+  \choice NRAPUG
+  \choice NRAPGU
+  \choice NRAGPU
+\end{choices}
+
+\question
+Consider the vectors and . If denotes the unit vector pointing in the direction of such that , what is the value of ?
+\begin{choices}
+  \choice 11
+  \choice 3
+  \choice 9
+  \choice 6
+\end{choices}
+
+\question
+Consider a function that takes real values. If the minimum and maximum values of this function are denoted as and , what is the value of ?
+\begin{choices}
+  \choice 42
+  \choice 38
+  \choice 24
+  \choice 44
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{79}
+\question
+Let P(a, b) be a point on the parabola y = x\textasciicircum{}2. If P also lies on the chord of the parabola whose mid point is M(4, 16), then the value of 'a' is equal to \_\_\_\_\_\_\_.
+
+\question
+Let \( \mathbf{a}, \mathbf{b}, \mathbf{c} \) be three given vectors. If \( \mathbf{d} \) is a vector such that \( \mathbf{d} = \mathbf{a} + \mathbf{b} + \mathbf{c} \) and \( \mathbf{d} \cdot \mathbf{c} = 569 \), then \( \mathbf{d} \) is equal to ___________
+
+\question
+If α and β are the roots of the quadratic equation x² - 8x + 12 = 0, then the value of α + β is equal to\_\_\_\_\_\_\_\_\_\_
+
+\question
+If the equation of the line is given by 3x + 4y - 12 = 0, and the point is (2, 1), then the distance of the point from the line is \_\_\_\_\_\_\_\_\_.
+
+\question
+Let 𝛼 be a non-zero real number. Suppose 𝑓: ℝ→ℝ is a differentiable function such that 𝑓(0) = 1 and lim 𝑥→-∞ 𝑓(𝑥) = 1. If 𝑓'(𝑥) = 𝛼𝑓(𝑥) + 3 for all 𝑥 ∈ ℝ, then find the value of 𝑓(0) - logₑ(2).
+
+\question
+Let 𝑥 denote the fractional part of 𝑥 and let 𝑓(𝑥) = cos\textasciicircum{}\{-1\}(1 - 𝑥\textasciicircum{}2) - sin\textasciicircum{}\{-1\}(1 - 𝑥) + 𝑥 - 𝑥\textasciicircum{}3, 𝑥≠0. If L and R respectively denote the left-hand limit and the right-hand limit of 𝑓(𝑥) at 𝑥= 0, then 32 π\textasciicircum{}2 L\textasciicircum{}2 + R\textasciicircum{}2 is equal to \_\_\_\_\_\_\_\_\_\_.
+
+\question
+If x + y = 10, where x = 2 and y = 8, then x * y is equal to\_\_\_\_\_\_\_\_\_
+
+\question
+The number of 3-digit numbers, that are divisible by 2 and 3, but not divisible by 4 and 9, is\_\_\_\_\_\_.
+
+\question
+The number of solutions of the equation x\textasciicircum{}2 - 4x + 4 = 0, where x is a real number, is\_\_\_\_\_\_\_\_.
+
+\question
+Consider A as a 2 × 2 real matrix and I as the identity matrix of size 2. Given that the solutions to the equation |A - xI | = 0 are -1 and 3, what is the total of the diagonal entries of the matrix A 2?
+
+\end{questions}
+
+
+\newpage
+\sectiontitle{Answer Key}
+
+
+\textbf{Physics}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q1 & Q2 & Q3 & Q4 & Q5 & Q6 & Q7 & Q8 & Q9 & Q10 \\\hline
+(1) & (1) & (4) & (1) & (3) & (3) & (1) & (2) & (4) & (3) \\\hline
+Q11 & Q12 & Q13 & Q14 & Q15 & Q16 & Q17 & Q18 & Q19 & Q20 \\\hline
+(3) & (4) & (2) & (4) & (1) & (1) & (1) & (2) & (2) & (3) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q21 & Q22 & Q23 & Q24 & Q25 & Q26 & Q27 & Q28 & Q29 & Q30 \\\hline
+12 & 22 & 12 & 5 & 2 & 661 & 10 & 4 & 86 & 4 \\\hline
+\end{tabular}\\[1em]
+
+
+\textbf{Chemistry}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q31 & Q32 & Q33 & Q34 & Q35 & Q36 & Q37 & Q38 & Q39 & Q40 \\\hline
+(1) & (1) & (4) & (1) & (3) & (4) & (4) & (2) & (4) & (1) \\\hline
+Q41 & Q42 & Q43 & Q44 & Q45 & Q46 & Q47 & Q48 & Q49 & Q50 \\\hline
+(4) & (1) & (1) & (1) & (1) & (3) & (4) & (1) & (3) & (3) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q51 & Q52 & Q53 & Q54 & Q55 & Q56 & Q57 & Q58 & Q59 & Q60 \\\hline
+6 & 11 & 0 & 160 & 8 & 0 & 9 & 31 & 62 & 3 \\\hline
+\end{tabular}\\[1em]
+
+
+\textbf{Mathematics}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q61 & Q62 & Q63 & Q64 & Q65 & Q66 & Q67 & Q68 & Q69 & Q70 \\\hline
+(3) & (3) & (1) & (3) & (4) & (2) & (4) & (2) & (2) & (3) \\\hline
+Q71 & Q72 & Q73 & Q74 & Q75 & Q76 & Q77 & Q78 & Q79 \\\hline
+(2) & (2) & (2) & (3) & (2) & (2) & (3) & (1) & (1) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q80 & Q81 & Q82 & Q83 & Q84 & Q85 & Q86 & Q87 & Q88 & Q89 \\\hline
+192 & 569 & 6 & 5 & 1 & 18 & 8 & 130 & 2 & 10 \\\hline
+\end{tabular}\\[1em]
+
+
+\end{document}

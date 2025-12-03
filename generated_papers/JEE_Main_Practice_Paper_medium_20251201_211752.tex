@@ -1,0 +1,855 @@
+\documentclass[12pt,a4paper]{exam}
+
+% Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{enumitem}
+\usepackage{multicol}
+\usepackage{newunicodechar}
+
+% Unicode math character mappings
+\newunicodechar{𝜀}{$\varepsilon$}
+\newunicodechar{𝑃}{$P$}
+\newunicodechar{𝑉}{$V$}
+\newunicodechar{𝐾}{$K$}
+\newunicodechar{𝐴}{$A$}
+\newunicodechar{𝐵}{$B$}
+\newunicodechar{𝐶}{$C$}
+\newunicodechar{𝐷}{$D$}
+\newunicodechar{𝐸}{$E$}
+\newunicodechar{𝑇}{$T$}
+\newunicodechar{𝑅}{$R$}
+\newunicodechar{𝐼}{$I$}
+\newunicodechar{𝑁}{$N$}
+\newunicodechar{𝑀}{$M$}
+\newunicodechar{𝐿}{$L$}
+\newunicodechar{𝑎}{$a$}
+\newunicodechar{𝑏}{$b$}
+\newunicodechar{𝑐}{$c$}
+\newunicodechar{𝑑}{$d$}
+\newunicodechar{𝑒}{$e$}
+\newunicodechar{𝑓}{$f$}
+\newunicodechar{𝑔}{$g$}
+\newunicodechar{𝑛}{$n$}
+\newunicodechar{𝑚}{$m$}
+\newunicodechar{𝑟}{$r$}
+\newunicodechar{𝑠}{$s$}
+\newunicodechar{𝑡}{$t$}
+\newunicodechar{𝑥}{$x$}
+\newunicodechar{𝑦}{$y$}
+\newunicodechar{𝑧}{$z$}
+\newunicodechar{α}{$\alpha$}
+\newunicodechar{β}{$\beta$}
+\newunicodechar{γ}{$\gamma$}
+\newunicodechar{δ}{$\delta$}
+\newunicodechar{ε}{$\varepsilon$}
+\newunicodechar{θ}{$\theta$}
+\newunicodechar{λ}{$\lambda$}
+\newunicodechar{μ}{$\mu$}
+\newunicodechar{π}{$\pi$}
+\newunicodechar{ρ}{$\rho$}
+\newunicodechar{σ}{$\sigma$}
+\newunicodechar{τ}{$\tau$}
+\newunicodechar{φ}{$\varphi$}
+\newunicodechar{ω}{$\omega$}
+\newunicodechar{Ω}{$\Omega$}
+\newunicodechar{°}{$^\circ$}
+\newunicodechar{±}{$\pm$}
+\newunicodechar{×}{$\times$}
+\newunicodechar{÷}{$\div$}
+\newunicodechar{√}{$\sqrt{}$}
+\newunicodechar{∞}{$\infty$}
+\newunicodechar{≠}{$\neq$}
+\newunicodechar{≤}{$\leq$}
+\newunicodechar{≥}{$\geq$}
+\newunicodechar{→}{$\rightarrow$}
+\newunicodechar{←}{$\leftarrow$}
+\newunicodechar{↔}{$\leftrightarrow$}
+
+% Page geometry
+\geometry{
+    top=1.5cm,
+    bottom=2cm,
+    left=2cm,
+    right=2cm,
+    headheight=1.5cm
+}
+
+% Colors
+\definecolor{headerblue}{RGB}{0, 51, 102}
+\definecolor{sectiongreen}{RGB}{0, 102, 51}
+
+% Header/Footer using exam class commands
+\pagestyle{headandfoot}
+\firstpageheader{}{}{}
+\runningheader{\textsc{JEE Main Practice Paper}}{}{\textsc{Page \thepage}}
+\runningfooter{}{Generated: December 01, 2025}{}
+
+% Custom commands
+\newcommand{\sectiontitle}[1]{%
+    \vspace{1em}
+    \noindent\colorbox{headerblue}{\parbox{\dimexpr\textwidth-2\fboxsep}{%
+        \centering\color{white}\Large\bfseries #1
+    }}
+    \vspace{0.5em}
+}
+
+% Question format
+\renewcommand{\questionlabel}{\textbf{Q\thequestion.}}
+\renewcommand{\choicelabel}{(\thechoice)}
+
+% Hide answers in questions (they go in answer key)
+\noprintanswers
+
+\begin{document}
+
+% Title Page
+\begin{center}
+    {\Huge\bfseries\color{headerblue} JEE Main Practice Paper}\\[0.5em]
+    {\large Based on JEE Main Pattern}\\[1em]
+    {\normalsize Generated: December 01, 2025 | Difficulty: Medium}\\[0.5em]
+    \rule{\textwidth}{1pt}
+\end{center}
+
+\vspace{0.5em}
+\noindent\textbf{Instructions:}
+\begin{itemize}[nosep,leftmargin=*]
+    \item This paper contains 90 questions (30 per subject).
+    \item Each subject has 20 MCQs and 10 Integer Type questions.
+    \item MCQ: +4 for correct, -1 for incorrect.
+    \item Integer: +4 for correct, 0 for incorrect.
+    \item Time: 3 hours | Maximum Marks: 360
+\end{itemize}
+\rule{\textwidth}{0.5pt}
+
+
+\sectiontitle{Physics}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{0}
+\question
+The least amount of energy necessary for a hydrogen atom in its ground state to emit radiation in the Balmer series is approximately:
+\begin{choices}
+  \choice 1.5 eV
+  \choice 13.6 eV
+  \choice 1.9 eV
+  \choice 12.1 eV
+\end{choices}
+
+\question
+The kinetic energy of translation of the molecules in 60 g of gas at is
+\begin{choices}
+  \choice 5025.6 J
+  \choice 4902.4 J
+  \choice 3582.7 J
+  \choice 3986.3 J
+\end{choices}
+
+\question
+A light source with a specific wavelength shines on a metal surface, causing electrons to be emitted with a maximum kinetic energy of $2 \, \text{eV}$. If the same metal surface is exposed to a light source of a different wavelength, what will be the maximum kinetic energy of the emitted electrons? (The work function of the metal is $1 \, \text{eV}$)
+\begin{choices}
+  \choice 3 eV
+  \choice 2 eV
+  \choice 6 eV
+  \choice 5 eV
+\end{choices}
+
+\question
+The de Broglie wavelengths associated with a proton and an $\alpha$ particle are $\lambda$ and $2\lambda$ respectively. What is the ratio of the velocities of the proton to the $\alpha$ particle?
+\begin{choices}
+  \choice 1 : 8
+  \choice 1 : 2
+  \choice 4 : 1
+  \choice 8 : 1
+\end{choices}
+
+\question
+An electric dipole is situated at a distance of 2 cm from an infinite plane sheet with a positive charge density. Select the correct option from the choices below.
+\begin{choices}
+  \choice Potential energy and torque both are maximum.
+  \choice Torque on dipole is zero and net force is directed away from the sheet.
+  \choice Torque on dipole is zero and net force acts towards the sheet.
+  \choice Potential energy of dipole is minimum and torque is zero.
+\end{choices}
+
+\question
+A light bulb and a capacitor are arranged in series connected to an alternating current supply. Subsequently, a dielectric material is introduced between the capacitor's plates. The brightness of the bulb:
+\begin{choices}
+  \choice increases
+  \choice decreases
+  \choice remains same
+  \choice becomes zero
+\end{choices}
+
+\question
+By what percentage will the illumination of the lamp decrease if the current drops by 15\%?
+\begin{choices}
+  \choice 22\%
+  \choice 29\%
+  \choice 18\%
+  \choice 34\%
+\end{choices}
+
+\question
+A slender plano-convex lens composed of glass with a refractive index of 1.5 is placed in a liquid that has a refractive index of 1.2. When the flat surface of the lens is coated with silver for total reflection, the lens is submerged in the liquid 2025 (24 Jan Shift 1)
+\begin{choices}
+  \choice 0.20 m
+  \choice 0.25 m
+  \choice 0.15 m
+  \choice 0.10 m
+\end{choices}
+
+\question
+If two vectors $\vec{A}$ and $\vec{B}$, both having the same magnitude $R$, are positioned at an angle $\theta$, then
+\begin{choices}
+  \choice $\vec{A} - \vec{B} = \sqrt{2}R \sin \frac{\theta}{2}$
+  \choice $\vec{A} + \vec{B} = 2R \sin \frac{\theta}{2}$
+  \choice $\vec{A} + \vec{B} = 2R \cos \frac{\theta}{2}$
+  \choice $\vec{A} - \vec{B} = 2R \cos \frac{\theta}{2}$
+\end{choices}
+
+\question
+The following two statements are presented: Statement (I): It is not possible to define both the linear momentum and the position of a particle with arbitrary precision at the same time. Statement (II): If the uncertainties in the measurements of position and momentum are equal for an electron, then the uncertainty in the measurement of velocity is . Based on the above statements, select the correct answer from the options provided below:
+\begin{choices}
+  \choice Statement I is false but Statement II is true
+  \choice Both Statement I and Statement II are false
+  \choice Both Statement I and Statement II are true
+  \choice Statement I is true but Statement II is false
+\end{choices}
+
+\question
+A ball that is hung by a thread swings within a vertical plane such that the magnitudes of acceleration at both the extreme position and the lowest position are identical. The angle ($\theta$) of thread deflection at the extreme position will be:
+\begin{choices}
+  \choice tan$^{-1}(\sqrt{2})$
+  \choice 2tan$^{-1}(\frac{1}{2})$
+  \choice tan$^{-1}(\frac{1}{2})$
+  \choice 2tan$^{-1}(\frac{1}{\sqrt{5}})$
+\end{choices}
+
+\question
+In Young's double slit experiment, the width of one slit is denoted as $d$, while the other slit has a width of $d'$. If the ratio of the maximum intensity to the minimum intensity observed in the interference pattern on the screen is given, what is the value of this ratio? (Assume that the electric field strength varies based on the width of the slits.)
+\begin{choices}
+  \choice 4
+  \choice 5
+  \choice 3
+  \choice 2
+\end{choices}
+
+\question
+A particle traveling in a circular path with a radius of $R$ at a constant speed requires a time $T$ to make one complete revolution. If this particle is launched with the same speed at an angle $\theta$ relative to the horizontal, the peak height it reaches is $4R$. The angle of launch $\theta$ can then be expressed as:
+\begin{choices}
+  \choice sin(-12) gT^{2} \pi^{2} R^{1/2}
+  \choice sin^{-1} \pi^{2} R^{2} gT^{2} 1/2
+  \choice cos^{-1} 2 gT^{2} \pi^{2} R^{1/2}
+  \choice cos^{-1} \pi R^{2} gT^{2} 1/2
+\end{choices}
+
+\question
+A body of mass 3 kg begins to move under the action of a time dependent force given by $\vec{F} = 9 t \hat{i} + 4 t^{2} \hat{j} \text{ N}$. The power developed by the force at the time $t$ is given by:
+\begin{choices}
+  \choice 9 t\textasciicircum{}\{4\} + 12 t\textasciicircum{}\{5\} W
+  \choice 4 t\textasciicircum{}\{3\} + 9 t\textasciicircum{}\{5\} W
+  \choice 12 t\textasciicircum{}\{5\} + 9 t\textasciicircum{}\{3\} W
+  \choice 12 t\textasciicircum{}\{3\} + 9 t\textasciicircum{}\{5\} W
+\end{choices}
+
+\question
+The mass number of nucleus having radius equal to half of the radius of nucleus with mass number 256 is:
+\begin{choices}
+  \choice 64
+  \choice 80
+  \choice 100
+  \choice 50
+\end{choices}
+
+\question
+Two conductors possess identical resistances at a temperature of 0 $^{\\circ}$C, yet their temperature coefficients of resistance are $\alpha_{1}$ and $\alpha_{2}$. What are the corresponding temperature coefficients for their series and parallel arrangements?
+\begin{choices}
+  \choice $\alpha_{1} + \alpha_{2}, \alpha_{1} + \frac{\alpha_{2}}{2}$
+  \choice $\alpha_{1} + \frac{\alpha_{2}}{2}, \alpha_{1} + \frac{\alpha_{2}}{2}$
+  \choice $\alpha_{1} + \alpha_{2}, \alpha_{1} \alpha_{2} \alpha_{1} + \alpha_{2}$
+  \choice $\alpha_{1} + \frac{\alpha_{2}}{2}, \alpha_{1} + \alpha_{2}$
+\end{choices}
+
+\question
+A transparent film of refractive index, 1.8 is coated on a glass slab of refractive index, 1.5. What is the minimum thickness of transparent film to be coated for the maximum transmission of Green light of wavelength 600 nm. [Assume that the light is incident nearly perpendicular to the glass surface.]
+\begin{choices}
+  \choice 150 nm
+  \choice 300 nm
+  \choice 100 nm
+  \choice 75 nm
+\end{choices}
+
+\question
+A massless spring gets elongated by amount under a tension of 6 N. Its elongation is under the tension of 8 N. For the elongation of , the tension in the spring will be,
+\begin{choices}
+  \choice 32 N
+  \choice 18 N
+  \choice 14 N
+  \choice 24 N
+\end{choices}
+
+\question
+During a nuclear fission process involving an isotope with mass $M$, three identical daughter nuclei of equal mass are produced. The velocity of one of the daughter nuclei in relation to the mass defect $\Delta M$ will be:
+\begin{choices}
+  \choice $\sqrt{2} \vec{M} \vec{M}$
+  \choice $\vec{M} \Delta M \frac{2}{3}$
+  \choice $\vec{M} \sqrt{2} \Delta M M$
+  \choice $\vec{M} \sqrt{3} \Delta M M$
+\end{choices}
+
+\question
+A beam of unpolarised light with an intensity of $I_{0}$ passes through a polaroid $A$ and subsequently through another polaroid $B$, which is positioned such that its principal plane forms an angle of $45^{\circ}$ with respect to that of $A$. What is the intensity of the light that emerges?
+\begin{choices}
+  \choice $\frac{I_{0}}{4}$
+  \choice $I_{0}$
+  \choice $\frac{I_{0}}{2}$
+  \choice $\frac{I_{0}}{8}$
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{20}
+\question
+Mercury is filled in a tube of radius $r = 0.01$ m up to a height of $h = 0.5$ m. The force exerted by mercury on the bottom of the tube is calculated using the formula $F = P_{total} \cdot A$, where $P_{total} = \rho g h + P_{atm}$, $\rho$ is the density of mercury ($\rho = 13560 \, \text{kg m}^{-3}$), and $g$ is the acceleration due to gravity ($g = 9.81 \, \text{m s}^{-2}$). Calculate the force exerted by mercury on the bottom of the tube in Newtons.
+
+\question
+Two soap bubbles of radius 3 cm and 5 cm, respectively, are in contact with each other. The radius of curvature of the common surface, in cm, is \_\_\_\_\_\_.
+
+\question
+An electric field $\vec{E}$ passes through a surface of area $A$ having unit vector $\hat{n}$. The electric flux $\Phi_E$ for that surface is given by the equation $\Phi_E = \vec{E} \cdot \hat{n} A$. If the electric field strength is $3 \, \text{N/C}$ and the area is $4 \, \text{m}^{2}$, what is the electric flux for that surface?
+
+\question
+In Young's double slit experiment, monochromatic light of wavelength 6000 \text{ \AA} is used. The slits are 0.8 \text{ mm} apart and screen is placed at 1.2 \text{ m} away from slits. The distance from the centre of the screen where intensity becomes half of the maximum intensity for the first time is ______ \times 10^{-6} \text{ m}.
+
+\question
+A particle is moving in one dimension (along $x$ axis) under the action of a variable force. Its initial position was 20 m right of origin. The variation of its position $x$ with time $t$ is given as $x= -4t^{3} + 24t^{2} + 20t$, where $x$ is in m and $t$ is in s. The velocity of the particle when its acceleration becomes zero is _________ m s$^{-1}$.
+
+\question
+Three moles of an ideal gas are compressed isothermally from a volume of $V_{1} = 10$ L to a volume of $V_{2} = 5$ L using a constant pressure of $P = 2$ atm. The heat exchange for the compression is - ______ L atm.
+
+\question
+A square loop of edge length $L$ carrying a current $I$ is placed with its edges parallel to the $x$ and $y$ axes. A magnetic field is passing through the plane and expressed as $B = B_{0} \hat{k}$, where $B_{0}$ is a constant. The net magnetic force experienced by the loop is given by the formula $F = I L B \sin\theta$, where $\theta$ is the angle between the current direction and the magnetic field. Calculate the net magnetic force experienced by the loop.
+
+\question
+A 2 A current carrying straight metal wire of resistance $R$, resistivity $\rho$, area of cross-section $A$, and mass $m$ is suspended horizontally in mid air by applying a uniform magnetic field $B$. The magnitude of the magnetic field $B$ required to suspend the wire is _____ (given, $R = 5 \, \Omega$, $\rho = 1.68 \times 10^{-8} \, \Omega \cdot m$, $A = 1 \times 10^{-6} \, m^{2}$, $m = 0.1 \, kg$).
+
+\question
+A ball rolls off the top of a stairway with horizontal velocity $v_{0}$. The steps are high $h$ and wide $w$. The minimum velocity with which that ball just hits the step of the stairway will be $v_{min} = \sqrt{2gh}$, where $g$ is the acceleration due to gravity.
+
+\question
+A particle is projected at an angle of $30^{\circ}$ from the horizontal at a speed of $20 \, \text{m/s}$. The height traversed by the particle in the first second is $h_{1} = 5 \, \text{m}$ and the height traversed in the last second, before it reaches the maximum height, is $h_{2} = 20 \, \text{m}$. The ratio $\frac{h_{1}}{h_{2}}$ is _________ [Take, $g = 9.8 \, \text{m/s}^{2}$]
+
+\end{questions}
+
+
+\sectiontitle{Chemistry}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{30}
+\question
+The density of a 3 M NaCl solution is 1.19 g/mL. The molality of the solution is calculated using the formula: molality = $\frac{moles \, of \, solute}{mass \, of \, solvent \, (kg)}$. What is the molality of the solution?
+\begin{choices}
+  \choice 1.79 m
+  \choice 2.79 m
+  \choice 2 m
+  \choice 3 m
+\end{choices}
+
+\question
+The equation representing the integrated rate law for a first-order reaction in the gas phase is expressed as (where $P_{i}$ denotes the initial pressure and $P_{t}$ represents the pressure at time $t$)
+\begin{choices}
+  \choice $k= 2.303 t \times \log P_{i} 2P_{i} - P_{t}$
+  \choice $k= 2.303 t \times \log 2P_{i} 2P_{i} - P_{t}$
+  \choice $k= 2.303 t \times \log 2P_{i} - P_{t} P_{i}$
+  \choice $k= 2.303 t \times P_{i} 2P_{i} - P_{t}$
+\end{choices}
+
+\question
+The material utilized in adsorption chromatography is/are - A. silica gel B. alumina C. quick lime D. magnesia Select the most suitable answer from the options provided below:
+\begin{choices}
+  \choice A only
+  \choice B only
+  \choice C and D only
+  \choice A and B only
+\end{choices}
+
+\question
+Following are the four molecules "P", "Q", "R" and "S". Which one among the four molecules will react with at the fastest rate?
+\begin{choices}
+  \choice R
+  \choice P
+  \choice Q
+  \choice S
+\end{choices}
+
+\question
+Which of the following statements are true? A. Glycerol is purified through vacuum distillation since it decomposes at its typical boiling point. B. Aniline can be purified using steam distillation because it is miscible in water. C. Ethanol can be isolated from an ethanol-water mixture via azeotropic distillation due to its ability to form an azeotrope. D. An organic compound is considered pure if the mixed melting point remains constant. Select the most suitable answer from the options provided below:
+\begin{choices}
+  \choice A, B, C only
+  \choice A, C, D only
+  \choice A, B, D only
+  \choice B, C, D only
+\end{choices}
+
+\question
+Presented below are two statements: one is designated as Assertion (A) and the other as Reason (R). Assertion (A): The reaction of $A$ occurs more readily than the reaction of $B$. Reason (R): The partially bonded unhybridized $p$-orbital that forms in the trigonal bipyramidal transition state is stabilized through conjugation with the phenyl ring. Based on the above statements, select the most suitable answer from the options provided below:
+\begin{choices}
+  \choice (A) is correct but (R) is not correct
+  \choice (A) is not correct but (R) is correct
+  \choice Both (A) and (R) are correct but (R) is not the correct explanation of (A)
+  \choice Both (A) and (R) are correct and (R) is the correct explanation of
+\end{choices}
+
+\question
+Identify the correct sequence of reactivity for the electrophilic substitution reaction among the given compounds:
+\begin{choices}
+  \choice B > C > A > D
+  \choice D > C > B > A
+  \choice A > B > C > D
+  \choice B > A > C > D
+\end{choices}
+
+\question
+In a multielectron atom, which of the following orbitals characterized by three quantum numbers will possess identical energy when electric and magnetic fields are absent? Choose the correct answer from the options provided below:
+\begin{choices}
+  \choice B and C Only
+  \choice A and B Only
+  \choice C and D Only
+  \choice D and E Only
+\end{choices}
+
+\question
+Consider the given chemical reaction : Product " " is :
+\begin{choices}
+  \choice picric acid
+  \choice acetic acid
+  \choice adipic acid
+  \choice oxalic acid
+\end{choices}
+
+\question
+Among the following compounds, which one exhibits the least ionic character?
+\begin{choices}
+  \choice BaCl 2
+  \choice AgCl
+  \choice KCl
+  \choice CoCl 2
+\end{choices}
+
+\question
+A quantity of ice with a certain mass and temperature is converted into vapor at a specific temperature by the addition of heat. The total work needed for this transformation is, (Consider, specific heat of ice, specific heat of water, specific heat of steam, latent heat of ice, and latent heat of steam)
+\begin{choices}
+  \choice 3043 J
+  \choice 3024 J
+  \choice 3003 J
+  \choice 3022 J
+\end{choices}
+
+\question
+Which of the following oxidation reactions are performed by both species in an acidic environment? A. B. C. D. E. Select the correct response from the choices provided below:
+\begin{choices}
+  \choice C, D and E Only
+  \choice B, C and D Only
+  \choice A, D and E Only
+  \choice A, B and C Only
+\end{choices}
+
+\question
+If the root mean square velocity of hydrogen molecule at a given temperature and pressure is 3 \times 10^{3} \text{ m s}^{-1}, the root mean square velocity of oxygen at the same condition in \text{ m s}^{-1} is:
+\begin{choices}
+  \choice 1.0
+  \choice 0.6
+  \choice 1.2
+  \choice 0.4
+\end{choices}
+
+\question
+The atomic mass of $^{12}_{6}C$ is 12.000000 u, while that of $^{13}_{6}C$ is 13.003354 u. The energy needed to detach a neutron from $^{13}_{6}C$, given that the mass of the neutron is 1.008665 u, is:
+\begin{choices}
+  \choice 62.5MeV
+  \choice 6.25MeV
+  \choice 4.95MeV
+  \choice 49.5MeV
+\end{choices}
+
+\question
+The property that is constant for molecules of all gases at a specific temperature is:
+\begin{choices}
+  \choice kinetic energy
+  \choice momentum
+  \choice mass
+  \choice speed
+\end{choices}
+
+\question
+A container at a temperature of 1000 K has a pressure of 0.5 atm. A portion of it is transformed into CO upon the introduction of graphite. If the total pressure at equilibrium reaches 0.8 atm, what is the value of K\_\{p\}?
+\begin{choices}
+  \choice 1.8 atm
+  \choice 0.3 atm
+  \choice 3 atm
+  \choice 0.18 atm
+\end{choices}
+
+\question
+Below are two assertions: Assertion (I): The formation of $Ce^{+4}$ in the Lanthanoids is favored due to its noble gas configuration. Assertion (II): $Ce^{+4}$ acts as a strong oxidizing agent, reverting to the more common $+3$ oxidation state. Based on the above assertions, select the most suitable answer from the options provided below:
+\begin{choices}
+  \choice Statement I is false but Statement II is true
+  \choice Both Statement I and Statement II are true
+  \choice Statement I is true but Statement II is false
+  \choice Both Statement I and Statement II are false
+\end{choices}
+
+\question
+Identify the quantity of elements from the list below that are not classified as lanthanoids.
+\begin{choices}
+  \choice 3
+  \choice 4
+  \choice 1
+  \choice 5
+\end{choices}
+
+\question
+The IUPAC designation for the hydrocarbon shown below is:
+\begin{choices}
+  \choice 2-Ethyl-3,6-dimethylheptane
+  \choice 2,5,6-Trimethyloctane
+  \choice 3,4,7-Trimethyloctane
+  \choice 2-Ethyl-2,6-diethylheptane
+\end{choices}
+
+\question
+The following are two statements: Statement I: One mole of propyne reacts with an excess of sodium to release half a mole of gas. Statement II: Four g of propyne reacts to produce gas that occupies 224 mL at STP. Based on the above statements, select the most suitable answer from the options provided below:
+\begin{choices}
+  \choice Statement I is incorrect but Statement II is correct
+  \choice Both Statement I and Statement II are correct
+  \choice Statement I is correct but Statement II is incorrect
+  \choice Both Statement I and Statement II are incorrect 2025 (22 Jan Shift 1)
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{50}
+\question
+The number of halobenzenes from the following that can be prepared by Sandmeyer's reaction is determined by the presence of appropriate functional groups. Consider the following compounds: 1) Chlorobenzene, 2) Bromobenzene, 3) Iodobenzene, 4) Fluorobenzene. The number of halobenzenes from the following that can be prepared by Sandmeyer's reaction is \_\_\_\_\_\_\_
+
+\question
+Cyclohexene is \_\_\_\_\_\_\_\_\_ type of an organic compound.
+
+\question
+Number of metal ions characterized by flame test among the following is \_\_\_\_\_\_\_\_\_. Sr\textasciicircum{}\{2+\}, Ba\textasciicircum{}\{2+\}, Ca\textasciicircum{}\{2+\}, Cu\textasciicircum{}\{2+\}, Zn\textasciicircum{}\{2+\}, Co\textasciicircum{}\{2+\}, Fe\textasciicircum{}\{2+\}.
+
+\question
+In the Claisen-Schmidt reaction to prepare dibenzalacetone using acetone, the amount of benzaldehyde required is \_\_\_\_\_\_ g. (Nearest integer)
+
+\question
+The total number of molecules with zero dipole moment among the following options is \_\_\_\_\_\_. Consider the following molecules: A) CO\_\{2\}, B) H\_\{2\}O, C) CH\_\{4\}, D) NH\_\{3\}, E) CCl\_\{4\}.
+
+\question
+If the following chemical equation is balanced with integer coefficients: $4Fe + 3O_{2} \rightarrow 2Fe_{2}O_{3}$, the value of the coefficient for $Fe$ is ________.
+
+\question
+Phthalimide is made to undergo a sequence of reactions involving hydrolysis, followed by a nucleophilic substitution and a reduction. The final product 'P' contains a total number of bonds. Total number of bonds present in product 'P' is/are \_\_\_\_\_\_.
+
+\question
+An ideal gas, with an initial temperature of $T_{1} = 300 \, K$ and an initial pressure of $P_{1} = 1 \, atm$, is expanded adiabatically against a constant pressure of 1 atm until it doubles in volume. If the molar heat capacity at constant volume is $C_{V} = 3R$, then the final temperature is _______ (nearest integer).
+
+\question
+A star has a helium composition. It starts to convert three helium nuclei into one carbon nucleus via the triple alpha process as energy is released. The mass of the star is $M_{star} = 2 \times 10^{30} \, kg$ and it generates energy at the rate of $L = 3.8 \times 10^{26} \, W$. The rate of converting these helium nuclei to carbon is $R = \frac{L}{\Delta E}$, where $\Delta E$ is the energy released per reaction. [Take, mass of \, helium \, m_{He} = 4 \, u, mass of \, carbon \, m_{C} = 12 \, u]
+
+\question
+An artificial cell is made by encapsulating a glucose solution within a semipermeable membrane. The osmotic pressure developed when the artificial cell is placed within a solution of 0.5 M glucose at 25$^{\\circ}$C is _______ bar. (nearest integer). [Given: R = 0.0831 L bar K^{-1} mol^{-1}] Assume complete dissociation of glucose into its constituent molecules.
+
+\end{questions}
+
+
+\sectiontitle{Mathematics}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{60}
+\question
+Let be a function defined by $f(x) = 3x^{2} + 5x + 2$, then the value of $f(10)$ is
+\begin{choices}
+  \choice 352
+  \choice 425
+  \choice 375
+  \choice 450
+\end{choices}
+
+\question
+Given that $0 < c < b < a$, consider the equation $(a + b - 2c)x^{2} + (b + c - 2a)x + (c + a - 2b) = 0$, with $\alpha \neq 1$ being one of its roots. Then, evaluate the following two statements: (I) If $\alpha \in (-1, 0)$, then $b$ cannot be the geometric mean of $a$ and $c$. (II) If $\alpha \in (0, 1)$, then $b$ may be the geometric mean of $a$ and $c$.
+\begin{choices}
+  \choice Both (I) and (II) are true
+  \choice Neither (I) nor (II) is true
+  \choice Only (II) is true
+  \choice Only (I) is true
+\end{choices}
+
+\question
+Consider the image of the point $(1, 0, 7)$ on the line defined by $x_{1} = y - 1 = z - 2$. Let this image be represented by the point $(\alpha, \beta, \gamma)$. Which of the following points lies on the line that passes through $(\alpha, \beta, \gamma)$ and forms angles of $\frac{2\pi}{3}$ and $\frac{3\pi}{4}$ with the $y$-axis and $z$-axis, respectively, while also making an acute angle with the $x$-axis?
+\begin{choices}
+  \choice ( 1, - 2, 1 + $\sqrt{2}$ )
+  \choice ( 1, 2, 1 - $\sqrt{2}$ )
+  \choice ( 3, 4, 3 - 2$\sqrt{2}$ )
+  \choice ( 3, - 4, 3 + 2$\sqrt{2}$ )
+\end{choices}
+
+\question
+Let $f(x) = 2x + 4$ for some function. Then $f(1)$ is equal to
+\begin{choices}
+  \choice 6
+  \choice 8
+  \choice 10
+  \choice 4
+\end{choices}
+
+\question
+Let $x = 12$ and $y = 3$. Then $x \div y$ is equal to :
+\begin{choices}
+  \choice 4
+  \choice 3
+  \choice 6
+  \choice 2
+\end{choices}
+
+\question
+For 0 < a < 1, the value of the integral $\int_{0}^{\pi} \frac{dx}{1 - 1.5a \cos x + a^{2}}$ is:
+\begin{choices}
+  \choice $\frac{\pi}{2} + a^{2}$
+  \choice $\frac{\pi}{2} - a^{2}$
+  \choice $\pi - a^{2}$
+  \choice $\pi + a^{2}$
+\end{choices}
+
+\question
+Two marbles are drawn in succession from a box containing 12 red, 24 white, 18 blue and 10 orange marbles, with replacement being made after each drawing. Then the probability, that first drawn marble is red and second drawn marble is white, is
+\begin{choices}
+  \choice 3/25
+  \choice 6/25
+  \choice 5/12
+  \choice 2/15
+\end{choices}
+
+\question
+Let $e$ and $l$ denote the eccentricity and the length of the latus rectum of the ellipse. If $e = 0.6$ and $l = 10$, then $l$ is equal to.
+\begin{choices}
+  \choice 6
+  \choice 12
+  \choice 8
+  \choice 16
+\end{choices}
+
+\question
+The remainder, when $123$ is divided by $29$, is equal to :
+\begin{choices}
+  \choice 6
+  \choice 8
+  \choice 5
+  \choice 4
+\end{choices}
+
+\question
+Let for all $x$. Consider a function such that for all $x$. Then the value of $f(x)$ is :
+\begin{choices}
+  \choice 2
+  \choice 8
+  \choice 4
+  \choice 16
+\end{choices}
+
+\question
+Let be the values of $m$, for which the equations and have infinitely many solutions. Then the value of is equal to:
+\begin{choices}
+  \choice 2800
+  \choice 640
+  \choice 2910
+  \choice 520
+\end{choices}
+
+\question
+Consider $m$ and $n$ as the coefficients of the seventh and thirteenth terms, respectively, in the expansion of $1 \frac{3}{x} + \frac{1}{2} x^{\frac{2}{3}} 18$. Then, the value of $n m \frac{1}{3}$ is:
+\begin{choices}
+  \choice 4/9
+  \choice 1/9
+  \choice 1/4
+  \choice 9/4
+\end{choices}
+
+\question
+A container holds 8 balls, which are either black or white. When 4 balls are randomly selected without replacement, it was determined that 2 of them are white and the other 2 are black. What is the probability that there is an equal number of white and black balls in the bag?
+\begin{choices}
+  \choice 2/5
+  \choice 2/7
+  \choice 1/7
+  \choice 1/5
+\end{choices}
+
+\question
+Let the sum of the maximum and the minimum values of the function be $x$, where $x = 2 + 3$. Then $x$ is equal to :
+\begin{choices}
+  \choice 5
+  \choice 6
+  \choice 7
+  \choice 8
+\end{choices}
+
+\question
+Let e_{1} be the eccentricity of the hyperbola $\frac{x^{2}}{25} - \frac{y^{2}}{16} = 1$ and e_{2} be the eccentricity of the ellipse $\frac{x^{2}}{a^{2}} + \frac{y^{2}}{b^{2}} = 1$, a > b, which passes through the foci of the hyperbola. If e_{1} e_{2} = 1, then the length of the chord of the ellipse parallel to the x-axis and passing through (0, 3) is:
+\begin{choices}
+  \choice 6$\sqrt{5}$
+  \choice 12$\sqrt{5}$/5
+  \choice 15$\sqrt{5}$/5
+  \choice 4$\sqrt{5}$
+\end{choices}
+
+\question
+The 20 th term from the end of the progression 30, 29 $\frac{1}{2}$, 29, 28 $\frac{1}{2}$, \ldots, - 139 $\frac{1}{2}$ is :-
+\begin{choices}
+  \choice -128
+  \choice -120
+  \choice -125
+  \choice -110
+\end{choices}
+
+\question
+If one of the diameters of the circle $x^{2} + y^{2} - 10x + 4y + 13 = 0$ is a chord of another circle $C$, whose center is the point of intersection of the lines $2x + 3y = 12$ and $3x - 2y = 5$, then the radius of the circle $C$ is:
+\begin{choices}
+  \choice $\sqrt{20}$
+  \choice 4
+  \choice 6
+  \choice 3$\sqrt{2}$
+\end{choices}
+
+\question
+A circle is inscribed in an equilateral triangle of side of length 12 . If the area and perimeter of any square inscribed in this circle are and , respectively, then is equal to
+\begin{choices}
+  \choice 408
+  \choice 414
+  \choice 396
+  \choice 312
+\end{choices}
+
+\question
+If $x = 10$ and $y = 0$, then what is the value of $x^{2} + y^{2}$?
+\begin{choices}
+  \choice 64
+  \choice 196
+  \choice 144
+  \choice 100
+\end{choices}
+
+\question
+Let $f: \mathbb{R} \to \mathbb{R}$ be a function defined by $f(x) = \frac{x}{1 + x^{4/4}}$ and let $g(x) = f(f(f(f(x))))$. Then evaluate the integral $18 \int_{0}^{\sqrt{2}} \sqrt{5} \, x^{2} \, g(x) \, dx$.
+\begin{choices}
+  \choice 33
+  \choice 36
+  \choice 42
+  \choice 39
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{80}
+\question
+Consider the function defined by $f(x) = 2^{x}$. If the composition of $f$ with itself, denoted as $f(f(x))$, is evaluated at $x = 5$, then the value of $f(f(5))$ is equal to ______.
+
+\question
+Let for any three distinct consecutive terms of an A.P., denoted as $a$, $a+d$, and $a+2d$, the lines represented by the equations $x + y = a$, $2x - y = a + d$, and $x - 2y = a + 2d$ be concurrent at a point. If the system of equations has infinitely many solutions, then the value of $d$ is equal to _______.
+
+\question
+Consider the matrices $A = \begin{pmatrix} 1 \& 2 \\ 3 \& 4 \end{pmatrix}$ and $B = \begin{pmatrix} 5 \& 6 \\ 7 \& 8 \end{pmatrix}$. Let the set of all $x$, for which the system of equations $Ax = B$ has a negative solution (i.e., $x_{1} < 0$ and $x_{2} < 0$), be the interval $(a, b)$. Then $b - a$ is equal to_________
+
+\question
+If $r_{1}$ and $r_{2}$ are the roots of the quadratic equation $x^{2} - 7x + 6 = 0$, then $r_{1} + r_{2}$ is equal to__________
+
+\question
+Let $A = \{1, 2, 3\}$. The number of relations on $A$, containing the elements $(1, 1)$, $(2, 2)$, and $(3, 3)$, which are reflexive and transitive but not symmetric, is ______.
+
+\question
+Let $f(x) = \frac{1}{x}$ for $x > 0$ and $f(x) = 0$ for $x \leq 0$. Let $[.]$ denote the greatest integer function. If $A$ and $B$ are the number of points where $f$ is not continuous and is not differentiable, respectively, then $A + B$ equals __________.
+
+\question
+The number of distinct real roots of the equation $x^{3} - 6x^{2} + 11x - 6 = 0$ is_______
+
+\question
+What is the remainder when $x^{3} + 2x^{2} + 3x + 4$ is divided by $x + 1$?
+
+\question
+Let x be a real number such that $x + 3 = 8$. Then $x$ is equal to ______.
+
+\question
+The number of real solutions of the equation $x\left(x^{2}+3|x|+5|x-1|+6|x-2|\right)=0$ is ______.
+
+\end{questions}
+
+
+\newpage
+\sectiontitle{Answer Key}
+
+
+\textbf{Physics}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q1 & Q2 & Q3 & Q4 & Q5 & Q6 & Q7 & Q8 & Q9 & Q10 \\\hline
+(4) & (1) & (4) & (4) & (4) & (1) & (2) & (4) & (3) & (3) \\\hline
+Q11 & Q12 & Q13 & Q14 & Q15 & Q16 & Q17 & Q18 & Q19 & Q20 \\\hline
+(2) & (2) & (1) & (1) & (1) & (2) & (1) & (1) & (3) & (1) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q21 & Q22 & Q23 & Q24 & Q25 & Q26 & Q27 & Q28 & Q29 & Q30 \\\hline
+177 & 4 & 12 & 125 & 52 & 200 & 160 & 5 & 2 & 5 \\\hline
+\end{tabular}\\[1em]
+
+
+\textbf{Chemistry}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q31 & Q32 & Q33 & Q34 & Q35 & Q36 & Q37 & Q38 & Q39 & Q40 \\\hline
+(2) & (1) & (2) & (3) & (2) & (4) & (4) & (4) & (3) & (2) \\\hline
+Q41 & Q42 & Q43 & Q44 & Q45 & Q46 & Q47 & Q48 & Q49 & Q50 \\\hline
+(1) & (4) & (2) & (3) & (1) & (1) & (2) & (1) & (2) & (3) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q51 & Q52 & Q53 & Q54 & Q55 & Q56 & Q57 & Q58 & Q59 & Q60 \\\hline
+2 & 4 & 4 & 318 & 3 & 4 & 8 & 274 & 15 & 25 \\\hline
+\end{tabular}\\[1em]
+
+
+\textbf{Mathematics}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q61 & Q62 & Q63 & Q64 & Q65 & Q66 & Q67 & Q68 & Q69 & Q70 \\\hline
+(1) & (1) & (3) & (1) & (1) & (1) & (1) & (1) & (3) & (3) \\\hline
+Q71 & Q72 & Q73 & Q74 & Q75 & Q76 & Q77 & Q78 & Q79 & Q80 \\\hline
+(1) & (4) & (2) & (1) & (3) & (3) & (3) & (1) & (4) & (4) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q81 & Q82 & Q83 & Q84 & Q85 & Q86 & Q87 & Q88 & Q89 & Q90 \\\hline
+1024 & 113 & 450 & 6 & 3 & 5 & 3 & 1 & 5 & 1 \\\hline
+\end{tabular}\\[1em]
+
+
+\end{document}

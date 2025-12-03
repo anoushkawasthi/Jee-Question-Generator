@@ -1,0 +1,855 @@
+\documentclass[12pt,a4paper]{exam}
+
+% Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{enumitem}
+\usepackage{multicol}
+
+% Page geometry
+\geometry{
+    top=1.5cm,
+    bottom=2cm,
+    left=2cm,
+    right=2cm,
+    headheight=1.5cm
+}
+
+% Colors
+\definecolor{headerblue}{RGB}{0, 51, 102}
+\definecolor{sectiongreen}{RGB}{0, 102, 51}
+
+% Header/Footer using exam class commands
+\pagestyle{headandfoot}
+\firstpageheader{}{}{}
+\runningheader{\textsc{JEE Main Practice Paper}}{}{\textsc{Page \thepage}}
+\runningfooter{}{Generated: December 01, 2025}{}
+
+% Custom commands
+\newcommand{\sectiontitle}[1]{%
+    \vspace{1em}
+    \noindent\colorbox{headerblue}{\parbox{\dimexpr\textwidth-2\fboxsep}{%
+        \centering\color{white}\Large\bfseries #1
+    }}
+    \vspace{0.5em}
+}
+
+% Question format
+\renewcommand{\questionlabel}{\textbf{Q\thequestion.}}
+\renewcommand{\choicelabel}{(\thechoice)}
+
+% Hide answers in questions (they go in answer key)
+\noprintanswers
+
+\begin{document}
+
+% Title Page
+\begin{center}
+    {\Huge\bfseries\color{headerblue} JEE Main Practice Paper}\\[0.5em]
+    {\large Based on JEE Main Pattern}\\[1em]
+    {\normalsize Generated: December 01, 2025 | Difficulty: Medium}\\[0.5em]
+    \rule{\textwidth}{1pt}
+\end{center}
+
+\vspace{0.5em}
+\noindent\textbf{Instructions:}
+\begin{itemize}[nosep,leftmargin=*]
+    \item This paper contains 90 questions (30 per subject).
+    \item Each subject has 20 MCQs and 10 Integer Type questions.
+    \item MCQ: +4 for correct, -1 for incorrect.
+    \item Integer: +4 for correct, 0 for incorrect.
+    \item Time: 3 hours | Maximum Marks: 360
+\end{itemize}
+\rule{\textwidth}{0.5pt}
+
+
+\sectiontitle{Physics}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{0}
+\question
+Force between two point charges 𝑞 1 and 𝑞 2 placed in vacuum at 𝑟 cm apart is 𝐹 . Force between them when placed in a medium having dielectric 𝐾= 5 at 𝑟 5 cm apart will be:
+\begin{choices}
+  \choice 𝐹 25
+  \choice 5𝐹
+  \choice 𝐹 5
+  \choice 25𝐹
+\end{choices}
+
+\question
+A heavy iron bar of weight 12 kg is having its one end on the ground and the other on the shoulder of a man. The rod makes an angle 60° with the horizontal, the normal force applied by the man on bar is:
+\begin{choices}
+  \choice 6 kg - wt
+  \choice 12 kg - wt
+  \choice 3 kg - wt
+  \choice 6√3 kg - wt
+\end{choices}
+
+\question
+If two vectors → 𝐴 and → 𝐵 having equal magnitude R are inclined at an angle θ , then
+\begin{choices}
+  \choice → 𝐴- → 𝐵= √2Rsin θ 2
+  \choice → 𝐴+ → 𝐵= 2Rsin θ 2
+  \choice → 𝐴+ → 𝐵= 2Rcos θ 2
+  \choice → 𝐴- → 𝐵= 2Rcos θ 2
+\end{choices}
+
+\question
+The resistance per centimeter of a meter bridge wire is 𝑟 , with 𝑋 𝛺 resistance in left gap. Balancing length from left end is at 40 cm with 25 𝛺 resistance in right gap. Now the wire is replaced by another wire of 2𝑟 resistance per centimeter. The new balancing length for same settings will be at
+\begin{choices}
+  \choice 20 cm
+  \choice 10 cm
+  \choice 80 cm
+  \choice 40 cm
+\end{choices}
+
+\question
+Match List - I with List - II. List - I List - II (A) Magnetic induction (I) Ampere meter (B) Magnetic intensity (II) Weber (C) Magnetic flux (III) Gauss (D) Magnetic moment (IV) Ampere/meter
+\begin{choices}
+  \choice (A)-(I), (B)-(II), (C)-(III), (D)-(IV)
+  \choice (A)-(III), (B)-(IV), (C)-(I), (D)-(II)
+  \choice (A)-(III), (B)-(II), (C)-(I), (D)-(IV)
+  \choice (A)-(III), (B)-(IV), (C)-(II), (D)-(I)
+\end{choices}
+
+\question
+Train A is moving along two parallel rail tracks towards north with 72 km h -1 and train 𝐵 is moving towards south with speed 108 km h -1 . Velocity of train 𝐵 with respect to 𝐴 and velocity of ground with respect to 𝐵 are (in m s\textasciicircum{}-1 ):
+\begin{choices}
+  \choice -30 and 50
+  \choice -50 and -30
+  \choice -50 and 30
+  \choice 50 and -30
+\end{choices}
+
+\question
+The de Broglie wavelengths of a proton and an 𝛼 particle are 𝜆 and 2𝜆 respectively. The ratio of the velocities of proton and 𝛼 particle will be :
+\begin{choices}
+  \choice 1 : 8
+  \choice 1 : 2
+  \choice 4 : 1
+  \choice 8 : 1
+\end{choices}
+
+\question
+In a nuclear fission reaction of an isotope of mass M , three similar daughter nuclei of same mass are formed. The speed of a daughter nuclei in terms of mass defect 𝛥M will be :
+\begin{choices}
+  \choice √ 2𝑐𝛥M M
+  \choice 𝛥M𝑐 2/3
+  \choice 𝑐√ 2𝛥M M
+  \choice 𝑐√ 3𝛥M M
+\end{choices}
+
+\question
+A beam of unpolarised light of intensity 𝐼 0 is passed through a polaroid 𝐴 and then through another polaroid 𝐵 which is oriented so that its principal plane makes an angle of 45° relative to that of 𝐴 . The intensity of emergent light is :
+\begin{choices}
+  \choice 𝐼 0 4
+  \choice 𝐼 0
+  \choice 𝐼 0 2
+  \choice 𝐼 0 8
+\end{choices}
+
+\question
+Given below are two statements : Statement I : In a vernier callipers, one vernier scale division is always smaller than one main scale division. Statement II : The vernier constant is given by one main scale division multiplied by the number of vernier scale divisions. In the light of the above statements, choose the correct answer from the options given below.
+\begin{choices}
+  \choice Statement I is true but Statement II is false
+  \choice Statement I is false but Statement II is true
+  \choice Both Statement I and Statement II are false
+  \choice Both Statement I and Statement II are true 2025 (22 Jan Shift 1)
+\end{choices}
+
+\question
+A particle of charge -𝑞 and mass 𝑚 moves in a circle of radius 𝑟 around an infinitely long line charge of linear density +𝜆 . Then time period will be given as: (Consider 𝑘 as Coulomb's constant)
+\begin{choices}
+  \choice T 2 = 4π 2 𝑚 2𝑘𝜆𝑞 𝑟 3
+  \choice T= 2π𝑟√ 𝑚 2𝑘𝜆𝑞
+  \choice T= 1 2π𝑟 √ 𝑚 2𝑘𝜆𝑞
+  \choice T= 1 2π √ 2𝑘𝜆𝑞 𝑚
+\end{choices}
+
+\question
+Which of the following circuits represents a forward biased diode? Choose the correct answer from the options given below :
+\begin{choices}
+  \choice (A) and (D) only
+  \choice (B), (D) and (E) only
+  \choice (C) and (E) only
+  \choice (B), (C) and (E) only
+\end{choices}
+
+\question
+In a plane EM wave, the electric field oscillates sinusoidally at a frequency of 5 x 10\textasciicircum{}10 Hz and an amplitude of 50 V m – 1 . The total average energy density of the electromagnetic field of the wave is : [Use 𝜀 0 = 8.85 × 10 – 12 C 2 N\textasciicircum{}-1 m\textasciicircum{}-2 ]
+\begin{choices}
+  \choice 1.106 × 10 – 8 J m – 3
+  \choice 4.425 × 10 – 8 J m – 3
+  \choice 2.212 × 10 – 8 J m – 3
+  \choice 2.212 × 10 – 10 J m – 3
+\end{choices}
+
+\question
+A light string passing over a smooth light fixed pulley connects two blocks of masses 𝑚 1 and 𝑚 2 . If the acceleration of the system is g 8 , then the ratio of masses is
+\begin{choices}
+  \choice 9/7
+  \choice 8/1
+  \choice 4/3
+  \choice 5/3
+\end{choices}
+
+\question
+In a co-axial straight cable, the central conductor and the outer conductor carry equal currents in opposite directions. The magnetic field is zero :
+\begin{choices}
+  \choice outside the cable
+  \choice inside the outer conductor
+  \choice inside the inner conductor
+  \choice in between the two conductors
+\end{choices}
+
+\question
+10 divisions on the main scale of a Vernier calliper coincide with 11 divisions on the Vernier scale. If each division on the main scale is of 5 units, the least count of the instrument is :
+\begin{choices}
+  \choice 1/2
+  \choice 10/11
+  \choice 50/11
+  \choice 5/11
+\end{choices}
+
+\question
+If be the gravitational constant and be the energy density then which of the following quantity have the dimensions as that of the :
+\begin{choices}
+  \choice pressure gradient per unit mass
+  \choice Gravitational potential
+  \choice Energy per unit mass
+  \choice Force per unit mass
+\end{choices}
+
+\question
+Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A) : Time period of a simple pendulum is longer at the top of a mountain than that at the base of the mountain. Reason (R): Time period of a simple pendulum decreases with increasing value of acceleration due to gravity and vice-versa. In the light of the above statements, choose the most appropriate answer from the options given below :
+\begin{choices}
+  \choice Both and are true and is the correct explanation of
+  \choice (A) is true but (R) is false
+  \choice (A) is false but (R) is true
+  \choice Both and are true but is not the correct explanation of
+\end{choices}
+
+\question
+A thin plano convex lens made of glass of refractive index 1.5 is immersed in a liquid of refractive index 1.2. When the plane side of the lens is silver coated for complete reflection, the lens immersed in the liquid 2025 (24 Jan Shift 1)
+\begin{choices}
+  \choice 0.20 m
+  \choice 0.25 m
+  \choice 0.15 m
+  \choice 0.10 m
+\end{choices}
+
+\question
+To obtain the given truth table, following logic gate should be placed at G: 2025 (22 Jan Shift 2)
+\begin{choices}
+  \choice OR Gate
+  \choice AND Gate
+  \choice NOR Gate
+  \choice NAND Gate
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{20}
+\question
+A closed and an open organ pipe have same lengths. If the ratio of frequencies of their seventh overtones is then the value of is \_\_\_\_\_\_\_\_
+\vspace{0.5em}
+\textit{Answer:} \hrulefill
+
+\question
+A vernier callipers has 20 divisions on the vernier scale, which coincides with division on the main scale. The least count of the instrument is . One main scale division is equal to \_\_\_\_\_ .
+\vspace{0.5em}
+\textit{Answer:} \hrulefill
+
+\question
+An electron with kinetic energy enters a region of uniform magnetic field of 3 perpendicular to its direction. An electric field is applied perpendicular to the direction of velocity and magnetic field. The value of , so that electron moves along the same path, is \_\_\_\_\_\_\_ . Given, mass of electron , electric charge
+\vspace{0.5em}
+\textit{Answer:} \hrulefill
+
+\question
+Two planets, and are orbiting a common star in circular orbits of radii and , respectively, with . The planet is times more massive than planet . The ratio of angular momentum of planet to that of planet is closest to integer \_\_\_\_\_\_\_\_.
+\vspace{0.5em}
+\textit{Answer:} \hrulefill
+
+\question
+The fractional compression of water at the depth of 2.5 km below the sea level is \_\_\_\_\_\_ . Given, the Bulk modulus of water , density of water , acceleration due to gravity .
+\vspace{0.5em}
+\textit{Answer:} \hrulefill
+
+\question
+A ring and a solid sphere roll down the same inclined plane without slipping. They start from rest. The radii of both bodies are identical and the ratio of their kinetic energies is 7 x , where x is \_\_\_\_\_\_.
+\vspace{0.5em}
+\textit{Answer:} \hrulefill
+
+\question
+Three balls of masses and respectively are arranged at centre of the edges of an equilateral triangle of side . The moment of intertia of the system about an axis through the centroid and perpendicular to the plane of triangle, will be \_\_\_\_\_\_\_ .
+\vspace{0.5em}
+\textit{Answer:} \hrulefill
+
+\question
+Light from a point source in air falls on a convex curved surface of radius 20 cm and refractive index 1.5 . If the source is located at 100 cm from the convex surface, the image will be formed at \_\_\_\_\_\_ cm from the object.
+\vspace{0.5em}
+\textit{Answer:} \hrulefill
+
+\question
+A alternating current at any instant is given by A. The value of the current is \_\_\_\_\_\_\_\_ A.
+\vspace{0.5em}
+\textit{Answer:} \hrulefill
+
+\question
+If the radius of earth is reduced to three-fourth of its present value without change in its mass then value of duration of the day of earth will be \_\_\_\_\_\_ hours 30 minutes.
+\vspace{0.5em}
+\textit{Answer:} \hrulefill
+
+\end{questions}
+
+
+\sectiontitle{Chemistry}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{30}
+\question
+Combustion of glucose produces and water. The amount of oxygen (in g) required for the complete combustion of of glucose is : [Molar mass of glucose in ]
+\begin{choices}
+  \choice 480
+  \choice 800
+  \choice 960
+  \choice 32
+\end{choices}
+
+\question
+Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A) : Both rhombic and monoclinic sulphur exist as while oxygen exists as . Reason (R) : Oxygen forms multiple bonds with itself and other elements having small size and high electronegativity like , which is not possible for sulphur. In the light of the above statements, choose the most appropriate answer from the options given below :
+\begin{choices}
+  \choice (A) is correct but (R) is not correct
+  \choice (A) is not correct but (R) is correct
+  \choice Both (A) and (R) are correct and (R) is the correct explanation of (A)
+  \choice Both (A) and (R) are correct but (R) is not the correct explanation of (A)
+\end{choices}
+
+\question
+Match List - I with List - II. Choose the correct answer from the options given below :
+\begin{choices}
+  \choice (A)-(II), (B)-(I), (C)-(III), (D)-(IV)
+  \choice (A)-(I), (B)-(II), (C)-(IV), (D)-(III)
+  \choice (A)-(II), (B)-(I), (C)-(IV), (D)-(III)
+  \choice (A)-(II), (B)-(III), (C)-(I), (D)-(IV)
+\end{choices}
+
+\question
+Given below are two statements : Statement (I): In partition chromatography, stationary phase is thin film of liquid present in the inert support. Statement (II) : In paper chromatography, the material of paper acts as a stationary phase. In the light of the above statements, choose the correct answer from the options given below :
+\begin{choices}
+  \choice Statement I is true but Statement II is false
+  \choice Statement I is false but Statement II is true
+  \choice Both Statement I and Statement II are false
+  \choice Both Statement I and Statement II are true
+\end{choices}
+
+\question
+An amount of ice of mass and temperature is transformed to vapour of temperature by applying heat. The total amount of work required for this conversion is, (Take, specific heat of ice , specific heat of water , specific heat of steam , Latent heat of ice and Latent heat of steam )
+\begin{choices}
+  \choice 3043 J
+  \choice 3024 J
+  \choice 3003 J
+  \choice 3022 J
+\end{choices}
+
+\question
+Identify from the following species in which d 2 sp 3 hybridization is shown by central atom:
+\begin{choices}
+  \choice CoNH 36 3 +
+  \choice BrF 5
+  \choice Pt ( Cl ) 4 2 -
+  \choice SF 6
+\end{choices}
+
+\question
+Given below are two statements: Statement-I: Since fluorine is more electronegative than nitrogen, the net dipole moment of NF 3 is greater than NH 3 . Statement-II: In NH 3 , the orbital dipole due to lone pair and the dipole moment of NH bonds are in opposite direction, but in NF 3 the orbital dipole due to lone pair and dipole moments of N-F bonds are in same direction. In the light of the above statements. Choose the most appropriate from the options given below.
+\begin{choices}
+  \choice Statement I is true but Statement II is false.
+  \choice Both Statement I and Statement II are false.
+  \choice Both statement I and Statement II is are true.
+  \choice Statement I is false but Statement II is are true.
+\end{choices}
+
+\question
+IUPAC name of following hydrocarbon is :
+\begin{choices}
+  \choice 2-Ethyl-3,6-dimethylheptane
+  \choice 2,5,6-Trimethyloctane
+  \choice 3,4,7-Trimethyloctane
+  \choice 2-Ethyl-2,6-diethylheptane
+\end{choices}
+
+\question
+Which of the following is not correct?
+\begin{choices}
+  \choice is negative for a spontaneous reaction
+  \choice is positive for a spontaneous reaction
+  \choice is zero for a reversible reaction
+  \choice is positive for a non-spontaneous reaction
+\end{choices}
+
+\question
+Integrated rate law equation for a first order gas phase reaction is given by (where 𝑃 𝑖 is initial pressure and 𝑃 t is total pressure at time t )
+\begin{choices}
+  \choice 𝑘= 2.303 t × log 𝑃 𝑖 2𝑃 𝑖 - 𝑃 t
+  \choice 𝑘= 2.303 t × log 2𝑃 𝑖 2𝑃 𝑖 - 𝑃 t
+  \choice 𝑘= 2.303 t × log 2𝑃 𝑖 - 𝑃 t 𝑃 𝑖
+  \choice 𝑘= 2.303 t × 𝑃 𝑖 2𝑃 𝑖 - 𝑃 t
+\end{choices}
+
+\question
+The purification method based on the following physical transformation is :
+\begin{choices}
+  \choice Distillation
+  \choice Extraction
+  \choice Sublimation
+  \choice Crystallization
+\end{choices}
+
+\question
+Match List I with List II LIST – I (Complex ion) LIST – II (Electronic Configuration A. 𝐶𝑟𝐻 2 𝑂 6 3 + I. t 2 g 2 𝑒 g0 B. 𝐹𝑒𝐻 2 𝑂 6 3 + II. t 2 g 3 𝑒 g0 C. 𝑁𝑖𝐻 2 𝑂 6 2 + III. t 2 g 3 𝑒 g2 D. 𝑉𝐻 2 𝑂 6 3 + IV. t 2 g 6 𝑒 g2 Choose the correct answer from the options given below :
+\begin{choices}
+  \choice A-III, B-II, C-IV, D-I
+  \choice A-IV, B-I, C-II, D-III
+  \choice A-IV, B-III, C-I, D-II
+  \choice A-II, B-III, C-IV, D-I
+\end{choices}
+
+\question
+Consider ' ' is the number of lone pair of electrons present in the equatorial position of the most stable structure of . The ions from the following with ' ' number of unpaired electrons are A. B. C. D. E. Choose the correct answer from the options given below:
+\begin{choices}
+  \choice A and C Only
+  \choice A, D and E Only
+  \choice B and D Only
+  \choice B and C Only
+\end{choices}
+
+\question
+Given below are two statements : Statement (I) : Nitrogen, sulphur, halogen and phosphorus present in an organic compound are detected by Lassaigne's Test. Statement (II) : The elements present in the compound are converted from covalent form into ionic form by fusing the compound with Magnesium in Lassaigne's test. In the light of the above statements, choose the correct anower from the options given below :
+\begin{choices}
+  \choice Statement I is false but Statement II is true
+  \choice Both Statement I and Statement II are true
+  \choice Both Statement I and Statement II are false
+  \choice Statement I is true but Statement II is false
+\end{choices}
+
+\question
+Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A): reaction of occurs more readily than the reaction of . Reason (R) : The partially bonded unhybridized p-orbital that develops in the trigonal bipyramidal transition state is stabilized by conjugation with the phenyl ring. In the light of the above statements, choose the most appropriate answer from the options given below :
+\begin{choices}
+  \choice (A) is correct but (R) is not correct
+  \choice (A) is not correct but (R) is correct
+  \choice Both (A) and (R) are correct but (R) is not the correct explanation of (A)
+  \choice Both (A) and (R) are correct and (R) is the correct explanation of
+\end{choices}
+
+\question
+Given below are two statements : Statement ( ): The radii of isoelectronic species increases in the order. Statement (II): The magnitude of electron gain enthalpy of halogen decreases in the order. In the light of the above statements, choose the most appropriate answer from the options given below :
+\begin{choices}
+  \choice Statement I is incorrect but Statement II is correct
+  \choice Statement I is correct but Statement II is incorrect
+  \choice Both Statement I and Statement II are incorrect
+  \choice Both Statement I and Statement II are correct 2025 (29 Jan Shift 1)
+\end{choices}
+
+\question
+Number of Complexes with even number of electrons in orbitals is -
+\begin{choices}
+  \choice 2
+  \choice 3
+  \choice 1
+  \choice 5
+\end{choices}
+
+\question
+Correct order of basic strength of Pyrrole , Pyridine , and Piperidine is:
+\begin{choices}
+  \choice Pyrrole Piperidine Pyridine
+  \choice Pyrrole Pyridine Piperidine
+  \choice Pyridine Piperidine Pyrrole
+  \choice Piperidine Pyridine Pyrrole
+\end{choices}
+
+\question
+Match List - I with List - II. Choose the correct answer from the options given below :
+\begin{choices}
+  \choice (A)-(I), (B)-(IV), (C)-(III), (D)-(II)
+  \choice (A)-(I), (B)-(II), (C)-(III), (D)-(IV)
+  \choice (A)-(III), (B)-(IV), (C)-(I), (D)-(II)
+  \choice (A)-(III), (B)-(II), (C)-(I), (D)-(IV)
+\end{choices}
+
+\question
+Given below are the atomic numbers of some group 14 elements. The atomic number of the element with lowest melting point is :
+\begin{choices}
+  \choice 6
+  \choice 82
+  \choice 14
+  \choice 50
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{50}
+\question
+Number of compounds from the following with zero dipole moment is \_\_\_\_\_\_
+\vspace{0.5em}
+\textit{Answer:} \hrulefill
+
+\question
+The mass of silver (Molar mass of ) displaced by a quantity of electricity which displaces of at S.T.P. will be \_\_\_\_\_ g.
+\vspace{0.5em}
+\textit{Answer:} \hrulefill
+
+\question
+The heat of solution of anhydrous and are and respectively. The heat of hydration of to is . The value of is \_\_\_\_\_\_ (nearest integer).
+\vspace{0.5em}
+\textit{Answer:} \hrulefill
+
+\question
+The maximum number of orbitals which can be identified with and is \_\_\_\_\_\_
+\vspace{0.5em}
+\textit{Answer:} \hrulefill
+
+\question
+Quantitative analysis of an organic compound (X) shows following \\% composition. C : Cl : 64.46\\% H: 1.8 \\% (Empirical formula mass of the compound is __________ (Given molar mass in of )
+\vspace{0.5em}
+\textit{Answer:} \hrulefill
+
+\question
+Number of colourless lanthanoid ions among the following is \_\_\_\_\_\_\_\_
+\vspace{0.5em}
+\textit{Answer:} \hrulefill
+
+\question
+The mass defect in a particular reaction is 0.4 g . The amount of energy liberated is 𝑛× 10 7 kW h , where 𝑛= \_\_\_\_\_. (speed of light = 3 x 10\textasciicircum{}8 m s\textasciicircum{}-1 )
+\vspace{0.5em}
+\textit{Answer:} \hrulefill
+
+\question
+The sum of sigma and pi bonds in Hex-1,3-dien-5-yne is \_\_\_\_\_\_\_.
+\vspace{0.5em}
+\textit{Answer:} \hrulefill
+
+\question
+Total number of molecules/species from following which will be paramagnetic is \_\_\_\_\_\_
+\vspace{0.5em}
+\textit{Answer:} \hrulefill
+
+\question
+The hydrogen electrode is dipped in a solution of pH = 3 at 25°C . The potential of the electrode will be - \_\_\_\_\_\_ × 10\textasciicircum{}-2 V . 2.303 RT F = 0.059 V Round off the answer to the nearest integer.
+\vspace{0.5em}
+\textit{Answer:} \hrulefill
+
+\end{questions}
+
+
+\sectiontitle{Mathematics}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{60}
+\question
+If the value of is , where are natural numbers and , then is equal to :
+\begin{choices}
+  \choice 40
+  \choice 52
+  \choice 50
+  \choice 54
+\end{choices}
+
+\question
+Let → 𝑎= 3 \textasciicircum{} 𝑖+ \textasciicircum{} 𝑗-2 \textasciicircum{} 𝑘, → 𝑏= 4 \textasciicircum{} 𝑖+ \textasciicircum{} 𝑗+ 7 \textasciicircum{} 𝑘 and → 𝑐= \textasciicircum{} 𝑖-3 \textasciicircum{} 𝑗+ 4 \textasciicircum{} 𝑘 be three vectors. If a vectors → 𝑝 satisfies → 𝑝× → 𝑏= → 𝑐× → 𝑏 and → 𝑝⋅ → 𝑎= 0 , then → 𝑝⋅ \textasciicircum{} 𝑖- \textasciicircum{} 𝑗- \textasciicircum{} 𝑘 is equal to
+\begin{choices}
+  \choice 24
+  \choice 36
+  \choice 28
+  \choice 32
+\end{choices}
+
+\question
+For 𝛼, 𝛽∈0, π 2 let 3sin ( 𝛼+ 𝛽) = 2sin ( 𝛼- 𝛽) and a real number 𝑘 be such that tan𝛼= tan𝛽 . Then the value of 𝑘 is equal to
+\begin{choices}
+  \choice -5
+  \choice 5
+  \choice 2/3
+  \choice - 2/3
+\end{choices}
+
+\question
+Let and . Let be a relation on defined by if and only if is an even integer. Then the relation is
+\begin{choices}
+  \choice an equivalence relation.
+  \choice reflexive and symmetric but not transitive.
+  \choice transitive but not symmetric.
+  \choice reflexive but not symmetric.
+\end{choices}
+
+\question
+Let 𝑓, g: 0, ∞→R be two functions defined by 𝑓𝑥= ∫ -𝑥 𝑥 t-t 2 𝑒 -t 2 𝑑t and g𝑥= ∫ 0 𝑥 2 t 1 2 𝑒 -t 2 𝑑t . Then the value of 9𝑓√log 𝑒 9 + g√log 𝑒 9 is equal to
+\begin{choices}
+  \choice 6
+  \choice 9
+  \choice 8
+  \choice 10
+\end{choices}
+
+\question
+Between the following two statements: Statement I : Let and . Then the vector satisfying and is of magnitude . Statement II : In a triangle .
+\begin{choices}
+  \choice Statement I is incorrect but Statement II is correct.
+  \choice Both Statement I and Statement II are correct.
+  \choice Statement I is correct but Statement II is incorrect.
+  \choice Both Statement I and Statement II are incorrect.
+\end{choices}
+
+\question
+If the domain of the function is , then is equal to :
+\begin{choices}
+  \choice 32
+  \choice 40
+  \choice 24
+  \choice 36
+\end{choices}
+
+\question
+Let → 𝑎= \textasciicircum{} 𝑖+ 𝛼 \textasciicircum{} 𝑗+ 𝛽 \textasciicircum{} 𝑘 , 𝛼, 𝛽∈R . Let a vector → 𝑏 be such that the angle between → 𝑎 and → 𝑏 is π 4 and → 𝑏 2 = 6 , If → 𝑎· → 𝑏= 3√2 , then the value of 𝛼 2 + 𝛽 2 | → 𝑎× → 𝑏| 2 is equal to
+\begin{choices}
+  \choice 90
+  \choice 75
+  \choice 95
+  \choice 85
+\end{choices}
+
+\question
+The area of the region 𝑥, 𝑦: 𝑦 2 ≤4𝑥, 𝑥< 4, 𝑥𝑦𝑥- 1𝑥- 2 𝑥- 3𝑥- 4 > 0, 𝑥≠3 is
+\begin{choices}
+  \choice 16/3
+  \choice 64/3
+  \choice 8/3
+  \choice 32/3
+\end{choices}
+
+\question
+If 𝑥 2 - 𝑦 2 + 2ℎ𝑥𝑦+ 2g𝑥+ 2𝑓𝑦+ 𝑐= 0 is the locus of a point, which moves such that it is always equidistant from the lines 𝑥+ 2𝑦+ 7 = 0 and 2𝑥- 𝑦+ 8 = 0 , then the value of g+ 𝑐+ ℎ- 𝑓 equals
+\begin{choices}
+  \choice 14
+  \choice 6
+  \choice 8
+  \choice 29
+\end{choices}
+
+\question
+Let and , where is the origin. If the area of the parallelogram with adjacent sides and is 15 sq. units, then the area (in sq. units) of the quadrilateral is equal to :
+\begin{choices}
+  \choice 32
+  \choice 40
+  \choice 38
+  \choice 35
+\end{choices}
+
+\question
+If , then equals
+\begin{choices}
+  \choice 64
+  \choice 196
+  \choice 144
+  \choice 100
+\end{choices}
+
+\question
+The shortest distance between lines L 1 and L 2 , where L 1 : 𝑥-1 2 = 𝑦+ 1 -3 = 𝑧+ 4 2 and L 2 is the line passing through the points 𝐴-4, 4, 3, 𝐵-1, 6, 3 and perpendicular to the line 𝑥-3 -2 = 𝑦 3 = 𝑧-1/1 , is
+\begin{choices}
+  \choice 121 √ 221
+  \choice 24 √ 117
+  \choice 141 √ 221
+  \choice 42 √ 117
+\end{choices}
+
+\question
+If the set has elements and , where , then the value of is
+\begin{choices}
+  \choice 12
+  \choice 4
+  \choice 8
+  \choice 5
+\end{choices}
+
+\question
+Let P be the foot of the perpendicular from the point on the line . Let the line , intersect the line L at Q . Then is equal to :
+\begin{choices}
+  \choice 25
+  \choice 19
+  \choice 29
+  \choice 27
+\end{choices}
+
+\question
+Let 𝑆 𝑛 denote the sum of the first n terms of an arithmetic progression. If 𝑆 10 = 390 and the ratio of the tenth and the fifth terms is 15 : 7 , then 𝑆 15 -𝑆 5 is equal to:
+\begin{choices}
+  \choice 800
+  \choice 890
+  \choice 790
+  \choice 690
+\end{choices}
+
+\question
+Let , where and are integers and . Let the values of the ordered pair , for which the area of the parallelogram of diagonals and is , be and . Then is equal to
+\begin{choices}
+  \choice 19
+  \choice 17
+  \choice 24
+  \choice 21
+\end{choices}
+
+\question
+The number of different 5 digit numbers greater than 50000 that can be formed using the digits 0 , , such that the sum of their first and last digits should not be more than 8 , is
+\begin{choices}
+  \choice 4608
+  \choice 5720
+  \choice 5719
+  \choice 4607
+\end{choices}
+
+\question
+A company has two plants and to manufacture motorcycles. motorcycles are manufactured at plant and the remaining are manufactured at plant of the motorcycles manufactured at plant are rated of the standard quality, while of the motorcycles manufactured at plant are rated of the standard quality. A motorcycle picked up randomly from the total production is found to be of the standard quality. If is the probability that it was manufactured at plant , then is
+\begin{choices}
+  \choice 54
+  \choice 66
+  \choice 64
+  \choice 56
+\end{choices}
+
+\question
+Let and . If is the matrix of cofactors of the elements of , then is equal to :
+\begin{choices}
+  \choice 64
+  \choice 216
+  \choice 343
+  \choice 125
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{80}
+\question
+The area of the region enclosed by the parabola ( 𝑦- 2 ) 2 = 𝑥- 1 , the line 𝑥- 2 𝑦+ 4 = 0 and the positive coordinate axes is \_\_\_\_\_\_\_\_\_\_.
+\vspace{0.5em}
+\textit{Answer:} \hrulefill
+
+\question
+If , where and are rational numbers, then is equal to \_\_\_\_\_.
+\vspace{0.5em}
+\textit{Answer:} \hrulefill
+
+\question
+If the orthocentre of the triangle formed by the lines and , is the centroid of another triangle, whose circumcentre and orthocentre respectively are and , then the value of is\_\_\_\_\_\_\_
+\vspace{0.5em}
+\textit{Answer:} \hrulefill
+
+\question
+The square of the distance of the image of the point in the line , from the origin is \_\_\_\_\_\_\_\_\_
+\vspace{0.5em}
+\textit{Answer:} \hrulefill
+
+\question
+The value , where denotes the greatest integer less than or equal to , is \_\_\_\_\_.
+\vspace{0.5em}
+\textit{Answer:} \hrulefill
+
+\question
+The number of 3 -digit numbers, that are divisible by 2 and 3 , but not divisible by 4 and 9 , is\_\_\_\_\_\_.
+\vspace{0.5em}
+\textit{Answer:} \hrulefill
+
+\question
+The coefficient of x 2012 in the expansion of 1 - x 2008 1 + x + x 22007 is equal to \_\_\_\_\_.
+\vspace{0.5em}
+\textit{Answer:} \hrulefill
+
+\question
+In a tournament, a team plays 10 matches with probabilities of winning and losing each match as and respectively. Let be the number of matches that the team wins, and be the number of matches that team loses. If the probability 2) is , then equals \_\_\_\_\_\_
+\vspace{0.5em}
+\textit{Answer:} \hrulefill
+
+\question
+A group of students appeared in an examination of subjects - Mathematics, Physics \& Chemistry. It was found that all students passed in at least one of the subjects, students passed in Mathematics, students passed in Physics, students passed in Chemistry, at most students passed in both Mathematics and Physics, at most students passed in both Physics and Chemistry, at most students passed in both Mathematics and Chemistry. The maximum number of students passed in all the three subjects is \_\_\_\_\_.
+\vspace{0.5em}
+\textit{Answer:} \hrulefill
+
+\question
+The total number of words (with or without meaning) that can be formed out of the letters of the word "DISTRIBUTION" taken four at a time, is equal to \_\_\_\_\_\_.
+\vspace{0.5em}
+\textit{Answer:} \hrulefill
+
+\end{questions}
+
+
+\newpage
+\sectiontitle{Answer Key}
+
+
+\textbf{Physics}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q1 & Q2 & Q3 & Q4 & Q5 & Q6 & Q7 & Q8 & Q9 & Q10 \\\hline
+(2) & (3) & (3) & (4) & (4) & (3) & (4) & (3) & (1) & (3) \\\hline
+Q11 & Q12 & Q13 & Q14 & Q15 & Q16 & Q17 & Q18 & Q19 & Q20 \\\hline
+(2) & (4) & (1) & (1) & (1) & (4) & (4) & (1) & (4) & (3) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q21 & Q22 & Q23 & Q24 & Q25 & Q26 & Q27 & Q28 & Q29 & Q30 \\\hline
+16 & 2 & 4 & 8 & 1 & 7 & 4 & 200 & 8 & 13 \\\hline
+\end{tabular}\\[1em]
+
+
+\textbf{Chemistry}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q31 & Q32 & Q33 & Q34 & Q35 & Q36 & Q37 & Q38 & Q39 & Q40 \\\hline
+(3) & (1) & (3) & (1) & (1) & (1) & (2) & (2) & (2) & (1) \\\hline
+Q41 & Q42 & Q43 & Q44 & Q45 & Q46 & Q47 & Q48 & Q49 & Q50 \\\hline
+(3) & (4) & (2) & (4) & (4) & (4) & (2) & (4) & (4) & (4) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q51 & Q52 & Q53 & Q54 & Q55 & Q56 & Q57 & Q58 & Q59 & Q60 \\\hline
+6 & 108 & 82 & 4 & 1655 & 2 & 1 & 15 & 6 & 18 \\\hline
+\end{tabular}\\[1em]
+
+
+\textbf{Mathematics}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q61 & Q62 & Q63 & Q64 & Q65 & Q66 & Q67 & Q68 & Q69 & Q70 \\\hline
+(2) & (4) & (1) & (2) & (3) & (1) & (1) & (1) & (4) & (1) \\\hline
+Q71 & Q72 & Q73 & Q74 & Q75 & Q76 & Q77 & Q78 & Q79 & Q80 \\\hline
+(4) & (4) & (3) & (1) & (4) & (3) & (1) & (4) & (1) & (2) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q81 & Q82 & Q83 & Q84 & Q85 & Q86 & Q87 & Q88 & Q89 & Q90 \\\hline
+5 & 6 & 16 & 62 & 155 & 125 & 0 & 8288 & 10 & 3734 \\\hline
+\end{tabular}\\[1em]
+
+
+\end{document}

@@ -279,8 +279,167 @@ Keep it concise but complete. Use LaTeX math notation (e.g., $x^2$, \\frac{a}{b}
 # LaTeX Generation
 # ============================================================================
 
+def fix_unicode_for_latex(text: str) -> str:
+    """Convert Unicode symbols to proper LaTeX before output."""
+    import re
+    
+    if not text:
+        return text
+    
+    # Replace Unicode math symbols with LaTeX
+    replacements = [
+        ('×', r'$\times$'),
+        ('−', '-'),
+        ('–', '-'),
+        ('—', '-'),
+        ('√', r'$\sqrt{}$'),
+        ('α', r'$\alpha$'),
+        ('β', r'$\beta$'),
+        ('γ', r'$\gamma$'),
+        ('δ', r'$\delta$'),
+        ('Δ', r'$\Delta$'),
+        ('θ', r'$\theta$'),
+        ('λ', r'$\lambda$'),
+        ('μ', r'$\mu$'),
+        ('π', r'$\pi$'),
+        ('ρ', r'$\rho$'),
+        ('σ', r'$\sigma$'),
+        ('τ', r'$\tau$'),
+        ('φ', r'$\varphi$'),
+        ('ψ', r'$\psi$'),
+        ('ω', r'$\omega$'),
+        ('Ω', r'$\Omega$'),
+        ('ε', r'$\varepsilon$'),
+        ('η', r'$\eta$'),
+        ('ν', r'$\nu$'),
+        ('°', r'$^\circ$'),
+        ('±', r'$\pm$'),
+        ('≠', r'$\neq$'),
+        ('≤', r'$\leq$'),
+        ('≥', r'$\geq$'),
+        ('≈', r'$\approx$'),
+        ('→', r'$\rightarrow$'),
+        ('←', r'$\leftarrow$'),
+        ('↔', r'$\leftrightarrow$'),
+        ('∞', r'$\infty$'),
+        ('∑', r'$\sum$'),
+        ('∫', r'$\int$'),
+        ('∂', r'$\partial$'),
+        ('∇', r'$\nabla$'),
+        ('·', r'$\cdot$'),
+        ('′', r"'"),
+        ('″', r"''"),
+        # Mathematical Greek variants (U+1D6xx range)
+        ('𝛥', r'$\Delta$'),
+        ('𝛼', r'$\alpha$'),
+        ('𝛽', r'$\beta$'),
+        ('𝛾', r'$\gamma$'),
+        ('𝛿', r'$\delta$'),
+        ('𝜀', r'$\varepsilon$'),
+        ('𝜃', r'$\theta$'),
+        ('𝜆', r'$\lambda$'),
+        ('𝜇', r'$\mu$'),
+        ('𝜋', r'$\pi$'),
+        ('𝜌', r'$\rho$'),
+        ('𝜎', r'$\sigma$'),
+        ('𝜏', r'$\tau$'),
+        ('𝜑', r'$\varphi$'),
+        ('𝜔', r'$\omega$'),
+    ]
+    
+    for old, new in replacements:
+        text = text.replace(old, new)
+    
+    # Fix Unicode math italic letters (𝐴, 𝐵, 𝑃, 𝑉, etc.)
+    def replace_math_unicode(match):
+        char = match.group(0)
+        code = ord(char)
+        # Math bold uppercase (U+1D400-U+1D419)
+        if 0x1D400 <= code <= 0x1D419:
+            letter = chr(ord('A') + (code - 0x1D400))
+            return f'$\\mathbf{{{letter}}}$'
+        # Math bold lowercase (U+1D41A-U+1D433)
+        elif 0x1D41A <= code <= 0x1D433:
+            letter = chr(ord('a') + (code - 0x1D41A))
+            return f'$\\mathbf{{{letter}}}$'
+        # Math italic uppercase (U+1D434-U+1D44D)
+        elif 0x1D434 <= code <= 0x1D44D:
+            letter = chr(ord('A') + (code - 0x1D434))
+            return f'${letter}$'
+        # Math italic lowercase (U+1D44E-U+1D467)
+        elif 0x1D44E <= code <= 0x1D467:
+            letter = chr(ord('a') + (code - 0x1D44E))
+            return f'${letter}$'
+        # Math italic small epsilon (U+1D700)
+        elif code == 0x1D700:
+            return r'$\varepsilon$'
+        # Math Greek uppercase (U+1D6A8-U+1D6E1) - Alpha to Omega
+        elif 0x1D6A8 <= code <= 0x1D6E1:
+            greek_upper = ['Alpha', 'Beta', 'Gamma', 'Delta', 'Epsilon', 'Zeta', 'Eta', 'Theta',
+                          'Iota', 'Kappa', 'Lambda', 'Mu', 'Nu', 'Xi', 'Omicron', 'Pi',
+                          'Rho', 'Theta', 'Sigma', 'Tau', 'Upsilon', 'Phi', 'Chi', 'Psi', 'Omega']
+            idx = code - 0x1D6A8
+            if idx < len(greek_upper):
+                return f'$\\{greek_upper[idx]}$'
+        # Math Greek lowercase (U+1D6C2-U+1D6DA) - alpha to omega  
+        elif 0x1D6C2 <= code <= 0x1D6FB:
+            greek_lower = ['alpha', 'beta', 'gamma', 'delta', 'epsilon', 'zeta', 'eta', 'theta',
+                          'iota', 'kappa', 'lambda', 'mu', 'nu', 'xi', 'omicron', 'pi',
+                          'rho', 'sigma', 'sigma', 'tau', 'upsilon', 'phi', 'chi', 'psi', 'omega']
+            idx = code - 0x1D6C2
+            if idx < len(greek_lower):
+                return f'$\\{greek_lower[idx]}$'
+        # Fallback for any remaining math symbols - just return empty or generic
+        return char
+    
+    text = re.sub(r'[\U0001D400-\U0001D7FF]', replace_math_unicode, text)
+    
+    # Fix \textasciicircum to proper power notation
+    text = re.sub(r'\\textasciicircum\{\}(-?\d+)', r'$^{\1}$', text)
+    text = re.sub(r'\\textasciicircum\{\}', '^', text)
+    
+    # Fix bare powers like 10^-3 to $10^{-3}$
+    text = re.sub(r'(\d+)\^(-?\d+)(?![}])', r'$\1^{\2}$', text)
+    
+    # Wrap unprotected LaTeX math commands in $...$
+    # Find LaTeX commands that should be in math mode but aren't
+    math_commands = [
+        r'\\frac\{[^}]+\}\{[^}]+\}',  # \frac{...}{...}
+        r'\\sqrt\{[^}]*\}',            # \sqrt{...}
+        r'\\vec\{[^}]+\}',             # \vec{...}
+        r'\\hat\{[^}]+\}',             # \hat{...}
+        r'\\bar\{[^}]+\}',             # \bar{...}
+        r'\\sin\b',                    # \sin
+        r'\\cos\b',                    # \cos
+        r'\\tan\b',                    # \tan
+        r'\\log\b',                    # \log
+        r'\\ln\b',                     # \ln
+        r'\\exp\b',                    # \exp
+    ]
+    
+    for pattern in math_commands:
+        # Find instances not already in math mode
+        def wrap_if_not_in_math(match):
+            # Check if already wrapped in $
+            start = match.start()
+            end = match.end()
+            before = text[:start]
+            # Count $ signs before - if odd, we're in math mode
+            dollar_count = before.count('$') - before.count('\\$')
+            if dollar_count % 2 == 1:
+                return match.group(0)  # Already in math mode
+            return '$' + match.group(0) + '$'
+        
+        text = re.sub(pattern, wrap_if_not_in_math, text)
+    
+    return text
+
+
 def escape_latex(text: str) -> str:
     """Escape special LaTeX characters in plain text."""
+    # First fix Unicode
+    text = fix_unicode_for_latex(text)
+    
     # Don't escape if already contains LaTeX commands
     if "\\" in text or "$" in text:
         # Already has LaTeX, do minimal escaping
@@ -312,21 +471,18 @@ def format_question_latex(q: Question, num: int) -> str:
     # Escape question text (preserve existing LaTeX)
     question_text = escape_latex(q.question_text)
     
-    latex = f"\\question[{q.difficulty[0].upper()}] % {q.topic}\n"
+    # Simple question format without difficulty markers
+    latex = f"\\question\n"
     latex += f"{question_text}\n"
     
     if q.question_type == "mcq" and q.options:
         latex += "\\begin{choices}\n"
         for i, opt in enumerate(q.options[:4], 1):
             opt_text = escape_latex(opt)
-            if i == q.correct_index:
-                latex += f"  \\CorrectChoice {opt_text}\n"
-            else:
-                latex += f"  \\choice {opt_text}\n"
+            # Use \choice for all options (no highlighting of correct answer)
+            latex += f"  \\choice {opt_text}\n"
         latex += "\\end{choices}\n"
-    else:
-        latex += f"\\textbf{{Answer type: Integer}}\\\\[0.5em]\n"
-        latex += f"\\fillin[{q.correct_answer}][1.5cm]\n"
+    # For integer type, no extra text needed - just the question
     
     return latex
 
@@ -348,11 +504,70 @@ def generate_latex_document(
 \usepackage{amsmath,amssymb,amsfonts}
 \usepackage{graphicx}
 \usepackage{geometry}
-\usepackage{fancyhdr}
 \usepackage{xcolor}
 \usepackage{tikz}
 \usepackage{enumitem}
 \usepackage{multicol}
+\usepackage{newunicodechar}
+
+% Unicode math character mappings
+\newunicodechar{𝜀}{$\varepsilon$}
+\newunicodechar{𝑃}{$P$}
+\newunicodechar{𝑉}{$V$}
+\newunicodechar{𝐾}{$K$}
+\newunicodechar{𝐴}{$A$}
+\newunicodechar{𝐵}{$B$}
+\newunicodechar{𝐶}{$C$}
+\newunicodechar{𝐷}{$D$}
+\newunicodechar{𝐸}{$E$}
+\newunicodechar{𝑇}{$T$}
+\newunicodechar{𝑅}{$R$}
+\newunicodechar{𝐼}{$I$}
+\newunicodechar{𝑁}{$N$}
+\newunicodechar{𝑀}{$M$}
+\newunicodechar{𝐿}{$L$}
+\newunicodechar{𝑎}{$a$}
+\newunicodechar{𝑏}{$b$}
+\newunicodechar{𝑐}{$c$}
+\newunicodechar{𝑑}{$d$}
+\newunicodechar{𝑒}{$e$}
+\newunicodechar{𝑓}{$f$}
+\newunicodechar{𝑔}{$g$}
+\newunicodechar{𝑛}{$n$}
+\newunicodechar{𝑚}{$m$}
+\newunicodechar{𝑟}{$r$}
+\newunicodechar{𝑠}{$s$}
+\newunicodechar{𝑡}{$t$}
+\newunicodechar{𝑥}{$x$}
+\newunicodechar{𝑦}{$y$}
+\newunicodechar{𝑧}{$z$}
+\newunicodechar{α}{$\alpha$}
+\newunicodechar{β}{$\beta$}
+\newunicodechar{γ}{$\gamma$}
+\newunicodechar{δ}{$\delta$}
+\newunicodechar{ε}{$\varepsilon$}
+\newunicodechar{θ}{$\theta$}
+\newunicodechar{λ}{$\lambda$}
+\newunicodechar{μ}{$\mu$}
+\newunicodechar{π}{$\pi$}
+\newunicodechar{ρ}{$\rho$}
+\newunicodechar{σ}{$\sigma$}
+\newunicodechar{τ}{$\tau$}
+\newunicodechar{φ}{$\varphi$}
+\newunicodechar{ω}{$\omega$}
+\newunicodechar{Ω}{$\Omega$}
+\newunicodechar{°}{$^\circ$}
+\newunicodechar{±}{$\pm$}
+\newunicodechar{×}{$\times$}
+\newunicodechar{÷}{$\div$}
+\newunicodechar{√}{$\sqrt{}$}
+\newunicodechar{∞}{$\infty$}
+\newunicodechar{≠}{$\neq$}
+\newunicodechar{≤}{$\leq$}
+\newunicodechar{≥}{$\geq$}
+\newunicodechar{→}{$\rightarrow$}
+\newunicodechar{←}{$\leftarrow$}
+\newunicodechar{↔}{$\leftrightarrow$}
 
 % Page geometry
 \geometry{
@@ -367,7 +582,7 @@ def generate_latex_document(
 \definecolor{headerblue}{RGB}{0, 51, 102}
 \definecolor{sectiongreen}{RGB}{0, 102, 51}
 
-% Header/Footer
+% Header/Footer using exam class commands
 \pagestyle{headandfoot}
 \firstpageheader{}{}{}
 \runningheader{\textsc{""" + escape_latex(config.paper_title) + r"""}}{}{\textsc{Page \thepage}}
@@ -386,8 +601,8 @@ def generate_latex_document(
 \renewcommand{\questionlabel}{\textbf{Q\thequestion.}}
 \renewcommand{\choicelabel}{(\thechoice)}
 
-% Print answers setting
-\printanswers  % Comment this to hide answers
+% Hide answers in questions (they go in answer key)
+\noprintanswers
 
 \begin{document}
 
@@ -450,27 +665,57 @@ def generate_latex_document(
 \newpage
 \sectiontitle{Answer Key}
 
-\begin{multicols}{3}
 """
     
-    question_num = 1
     for subject in ["Physics", "Chemistry", "Mathematics"]:
-        latex += f"\\textbf{{{subject}}}\\\\[0.5em]\n"
         questions = selected.get(subject, [])
-        for q in questions[:30]:
-            if q.question_type == "mcq":
-                ans = f"({q.correct_index})" if q.correct_index else "(--)"
-            else:
-                ans = str(q.correct_answer) if q.correct_answer is not None else "--"
-            latex += f"Q{question_num}: {ans}\\quad\n"
-            if question_num % 5 == 0:
-                latex += "\\\\[0.3em]\n"
-            question_num += 1
-        latex += "\\vspace{1em}\n\n"
-    
-    latex += r"""
-\end{multicols}
-"""
+        if not questions:
+            continue
+            
+        # Separate MCQ and Integer for this subject
+        mcqs = [q for q in questions if q.question_type == "mcq"][:20]
+        integers = [q for q in questions if q.question_type == "integer"][:10]
+        
+        latex += f"\n\\textbf{{{subject}}}\\\\[0.5em]\n"
+        
+        # Calculate starting question number for this subject
+        subj_idx = ["Physics", "Chemistry", "Mathematics"].index(subject)
+        start_num = subj_idx * 30 + 1
+        
+        # MCQ answers in a nice table
+        if mcqs:
+            latex += "\\textit{Section A (MCQ):}\\\\[0.3em]\n"
+            latex += "\\begin{tabular}{|" + "c|" * 10 + "}\n\\hline\n"
+            
+            # Row 1: Q1-Q10
+            q_nums = " & ".join([f"Q{start_num + i}" for i in range(min(10, len(mcqs)))])
+            latex += q_nums + " \\\\\\hline\n"
+            answers = " & ".join([f"({q.correct_index})" if q.correct_index else "--" for q in mcqs[:10]])
+            latex += answers + " \\\\\\hline\n"
+            
+            # Row 2: Q11-Q20 (if exists)
+            if len(mcqs) > 10:
+                q_nums = " & ".join([f"Q{start_num + i}" for i in range(10, min(20, len(mcqs)))])
+                latex += q_nums + " \\\\\\hline\n"
+                answers = " & ".join([f"({q.correct_index})" if q.correct_index else "--" for q in mcqs[10:20]])
+                latex += answers + " \\\\\\hline\n"
+            
+            latex += "\\end{tabular}\\\\[0.8em]\n"
+        
+        # Integer answers in a table
+        if integers:
+            int_start = start_num + len(mcqs)
+            latex += "\\textit{Section B (Integer):}\\\\[0.3em]\n"
+            latex += "\\begin{tabular}{|" + "c|" * min(10, len(integers)) + "}\n\\hline\n"
+            
+            q_nums = " & ".join([f"Q{int_start + i}" for i in range(len(integers))])
+            latex += q_nums + " \\\\\\hline\n"
+            answers = " & ".join([str(q.correct_answer) if q.correct_answer is not None else "--" for q in integers])
+            latex += answers + " \\\\\\hline\n"
+            
+            latex += "\\end{tabular}\\\\[1em]\n"
+        
+        latex += "\n"
     
     # Solutions Section (if provided)
     if solutions and config.include_solutions:
@@ -512,22 +757,36 @@ def compile_latex_to_pdf(latex_content: str, output_path: Path) -> bool:
         # Write LaTeX file
         tex_file.write_text(latex_content, encoding="utf-8")
         
+        # Find pdflatex - check MiKTeX path first
+        miktex_path = Path(os.environ.get("LOCALAPPDATA", "")) / "Programs/MiKTeX/miktex/bin/x64/pdflatex.exe"
+        pdflatex_cmd = str(miktex_path) if miktex_path.exists() else "pdflatex"
+        
         # Run pdflatex (twice for references)
-        for _ in range(2):
-            result = subprocess.run(
-                ["pdflatex", "-interaction=nonstopmode", "-output-directory", tmpdir, str(tex_file)],
-                capture_output=True,
-                text=True,
-                cwd=tmpdir
-            )
-            
-            if result.returncode != 0:
-                print(f"LaTeX compilation warning (may still succeed):")
-                # Only show last 20 lines of error
-                error_lines = result.stdout.split("\n")[-20:]
-                for line in error_lines:
-                    if line.strip():
-                        print(f"  {line}")
+        for run_num in range(2):
+            try:
+                result = subprocess.run(
+                    [pdflatex_cmd, "-interaction=nonstopmode", "-output-directory", tmpdir, str(tex_file)],
+                    capture_output=True,
+                    cwd=tmpdir,
+                    timeout=120,
+                )
+                
+                if run_num == 1 and result.returncode != 0:
+                    print(f"LaTeX compilation warning (may still succeed)")
+                    # Try to read log file for errors
+                    log_file = Path(tmpdir) / "paper.log"
+                    if log_file.exists():
+                        log_content = log_file.read_text(encoding="utf-8", errors="ignore")
+                        errors = [l for l in log_content.split("\n") if l.startswith("!")]
+                        for e in errors[:5]:
+                            # Sanitize for console output
+                            print(f"  {e.encode('ascii', 'replace').decode()}")
+            except subprocess.TimeoutExpired:
+                print("LaTeX compilation timed out")
+                return False
+            except FileNotFoundError:
+                print(f"pdflatex not found: {pdflatex_cmd}")
+                return False
         
         # Check if PDF was created
         pdf_file = Path(tmpdir) / "paper.pdf"
@@ -538,27 +797,43 @@ def compile_latex_to_pdf(latex_content: str, output_path: Path) -> bool:
             return True
         else:
             print("Error: PDF file was not created")
+            # Show log errors
+            log_file = Path(tmpdir) / "paper.log"
+            if log_file.exists():
+                log_content = log_file.read_text(encoding="utf-8", errors="ignore")
+                errors = [l for l in log_content.split("\n") if l.startswith("!")]
+                for e in errors[:10]:
+                    print(f"  {e.encode('ascii', 'replace').decode()}")
             return False
 
 
-def check_latex_installed() -> bool:
-    """Check if LaTeX (pdflatex) is installed and accessible."""
+def check_latex_installed() -> Tuple[bool, str]:
+    """Check if LaTeX (pdflatex) is installed and accessible. Returns (found, path)."""
+    # Check MiKTeX path first (Windows)
+    miktex_path = Path(os.environ.get("LOCALAPPDATA", "")) / "Programs/MiKTeX/miktex/bin/x64/pdflatex.exe"
+    if miktex_path.exists():
+        return True, str(miktex_path)
+    
+    # Check system PATH
     try:
         result = subprocess.run(
             ["pdflatex", "--version"],
             capture_output=True,
             text=True
         )
-        return result.returncode == 0
+        if result.returncode == 0:
+            return True, "pdflatex"
     except FileNotFoundError:
-        return False
+        pass
+    
+    return False, ""
 
 
 # ============================================================================
 # Main Pipeline
 # ============================================================================
 
-def generate_paper(config: PaperConfig, generate_solutions: bool = False) -> Optional[Path]:
+def generate_paper(config: PaperConfig, generate_solutions: bool = False, transform_questions_flag: bool = False) -> Optional[Path]:
     """Main entry point for paper generation."""
     
     print("=" * 60)
@@ -566,7 +841,8 @@ def generate_paper(config: PaperConfig, generate_solutions: bool = False) -> Opt
     print("=" * 60)
     
     # Check LaTeX installation
-    if not check_latex_installed():
+    latex_found, pdflatex_path = check_latex_installed()
+    if not latex_found:
         print("\nError: LaTeX (pdflatex) not found!")
         print("Please install MiKTeX or TeX Live and ensure pdflatex is in PATH.")
         print("\nAfter installing MiKTeX, you may need to:")
@@ -574,7 +850,7 @@ def generate_paper(config: PaperConfig, generate_solutions: bool = False) -> Opt
         print("  2. Or add MiKTeX to PATH manually")
         return None
     
-    print("✓ LaTeX installation found")
+    print(f"[OK] LaTeX installation found: {pdflatex_path}")
     
     # Load questions
     print(f"\nLoading questions from: {INPUT_FILE}")
@@ -604,6 +880,42 @@ def generate_paper(config: PaperConfig, generate_solutions: bool = False) -> Opt
     
     total_selected = sum(len(qs) for qs in selected.values())
     print(f"Selected {total_selected} questions total")
+    
+    # LLM Transformation (if enabled)
+    if transform_questions_flag:
+        from llm_transform import transform_questions as llm_transform
+        
+        # Build full pool for replacements
+        all_pool = []
+        for subj in ["Physics", "Chemistry", "Mathematics"]:
+            for qtype in ["mcq", "integer"]:
+                for diff in ["easy", "medium", "hard"]:
+                    all_pool.extend(organized[subj][qtype][diff])
+        
+        # Transform each subject
+        for subject in ["Physics", "Chemistry", "Mathematics"]:
+            subj_questions = selected.get(subject, [])
+            if subj_questions:
+                print(f"\nTransforming {subject} questions...")
+                # Convert Question objects to dicts for transform
+                subj_dicts = [q.__dict__ if hasattr(q, '__dict__') else 
+                             {"question_text": q.question_text, "options": q.options, 
+                              "question_type": q.question_type, "subject": q.subject,
+                              "correct_index": q.correct_index, "correct_answer": q.correct_answer,
+                              "topic": q.topic, "difficulty": q.difficulty} 
+                             for q in subj_questions]
+                
+                pool_dicts = [{"question_text": q.question_text, "options": q.options,
+                              "question_type": q.question_type, "subject": q.subject,
+                              "correct_index": q.correct_index, "correct_answer": q.correct_answer,
+                              "topic": q.topic, "difficulty": q.difficulty}
+                             for q in all_pool if q.subject == subject]
+                
+                transformed = llm_transform(subj_dicts, pool_dicts, target_count=len(subj_questions))
+                
+                # Convert back to Question objects
+                from generate_paper import Question
+                selected[subject] = [Question.from_dict(t) for t in transformed]
     
     # Generate solutions if requested
     solutions = None
@@ -635,7 +947,7 @@ def generate_paper(config: PaperConfig, generate_solutions: bool = False) -> Opt
     print(f"Compiling PDF: {output_path}")
     
     if compile_latex_to_pdf(latex_content, output_path):
-        print(f"\n✓ Paper generated successfully!")
+        print(f"\n[OK] Paper generated successfully!")
         print(f"  Output: {output_path}")
         
         # Also save the .tex file for debugging/customization
@@ -700,6 +1012,11 @@ def main():
         action="store_true",
         help="Generate step-by-step solutions using LLM (slower, uses API credits)"
     )
+    parser.add_argument(
+        "--transform",
+        action="store_true",
+        help="Enable LLM transformation (rephrase, change numbers, etc.)"
+    )
     
     args = parser.parse_args()
     
@@ -721,7 +1038,7 @@ def main():
         seed=args.seed,
     )
     
-    generate_paper(config, generate_solutions=args.generate_solutions)
+    generate_paper(config, generate_solutions=args.generate_solutions, transform_questions_flag=args.transform)
 
 
 if __name__ == "__main__":

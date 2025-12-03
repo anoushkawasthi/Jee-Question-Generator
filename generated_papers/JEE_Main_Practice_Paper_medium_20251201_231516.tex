@@ -1,0 +1,855 @@
+\documentclass[12pt,a4paper]{exam}
+
+% Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{enumitem}
+\usepackage{multicol}
+\usepackage{newunicodechar}
+
+% Unicode math character mappings
+\newunicodechar{𝜀}{$\varepsilon$}
+\newunicodechar{𝑃}{$P$}
+\newunicodechar{𝑉}{$V$}
+\newunicodechar{𝐾}{$K$}
+\newunicodechar{𝐴}{$A$}
+\newunicodechar{𝐵}{$B$}
+\newunicodechar{𝐶}{$C$}
+\newunicodechar{𝐷}{$D$}
+\newunicodechar{𝐸}{$E$}
+\newunicodechar{𝑇}{$T$}
+\newunicodechar{𝑅}{$R$}
+\newunicodechar{𝐼}{$I$}
+\newunicodechar{𝑁}{$N$}
+\newunicodechar{𝑀}{$M$}
+\newunicodechar{𝐿}{$L$}
+\newunicodechar{𝑎}{$a$}
+\newunicodechar{𝑏}{$b$}
+\newunicodechar{𝑐}{$c$}
+\newunicodechar{𝑑}{$d$}
+\newunicodechar{𝑒}{$e$}
+\newunicodechar{𝑓}{$f$}
+\newunicodechar{𝑔}{$g$}
+\newunicodechar{𝑛}{$n$}
+\newunicodechar{𝑚}{$m$}
+\newunicodechar{𝑟}{$r$}
+\newunicodechar{𝑠}{$s$}
+\newunicodechar{𝑡}{$t$}
+\newunicodechar{𝑥}{$x$}
+\newunicodechar{𝑦}{$y$}
+\newunicodechar{𝑧}{$z$}
+\newunicodechar{α}{$\alpha$}
+\newunicodechar{β}{$\beta$}
+\newunicodechar{γ}{$\gamma$}
+\newunicodechar{δ}{$\delta$}
+\newunicodechar{ε}{$\varepsilon$}
+\newunicodechar{θ}{$\theta$}
+\newunicodechar{λ}{$\lambda$}
+\newunicodechar{μ}{$\mu$}
+\newunicodechar{π}{$\pi$}
+\newunicodechar{ρ}{$\rho$}
+\newunicodechar{σ}{$\sigma$}
+\newunicodechar{τ}{$\tau$}
+\newunicodechar{φ}{$\varphi$}
+\newunicodechar{ω}{$\omega$}
+\newunicodechar{Ω}{$\Omega$}
+\newunicodechar{°}{$^\circ$}
+\newunicodechar{±}{$\pm$}
+\newunicodechar{×}{$\times$}
+\newunicodechar{÷}{$\div$}
+\newunicodechar{√}{$\sqrt{}$}
+\newunicodechar{∞}{$\infty$}
+\newunicodechar{≠}{$\neq$}
+\newunicodechar{≤}{$\leq$}
+\newunicodechar{≥}{$\geq$}
+\newunicodechar{→}{$\rightarrow$}
+\newunicodechar{←}{$\leftarrow$}
+\newunicodechar{↔}{$\leftrightarrow$}
+
+% Page geometry
+\geometry{
+    top=1.5cm,
+    bottom=2cm,
+    left=2cm,
+    right=2cm,
+    headheight=1.5cm
+}
+
+% Colors
+\definecolor{headerblue}{RGB}{0, 51, 102}
+\definecolor{sectiongreen}{RGB}{0, 102, 51}
+
+% Header/Footer using exam class commands
+\pagestyle{headandfoot}
+\firstpageheader{}{}{}
+\runningheader{\textsc{JEE Main Practice Paper}}{}{\textsc{Page \thepage}}
+\runningfooter{}{Generated: December 01, 2025}{}
+
+% Custom commands
+\newcommand{\sectiontitle}[1]{%
+    \vspace{1em}
+    \noindent\colorbox{headerblue}{\parbox{\dimexpr\textwidth-2\fboxsep}{%
+        \centering\color{white}\Large\bfseries #1
+    }}
+    \vspace{0.5em}
+}
+
+% Question format
+\renewcommand{\questionlabel}{\textbf{Q\thequestion.}}
+\renewcommand{\choicelabel}{(\thechoice)}
+
+% Hide answers in questions (they go in answer key)
+\noprintanswers
+
+\begin{document}
+
+% Title Page
+\begin{center}
+    {\Huge\bfseries\color{headerblue} JEE Main Practice Paper}\\[0.5em]
+    {\large Based on JEE Main Pattern}\\[1em]
+    {\normalsize Generated: December 01, 2025 | Difficulty: Medium}\\[0.5em]
+    \rule{\textwidth}{1pt}
+\end{center}
+
+\vspace{0.5em}
+\noindent\textbf{Instructions:}
+\begin{itemize}[nosep,leftmargin=*]
+    \item This paper contains 90 questions (30 per subject).
+    \item Each subject has 20 MCQs and 10 Integer Type questions.
+    \item MCQ: +4 for correct, -1 for incorrect.
+    \item Integer: +4 for correct, 0 for incorrect.
+    \item Time: 3 hours | Maximum Marks: 360
+\end{itemize}
+\rule{\textwidth}{0.5pt}
+
+
+\sectiontitle{Physics}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{0}
+\question
+The relation between time ‘ t ’ and distance ‘ $x$ ’ is t= $\alpha$$x$ 2 + $\beta$$x$ , where $\alpha$ and $\beta$ are constants. The relation between acceleration $a$ and velocity $v$ is:
+\begin{choices}
+  \choice $a$= - 2$\alpha$$v$ 3
+  \choice $a$= - 5$\alpha$$v$ 5
+  \choice $a$= - 3$\alpha$$v$ 2
+  \choice $a$= - 4$\alpha$$v$ 4
+\end{choices}
+
+\question
+The speed of sound in oxygen at S.T.P. will be approximately: (Given, R= 8.3 J K -1 , $\gamma$= 1.4)
+\begin{choices}
+  \choice 310 m s\textasciicircum{}-1
+  \choice 333 m s\textasciicircum{}-1
+  \choice 341 m s\textasciicircum{}-1
+  \choice 325 m s\textasciicircum{}-1
+\end{choices}
+
+\question
+In the given electromagnetic wave , intensity of the associated light beam is (in : (Given )
+\begin{choices}
+  \choice 243
+  \choice 729
+  \choice 972
+  \choice 486
+\end{choices}
+
+\question
+The position of the image formed by the combination of lenses is :
+\begin{choices}
+  \choice (right of second lens)
+  \choice (left of third lens)
+  \choice (left of second lens)
+  \choice (right of third lens)
+\end{choices}
+
+\question
+A beam of unpolarised light of intensity $I$ 0 is passed through a polaroid $A$ and then through another polaroid $B$ which is oriented so that its principal plane makes an angle of 45$^\circ$ relative to that of $A$ . The intensity of emergent light is :
+\begin{choices}
+  \choice $I$ 0 4
+  \choice $I$ 0
+  \choice $I$ 0 2
+  \choice $I$ 0 8
+\end{choices}
+
+\question
+Monochromatic light of frequency 6 x $10^{14}$ Hz is produced by a laser. The power emitted is 2 $\times$ $10^{-3}$ W . How many photons per second on an average, are emitted by the source? (Given h = 6.63 $\times$ $10^{-34}$ J s )
+\begin{choices}
+  \choice 9 $\times$ 10/18
+  \choice 6 $\times$ 10/15
+  \choice 5 $\times$ 10/15
+  \choice 7 $\times$ 10/16
+\end{choices}
+
+\question
+For the thin convex lens, the radii of curvature are at and respectively. The focal length the lens is . The refractive index of the material is :
+\begin{choices}
+  \choice 1.2
+  \choice 1.8
+  \choice 1.5
+  \choice 1.4
+\end{choices}
+
+\question
+A coil is placed perpendicular to a magnetic field of 5000 T . When the field is changed to 3000 T in 2 s , an induced emf of 22 V is produced in the coil. If the diameter of the coil is 0.02 m , then the number of turns in the coil is:
+\begin{choices}
+  \choice 7
+  \choice 70
+  \choice 35
+  \choice 140
+\end{choices}
+
+\question
+The de Broglie wavelengths of a proton and an $\alpha$ particle are $\lambda$ and 2$\lambda$ respectively. The ratio of the velocities of proton and $\alpha$ particle will be :
+\begin{choices}
+  \choice 1 : 8
+  \choice 1 : 2
+  \choice 4 : 1
+  \choice 8 : 1
+\end{choices}
+
+\question
+A transformer has an efficiency of 80\% and works at 10 V and 4 kW . If the secondary voltage is 240 V, then the current in the secondary coil is:
+\begin{choices}
+  \choice 1.59 A
+  \choice 13.33 A
+  \choice 1.33 A
+  \choice 15.1 A
+\end{choices}
+
+\question
+In an experiment with photoelectric effect, the stopping potential,
+\begin{choices}
+  \choice increases with increase in the intensity of the incident light
+  \choice decreases with increase in the intensity of the incident light
+  \choice increases with increase in the wavelength of the incident light
+  \choice is times the maximum kinetic energy of the emitted photoelectrons
+\end{choices}
+
+\question
+The dimensional formula of angular impulse is :
+\begin{choices}
+  \choice [M L - 2 T - 1 ]
+  \choice [M L 2 T - 2 ]
+  \choice [M L T - 1 ]
+  \choice [M L 2 T - 1 ]
+\end{choices}
+
+\question
+A ball suspended by a thread swings in a vertical plane so that its magnitude of acceleration in the extreme position and lowest position are equal. The angle ( $\theta$ ) of thread deflection in the extreme position will be :
+\begin{choices}
+  \choice tan(-1) ( $\sqrt{}$2 )
+  \choice 2tan -11/2
+  \choice tan(-11)/2
+  \choice 2tan -1 1 $\sqrt{}$ 5
+\end{choices}
+
+\question
+A transparent film of refractive index, 2.0 is coated on a glass slab of refractive index, 1.45. What is the minimum thickness of transparent film to be coated for the maximum transmission of Green light of wavelength 550 nm . [Assume that the light is incident nearly perpendicular to the glass surface.]
+\begin{choices}
+  \choice 137.5 nm
+  \choice 275 nm
+  \choice 94.8 nm
+  \choice 68.7 nm
+\end{choices}
+
+\question
+The minimum energy required by a hydrogen atom in ground state to emit radiation in Balmer series is nearly :
+\begin{choices}
+  \choice 1.5 eV
+  \choice 13.6 eV
+  \choice 1.9 eV
+  \choice 12.1 eV
+\end{choices}
+
+\question
+A coin is placed on a disc. The coefficient of friction between the coin and the disc is $\mu$ . If the distance of the coin from the center of the disc is $r$ , the maximum angular velocity which can be given to the disc, so that the coin does not slip away, is :
+\begin{choices}
+  \choice $\mu$g $r$
+  \choice $\sqrt{}$ $r$ $\mu$g
+  \choice $\sqrt{}$ $\mu$g $r$
+  \choice $\mu$ $\sqrt{}$ $r$g
+\end{choices}
+
+\question
+The width of one of the two slits in Young's double slit experiment is d while that of the other slit is . If the ratio of the maximum to the minimum intensity in the interference pattern on the screen is then what is the value of ? (Assume that the field strength varies according to the slit width.)
+\begin{choices}
+  \choice 4
+  \choice 5
+  \choice 3
+  \choice 2
+\end{choices}
+
+\question
+In a plane EM wave, the electric field oscillates sinusoidally at a frequency of 5 x $10^{10}$ Hz and an amplitude of 50 V m - 1 . The total average energy density of the electromagnetic field of the wave is : [Use $\varepsilon$ 0 = 8.85 $\times$ 10 - 12 C 2 N^-1 m^-2 ]
+\begin{choices}
+  \choice 1.106 $\times$ 10 - 8 J m - 3
+  \choice 4.425 $\times$ 10 - 8 J m - 3
+  \choice 2.212 $\times$ 10 - 8 J m - 3
+  \choice 2.212 $\times$ 10 - 10 J m - 3
+\end{choices}
+
+\question
+Given below are two statements: Statement I : If a capillary tube is immersed first in cold water and then in hot water, the height of capillary rise will be smaller in hot water. Statement II : If a capillary tube is immersed first in cold water and then in hot water, the height of capillary rise will be smaller in cold water. In the light of the above statements, choose the most appropriate from the options given below
+\begin{choices}
+  \choice Both Statement I and Statement II are true
+  \choice Both Statement I and Statement II are false
+  \choice Statement I is true but Statement II is false
+  \choice Statement I is false but Statement II is true
+\end{choices}
+
+\question
+When a polaroid sheet is rotated between two crossed polaroids then the transmitted light intensity will be maximum for a rotation of :
+\begin{choices}
+  \choice 60$^\circ$
+  \choice 30$^\circ$
+  \choice 90$^\circ$
+  \choice 45$^\circ$
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{20}
+\question
+The displacement and the increase in the velocity of a moving particle in the time interval of to are and , respectively. The distance travelled by the particle in is \_\_\_\_\_\_\_\_\_\_\_ .
+
+\question
+A horizontal straight wire long extending from east to west falling freely at right angle to horizontal component of earth's magnetic field . The instantaneous value of emf induced in the wire when its velocity is is \_\_\_\_\_\_\_ .
+
+\question
+Small water droplets of radius are formed in the upper atmosphere and falling with a terminal velocity of . Due to condensation, if 8 such droplets are coalesced and formed a larger drop, the new terminal velocity will be \_\_\_\_\_ .
+
+\question
+A force displaces a body from to . Work done by this force is \_\_\_\_\_\_\_\_ .
+
+\question
+A body starts falling freely from height $H$ hits an inclined plane in its path at height ℎ . As a result of this perfectly elastic impact, the direction of the velocity of the body becomes horizontal. The value of $H$ ℎ for which the body will take the maximum time to reach the ground is _____.
+
+\question
+Two coherent monochromatic light beams of intensities I and are superimposed. The difference between maximum and minimum possible intensities in the resulting beam is . The value of is $_________.
+
+\question
+The electric field between the two parallel plates of a capacitor of capacitance drops to one third of its initial value in when the plates are connected by a thin wire. The resistance of this wire is \_\_\_\_\_ . (Given, )
+
+\question
+A coil having 100 turns, area of , carrying current of is placed in uniform magnetic field of such a way that plane of coil is perpendicular to the magnetic field. The work done in turning the coil through is \_\_\_\_\_\_\_ .
+
+\question
+A body of mass thrown horizontally with velocity from the top of the tower of height touches the ground at a distance of from the foot of the tower. A body of mass thrown at a velocity from the top of the tower of height will touch the ground at a distance of \_\_\_\_\_ .
+
+\question
+A body falling under gravity covers two points A and B separated by 80 m in 2 s . The distance of upper point A from the starting point is \_\_\_\_\_ m . Use g = 10 m s\textasciicircum{}-2
+
+\end{questions}
+
+
+\sectiontitle{Chemistry}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{30}
+\question
+The metal atom present in the complex MABXL (where A, B, X and L are unidentate ligands and is metal) involves hybridization. The number of geometrical isomers exhibited by the complex is:
+\begin{choices}
+  \choice 2
+  \choice 0
+  \choice 4
+  \choice 3
+\end{choices}
+
+\question
+Match List - I with List - II. Choose the correct answer from the options given below :
+\begin{choices}
+  \choice (A)-(IV), (B)-(II), (C)-(I), (D)-(III)
+  \choice (A)-(I), (B)-(II), (C)-(III), (D)-(IV)
+  \choice (A)-(III), (B)-(I), (C)-(IV), (D)-(II)
+  \choice (A)-(II), (B)-(IV), (C)-(III), (D)-(I)
+\end{choices}
+
+\question
+Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A): reaction of occurs more readily than the reaction of . Reason (R) : The partially bonded unhybridized p-orbital that develops in the trigonal bipyramidal transition state is stabilized by conjugation with the phenyl ring. In the light of the above statements, choose the most appropriate answer from the options given below :
+\begin{choices}
+  \choice (A) is correct but (R) is not correct
+  \choice (A) is not correct but (R) is correct
+  \choice Both (A) and (R) are correct but (R) is not the correct explanation of (A)
+  \choice Both (A) and (R) are correct and (R) is the correct explanation of
+\end{choices}
+
+\question
+A diatomic gas ( $\gamma$= 1.4 ) does 200 J of work when it is expanded isobarically. The heat given to the gas in the process is :
+\begin{choices}
+  \choice 850 J
+  \choice 800 J
+  \choice 600 J
+  \choice 700 J
+\end{choices}
+
+\question
+The correct sequence of electron gain enthalpy of the elements listed below is A. Ar B. Br C. F D. S Choose the most appropriate from the options given below:
+\begin{choices}
+  \choice C > B > D > A
+  \choice A > D > B > C
+  \choice A > D > C > B
+  \choice D > C > B > A
+\end{choices}
+
+\question
+Choose the correct statements about the hydrides of group 15 elements. A. The stability of the hydrides decreases in the order NH 3 > PH 3 > AsH 3 > SbH 3 > BiH 3 B. The reducing ability of the hydrides increases in the order NH 3 < PH 3 < AsH 3 < SbH 3 < BiH 3 C. Among the hydrides, NH 3 is strong reducing agent while BiH 3 is mild reducing agent. D. The basicity of the hydrides increases in the order NH 3 < PH 3 < AsH 3 < SbH 3 < BiH 3 Choose the most appropriate from the option given below:
+\begin{choices}
+  \choice B and C only
+  \choice C and D only
+  \choice A and B only
+  \choice A and D only
+\end{choices}
+
+\question
+Number of Complexes with even number of electrons in orbitals is -
+\begin{choices}
+  \choice 2
+  \choice 3
+  \choice 1
+  \choice 5
+\end{choices}
+
+\question
+The equilibrium is shifted to the right in :
+\begin{choices}
+  \choice an acidic medium
+  \choice a basic medium
+  \choice a neutral medium
+  \choice a weakly acidic medium
+\end{choices}
+
+\question
+If (diamond (graphite diamond C (graphite) at constant temperature. Then
+\begin{choices}
+  \choice X=-Y+Z
+  \choice -X=Y+Z
+  \choice X=Y+Z
+  \choice X=Y-Z
+\end{choices}
+
+\question
+The equation of state of a real gas is given by $P$+ $a$ $V$ 2 ($V$- $b$) = RT , where $P$, $V$ and T are pressure, volume and temperature respectively and R is the universal gas constant. The dimensions of a b 2 is similar to that of :
+\begin{choices}
+  \choice $P$$V$
+  \choice $P$
+  \choice RT
+  \choice R
+\end{choices}
+
+\question
+Methods used for purification of organic compounds are based on :
+\begin{choices}
+  \choice nature of compound and presence of impurity.
+  \choice neither on nature of compound nor on the impurity present.
+  \choice nature of compound only.
+  \choice presence of impurity only.
+\end{choices}
+
+\question
+Given below are two statements : Statement (I) : On nitration of m-xylene with followed by oxidation, 4-nitrobenzene-1,3-dicarboxylic acid is obtained as the major product. Statement (II) : group is o/p-directing while group is m-directing group. In the light of the above statements, choose the correct answer from the options given below : 2025 (29 Jan Shift 2)
+\begin{choices}
+  \choice Both Statement I and Statement II are false
+  \choice Statement I is false but Statement II is true
+  \choice Statement I is true but Statement II is false
+  \choice Both Statement I and Statement II are true
+\end{choices}
+
+\question
+Total number of nucleophiles from the following is :
+\begin{choices}
+  \choice 7
+  \choice 4
+  \choice 6
+  \choice 5
+\end{choices}
+
+\question
+Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A) : and molecule have pyramidal shape with a lone pair of electrons on nitrogen atom. The resultant dipole moment of is greater than that of . Reason (R) : In , the orbital dipole due to lone pair is in the same direction as the resultant dipole moment of the bonds. is the most electronegative element. In the light of the above statements, choose the correct answer from the options given below :
+\begin{choices}
+  \choice Both (A) and (R) are true and (R) is the correct explanation of (A)
+  \choice (A) is false but (R) is true
+  \choice Both (A) and (R) are true but is NOT the correct explanation of (A)
+  \choice (A) is true but is false
+\end{choices}
+
+\question
+IUPAC name of following compound is
+\begin{choices}
+  \choice 2 - Aminopentanenitrile
+  \choice 2 - Aminobutanenitrile
+  \choice 3 - Aminobutanenitrile
+  \choice 3 - Aminopropanenitrile
+\end{choices}
+
+\question
+The reaction follows the mechanism The overall order of the reaction is :
+\begin{choices}
+  \choice 2
+  \choice 2.5
+  \choice 3
+  \choice 1.5
+\end{choices}
+
+\question
+The functional group that shows negative resonance effect is:
+\begin{choices}
+  \choice -NH 2
+  \choice -OH
+  \choice -COOH
+  \choice -OR
+\end{choices}
+
+\question
+Integrated rate law equation for a first order gas phase reaction is given by (where $P$ $i$ is initial pressure and $P$ t is total pressure at time t )
+\begin{choices}
+  \choice $k$= 2.303 t $\times$ log $P$ $i$ 2$P$ $i$ - $P$ t
+  \choice $k$= 2.303 t $\times$ log 2$P$ $i$ 2$P$ $i$ - $P$ t
+  \choice $k$= 2.303 t $\times$ log 2$P$ $i$ - $P$ t $P$ $i$
+  \choice $k$= 2.303 t $\times$ $P$ $i$ 2$P$ $i$ - $P$ t
+\end{choices}
+
+\question
+1.24 g of (molar mass ) is dissolved in 1 kg of water to form a solution with boiling point of , while of (molar mass ) in 2 kg of water constitutes a solution with a boiling point of . Which of the following is correct ?
+\begin{choices}
+  \choice is fully ionised while is completely unionised.
+  \choice is completely unionised while is fully ionised.
+  \choice and (both) are completely unionised.
+  \choice and (both) are fully ionised.
+\end{choices}
+
+\question
+The atomic mass of 6 C 12 is 12.000000 u and that of 6 C 13 is 13.003354 u . The required energy to remove a neutron from 6 C 13 , if mass of neutron is 1.008665 u , will be:
+\begin{choices}
+  \choice 62.5MeV
+  \choice 6.25MeV
+  \choice 4.95MeV
+  \choice 49.5MeV
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{50}
+\question
+Total number of electrons present in molecular orbitals of and is \_\_\_\_\_\_\_.
+
+\question
+The ionization energy of sodium in kJ mol - 1 . If electromagnetic radiation of wavelength 242 nm is just sufficient to ionize sodium atom is \_\_\_\_\_\_.(nearest integer)
+
+\question
+If of aniline is reacted with one equivalent of benzenediazonium chloride, the maximum amount of aniline yellow formed will be \_\_\_\_\_\_\_ g. (nearest integer) (consider complete conversion).
+
+\question
+Total number of optically active compounds from the following is \_\_\_\_\_\_
+
+\question
+Phthalimide is made to undergo following sequence of reactions. Total number of bonds present in product 'P' is/are \_\_\_\_\_\_
+
+\question
+Molality of solution (density ) is \_\_\_\_\_\_\_ . Round off your answer to the nearest integer.
+
+\question
+Consider the following sequence of reactions. Total number of hybridised carbon atoms in the major product C formed is\_\_\_\_\_\_\_\_ 2025 (23 Jan Shift 2)
+
+\question
+Wavenumber for a radiation having wavelength is . The value of is \_\_\_\_\_\_\_\_ (Integer answer)
+
+\question
+Consider the following redox reaction: MnO 4 - + H + + H 2 C 2 O 4 ⇌Mn 2 + + H 2 O + CO 2 The standard reduction potentials are given as below E red $^\circ$ E 0 MnO 4 - / Mn 2 + = + 1.51 V ; E 0 CO 2 / H 2 C 2 O 4 = - 0.49 V If the equilibrium constant of the above reaction is given as K eq = 10 x , then the value of x = _______ (nearest integer)
+
+\question
+Consider the following reactions The number of protons that do not involve in hydrogen bonding in the product is \_\_\_\_\_\_.
+
+\end{questions}
+
+
+\sectiontitle{Mathematics}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{60}
+\question
+Let $a$ be the sum of all coefficients in the expansion of ( 1 - 2$x$+ 2$x$ 2 ) 2023 ( 3 - 4$x$ 2 + 2$x$ 3 ) 2024 and $b$= lim $x$$\rightarrow$0 $\int$ 0 $x$ log1 + t t 2024 + 1 $d$t $x$ 2 . If the equations $c$$x$ 2 + $d$$x$+ $e$= 0 and 2$b$$x$ 2 + $a$$x$+ 4 = 0 have a common root, where $c$, $d$, $e$∈R , then $d$ : $c$ : $e$ equals
+\begin{choices}
+  \choice 2 : 1 : 4
+  \choice 4 : 1 : 4
+  \choice 1 : 2 : 4
+  \choice 1 : 1 : 4
+\end{choices}
+
+\question
+Consider the following two statements : Statement I : For any two non-zero complex numbers , Statement II : If are three distinct complex numbers and are three positive real numbers such that , then Between the above two statements,
+\begin{choices}
+  \choice Statement I is correct but Statement II is incorrect.
+  \choice both Statement I and Statement II are correct.
+  \choice both Statement I and Statement II are incorrect.
+  \choice Statement I is incorrect but Statement II is correct.
+\end{choices}
+
+\question
+Let $f$$x$= $x$-1, $x$ is even, 2$x$, $x$ is odd, $x$∈$N$ . If for some $a$∈$N$, $f$$f$$f$$a$= 21 , then lim $x$$\rightarrow$$a$ - $x$ 3 $a$ - $x$ $a$ , where t denotes the greatest integer less than or equal to t , is equal to:
+\begin{choices}
+  \choice 121
+  \choice 144
+  \choice 169
+  \choice 225
+\end{choices}
+
+\question
+Let $\alpha$= ( 4! ) ! ( 4! ) 3! and $\beta$= ( 5! ) ! ( 5! ) 4! . Then :
+\begin{choices}
+  \choice $\alpha$∈N and $\beta$∉N
+  \choice $\alpha$∉N and $\beta$∈N
+  \choice $\alpha$∈N and $\beta$∈N
+  \choice $\alpha$∉N and $\beta$∉N
+\end{choices}
+
+\question
+Let a line pass through two distinct points and , and be parallel to the vector . If the distance of the point Q from the point is 5 , then the square of the area of is equal to :
+\begin{choices}
+  \choice 148
+  \choice 136
+  \choice 144
+  \choice 140
+\end{choices}
+
+\question
+Let and . Then the minimum value of is :
+\begin{choices}
+  \choice 13
+  \choice 10
+  \choice 3
+  \choice 7
+\end{choices}
+
+\question
+Let 3, $a$, $b$, $c$ be in $A$. $P$. and 3, $a$-1, $b$+ 1, $c$+ 9 be in $G$. $P$. Then, the arithmetic mean of $a$, $b$ and $c$ is:
+\begin{choices}
+  \choice -4
+  \choice -1
+  \choice 13
+  \choice 11
+\end{choices}
+
+\question
+A software company sets up number of computer systems to finish an assignment in 17 days. If 4 computer systems crashed on the start of the second day, 4 more computer systems crashed on the start of the third day and so on, then it took 8 more days to finish the assignment. The value of is equal to:
+\begin{choices}
+  \choice 150
+  \choice 180
+  \choice 160
+  \choice 125
+\end{choices}
+
+\question
+Let be a function given by where . If is continuous at , then is equal to :
+\begin{choices}
+  \choice 3
+  \choice 12
+  \choice 48
+  \choice 6
+\end{choices}
+
+\question
+The least value of n for which the number of integral terms in the Binomial expansion of is 183, is :
+\begin{choices}
+  \choice 2184
+  \choice 2196
+  \choice 2148
+  \choice 2172 2025 (29 Jan Shift 1)
+\end{choices}
+
+\question
+Let $P$ and $Q$ be the points on the line $x$+ 3 8 = $y$-4 2 = $z$+ 1 2 which are at a distance of 6 units from the point R( 1, 2, 3 ) . If the centroid of the triangle $P$$Q$R is $\alpha$, $\beta$, $\gamma$, then $\alpha$ 2 + $\beta$ 2 + $\gamma$ 2 is:
+\begin{choices}
+  \choice 26
+  \choice 36
+  \choice 18
+  \choice 24
+\end{choices}
+
+\question
+If the value of is , where are natural numbers and , then is equal to :
+\begin{choices}
+  \choice 40
+  \choice 52
+  \choice 50
+  \choice 54
+\end{choices}
+
+\question
+Let $f$$x$= 2$x$ 2 + 5$x$- 3, $x$∈R . If $m$ and $n$ denote the number of points where $f$ is not continuous and not differentiable respectively, then $m$+ $n$ is equal to:
+\begin{choices}
+  \choice 5
+  \choice 2
+  \choice 0
+  \choice 3
+\end{choices}
+
+\question
+Let $S$= $z$∈$C$: $z$-1 = 1 and $\sqrt{}$2 -1$z$+ ¯ $z$- $i$$z$- ¯ $z$= 2$\sqrt{}$2 . Let $z$ 1 , $z$ 2 ∈$S$ be such that $z$ 1 = max $z$∈$s$ $z$ and $z$ 2 = min $z$∈$s$ $z$ . Then $\sqrt{}$2$z$ 1 -$z$ 2 2 equals:
+\begin{choices}
+  \choice 1
+  \choice 4
+  \choice 3
+  \choice 2
+\end{choices}
+
+\question
+The function is
+\begin{choices}
+  \choice one-one but not onto.
+  \choice both one-one and onto.
+  \choice onto but not one-one.
+  \choice neither one-one nor onto.
+\end{choices}
+
+\question
+Let . Define a relation on as : Statement I : is an equivalence relation. Statement II : For some , the set represents a line parallel to . In the light of the above statements, choose the correct answer from the options given below :
+\begin{choices}
+  \choice Both Statement I and Statement II are false
+  \choice Statement I is true but Statement II is false
+  \choice Both Statement I and Statement II are true
+  \choice Statement I is false but Statement II is true
+\end{choices}
+
+\question
+Let . Let be a relation on defined by if and only if . Let be the number of elements in and be the minimum number of elements from that are required to be added to to make it a symmetric relation. Then is equal to :
+\begin{choices}
+  \choice 25
+  \choice 24
+  \choice 26
+  \choice 23
+\end{choices}
+
+\question
+Let be the term of an A.P. If for some , and , then is equal to
+\begin{choices}
+  \choice 98
+  \choice 126
+  \choice 142
+  \choice 112
+\end{choices}
+
+\question
+Let . If the system of equations has infinitely many solutions, then is equal to :
+\begin{choices}
+  \choice 24
+  \choice 25
+  \choice 22
+  \choice 27
+\end{choices}
+
+\question
+Let , where is the constant of integration. Then is equal to :
+\begin{choices}
+  \choice 7
+  \choice 4
+  \choice 1
+  \choice 3
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{80}
+\question
+The number of distinct real roots of the equation is\_\_\_\_\_\_\_
+
+\question
+Let the set of all positive values of , for which the point of local minimum of the function satisfies , be . Then is equal to \_\_\_\_\_\_\_\_\_
+
+\question
+Remainder when is divided by is equal to \_\_\_\_\_.
+
+\question
+If , where is the constant of integration, then the value of is\_\_\_\_\_\_\_\_\_\_
+
+\question
+If , where denotes the greatest integer less than or equal to and represents the fractional part of , then is equal to \_\_\_\_\_\_
+
+\question
+Let M denote the set of all real matrices of order and let . Let If , then equals \_\_\_\_\_\_\_
+
+\question
+Let the maximum and minimum values of be and , respectively. Then is equal to \_\_\_\_\_\_\_\_\_
+
+\question
+If , then is equal to \_\_\_\_\_\_
+
+\question
+Let be the lines passing through the point and touching the parabola . Let and be the points on the lines and such that the is an isosceles triangle with base . If the slopes of the lines are and , then is equal to \_\_\_\_\_\_\_
+
+\question
+Number of integral terms in the expansion of is equal to \_\_\_\_\_\_.
+
+\end{questions}
+
+
+\newpage
+\sectiontitle{Answer Key}
+
+
+\textbf{Physics}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q1 & Q2 & Q3 & Q4 & Q5 & Q6 & Q7 & Q8 & Q9 & Q10 \\\hline
+(1) & (1) & (4) & (4) & (1) & (3) & (3) & (2) & (4) & (2) \\\hline
+Q11 & Q12 & Q13 & Q14 & Q15 & Q16 & Q17 & Q18 & Q19 & Q20 \\\hline
+(4) & (4) & (2) & (1) & (4) & (3) & (2) & (1) & (3) & (4) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q21 & Q22 & Q23 & Q24 & Q25 & Q26 & Q27 & Q28 & Q29 & Q30 \\\hline
+175 & 3 & 40 & 58 & 2 & 8 & 4 & 100 & 100 & 45 \\\hline
+\end{tabular}\\[1em]
+
+
+\textbf{Chemistry}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q31 & Q32 & Q33 & Q34 & Q35 & Q36 & Q37 & Q38 & Q39 & Q40 \\\hline
+(2) & (3) & (4) & (4) & (2) & (3) & (2) & (2) & (4) & (2) \\\hline
+Q41 & Q42 & Q43 & Q44 & Q45 & Q46 & Q47 & Q48 & Q49 & Q50 \\\hline
+(1) & (4) & (4) & (1) & (3) & (4) & (3) & (1) & (1) & (3) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q51 & Q52 & Q53 & Q54 & Q55 & Q56 & Q57 & Q58 & Q59 & Q60 \\\hline
+6 & 494 & 591 & 1 & 8 & 815 & 4 & 1724 & 338 & 12 \\\hline
+\end{tabular}\\[1em]
+
+
+\textbf{Mathematics}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q61 & Q62 & Q63 & Q64 & Q65 & Q66 & Q67 & Q68 & Q69 & Q70 \\\hline
+(4) & (1) & (2) & (3) & (2) & (4) & (4) & (1) & (2) & (1) \\\hline
+Q71 & Q72 & Q73 & Q74 & Q75 & Q76 & Q77 & Q78 & Q79 & Q80 \\\hline
+(3) & (2) & (4) & (4) & (4) & (2) & (1) & (2) & (2) & (2) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q81 & Q82 & Q83 & Q84 & Q85 & Q86 & Q87 & Q88 & Q89 & Q90 \\\hline
+3 & 39 & 1 & 7 & 18 & 1613 & 1600 & 465 & 68 & 138 \\\hline
+\end{tabular}\\[1em]
+
+
+\end{document}

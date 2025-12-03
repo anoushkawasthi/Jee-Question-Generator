@@ -1,0 +1,855 @@
+\documentclass[12pt,a4paper]{exam}
+
+% Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{enumitem}
+\usepackage{multicol}
+\usepackage{newunicodechar}
+
+% Unicode math character mappings
+\newunicodechar{𝜀}{$\varepsilon$}
+\newunicodechar{𝑃}{$P$}
+\newunicodechar{𝑉}{$V$}
+\newunicodechar{𝐾}{$K$}
+\newunicodechar{𝐴}{$A$}
+\newunicodechar{𝐵}{$B$}
+\newunicodechar{𝐶}{$C$}
+\newunicodechar{𝐷}{$D$}
+\newunicodechar{𝐸}{$E$}
+\newunicodechar{𝑇}{$T$}
+\newunicodechar{𝑅}{$R$}
+\newunicodechar{𝐼}{$I$}
+\newunicodechar{𝑁}{$N$}
+\newunicodechar{𝑀}{$M$}
+\newunicodechar{𝐿}{$L$}
+\newunicodechar{𝑎}{$a$}
+\newunicodechar{𝑏}{$b$}
+\newunicodechar{𝑐}{$c$}
+\newunicodechar{𝑑}{$d$}
+\newunicodechar{𝑒}{$e$}
+\newunicodechar{𝑓}{$f$}
+\newunicodechar{𝑔}{$g$}
+\newunicodechar{𝑛}{$n$}
+\newunicodechar{𝑚}{$m$}
+\newunicodechar{𝑟}{$r$}
+\newunicodechar{𝑠}{$s$}
+\newunicodechar{𝑡}{$t$}
+\newunicodechar{𝑥}{$x$}
+\newunicodechar{𝑦}{$y$}
+\newunicodechar{𝑧}{$z$}
+\newunicodechar{α}{$\alpha$}
+\newunicodechar{β}{$\beta$}
+\newunicodechar{γ}{$\gamma$}
+\newunicodechar{δ}{$\delta$}
+\newunicodechar{ε}{$\varepsilon$}
+\newunicodechar{θ}{$\theta$}
+\newunicodechar{λ}{$\lambda$}
+\newunicodechar{μ}{$\mu$}
+\newunicodechar{π}{$\pi$}
+\newunicodechar{ρ}{$\rho$}
+\newunicodechar{σ}{$\sigma$}
+\newunicodechar{τ}{$\tau$}
+\newunicodechar{φ}{$\varphi$}
+\newunicodechar{ω}{$\omega$}
+\newunicodechar{Ω}{$\Omega$}
+\newunicodechar{°}{$^\circ$}
+\newunicodechar{±}{$\pm$}
+\newunicodechar{×}{$\times$}
+\newunicodechar{÷}{$\div$}
+\newunicodechar{√}{$\sqrt{}$}
+\newunicodechar{∞}{$\infty$}
+\newunicodechar{≠}{$\neq$}
+\newunicodechar{≤}{$\leq$}
+\newunicodechar{≥}{$\geq$}
+\newunicodechar{→}{$\rightarrow$}
+\newunicodechar{←}{$\leftarrow$}
+\newunicodechar{↔}{$\leftrightarrow$}
+
+% Page geometry
+\geometry{
+    top=1.5cm,
+    bottom=2cm,
+    left=2cm,
+    right=2cm,
+    headheight=1.5cm
+}
+
+% Colors
+\definecolor{headerblue}{RGB}{0, 51, 102}
+\definecolor{sectiongreen}{RGB}{0, 102, 51}
+
+% Header/Footer using exam class commands
+\pagestyle{headandfoot}
+\firstpageheader{}{}{}
+\runningheader{\textsc{JEE Main Practice Paper}}{}{\textsc{Page \thepage}}
+\runningfooter{}{Generated: December 01, 2025}{}
+
+% Custom commands
+\newcommand{\sectiontitle}[1]{%
+    \vspace{1em}
+    \noindent\colorbox{headerblue}{\parbox{\dimexpr\textwidth-2\fboxsep}{%
+        \centering\color{white}\Large\bfseries #1
+    }}
+    \vspace{0.5em}
+}
+
+% Question format
+\renewcommand{\questionlabel}{\textbf{Q\thequestion.}}
+\renewcommand{\choicelabel}{(\thechoice)}
+
+% Hide answers in questions (they go in answer key)
+\noprintanswers
+
+\begin{document}
+
+% Title Page
+\begin{center}
+    {\Huge\bfseries\color{headerblue} JEE Main Practice Paper}\\[0.5em]
+    {\large Based on JEE Main Pattern}\\[1em]
+    {\normalsize Generated: December 01, 2025 | Difficulty: Medium}\\[0.5em]
+    \rule{\textwidth}{1pt}
+\end{center}
+
+\vspace{0.5em}
+\noindent\textbf{Instructions:}
+\begin{itemize}[nosep,leftmargin=*]
+    \item This paper contains 90 questions (30 per subject).
+    \item Each subject has 20 MCQs and 10 Integer Type questions.
+    \item MCQ: +4 for correct, -1 for incorrect.
+    \item Integer: +4 for correct, 0 for incorrect.
+    \item Time: 3 hours | Maximum Marks: 360
+\end{itemize}
+\rule{\textwidth}{0.5pt}
+
+
+\sectiontitle{Physics}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{0}
+\question
+A particle of charge -$q$ and mass $m$ moves in a circle of radius $r$ around an infinitely long line charge of linear density +$\lambda$ . Then time period will be given as: (Consider $k$ as Coulomb's constant)
+\begin{choices}
+  \choice T 2 = 4$\pi$ 2 $m$ 2$k$$\lambda$$q$ $r$ 3
+  \choice T= 2$\pi$$r$$\sqrt{}$ $m$ 2$k$$\lambda$$q$
+  \choice T= 1 2$\pi$$r$ $\sqrt{}$ $m$ 2$k$$\lambda$$q$
+  \choice T= 1 2$\pi$ $\sqrt{}$ 2$k$$\lambda$$q$ $m$
+\end{choices}
+
+\question
+If the de Broglie wavelengths of a proton and an $\alpha$ particle are $\lambda$ and $2\lambda$ respectively, what is the ratio of their velocities?
+\begin{choices}
+  \choice 1 : 8
+  \choice 1 : 2
+  \choice 4 : 1
+  \choice 8 : 1
+\end{choices}
+
+\question
+A cannon with mass $M_1$ fires a projectile with mass $M_2$ horizontally. Immediately after the shot, what is the ratio of the kinetic energy of the cannon to that of the projectile?
+\begin{choices}
+  \choice M 1 ( M 1 + M 2 )
+  \choice M 2 M 1
+  \choice M 2 ( M 1 + M 2 )
+  \choice M 1 M 2
+\end{choices}
+
+\question
+Consider the following two statements: Statement (I): The dimensions of Planck's constant are the same as those of angular momentum. Statement (II): The dimensions of linear momentum are identical to those of the moment of force. Based on these statements, select the correct answer from the options provided below:
+\begin{choices}
+  \choice Statement I is true but Statement II is false
+  \choice Both Statement I and Statement II are false
+  \choice Both Statement I and Statement II are true
+  \choice Statement I is false but Statement II is true
+\end{choices}
+
+\question
+Consider the following statements: Statement I: The contact angle between a solid and a liquid is influenced by the materials of both the solid and the liquid. Statement II: The height to which a liquid rises in a capillary tube is independent of the tube's inner radius. Based on these statements, select the correct answer from the options provided below:
+\begin{choices}
+  \choice Statement I is true but Statement II is false.
+  \choice Statement I is false but Statement II is true.
+  \choice Both Statement I and Statement II are false.
+  \choice Both Statement I and Statement II are true.
+\end{choices}
+
+\question
+If the wavelength of the first member of Lyman series of hydrogen is $\lambda$. The wavelength of the second member will be
+\begin{choices}
+  \choice 30 37 \lambda
+  \choice 37 30 \lambda
+  \choice 30 7 \lambda
+  \choice 7 30 \lambda
+\end{choices}
+
+\question
+If 40 Vernier divisions are equal to 39 main scale divisions of a travelling microscope and one smallest reading of main scale is 0.4 mm, the Vernier constant of the travelling microscope is:
+\begin{choices}
+  \choice 0.01 mm
+  \choice 0.02 mm
+  \choice 0.02 cm
+  \choice 0.01 cm
+\end{choices}
+
+\question
+The work functions for cesium (Cs) and lithium (Li) are 1.9 eV and 2.5 eV, respectively. When light with a wavelength of 550 nm is shone on these metal surfaces, the photoelectric effect will occur for which of the following cases?
+\begin{choices}
+  \choice Both Cs and Li
+  \choice Neither Cs nor Li
+  \choice Cs only
+  \choice Li only
+\end{choices}
+
+\question
+The equation relating time $t$ and distance $x$ is given by $t = \alpha x^{2} + \beta x$, where $\alpha$ and $\beta$ are constants. What is the relationship between acceleration $a$ and velocity $v$?
+\begin{choices}
+  \choice a= - 2$\\alpha$v 3
+  \choice a= - 5$\\alpha$v 5
+  \choice a= - 3$\\alpha$v 2
+  \choice a= - 4$\\alpha$v 4
+\end{choices}
+
+\question
+A proton traveling at a constant speed moves through a region in space without any alteration in its velocity. If $\vec{E}$ and $\vec{B}$ represent the electric and magnetic fields respectively, then the region of space may contain: (A) $\vec{E} = 0, \vec{B} = 0$; (B) $\vec{E} = 0, \vec{B} \neq 0$; (C) $\vec{E} \neq 0, \vec{B} = 0$; (D) $\vec{E} = \vec{v} \times \vec{B}$ Choose the most appropriate answer from the options given below:
+\begin{choices}
+  \choice (A), (B) and (C) only
+  \choice (A), (C) and (D) only
+  \choice (A), (B) and (D) only
+  \choice (B), (C) and (D) only
+\end{choices}
+
+\question
+What is the dimensional formula for angular impulse?
+\begin{choices}
+  \choice [M L\textasciicircum{}\{-2\} T\textasciicircum{}\{-1\}]
+  \choice [M L\textasciicircum{}\{2\} T\textasciicircum{}\{-2\}]
+  \choice [M L T\textasciicircum{}\{-1\}]
+  \choice [M L\textasciicircum{}\{2\} T\textasciicircum{}\{-1\}]
+\end{choices}
+
+\question
+How many spectral lines are produced by atomic hydrogen when it is in a specific energy level?
+\begin{choices}
+  \choice 3
+  \choice 1
+  \choice 6
+  \choice 0
+\end{choices}
+
+\question
+A coil is placed perpendicular to a magnetic field of 6000 T. When the field is changed to 4000 T in 3 s, an induced emf of 18 V is produced in the coil. If the diameter of the coil is 0.03 m, then the number of turns in the coil is:
+\begin{choices}
+  \choice 12
+  \choice 60
+  \choice 30
+  \choice 120
+\end{choices}
+
+\question
+A current of 250 \, \mu A deflects the coil of a moving coil galvanometer through 70^{\circ}. The current to cause deflection through $\frac{\pi}{12}$ \, \text{radian} is
+\begin{choices}
+  \choice 35 \, \mu A
+  \choice 140 \, \mu A
+  \choice 50 \, \mu A
+  \choice 200 \, \mu A
+\end{choices}
+
+\question
+Two physical quantities $A$ and $B$ are connected by the relation $E = B - x^{2} At$, where $E$, $x$, and $t$ represent energy, length, and time dimensions respectively. What is the dimension of $AB$?
+\begin{choices}
+  \choice L -2 M 1 T 0
+  \choice L 2 M -1 T 1
+  \choice L -2 M -1 T 1
+  \choice L 0 M -1 T 1
+\end{choices}
+
+\question
+For an ideal gas, the relationship between pressure and volume is given by $PV^{\frac{3}{2}} = K$ (a constant). Calculate the work done when the gas transitions from state $A(P_{1}, V_{1}, T_{1})$ to state $B(P_{2}, V_{2}, T_{2})$:
+\begin{choices}
+  \choice 2 ( P\_\{1\} V\_\{1\} - P\_\{2\} V\_\{2\} )
+  \choice 2 ( P\_\{2\} V\_\{2\} - P\_\{1\} V\_\{1\} )
+  \choice 2$\sqrt{P_{1}$ V_{1}} - $\sqrt{P_{2}$ V_{2}}
+  \choice 2P_{2} $\sqrt{V_{2}$} - P_{1} $\sqrt{V_{1}$}
+\end{choices}
+
+\question
+Evaluate the following statements: A. The junction area of a solar cell is designed to be much narrower than that of a photodiode. B. Solar cells operate without any external bias. C. An LED is constructed using a lightly doped p-n junction. D. Increasing the forward current continuously enhances the light intensity of an LED. E. LEDs must be connected in forward bias to emit light. Select the correct answer from the options below:
+\begin{choices}
+  \choice B, E Only
+  \choice B, D, E Only
+  \choice A, C Only
+  \choice A, C, E Only
+\end{choices}
+
+\question
+What happens to the Young's modulus of elasticity as the temperature increases?
+\begin{choices}
+  \choice changes erratically
+  \choice decreases
+  \choice increases
+  \choice remains unchanged
+\end{choices}
+
+\question
+Two spherical bodies of same materials having radii 0.3 m and 0.9 m are placed in same atmosphere. The temperature of the smaller body is 700 K and temperature of the bigger body is 350 K. If the energy radiated from the smaller body is E, the energy radiated from the bigger body is (assume, effect of the surrounding temperature to be negligible),
+\begin{choices}
+  \choice 27 E
+  \choice E
+  \choice 81 E
+  \choice 243 E
+\end{choices}
+
+\question
+Below are two statements: one is labeled as Assertion (A) and the other as Reason (R). Assertion (A): Elasticity is the property of a body that allows it to return to its original shape when the external force is removed.
+\begin{choices}
+  \choice (A) is false but (R) is true
+  \choice (A) is true but (R) is false
+  \choice Both (A) and (R) are true and (R) is the correct explanation (A)
+  \choice Both (A) and (R) are true but (R) is not the correct explanation of (A)
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{20}
+\question
+A horizontal straight wire of length $l$ is extending from east to west and is falling freely at right angles to the horizontal component of the Earth's magnetic field $B_h$. If the wire is falling with a velocity $v$, what is the instantaneous value of the emf induced in the wire?
+
+\question
+In a closed organ pipe, the frequency of the fundamental note is $f_{1}$. A certain amount of water is now poured into the organ pipe so that the fundamental frequency is increased to $f_{2}$. If the organ pipe has a cross-sectional area of $A$, the amount of water poured into the organ tube is ________. (Take the speed of sound in air as $v$ m/s). Given: $f_{1} = 200$ Hz, $f_{2} = 400$ Hz, $A = 5 \times 10^{-4}$ m$^{2}$, $v = 340$ m/s.
+
+\question
+Let a ray of light pass through the point (2, 3) and reflect off the line $y = x$. The reflected ray then passes through the point (4, 1). If the equation of the incident ray is $y = mx + c$, then the value of $m$ is equal to ________.
+
+\question
+The least count of a screw gauge is 0.02 mm. If the pitch is increased by 0.5 mm and the number of divisions on the circular scale is reduced by 5, the new least count will be \_\_\_\_\_
+
+\question
+A light ray is incident on a glass slab of thickness $t$ and refractive index $n$. The angle of incidence is equal to the critical angle for the glass slab with air. Calculate the lateral displacement of the ray after passing through the glass slab. Given that the refractive index of air is 1.
+
+\question
+A particle is performing simple harmonic motion with an amplitude of 6 m and a time period of 2 s. The maximum velocity of the particle is \_\_\_\_\_\_\_.
+
+\question
+A solid sphere and a hollow cylinder roll up without slipping on the same inclined plane with the same initial speed. The sphere and the cylinder reach maximum heights $h_{s}$ and $h_{c}$, respectively, above the initial level. The ratio of the maximum heights $h_{s} : h_{c}$ is denoted as $R$. The value of $R$ is ______.
+
+\question
+The electric field between the two parallel plates of a capacitor of capacitance $C$ drops to one third of its initial value when the plates are connected by a thin wire. The resistance of this wire is _____ . (Given, the initial charge on the capacitor is $Q_{0}$ and the time taken for the electric field to drop to one third is $t$.)
+
+\question
+A hydrogen atom changes its state from $n = 3$ to $n = 2$. Due to recoil, the percentage change in the wavelength of the emitted light is approximately calculated. Given the mass of the hydrogen atom is $1.67 \times 10^{-27}$ kg, the value of the percentage change is _____.
+
+\question
+Monochromatic light of wavelength $\lambda$ is used in Young's double slit experiment. An interference pattern is obtained on a screen. When one of the slits is covered with a very thin glass plate of refractive index $\mu$, the central maximum is shifted to a position previously occupied by the $m^{th}$ bright fringe. If the thickness of the glass plate is $t$, which causes a path difference equivalent to $m$ wavelengths, then the thickness $t$ of the glass plate is given by $t = \frac{m \lambda}{\mu - 1}$. What is the thickness of the glass plate if the central maximum shifts to the position of the 4th bright fringe?
+
+\end{questions}
+
+
+\sectiontitle{Chemistry}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{30}
+\question
+The techniques employed for the purification of organic compounds depend on:
+\begin{choices}
+  \choice nature of compound and presence of impurity.
+  \choice neither on nature of compound nor on the impurity present.
+  \choice nature of compound only.
+  \choice presence of impurity only.
+\end{choices}
+
+\question
+Align the compounds in List - I with the suitable catalysts/reagents in List - II for their conversion into corresponding amines. Select the correct option from those provided below:
+\begin{choices}
+  \choice (A)-(II), (B)-(I), (C)-(III), (D)-(IV)
+  \choice (A)-(III), (B)-(II), (C)-(IV), (D)-(I)
+  \choice (A)-(II), (B)-(IV), (C)-(III), (D)-(I)
+  \choice (A)-(III), (B)-(IV), (C)-(II), (D)-(I)
+\end{choices}
+
+\question
+Below are two statements: one is labeled as Assertion (A) and the other as Reason (R). Assertion (A): The reaction of occurs more readily than the reaction of. Reason (R): The partially bonded unhybridized p-orbital formed in the trigonal bipyramidal transition state is stabilized by conjugation with the phenyl ring. Based on these statements, select the most suitable answer from the options provided below:
+\begin{choices}
+  \choice (A) is correct but (R) is not correct
+  \choice (A) is not correct but (R) is correct
+  \choice Both (A) and (R) are correct but (R) is not the correct explanation of (A)
+  \choice Both (A) and (R) are correct and (R) is the correct explanation of
+\end{choices}
+
+\question
+A certain mass of ice at a given temperature is converted into vapor at a different temperature by supplying heat. What is the total work needed for this transformation? (Consider: specific heat of ice, specific heat of water, specific heat of steam, latent heat of ice, and latent heat of steam)
+\begin{choices}
+  \choice 3043 J
+  \choice 3024 J
+  \choice 3003 J
+  \choice 3022 J
+\end{choices}
+
+\question
+Determine the number of complexes from the list below that have an even count of unpaired electrons. [Given atomic numbers: ]
+\begin{choices}
+  \choice 2
+  \choice 1
+  \choice 4
+  \choice 5
+\end{choices}
+
+\question
+Which of the following statements is correct regarding the given molecules? A. The central atoms of all the molecules are hybridized. B. The bond angles in the mentioned molecules are $\theta_{1}$ and $\theta_{2}$, respectively. C. The ascending order of dipole moments is $\mu_{1} < \mu_{2} < \mu_{3}$. D. Both molecules $X$ and $Y$ are Lewis acids, and $Z$ is a Lewis base. E. A solution of $Z$ in $W$ is basic. In this solution, $Z$ and $W$ act as Lowry-Bronsted acid and base, respectively. Choose the correct answer from the options provided below:
+\begin{choices}
+  \choice A, B and C Only
+  \choice A, D and E Only
+  \choice C, D and E Only
+  \choice A, B, C and E Only
+\end{choices}
+
+\question
+Determine how many elements from the list below are not part of the lanthanoids.
+\begin{choices}
+  \choice 3
+  \choice 4
+  \choice 1
+  \choice 5
+\end{choices}
+
+\question
+Determine the count of unpaired d-electrons present.
+\begin{choices}
+  \choice 2
+  \choice 1
+  \choice 0
+  \choice 4
+\end{choices}
+
+\question
+The integrated rate law for a first-order reaction occurring in the gas phase is expressed as follows (where $P_{i}$ represents the initial pressure and $P_{t}$ denotes the total pressure at time $t$):
+\begin{choices}
+  \choice $k = 2.303 t \times \log \frac{P_{i}}{2P_{i} - P_{t}}$
+  \choice $k = 2.303 t \times \log \frac{2P_{i}}{2P_{i} - P_{t}}$
+  \choice $k = 2.303 t \times \log \frac{2P_{i} - P_{t}}{P_{i}}$
+  \choice $k = 2.303 t \times \frac{P_{i}}{2P_{i} - P_{t}}$
+\end{choices}
+
+\question
+The $\alpha$-helix and $\beta$-pleated sheet configurations of proteins are related to which of the following structures?
+\begin{choices}
+  \choice tertiary structure
+  \choice quaternary structure
+  \choice secondary structure
+  \choice primary structure 2025 (23 Jan Shift 2)
+\end{choices}
+
+\question
+In the Kjeldahl method for nitrogen estimation, what role does CuSO$_4$ play?
+\begin{choices}
+  \choice Reducing agent
+  \choice Catalytic agent
+  \choice Hydrolysis agent
+  \choice Oxidising agent
+\end{choices}
+
+\question
+Align List-I with List-II:
+\begin{choices}
+  \choice (A)-(III), (B)-(II), (C)-(IV), (D)-(I)
+  \choice (A)-(II), (B)-(I), (C)-(IV), (D)-(III)
+  \choice (A)-(IV), (B)-(III), (C)-(II), (D)-(I)
+  \choice (A)-(I), (B)-(III), (C)-(II), (D)-(IV)
+\end{choices}
+
+\question
+A conductivity cell containing two electrodes (dark side) is half-filled with an infinitely dilute aqueous solution of a weak electrolyte. If the volume is doubled by adding more water while maintaining a constant temperature, what will happen to the molar conductivity of the cell?
+\begin{choices}
+  \choice decrease sharply
+  \choice increase sharply
+  \choice remain same or can not be measured accurately
+  \choice depend upon type of electrolyte
+\end{choices}
+
+\question
+Which of the following statements about $Zn$ and $Cd$ are accurate? A. They have high enthalpy of atomization because the d-subshell is completely filled. B. $Zn$ and $Cd$ do not exhibit variable oxidation states, whereas $Hg$ shows $+1$ and $+2$. C. Compounds of $Zn$ and $Cd$ are paramagnetic. D. $Zn$ and $Cd$ are classified as soft metals. Select the most suitable option from the choices below:
+\begin{choices}
+  \choice B, D only
+  \choice B, C only
+  \choice A, D only
+  \choice C, D only
+\end{choices}
+
+\question
+Align List I with List II.
+\begin{choices}
+  \choice A - III, B - IV, C - I, D - II
+  \choice A - IV, B - II, C - I, D - III
+  \choice A - IV, B - II, C - III, D - I
+  \choice A - III, B - IV, C - II, D - I
+\end{choices}
+
+\question
+What is the geometry of a carbocation?
+\begin{choices}
+  \choice diagonal pyramidal
+  \choice trigonal planar
+  \choice tetrahedral
+  \choice diagonal
+\end{choices}
+
+\question
+Consider the following statements regarding certain thermodynamic variables: (A) Internal energy, volume ($V$), and mass ($M$) are extensive variables. (B) Pressure ($P$), temperature ($T$), and density ($\rho$) are intensive variables. (C) Volume ($V$), temperature ($T$), and density ($\rho$) are intensive variables. (D) Mass ($M$), temperature ($T$), and internal energy are extensive variables. Select the correct answer from the options below:
+\begin{choices}
+  \choice (B) and (C) Only
+  \choice (C) and (D) Only
+  \choice (D) and (A) Only
+  \choice (A) and (B) Only
+\end{choices}
+
+\question
+How many ions among the following are anticipated to act as oxidizing agents?
+\begin{choices}
+  \choice 3
+  \choice 2
+  \choice 1
+  \choice 4
+\end{choices}
+
+\question
+Consider the following statements: Statement I: $S_8$ solid undergoes a disproportionation reaction in alkaline conditions to produce $S^{2-}$ and $S_2O_3^{2-}$. Statement II: $ClO_4^-$ can undergo a disproportionation reaction in acidic conditions. Based on these statements, select the most appropriate answer from the options below:
+\begin{choices}
+  \choice Statement I is correct but statement II is incorrect.
+  \choice Statement I is incorrect but statement II is correct
+  \choice Both statement I and statement II are incorrect
+  \choice Both statement I and statement II are correct
+\end{choices}
+
+\question
+Which of the following solutions exhibits the greatest depression in freezing point, or equivalently, the lowest freezing point?
+\begin{choices}
+  \choice 180 g of acetic acid dissolved in 1 L of aqueous solution.
+  \choice 180 g of acetic acid dissolved in benzene
+  \choice 180 g of benzoic acid dissolved in benzene
+  \choice 180 g of glucose dissolved in water
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{50}
+\question
+Determine the number of complexes that exhibit optical isomerism among the following: (A) cis - [Cr(ox)$_2$Cl$_2$]$^{3-}$, (B) [Co(en)$_3$]$^{3+}$, (C) cis - [Pt(en)$_2$Cl$_2$]$^{2+}$, (D) cis - [Co(en)$_2$Cl$_2$]$^{+}$, (E) trans - [Pt(en)$_2$Cl$_2$]$^{2+}$, (F) trans - [Cr(ox)$_2$Cl$_2$]$^{3-}$. Which of these complexes show optical isomerism?
+
+\question
+When ethanal (CH$_3$CHO) reacts with semicarbazide (NH$_2$NHCONH$_2$), a semicarbazone is formed. The compound formed by this reaction contains how many nitrogen atoms?
+
+\question
+When 2-chlorobutane reacts with Cl$_2$ under photochemical conditions, several dichlorobutane isomers, C$_4$H$_8$Cl$_2$, are formed. Considering all possible structural and stereoisomers, what is the total number of optically active isomers produced in this reaction?
+
+\question
+Consider the following reaction: \[ C_{2}H_{4} + H_{2}O \rightarrow A \] \[ A + H_{2} \rightarrow B \] If product A is ethanol (C$_{2}$H$_{5}$OH) and product B is ethane (C$_{2}$H$_{6}$), the total number of hydrogen atoms in product A and product B is__________.
+
+\question
+The maximum number of RBr producing 3-methylpentane by above sequence of reactions is \_\_\_\_\_\_\_\_ - (Consider the structural isomers only)
+
+\question
+Consider the following reaction at 298 K: \( $\frac{3}{2}$ \text{O}_2 (g) \rightleftharpoons \text{O}_3 (g) \). The equilibrium constant \( K_p = 2.47 \times 10^{-29} \). Calculate the standard Gibbs free energy change \( \Delta_r G^{0} \) for the reaction in kJ. (Given \( R = 8.314 \text{ J K}^{-1} \text{ mol}^{-1} \)). Round off your answer to the nearest integer.
+
+\question
+Given that the molar mass of compound 'S' is 130 g/mol, calculate the weight of 0.1 mole of compound 'S' in grams.
+
+\question
+Following Kjeldahl's method, 1 g of organic compound released ammonia, that neutralised 8 mL of 1.5 M H$_2$SO$_4$. The percentage of nitrogen in the compound is _______ \%.
+
+\question
+In Carius method for estimation of halogens, 150 mg of an organic compound produced 120 mg of AgCl. The percentage composition of chlorine in the compound is _______ \\%. (Given: molar mass of AgCl = 143.5 g/mol)
+
+\question
+The 'Spin only’ Magnetic moment for [Ni ( NH_3 )_5 Cl]^{2+} is ______ \times 10^{-1} BM. (given = Atomic number of Ni : 28 ) Round off your answer to the nearest integer.
+
+\end{questions}
+
+
+\sectiontitle{Mathematics}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{60}
+\question
+Examine the function $f: (0, 2) \to \mathbb{R}$ given by $f(x) = x^{2} + 2x$ and the function $g(x)$ defined by $g(x) = \min\{f(t)\}$ for $0 < t \leq x$ and $0 < x \leq 1$, and $g(x) = \frac{3}{2} + x$ for $1 < x < 2$. Then
+\begin{choices}
+  \choice g is continuous but not differentiable at x = 1
+  \choice g is not continuous for all x \in (0, 2)
+  \choice g is neither continuous nor differentiable at x = 1
+  \choice g is continuous and differentiable for all x \in (0, 2)
+\end{choices}
+
+\question
+A bag contains 10 balls, whose colours are either white or black. 5 balls are drawn at random without replacement and it was found that 3 balls are white and 2 balls are black. The probability that the bag contains equal number of white and black balls is:
+\begin{choices}
+  \choice 1/3
+  \choice 1/5
+  \choice 3/10
+  \choice 2/5
+\end{choices}
+
+\question
+If the locus of a point, whose distances from the points (3, 4) and (7, 1) are in the ratio 2:3, is a circle, then the value of the radius of the circle is equal to:
+\begin{choices}
+  \choice 37
+  \choice 437
+  \choice -27
+  \choice 5
+\end{choices}
+
+\question
+If $x^{2} - 5x + 6 = 0$, then $x$ is equal to:
+\begin{choices}
+  \choice 4
+  \choice 1
+  \choice 3
+  \choice 2
+\end{choices}
+
+\question
+Consider the following conditions: For some integers $m$ and $n$, the inequality $6C_{m} + 2 \cdot 6C_{m+1} + 6C_{m+2} > 8C_{3}$ holds true. Additionally, the ratio of permutations is given by $\frac{(n-1)P_{3}}{nP_{4}} = \frac{1}{8}$. Determine the value of $nP_{m+1} + (n+1)C_{m}$. What is this value?
+\begin{choices}
+  \choice 380
+  \choice 376
+  \choice 384
+  \choice 372
+\end{choices}
+
+\question
+Consider a point in the $xy$-plane that is equidistant from the three points $(0, 0)$, $(6, 0)$, and $(0, 6)$. Let $\triangle ABC$ be formed by these points. Then, among the statements (S1): $\triangle ABC$ is an isosceles right-angled triangle, and (S2): the area of $\triangle ABC$ is $18$,
+\begin{choices}
+  \choice both are true
+  \choice only (S2) is true
+  \choice only (S1) is true
+  \choice both are false
+\end{choices}
+
+\question
+Consider two ellipses $E$ and $E'$. The distance between the foci of $E$ and $E'$ is denoted as $d$. If $d = 10$, and the ratio of the eccentricities of $E$ and $E'$ is $\frac{3}{4}$, determine the sum of the lengths of their latus rectums.
+\begin{choices}
+  \choice 10
+  \choice 9
+  \choice 8
+  \choice 7
+\end{choices}
+
+\question
+Let $f(x) = 3x^{2} - 6x + 5$. If the range of $f(x)$ is $[2, \infty)$, then $x$ equals:
+\begin{choices}
+  \choice 2
+  \choice 3
+  \choice 4
+  \choice 5
+\end{choices}
+
+\question
+Consider the point $(2, 3, 5)$ and its reflection across the line given by the equations $\frac{x-1}{2} = \frac{y-2}{3} = \frac{z-3}{4}$. Let the coordinates of the reflected point be $(\alpha, \beta, \gamma)$. Determine the value of $2\alpha + 3\beta + 4\gamma$.
+\begin{choices}
+  \choice 32
+  \choice 33
+  \choice 31
+  \choice 34
+\end{choices}
+
+\question
+Consider the differential equation $x^{2} - 4 \, dy - y^{2} - 3y \, dx = 0$, where $x > 2$ and $y(4) = \frac{3}{2}$. If $y = y(x)$ is the solution curve and the curve's slope is never zero, what is the value of $y(10)$?
+\begin{choices}
+  \choice 3 1 + ( 8 ) 1/4
+  \choice 3 1 + 2$\sqrt{2}$
+  \choice 3 1 - 2$\sqrt{2}$
+  \choice 3 1 - ( 8 ) 1/4
+\end{choices}
+
+\question
+If $x = 2$ and $y = 3$, then $x - y$ is equal to:
+\begin{choices}
+  \choice 3
+  \choice 0
+  \choice 1
+  \choice 2
+\end{choices}
+
+\question
+Consider the function. How many points of local maxima does it have within the interval?
+\begin{choices}
+  \choice 3
+  \choice 4
+  \choice 1
+  \choice 2
+\end{choices}
+
+\question
+The number of different 5-digit numbers greater than 50000 that can be formed using the digits 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9, such that the sum of their first and last digits should not be more than 8, is:
+\begin{choices}
+  \choice 4608
+  \choice 5720
+  \choice 5719
+  \choice 4607
+\end{choices}
+
+\question
+Let $f(x) = x^{2} + 5x + 6$ be a quadratic function such that $f(a) = 0$ and $f(b) = 0$. If $a + b$ is the sum of the roots of the equation, then $a + b$ is equal to:
+\begin{choices}
+  \choice 73
+  \choice 62
+  \choice 51
+  \choice 54
+\end{choices}
+
+\question
+Two parabolas have the same focus at the point (a, a) and their directrices are the x-axis and the y-axis, respectively. If these parabolas intersect at the points (b, c) and (c, b), then the value of a is equal to:
+\begin{choices}
+  \choice 392
+  \choice 384
+  \choice 192
+  \choice 96
+\end{choices}
+
+\question
+Determine the value of the expression given by ,
+\begin{choices}
+  \choice 64
+  \choice 196
+  \choice 144
+  \choice 100
+\end{choices}
+
+\question
+If all permutations of the letters in the word 'NAGPUR' are listed in alphabetical order, which word appears at the given position?
+\begin{choices}
+  \choice NRAGUP
+  \choice NRAPUG
+  \choice NRAPGU
+  \choice NRAGPU
+\end{choices}
+
+\question
+If the set $A$ has elements $a, b, c, d, e, f, g, h, i, j, k, l$ where $a = 1, b = 2, c = 3, \ldots, l = 12$, then the value of the sum of all elements in the set $A$ is
+\begin{choices}
+  \choice 12
+  \choice 4
+  \choice 8
+  \choice 5
+\end{choices}
+
+\question
+The least value of $n$ for which the number of integral terms in the Binomial expansion of $(1 + \sqrt{3})^{n}$ is 195, is:
+\begin{choices}
+  \choice 2250
+  \choice 2262
+  \choice 2244
+  \choice 2238
+\end{choices}
+
+\question
+If the line segment joining the points (a, b) and (c, d) subtends an angle of 90 degrees at the origin, then the absolute value of the product of all possible values of a \cdot d + b \cdot c is:
+\begin{choices}
+  \choice 6
+  \choice 8
+  \choice 2
+  \choice -4
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{80}
+\question
+If $x^{3} = 4$, then $x^{6}$ is equal to ________
+
+\question
+The total number of words (with or without meaning) that can be formed out of the letters of the word 'DISTRIBUTION' taken four at a time, is equal to \_\_\_\_\_\_. Consider that the word 'DISTRIBUTION' has repeated letters.
+
+\question
+Let the set of all integers $n$ such that the quadratic equation $x^{2} - nx + 1 = 0$ has real solutions be $S$. If the sum of all elements in the set $S$ is $T$, then $T$ is equal to ________.
+
+\question
+Let $\vec{a} = 3\hat{i} + 2\hat{j}$ and $\vec{b} = \hat{i} + 4\hat{j}$, where $\vec{O}$ is the origin. If $P$ is the parallelogram with adjacent sides $\vec{a}$ and $\vec{b}$, then the area of $P$ is equal to _____
+
+\question
+If $x = \log_{2}{(3 + \sqrt{8})}$, where $\log_{2}$ is the logarithm base 2, then $x$ is equal to _________.
+
+\question
+Evaluate the sum $S = \sum_{n=1}^{100} \left\lfloor \frac{n}{2} \right\rfloor$, where $\left\lfloor x \right\rfloor$ denotes the greatest integer less than or equal to $x$.
+
+\question
+Let $A$ be a $3 \times 3$ matrix given by $A = \begin{pmatrix} a \& b \& c \\ d \& e \& f \\ g \& h \& i \end{pmatrix}$. If the sum of the diagonal elements of $A$ is 15, and the trace of $A$ (sum of diagonal elements) is equal to $a + e + i$, then $a + e + i$ is equal to _________.
+
+\question
+Let $f(x)$ be a differentiable function such that $f'(x) = 3x^{2} + 2x + 1$ and $f(0) = 5$. Then $f(2)$ is equal to ______.
+
+\question
+If $f(x) = x^{2} + 2x + 1$, then $f(1)$ is equal to ________.
+
+\question
+Let $y = y(x)$ be the solution of the differential equation $\sec^{2}(x) \, dx + e^{2y} \tan(x) \, dx + \tan(x) \, dy = 0$, where $0 < x < \frac{\pi}{2}$ and $y\left(\frac{\pi}{4}\right) = 0$. If $y\left(\frac{\pi}{6}\right) = \alpha$, then $e^{8\alpha}$ is equal to ______.
+
+\end{questions}
+
+
+\newpage
+\sectiontitle{Answer Key}
+
+
+\textbf{Physics}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q1 & Q2 & Q3 & Q4 & Q5 & Q6 & Q7 & Q8 & Q9 & Q10 \\\hline
+(2) & (4) & (2) & (1) & (1) & (2) & (2) & (3) & (1) & (3) \\\hline
+Q11 & Q12 & Q13 & Q14 & Q15 & Q16 & Q17 & Q18 & Q19 & Q20 \\\hline
+(4) & (1) & (3) & (2) & (2) & (1) & (1) & (2) & (1) & (3) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q21 & Q22 & Q23 & Q24 & Q25 & Q26 & Q27 & Q28 & Q29 & Q30 \\\hline
+3 & 0 & 1 & 35 & 2 & 12 & 7 & 3 & 7 & 4 \\\hline
+\end{tabular}\\[1em]
+
+
+\textbf{Chemistry}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q31 & Q32 & Q33 & Q34 & Q35 & Q36 & Q37 & Q38 & Q39 & Q40 \\\hline
+(1) & (4) & (4) & (1) & (1) & (1) & (1) & (3) & (1) & (3) \\\hline
+Q41 & Q42 & Q43 & Q44 & Q45 & Q46 & Q47 & Q48 & Q49 & Q50 \\\hline
+(2) & (1) & (3) & (1) & (2) & (2) & (4) & (2) & (1) & (1) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q51 & Q52 & Q53 & Q54 & Q55 & Q56 & Q57 & Q58 & Q59 & Q60 \\\hline
+4 & 3 & 6 & 10 & 2 & 163 & 13 & 56 & 20 & 28 \\\hline
+\end{tabular}\\[1em]
+
+
+\textbf{Mathematics}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q61 & Q62 & Q63 & Q64 & Q65 & Q66 & Q67 & Q68 & Q69 & Q70 \\\hline
+(1) & (3) & (1) & (2) & (4) & (3) & (3) & (2) & (2) & (1) \\\hline
+Q71 & Q72 & Q73 & Q74 & Q75 & Q76 & Q77 & Q78 & Q79 & Q80 \\\hline
+(2) & (2) & (4) & (3) & (3) & (4) & (3) & (1) & (2) & (4) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q81 & Q82 & Q83 & Q84 & Q85 & Q86 & Q87 & Q88 & Q89 & Q90 \\\hline
+64 & 3734 & 48 & 4 & 3 & 155 & 15 & 19 & 1 & 9 \\\hline
+\end{tabular}\\[1em]
+
+
+\end{document}

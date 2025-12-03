@@ -1,0 +1,855 @@
+\documentclass[12pt,a4paper]{exam}
+
+% Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{enumitem}
+\usepackage{multicol}
+\usepackage{newunicodechar}
+
+% Unicode math character mappings
+\newunicodechar{𝜀}{$\varepsilon$}
+\newunicodechar{𝑃}{$P$}
+\newunicodechar{𝑉}{$V$}
+\newunicodechar{𝐾}{$K$}
+\newunicodechar{𝐴}{$A$}
+\newunicodechar{𝐵}{$B$}
+\newunicodechar{𝐶}{$C$}
+\newunicodechar{𝐷}{$D$}
+\newunicodechar{𝐸}{$E$}
+\newunicodechar{𝑇}{$T$}
+\newunicodechar{𝑅}{$R$}
+\newunicodechar{𝐼}{$I$}
+\newunicodechar{𝑁}{$N$}
+\newunicodechar{𝑀}{$M$}
+\newunicodechar{𝐿}{$L$}
+\newunicodechar{𝑎}{$a$}
+\newunicodechar{𝑏}{$b$}
+\newunicodechar{𝑐}{$c$}
+\newunicodechar{𝑑}{$d$}
+\newunicodechar{𝑒}{$e$}
+\newunicodechar{𝑓}{$f$}
+\newunicodechar{𝑔}{$g$}
+\newunicodechar{𝑛}{$n$}
+\newunicodechar{𝑚}{$m$}
+\newunicodechar{𝑟}{$r$}
+\newunicodechar{𝑠}{$s$}
+\newunicodechar{𝑡}{$t$}
+\newunicodechar{𝑥}{$x$}
+\newunicodechar{𝑦}{$y$}
+\newunicodechar{𝑧}{$z$}
+\newunicodechar{α}{$\alpha$}
+\newunicodechar{β}{$\beta$}
+\newunicodechar{γ}{$\gamma$}
+\newunicodechar{δ}{$\delta$}
+\newunicodechar{ε}{$\varepsilon$}
+\newunicodechar{θ}{$\theta$}
+\newunicodechar{λ}{$\lambda$}
+\newunicodechar{μ}{$\mu$}
+\newunicodechar{π}{$\pi$}
+\newunicodechar{ρ}{$\rho$}
+\newunicodechar{σ}{$\sigma$}
+\newunicodechar{τ}{$\tau$}
+\newunicodechar{φ}{$\varphi$}
+\newunicodechar{ω}{$\omega$}
+\newunicodechar{Ω}{$\Omega$}
+\newunicodechar{°}{$^\circ$}
+\newunicodechar{±}{$\pm$}
+\newunicodechar{×}{$\times$}
+\newunicodechar{÷}{$\div$}
+\newunicodechar{√}{$\sqrt{}$}
+\newunicodechar{∞}{$\infty$}
+\newunicodechar{≠}{$\neq$}
+\newunicodechar{≤}{$\leq$}
+\newunicodechar{≥}{$\geq$}
+\newunicodechar{→}{$\rightarrow$}
+\newunicodechar{←}{$\leftarrow$}
+\newunicodechar{↔}{$\leftrightarrow$}
+
+% Page geometry
+\geometry{
+    top=1.5cm,
+    bottom=2cm,
+    left=2cm,
+    right=2cm,
+    headheight=1.5cm
+}
+
+% Colors
+\definecolor{headerblue}{RGB}{0, 51, 102}
+\definecolor{sectiongreen}{RGB}{0, 102, 51}
+
+% Header/Footer using exam class commands
+\pagestyle{headandfoot}
+\firstpageheader{}{}{}
+\runningheader{\textsc{JEE Main Practice Paper}}{}{\textsc{Page \thepage}}
+\runningfooter{}{Generated: December 01, 2025}{}
+
+% Custom commands
+\newcommand{\sectiontitle}[1]{%
+    \vspace{1em}
+    \noindent\colorbox{headerblue}{\parbox{\dimexpr\textwidth-2\fboxsep}{%
+        \centering\color{white}\Large\bfseries #1
+    }}
+    \vspace{0.5em}
+}
+
+% Question format
+\renewcommand{\questionlabel}{\textbf{Q\thequestion.}}
+\renewcommand{\choicelabel}{(\thechoice)}
+
+% Hide answers in questions (they go in answer key)
+\noprintanswers
+
+\begin{document}
+
+% Title Page
+\begin{center}
+    {\Huge\bfseries\color{headerblue} JEE Main Practice Paper}\\[0.5em]
+    {\large Based on JEE Main Pattern}\\[1em]
+    {\normalsize Generated: December 01, 2025 | Difficulty: Medium}\\[0.5em]
+    \rule{\textwidth}{1pt}
+\end{center}
+
+\vspace{0.5em}
+\noindent\textbf{Instructions:}
+\begin{itemize}[nosep,leftmargin=*]
+    \item This paper contains 90 questions (30 per subject).
+    \item Each subject has 20 MCQs and 10 Integer Type questions.
+    \item MCQ: +4 for correct, -1 for incorrect.
+    \item Integer: +4 for correct, 0 for incorrect.
+    \item Time: 3 hours | Maximum Marks: 360
+\end{itemize}
+\rule{\textwidth}{0.5pt}
+
+
+\sectiontitle{Physics}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{0}
+\question
+Correct Bernoulli's equation is (symbols have their usual meaning) :
+\begin{choices}
+  \choice constant
+  \choice constant
+  \choice constant
+  \choice constant
+\end{choices}
+
+\question
+A microwave of wavelength 2.0 cm falls normally on a slit of width 4.0 cm . The angular spread of the central maxima of the diffraction pattern obtained on a screen 1.5 m away from the slit, will be:
+\begin{choices}
+  \choice 30 º
+  \choice 15 º
+  \choice 60 º
+  \choice 45 º
+\end{choices}
+
+\question
+In a plane EM wave, the electric field oscillates sinusoidally at a frequency of 5 x $10^{10}$ Hz and an amplitude of 50 V m - 1 . The total average energy density of the electromagnetic field of the wave is : [Use $\varepsilon$ 0 = 8.85 $\times$ 10 - 12 C 2 N^-1 m^-2 ]
+\begin{choices}
+  \choice 1.106 $\times$ 10 - 8 J m - 3
+  \choice 4.425 $\times$ 10 - 8 J m - 3
+  \choice 2.212 $\times$ 10 - 8 J m - 3
+  \choice 2.212 $\times$ 10 - 10 J m - 3
+\end{choices}
+
+\question
+A thin plano convex lens made of glass of refractive index 1.5 is immersed in a liquid of refractive index 1.2. When the plane side of the lens is silver coated for complete reflection, the lens immersed in the liquid 2025 (24 Jan Shift 1)
+\begin{choices}
+  \choice 0.20 m
+  \choice 0.25 m
+  \choice 0.15 m
+  \choice 0.10 m
+\end{choices}
+
+\question
+A ball suspended by a thread swings in a vertical plane so that its magnitude of acceleration in the extreme position and lowest position are equal. The angle ( $\theta$ ) of thread deflection in the extreme position will be :
+\begin{choices}
+  \choice tan(-1) ( $\sqrt{}$2 )
+  \choice 2tan -11/2
+  \choice tan(-11)/2
+  \choice 2tan -1 1 $\sqrt{}$ 5
+\end{choices}
+
+\question
+In a photoelectric effect experiment a light of frequency 1.5 times the threshold frequency is made to fall on the surface of photosensitive material. Now if the frequency is halved and intensity is doubled, the number of photo electrons emitted will be:
+\begin{choices}
+  \choice Doubled
+  \choice Quadrupled
+  \choice Zero
+  \choice Halved
+\end{choices}
+
+\question
+In a nuclear fission reaction of an isotope of mass M , three similar daughter nuclei of same mass are formed. The speed of a daughter nuclei in terms of mass defect $\Delta$M will be :
+\begin{choices}
+  \choice $\sqrt{}$ 2$c$$\Delta$M M
+  \choice $\Delta$M$c$ 2/3
+  \choice $c$$\sqrt{}$ 2$\Delta$M M
+  \choice $c$$\sqrt{}$ 3$\Delta$M M
+\end{choices}
+
+\question
+A light string passing over a smooth light fixed pulley connects two blocks of masses $m$ 1 and $m$ 2 . If the acceleration of the system is g 8 , then the ratio of masses is
+\begin{choices}
+  \choice 9/7
+  \choice 8/1
+  \choice 4/3
+  \choice 5/3
+\end{choices}
+
+\question
+An artillery piece of mass M 1 fires a shell of mass M 2 horizontally. Instantaneously after the firing, the ratio of kinetic energy of the artillery and that of the shell is :
+\begin{choices}
+  \choice M 1 ( M 1 + M 2 )
+  \choice M 2 M 1
+  \choice M 2 ( M 1 + M 2 )
+  \choice M 1 M 2
+\end{choices}
+
+\question
+The fundamental frequency of a closed organ pipe is equal to the first overtone frequency of an open organ pipe. If length of the open pipe is 60 cm , the length of the closed pipe will be :
+\begin{choices}
+  \choice 60 cm
+  \choice 45 cm
+  \choice 30 cm
+  \choice 15 cm
+\end{choices}
+
+\question
+An electron in the ground state of the hydrogen atom has the orbital radius of while that for the electron in third excited state is . The ratio of the de Broglie wavelengths of electron in the excited state to that in the ground state is
+\begin{choices}
+  \choice 3
+  \choice 16
+  \choice 9
+  \choice 4
+\end{choices}
+
+\question
+Three infinitely long wires with linear charge density are placed along the -axis and axis respectively. Which of the following denotes an equipotential surface?
+\begin{choices}
+  \choice constant
+  \choice constant
+  \choice constant
+  \choice constant
+\end{choices}
+
+\question
+The number of spectral lines emitted by atomic hydrogen that is in the energy level, is
+\begin{choices}
+  \choice 3
+  \choice 1
+  \choice 6
+  \choice 0
+\end{choices}
+
+\question
+If two vectors $\rightarrow$ $A$ and $\rightarrow$ $B$ having equal magnitude R are inclined at an angle $\theta$ , then
+\begin{choices}
+  \choice $\rightarrow$ $A$- $\rightarrow$ $B$= $\sqrt{}$2Rsin $\theta$ 2
+  \choice $\rightarrow$ $A$+ $\rightarrow$ $B$= 2Rsin $\theta$ 2
+  \choice $\rightarrow$ $A$+ $\rightarrow$ $B$= 2Rcos $\theta$ 2
+  \choice $\rightarrow$ $A$- $\rightarrow$ $B$= 2Rcos $\theta$ 2
+\end{choices}
+
+\question
+Given below are two statements : Statement I : In a vernier callipers, one vernier scale division is always smaller than one main scale division. Statement II : The vernier constant is given by one main scale division multiplied by the number of vernier scale divisions. In the light of the above statements, choose the correct answer from the options given below.
+\begin{choices}
+  \choice Statement I is true but Statement II is false
+  \choice Statement I is false but Statement II is true
+  \choice Both Statement I and Statement II are false
+  \choice Both Statement I and Statement II are true 2025 (22 Jan Shift 1)
+\end{choices}
+
+\question
+Four identical particles of mass $m$ are kept at the four corners of a square. If the gravitational force exerted on one of the masses by the other masses is 2$\sqrt{}$2 + 1 32 $G$$m$ 2 L 2 , the length of the sides of the square is
+\begin{choices}
+  \choice L 2
+  \choice 4 L
+  \choice 3 L
+  \choice 2 L
+\end{choices}
+
+\question
+With rise in temperature, the Young's modulus of elasticity
+\begin{choices}
+  \choice changes erratically
+  \choice decreases
+  \choice increases
+  \choice remains unchanged
+\end{choices}
+
+\question
+Given below are two statements: Statement I: Electromagnetic waves carry energy as they travel through space and this energy is equally shared by the electric and magnetic fields. Statement II: When electromagnetic waves strike a surface, a pressure is exerted on the surface. In the light of the above statements, choose the most appropriate answer from the options given below:
+\begin{choices}
+  \choice Statement I is incorrect but Statement II is correct
+  \choice Both Statement I and Statement II are correct
+  \choice Both Statement I and Statement II are incorrect
+  \choice Statement I is correct but Statement II is incorrect
+\end{choices}
+
+\question
+The work functions of cesium (Cs) and lithium (Li) metals are 1.9 eV and 2.5 eV , respectively. If we incident a light of wavelength 550 nm on these two metal surfaces, then photo-electric effect is possible for the case of
+\begin{choices}
+  \choice Both Cs and Li
+  \choice Neither Cs nor Li
+  \choice Cs only
+  \choice Li only
+\end{choices}
+
+\question
+A big drop is formed by coalescing 1000 small droplets of water. The surface energy will become :
+\begin{choices}
+  \choice 100 times
+  \choice 10 times
+  \choice 1 100 th
+  \choice 1 10 th
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{20}
+\question
+A big drop is formed by coalescing 1000 small identical drops of water. If $E$ 1 be the total surface energy of 1000 small drops of water and $E$ 2 be the surface energy of single big drop of water, the $E$ 1 : $E$ 2 is $x$: 1 , where $x$= ________.
+
+\question
+A force displaces a body from to . Work done by this force is \_\_\_\_\_\_\_\_ .
+
+\question
+Water boils in an electric kettle in 20 minutes after being switched on. Using the same main supply, the length of the heating element should be \_\_\_\_\_ to \_\_\_\_\_ times of its initial length if the water is to be boiled in 15 minutes.
+
+\question
+Mercury is filled in a tube of radius up to a height of . The force exerted by mercury on the bottom of the tube is \_\_\_\_\_ N. (Given, atmospheric pressure , density of mercury
+
+\question
+A tiny metallic rectangular sheet has length and breadth of 5 mm and 2.5 mm , respectively. Using a specially designed screw gauge which has pitch of 0.75 mm and 15 divisions in the circular scale, you are asked to find the area of the sheet. In this measurement, the maximum fractional error will be where is \_\_\_\_\_\_\_\_\_.
+
+\question
+The disintegration energy for the nuclear fission of is \_\_\_\_\_\_ . Given atomic masses of , Value of
+
+\question
+A particle initially at rest starts moving from reference point $x$= 0 along $x$ -axis, with velocity $v$ that varies as $v$= 4$\sqrt{}$$x$ m s^-1 . The acceleration of the particle is _____ m s^-2 .
+
+\question
+The driver sitting inside a parked car is watching vehicles approaching from behind with the help of his side view mirror, which is a convex mirror with radius of curvature . Another car approaches him from behind with a uniform speed of . When the car is at a distance of 24 m from him, the magnitude of the acceleration of the image of the car in the side view mirror is ' a '. The value of 100 a is \_\_\_\_\_\_\_ .
+
+\question
+Two planets, and are orbiting a common star in circular orbits of radii and , respectively, with . The planet is times more massive than planet . The ratio of angular momentum of planet to that of planet is closest to integer \_\_\_\_\_\_\_\_.
+
+\question
+A alternating current at any instant is given by A. The value of the current is \_\_\_\_\_\_\_\_ A.
+
+\end{questions}
+
+
+\sectiontitle{Chemistry}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{30}
+\question
+Match List - I with List - II. Choose the correct answer from the options given below :
+\begin{choices}
+  \choice (A)-(I), (B)-(III), (C)-(II), (D)-(IV)
+  \choice (A)-(IV), (B)-(II), (C)-(III), (D)-(I)
+  \choice (A)-(II), (B)-(IV), (C)-(I), (D)-(III)
+  \choice (A)-(II), (B)-(I), (C)-(IV), (D)-(III)
+\end{choices}
+
+\question
+The compound that is white in color is
+\begin{choices}
+  \choice ammonium sulphide
+  \choice lead sulphate
+  \choice lead iodide
+  \choice ammonium arsinomolybdate
+\end{choices}
+
+\question
+The quantity which changes with temperature is:
+\begin{choices}
+  \choice Molarity
+  \choice Mass percentage
+  \choice Molality
+  \choice Mole fraction
+\end{choices}
+
+\question
+Given below are two statements: Statement I: In the oxalic acid vs (in the presence of dil ) titration the solution needs to be heated initially to , but no heating is required in Ferrous ammonium sulphate (FAS) vs titration (in the presence of dil ) Statement II: In oxalic acid vs titration, the initial formation of takes place at high temperature, which then acts as catalyst for further reaction. In the case of FAS vs , heating oxidizes into by oxygen of air and error may be introduced in the experiment. In the light of the above statements, choose the correct answer from the options given below
+\begin{choices}
+  \choice Both Statement I and Statement II are false
+  \choice Both Statement I and Statement II are true
+  \choice Statement I is false but Statement II is true
+  \choice Statement I is true but Statement II is false 2025 (28 Jan Shift 1)
+\end{choices}
+
+\question
+The atomic mass of 6 C 12 is 12.000000 u and that of 6 C 13 is 13.003354 u . The required energy to remove a neutron from 6 C 13 , if mass of neutron is 1.008665 u , will be:
+\begin{choices}
+  \choice 62.5MeV
+  \choice 6.25MeV
+  \choice 4.95MeV
+  \choice 49.5MeV
+\end{choices}
+
+\question
+Given below are two statements : Statement I : Piciric acid is 2,4,6 - trinitrotoluene. Statement II : Phenol - 2,4 - disulphonic acid is treated with Conc. to get picric acid. In the light of the above statements, choose the most appropriate answer from the options given below :
+\begin{choices}
+  \choice Statement I is incorrect but Statement II is correct
+  \choice Both Statement I and Statement II are incorrect
+  \choice Statement I is correct but Statement II is incorrect
+  \choice Both Statement I and Statement II are correct
+\end{choices}
+
+\question
+How can an electrochemical cell be converted into an electrolytic cell?
+\begin{choices}
+  \choice Applying an external opposite potential lower than cell.
+  \choice Reversing the flow of ions in salt bridge.
+  \choice Applying an external opposite potential greater than cell-
+  \choice Exchanging the electrodes at anode and cathode.
+\end{choices}
+
+\question
+The equation of state of a real gas is given by $P$+ $a$ $V$ 2 ($V$- $b$) = RT , where $P$, $V$ and T are pressure, volume and temperature respectively and R is the universal gas constant. The dimensions of a b 2 is similar to that of :
+\begin{choices}
+  \choice $P$$V$
+  \choice $P$
+  \choice RT
+  \choice R
+\end{choices}
+
+\question
+Phenolic group can be identified by a positive:
+\begin{choices}
+  \choice Phthalein dye test
+  \choice Lucas test
+  \choice Tollen’s test
+  \choice Carbylamine test
+\end{choices}
+
+\question
+$A$ g ⇌$B$ g + $C$ 2 g . The correct relationship between $K$ $P$ , $\alpha$ and equilibrium pressure $P$ is
+\begin{choices}
+  \choice K P = $\alpha$ 1 2 P 1 2 2 + $\alpha$ 1/2
+  \choice K P = $\alpha$ 3 2 P 1 2 2 + $\alpha$ 1 2 1 -$\alpha$
+  \choice K P = $\alpha$ 1 2 P 3 2 2 + $\alpha$ 3/2
+  \choice K P = $\alpha$ 1 2 P 1 2 2 + $\alpha$ 3/2
+\end{choices}
+
+\question
+Number of complexes from the following with even number of unpaired " " electrons is [Given atomic numbers : ]
+\begin{choices}
+  \choice 2
+  \choice 1
+  \choice 4
+  \choice 5
+\end{choices}
+
+\question
+Given below are two statements : Statement I: Group 13 trivalent halides get easily hydrolysed by water due to their covalent nature. Statement II: AlCl 3 upon hydrolysis in acidified aqueous solution forms octahedral AlH 2 O 6 3 + ion. In the light of the above statements, choose the correct answer from the options given below :
+\begin{choices}
+  \choice Statement I is true but statement II is false
+  \choice Statement I is false but statement II is true
+  \choice Both statement I and statement II are false
+  \choice Both statement I and statement II are true
+\end{choices}
+
+\question
+Given below are two statements : Statement (I) : The boiling points of alcohols and phenols increase with increase in the number of C-atoms. Statement (II) : The boiling points of alcohols and phenols are higher in comparison to other class of compounds such as ethers, haloalkanes. In the light of the above statements, choose the correct answer from the options given below :
+\begin{choices}
+  \choice Both Statement I and Statement II are false
+  \choice Both Statement I and Statement II are true
+  \choice Statement I is false but Statement II is true
+  \choice Statement I is true but Statement II is false
+\end{choices}
+
+\question
+The coordination geometry around the manganese in decacarbonyldimanganese 0
+\begin{choices}
+  \choice Octahedral
+  \choice Trigonal bipyramidal
+  \choice Square pyramidal
+  \choice Square planar
+\end{choices}
+
+\question
+Integrated rate law equation for a first order gas phase reaction is given by (where $P$ $i$ is initial pressure and $P$ t is total pressure at time t )
+\begin{choices}
+  \choice $k$= 2.303 t $\times$ log $P$ $i$ 2$P$ $i$ - $P$ t
+  \choice $k$= 2.303 t $\times$ log 2$P$ $i$ 2$P$ $i$ - $P$ t
+  \choice $k$= 2.303 t $\times$ log 2$P$ $i$ - $P$ t $P$ $i$
+  \choice $k$= 2.303 t $\times$ $P$ $i$ 2$P$ $i$ - $P$ t
+\end{choices}
+
+\question
+Which of the following material is not a semiconductor.
+\begin{choices}
+  \choice Silicon
+  \choice Copper oxide
+  \choice Germanium
+  \choice Graphite
+\end{choices}
+
+\question
+A conductivity cell with two electrodes (dark side) are half filled with infinitely dilute aqueous solution of a weak electrolyte. If volume is doubled by adding more water at constant temperature, the molar conductivity of the cell will -
+\begin{choices}
+  \choice decrease sharply
+  \choice increase sharply
+  \choice remain same or can not be measured accurately
+  \choice depend upon type of electrolyte
+\end{choices}
+
+\question
+Given below are two statements : Statement (I) : Aqueous solution of ammonium carbonate is basic. Statement (II) : Acidic/basic nature of salt solution of a salt of weak acid and weak base depends on and value of acid and the base forming it. In the light of the above statements, choose the most appropriate answer from the options given below :
+\begin{choices}
+  \choice Both Statement I and Statement II are correct
+  \choice Statement I is correct but Statement II is incorrect
+  \choice Both Statement I and Statement II are incorrect
+  \choice Statement I is incorrect but Statement II is correct
+\end{choices}
+
+\question
+Number of and bonds present in ethylene molecule is respectively :
+\begin{choices}
+  \choice 4 and 1
+  \choice 5 and 2
+  \choice 3 and 1
+  \choice 5 and 1
+\end{choices}
+
+\question
+Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A): reaction of occurs more readily than the reaction of . Reason (R) : The partially bonded unhybridized p-orbital that develops in the trigonal bipyramidal transition state is stabilized by conjugation with the phenyl ring. In the light of the above statements, choose the most appropriate answer from the options given below :
+\begin{choices}
+  \choice (A) is correct but (R) is not correct
+  \choice (A) is not correct but (R) is correct
+  \choice Both (A) and (R) are correct but (R) is not the correct explanation of (A)
+  \choice Both (A) and (R) are correct and (R) is the correct explanation of
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{50}
+\question
+If the above equation is balanced with integer coefficients, the value of is \_\_\_\_\_\_\_\_.
+
+\question
+Number of compounds from the following with zero dipole moment is \_\_\_\_\_\_
+
+\question
+0.01 mole of an organic compound containing hydrogen, on complete combustion produced . Molar mass of is \_\_\_\_\_ .
+
+\question
+The number of halobenzenes from the following that can be prepared by Sandmeyer's reaction is \_\_\_\_\_\_\_
+
+\question
+A star has helium composition. It starts to convert three into one via triple alpha process as . The mass of the star is and it generates energy at the rate of . The rate of converting these to is , where is \_\_\_\_\_\_\_\_\_ [ Take, mass of , mass of ]
+
+\question
+An ideal gas, , is expanded adiabatically against a constant pressure of 1 atm untill it doubles in volume. If the initial temperature and pressure is and , respectively then the final temperature is \_\_\_\_\_\_\_ (nearest integer). [ is the molar heat capacity at constant volume]
+
+\question
+Time required for completion of 99.9\% of first order reaction is \_\_\_\_\_\_\_\_ times of half life (t 1 / 2 ) of the reaction
+
+\question
+The complex of ion and dimethyl glyoxime contains \_\_\_\_\_\_\_\_ number of Hydrogen atoms. 2025 (22 Jan Shift 2)
+
+\question
+The molecular formula of second homologue in the homologous series of mono carboxylic acids is \_\_\_\_\_\_\_\_\_.
+
+\question
+The maximum number of orbitals which can be identified with and is \_\_\_\_\_\_
+
+\end{questions}
+
+
+\sectiontitle{Mathematics}
+
+\subsection*{Section A: Multiple Choice Questions (MCQ)}
+\begin{questions}
+\setcounter{question}{60}
+\question
+Let $\rightarrow$ $a$= 3 ^ $i$+ ^ $j$-2 ^ $k$, $\rightarrow$ $b$= 4 ^ $i$+ ^ $j$+ 7 ^ $k$ and $\rightarrow$ $c$= ^ $i$-3 ^ $j$+ 4 ^ $k$ be three vectors. If a vectors $\rightarrow$ $p$ satisfies $\rightarrow$ $p$$\times$ $\rightarrow$ $b$= $\rightarrow$ $c$$\times$ $\rightarrow$ $b$ and $\rightarrow$ $p$⋅ $\rightarrow$ $a$= 0 , then $\rightarrow$ $p$⋅ ^ $i$- ^ $j$- ^ $k$ is equal to
+\begin{choices}
+  \choice 24
+  \choice 36
+  \choice 28
+  \choice 32
+\end{choices}
+
+\question
+The number of solutions of the equation 4sin 2 $x$-4cos 3 $x$+ 9 -4cos$x$= 0; $x$∈-2$\pi$, 2$\pi$ is:
+\begin{choices}
+  \choice 1
+  \choice 3
+  \choice 2
+  \choice 0
+\end{choices}
+
+\question
+Let $A$( $\alpha$, 0 ) and $B$( 0, $\beta$) be the points on the line 5$x$+ 7$y$= 50 . Let the point $P$ divide the line segment $A$$B$ internally in the ratio 7: 3 . Let 3$x$- 25 = 0 be a directrix of the ellipse $E$: $x$ 2 $a$ 2 + $y$ 2 $b$ 2 = 1 and the corresponding focus be $S$ . If from $S$ , the perpendicular on the $x$- axis passes through $P$ , then the length of the latus rectum of $E$ is equal to
+\begin{choices}
+  \choice 25/3
+  \choice 32/9
+  \choice 25/9
+  \choice 32/5
+\end{choices}
+
+\question
+Let for some function and . Then is equal to
+\begin{choices}
+  \choice 1
+  \choice 3
+  \choice 6
+  \choice 2
+\end{choices}
+
+\question
+Let $C$: $x$ 2 + $y$ 2 = 4 and $C$ ' : $x$ 2 + $y$ 2 -4$\lambda$$x$+ 9 = 0 be two circles. If the set of all values of $\lambda$ so that the circles $C$ and $C$' intersect at two distinct points, is R-$a$, $b$ , then the point 8$a$+ 12, 16$b$-20 lies on the curve:
+\begin{choices}
+  \choice $x$ 2 + 2$y$ 2 -5$x$+ 6$y$= 3
+  \choice 5$x$ 2 -$y$= -11
+  \choice $x$ 2 -4$y$ 2 = 7
+  \choice 6$x$ 2 + $y$ 2 = 42
+\end{choices}
+
+\question
+Let be ten observations such that , and their variance is . If and are respectively the mean and the variance of , , then is equal to :
+\begin{choices}
+  \choice 100
+  \choice 120
+  \choice 110
+  \choice 90
+\end{choices}
+
+\question
+If the domain of the function is and the domain of the function is , then is equal to :
+\begin{choices}
+  \choice 195
+  \choice 179
+  \choice 186
+  \choice 174
+\end{choices}
+
+\question
+Two marbles are drawn in succession from a box containing 10 red, 30 white, 20 blue and 15 orange marbles, with replacement being made after each drawing. Then the probability, that first drawn marble is red and second drawn marble is white, is
+\begin{choices}
+  \choice 2/25
+  \choice 4/25
+  \choice 2/3
+  \choice 4/75
+\end{choices}
+
+\question
+Let , be an infinite G.P. If and , then is equal to
+\begin{choices}
+  \choice 46
+  \choice 38
+  \choice 31
+  \choice 27
+\end{choices}
+
+\question
+Let three vectors form a triangle such that and the area of the triangle is . If is a positive real number, then is equal to:
+\begin{choices}
+  \choice 16
+  \choice 14
+  \choice 12
+  \choice 10
+\end{choices}
+
+\question
+Let and . If is the matrix of cofactors of the elements of , then is equal to :
+\begin{choices}
+  \choice 64
+  \choice 216
+  \choice 343
+  \choice 125
+\end{choices}
+
+\question
+Let , where is the constant of integration. Then is equal to :
+\begin{choices}
+  \choice 7
+  \choice 4
+  \choice 1
+  \choice 3
+\end{choices}
+
+\question
+The solution curve of the differential equation $y$ $d$$x$ $d$$y$ = $x$log $e$ $x$- log $e$ $y$+ 1, $x$> 0, $y$> 0 passing through the point ( $e$, 1 ) is
+\begin{choices}
+  \choice log $e$ $y$ $x$ = $x$
+  \choice log $e$ $y$ $x$ = $y$ 2
+  \choice log $e$ $x$ $y$ = $y$
+  \choice 2log $e$ $x$ $y$ = $y$+ 1
+\end{choices}
+
+\question
+Let . Define a relation on as : Statement I : is an equivalence relation. Statement II : For some , the set represents a line parallel to . In the light of the above statements, choose the correct answer from the options given below :
+\begin{choices}
+  \choice Both Statement I and Statement II are false
+  \choice Statement I is true but Statement II is false
+  \choice Both Statement I and Statement II are true
+  \choice Statement I is false but Statement II is true
+\end{choices}
+
+\question
+If the value of is , where are natural numbers and , then is equal to :
+\begin{choices}
+  \choice 40
+  \choice 52
+  \choice 50
+  \choice 54
+\end{choices}
+
+\question
+Let $y$= $f$( $x$) be a thrice differentiable function in ( - 5, 5 ) . Let the tangents to the curve $y$= $f$( $x$) at ( 1, f ( 1 ) ) and ( 3, f ( 3 ) ) make angles $\pi$ 6 and $\pi$ 4 , respectively with positive x -axis. If 27 $\int$ 1 3 $f$ ' t 2 + 1$f$ " t$d$t= $\alpha$+ $\beta$$\sqrt{}$3 where $\alpha$, $\beta$ are integers, then the value of $\alpha$+ $\beta$ equals
+\begin{choices}
+  \choice -14
+  \choice 26
+  \choice -16
+  \choice 36
+\end{choices}
+
+\question
+If is a square matrix of order 3 such that and , then is equal to :
+\begin{choices}
+  \choice 2
+  \choice 3
+  \choice 6
+  \choice 4
+\end{choices}
+
+\question
+Let be matrix such that and , then equals :
+\begin{choices}
+  \choice -1
+  \choice 2
+  \choice 1
+  \choice 0
+\end{choices}
+
+\question
+Let and be three vectors such that . If , then is equal to:
+\begin{choices}
+  \choice 15
+  \choice 12
+  \choice 10
+  \choice 5
+\end{choices}
+
+\question
+Let M and m respectively be the maximum and the minimum values of Then is equal to :
+\begin{choices}
+  \choice 1280
+  \choice 1295
+  \choice 1215
+  \choice 1040
+\end{choices}
+
+\end{questions}
+
+\subsection*{Section B: Integer Type Questions}
+\begin{questions}
+\setcounter{question}{80}
+\question
+If , where denotes the greatest integer function, then is equal to \_\_\_\_\_\_\_.
+
+\question
+120 $\pi$ 3 $\pi$ $\int$ 0 $x$ 2 sin$x$cos$x$ sin(4) $x$+ cos(4) $x$ $d$$x$ is equal to ______.
+
+\question
+The square of the distance of the image of the point in the line , from the origin is \_\_\_\_\_\_\_\_\_
+
+\question
+The sum of the square of the modulus of the elements in the set is \_\_\_\_\_\_\_\_
+
+\question
+If the orthocentre of the triangle formed by the lines and , is the centroid of another triangle, whose circumcentre and orthocentre respectively are and , then the value of is\_\_\_\_\_\_\_
+
+\question
+If the coefficient of $x$ 30 in the expansion of 1 + 1 $x$ 6 1 + $x$ 27 1 -$x$ 38 ; $x$$\neq$0 is $\alpha$ , then $\alpha$ equals _________.
+
+\question
+Let be a triangle of area and the vectors and . Then the square of the length of the largest side of the triangle is \_\_\_\_\_\_\_
+
+\question
+In a triangle and . If , where , then is equal to\_\_\_\_\_\_\_\_
+
+\question
+If , where and are rational numbers, then is equal to \_\_\_\_\_.
+
+\question
+If then is equal to \_\_\_\_\_\_\_\_.
+
+\end{questions}
+
+
+\newpage
+\sectiontitle{Answer Key}
+
+
+\textbf{Physics}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q1 & Q2 & Q3 & Q4 & Q5 & Q6 & Q7 & Q8 & Q9 & Q10 \\\hline
+(2) & (3) & (1) & (4) & (2) & (3) & (3) & (1) & (2) & (4) \\\hline
+Q11 & Q12 & Q13 & Q14 & Q15 & Q16 & Q17 & Q18 & Q19 & Q20 \\\hline
+(4) & (3) & (3) & (3) & (3) & (2) & (2) & (2) & (3) & (4) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q21 & Q22 & Q23 & Q24 & Q25 & Q26 & Q27 & Q28 & Q29 & Q30 \\\hline
+10 & 58 & 1 & 177 & 3 & 208 & 8 & 8 & 8 & 8 \\\hline
+\end{tabular}\\[1em]
+
+
+\textbf{Chemistry}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q31 & Q32 & Q33 & Q34 & Q35 & Q36 & Q37 & Q38 & Q39 & Q40 \\\hline
+(3) & (2) & (1) & (2) & (3) & (1) & (3) & (2) & (1) & (2) \\\hline
+Q41 & Q42 & Q43 & Q44 & Q45 & Q46 & Q47 & Q48 & Q49 & Q50 \\\hline
+(1) & (4) & (2) & (1) & (1) & (4) & (3) & (1) & (4) & (4) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q51 & Q52 & Q53 & Q54 & Q55 & Q56 & Q57 & Q58 & Q59 & Q60 \\\hline
+8 & 6 & 100 & 2 & 15 & 274 & 10 & 14 & 2 & 4 \\\hline
+\end{tabular}\\[1em]
+
+
+\textbf{Mathematics}\\[0.5em]
+\textit{Section A (MCQ):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q61 & Q62 & Q63 & Q64 & Q65 & Q66 & Q67 & Q68 & Q69 & Q70 \\\hline
+(4) & (4) & (4) & (1) & (4) & (1) & (3) & (4) & (3) & (2) \\\hline
+Q71 & Q72 & Q73 & Q74 & Q75 & Q76 & Q77 & Q78 & Q79 & Q80 \\\hline
+(2) & (2) & (3) & (2) & (2) & (2) & (4) & (1) & (4) & (1) \\\hline
+\end{tabular}\\[0.8em]
+\textit{Section B (Integer):}\\[0.3em]
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Q81 & Q82 & Q83 & Q84 & Q85 & Q86 & Q87 & Q88 & Q89 & Q90 \\\hline
+12 & 15 & 62 & 9 & 16 & 678 & 54 & 39 & 6 & 1 \\\hline
+\end{tabular}\\[1em]
+
+
+\end{document}
